@@ -18,7 +18,7 @@ fund_column_max					:= 13	; e.g. Expenditure/Reveneu
 ;1/SCENARIO_ID	2/SCENARIO_NAME	3/DEPT	4/PROJ_ORDER	5/REFNUM	6/ALAP	7/PROJ_TITLE	8/PROJ_CAT		9/PROJ_TYPE		10/UGF_AMOUNT		11/DGF_AMOUNT		12/O_AMOUNT		13/F_AMOUNT	14/PROJ_TOTAL
 
 
-FileSelectFile, sankey_csv_source,, % A_ScriptDir "\abs exports\", From ABS "Export Project Summary (UGF/DGF/Other/Fed) (1328)",*.txt
+sankey_csv_source := A_Args[1]
 FileRead, sankey_csv_ramfile, % sankey_csv_source
 
 CSV_Load(sankey_csv_ramfile,"sankey_csv_identifier", A_TAB)
@@ -59,6 +59,6 @@ loop
 	current_row++
 }
 
-FileAppend, % new_data, % A_ScriptDir "\abs exports\capital_fund_category_conditioned_" A_Now ".txt"
+FileAppend, % new_data, % A_Args[2]
    
 ExitApp

@@ -20,7 +20,7 @@ fund_column_max					:= 85	; e.g. Expenditure/Reveneu
 
 rn := "`r`n"
 
-FileSelectFile, sankey_csv_source,, % A_ScriptDir "\abs exports\",From ABS "Export Project Information (Appropriations with Allocations) (272)",*.txt
+sankey_csv_source := A_Args[1]
 FileRead, sankey_csv_ramfile, % sankey_csv_source
 
 CSV_Load(sankey_csv_ramfile,"sankey_csv_identifier", A_TAB)
@@ -87,6 +87,6 @@ loop
 	current_row++
 }
 
-FileAppend, % new_data, % A_ScriptDir "\abs exports\capital_conditioned_" A_Now ".txt"
+FileAppend, % new_data, % A_Args[2]
    
 ExitApp

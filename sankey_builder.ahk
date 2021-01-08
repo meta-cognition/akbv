@@ -90,13 +90,15 @@ save_csv_files 			:= false	; set to true for troubleshooting, set to false for s
 
 FileSelectFile, sankey_csv_source,, % A_ScriptDir "\abs exports\", Please Select an Operating File`, From ABS "Export Component Detail (1512)",*.txt
 
-FileSelectFile, sankey_csv_source,, % A_ScriptDir "\abs exports\", From ABS "Export Project Summary (UGF/DGF/Other/Fed) (1328)",*.txt
-;FileSelectFile, sankey_csv_source_capital_category,, % A_ScriptDir "\abs exports\", Please Select a Conditioned Fund Category Capital File,*.txt
-;start interpreter\autohotkey .\sankey_builder.ahk
+FileSelectFile, input_file_1,, % A_ScriptDir "\abs exports\", From ABS "Export Project Summary (UGF/DGF/Other/Fed) (1328)",*.txt
+output_file_1 := A_ScriptDir "\abs exports\capital_fund_category_conditioned_" A_Now ".txt"
+cmd := "interpreter\autohotkey .\capital_etl_statewide_fund_category.ahk """ input_file_1 """ """ output_file_1 """"
+sankey_csv_source_capital_category := output_file_1
 
-FileSelectFile, sankey_csv_source,, % A_ScriptDir "\abs exports\",From ABS "Export Project Information (Appropriations with Allocations) (272)",*.txt
-;FileSelectFile, sankey_csv_source_capital_statewide,, % A_ScriptDir "\abs exports\", Please Select a Conditioned Statewide Capital File,*.txt
-;start interpreter\autohotkey .\sankey_builder.ahk
+FileSelectFile, input_file_2,, % A_ScriptDir "\abs exports\",From ABS "Export Project Information (Appropriations with Allocations) (272)",*.txt
+output_file_2 := A_ScriptDir "\abs exports\capital_conditioned_" A_Now ".txt"
+cmd := "interpreter\autohotkey .\capital_etl_by_department.ahk """ input_file_2 """ """ output_file_2 """"
+sankey_csv_source_capital_statewide := output_file_2
 
 StartTime := A_TickCount
 
