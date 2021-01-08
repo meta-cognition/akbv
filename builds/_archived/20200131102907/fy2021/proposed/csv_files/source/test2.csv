@@ -1,0 +1,656 @@
+﻿REPORT_SORT, DEPT_NUM, DEPT_SORT, DEPT_NAME, RDU_NUM, RDU_SORT, 7 RDU_NAME, COMP_NUM, COMP_SORT, 10 COMP_NAME, 11 REPORT_LINE, 12 LINE_TYPE, FUND_CODE, 14 FUND_GROUP, 15 DUPLICATED_INDICATOR, 16 SCEN1_AMOUNT,SCEN2_AMOUNT,SCEN3_AMOUNT,SCEN4_AMOUNT,SCEN5_AMOUNT,SCEN6_AMOUNT,SCEN7_AMOUNT,SCEN8_AMOUNT,SCEN9_AMOUNT,SCEN10_AMOUNT
+1,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Line 71000,Expenditure,0,,,1370.4,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Line 72000,Expenditure,0,,,65.6,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Line 73000,Expenditure,0,,,313.3,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Line 74000,Expenditure,0,,,8.8,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,1004 General Fund Receipts,Revenue,1004,UGF,,707.2,0,0,0,0,0,0,0,0,0
+1026,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other,Duplicated,67.4,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,1027 International Airport Revenue Fund,Revenue,1027,Other,,152,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,526,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,1076 Marine Highway System Fund,Revenue,1076,DGF,,257.3,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,1244 Rural Airport Receipts,Revenue,1244,Other,,48.2,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,PFT,Position Count,0,,,8,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,NP,Position Count,0,,,1,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Line 71000,Expenditure,0,,,343.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Line 72000,Expenditure,0,,,3.1,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Line 73000,Expenditure,0,,,16.8,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Line 74000,Expenditure,0,,,2,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,1004 General Fund Receipts,Revenue,1004,UGF,,34.2,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,7,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,312.8,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,1076 Marine Highway System Fund,Revenue,1076,DGF,,11,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,PFT,Position Count,0,,,2,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Line 71000,Expenditure,0,,,962.7,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Line 72000,Expenditure,0,,,31,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Line 73000,Expenditure,0,,,174.5,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Line 74000,Expenditure,0,,,18.9,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,1004 General Fund Receipts,Revenue,1004,UGF,,261,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,901.1,0,0,0,0,0,0,0,0,0
+1108,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,1108 Statutory Designated Program Receipts,Revenue,1108,Other,,25,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,PFT,Position Count,0,,,9,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Line 71000,Expenditure,0,,,730.7,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Line 72000,Expenditure,0,,,3.3,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Line 73000,Expenditure,0,,,69.9,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Line 74000,Expenditure,0,,,12.1,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,1027 International Airport Revenue Fund,Revenue,1027,Other,,108.9,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,707.1,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,PFT,Position Count,0,,,5,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Line 71000,Expenditure,0,,,6416.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Line 72000,Expenditure,0,,,28,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Line 73000,Expenditure,0,,,2533.3,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Line 74000,Expenditure,0,,,58.6,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1004 General Fund Receipts,Revenue,1004,UGF,,812.5,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1005 General Fund/Program Receipts,Revenue,1005,DGF,,0,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,333.6,0,0,0,0,0,0,0,0,0
+1026,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other,Duplicated,609.6,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1027 International Airport Revenue Fund,Revenue,1027,Other,,496.9,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,6105.3,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1076 Marine Highway System Fund,Revenue,1076,DGF,,652,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1244 Rural Airport Receipts,Revenue,1244,Other,,26.1,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,PFT,Position Count,0,,,57,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Line 71000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Line 72000,Expenditure,0,,,10.2,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Line 73000,Expenditure,0,,,3743.5,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Line 74000,Expenditure,0,,,127.9,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,1004 General Fund Receipts,Revenue,1004,UGF,,940.5,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,1005 General Fund/Program Receipts,Revenue,1005,DGF,,0,0,0,0,0,0,0,0,0,0
+1026,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other,Duplicated,83.3,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,1027 International Airport Revenue Fund,Revenue,1027,Other,,253.2,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,2163.1,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,1076 Marine Highway System Fund,Revenue,1076,DGF,,441.5,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,PFT,Position Count,0,,,0,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,NP,Position Count,0,,,0,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Line 71000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Line 72000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Line 73000,Expenditure,0,,,2937.5,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Line 74000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,2937.5,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Line 71000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Line 72000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Line 73000,Expenditure,0,,,2366.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Line 74000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,1004 General Fund Receipts,Revenue,1004,UGF,,531,0,0,0,0,0,0,0,0,0
+1026,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other,Duplicated,92.7,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,1027 International Airport Revenue Fund,Revenue,1027,Other,,206.7,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,1265.3,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,1076 Marine Highway System Fund,Revenue,1076,DGF,,270.7,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Line 71000,Expenditure,0,,,2400.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Line 72000,Expenditure,0,,,3.5,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Line 73000,Expenditure,0,,,67.5,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Line 74000,Expenditure,0,,,6,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,1004 General Fund Receipts,Revenue,1004,UGF,,608.6,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,304.1,0,0,0,0,0,0,0,0,0
+1026,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other,Duplicated,73.5,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,1027 International Airport Revenue Fund,Revenue,1027,Other,,411.6,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,655.8,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,1076 Marine Highway System Fund,Revenue,1076,DGF,,423.5,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,PFT,Position Count,0,,,22,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Line 71000,Expenditure,0,,,1266.4,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Line 72000,Expenditure,0,,,8.5,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Line 73000,Expenditure,0,,,57.2,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Line 74000,Expenditure,0,,,15,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Line 75000,Expenditure,0,,,1.5,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,1004 General Fund Receipts,Revenue,1004,UGF,,270.2,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,1027 International Airport Revenue Fund,Revenue,1027,Other,,0,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,1078.4,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,PFT,Position Count,0,,,9,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Line 71000,Expenditure,0,,,1090.2,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Line 72000,Expenditure,0,,,6.1,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Line 73000,Expenditure,0,,,171.2,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Line 74000,Expenditure,0,,,21.2,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,1004 General Fund Receipts,Revenue,1004,UGF,,480.6,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,1027 International Airport Revenue Fund,Revenue,1027,Other,,97.1,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,711,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,PFT,Position Count,0,,,10,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,PPT,Position Count,0,,,0,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Line 71000,Expenditure,0,,,3001.6,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Line 72000,Expenditure,0,,,36.2,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Line 73000,Expenditure,0,,,161.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Line 74000,Expenditure,0,,,38.1,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,1004 General Fund Receipts,Revenue,1004,UGF,,1005.7,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,0,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,2186,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,1076 Marine Highway System Fund,Revenue,1076,DGF,,45.3,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,PFT,Position Count,0,,,26,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Line 71000,Expenditure,0,,,3901,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Line 72000,Expenditure,0,,,159.1,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Line 73000,Expenditure,0,,,463.6,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Line 74000,Expenditure,0,,,39.3,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,1004 General Fund Receipts,Revenue,1004,UGF,,114.1,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,1005 General Fund/Program Receipts,Revenue,1005,DGF,,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,1027 International Airport Revenue Fund,Revenue,1027,Other,,12.9,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,325.6,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,1244 Rural Airport Receipts,Revenue,1244,Other,,3849.7,0,0,0,0,0,0,0,0,0
+1245,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,1245 Rural Airport Receipts I/A,Revenue,1245,Other,Duplicated,260.7,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,PFT,Position Count,0,,,31,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Line 71000,Expenditure,0,,,7832,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Line 72000,Expenditure,0,,,64.4,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Line 73000,Expenditure,0,,,340.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Line 74000,Expenditure,0,,,80.8,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Line 75000,Expenditure,0,,,1.5,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,1004 General Fund Receipts,Revenue,1004,UGF,,266.3,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,1027 International Airport Revenue Fund,Revenue,1027,Other,,28.9,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,7335.6,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,1244 Rural Airport Receipts,Revenue,1244,Other,,688,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,PFT,Position Count,0,,,59,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,NP,Position Count,0,,,6,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Line 71000,Expenditure,0,,,5881.7,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Line 72000,Expenditure,0,,,158.6,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Line 73000,Expenditure,0,,,729.2,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Line 74000,Expenditure,0,,,87.5,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Line 75000,Expenditure,0,,,39.4,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,1004 General Fund Receipts,Revenue,1004,UGF,,1089.8,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,1005 General Fund/Program Receipts,Revenue,1005,DGF,,3069.7,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,15,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,2065.3,0,0,0,0,0,0,0,0,0
+1215,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,1215 Uniform Commercial Registration fees,Revenue,1215,Other,,656.6,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,PFT,Position Count,0,,,60,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,Line 71000,Expenditure,0,,,14907.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,Line 72000,Expenditure,0,,,31,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,Line 73000,Expenditure,0,,,1184,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,Line 74000,Expenditure,0,,,290.4,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,1004 General Fund Receipts,Revenue,1004,UGF,,922.3,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,17,0,0,0,0,0,0,0,0,0
+1026,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other,Duplicated,67.4,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,1027 International Airport Revenue Fund,Revenue,1027,Other,,106.8,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,14984.6,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,1076 Marine Highway System Fund,Revenue,1076,DGF,,314.4,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,PFT,Position Count,0,,,101,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,PPT,Position Count,0,,,1,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,526,7,"Design, Engineering and Constru",2357,2,SW Design & Engineering Svcs,NP,Position Count,0,,,10,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,Line 71000,Expenditure,0,,,23182.9,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,Line 72000,Expenditure,0,,,22.4,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,Line 73000,Expenditure,0,,,609.6,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,Line 74000,Expenditure,0,,,159.9,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,Line 75000,Expenditure,0,,,5,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,1004 General Fund Receipts,Revenue,1004,UGF,,106.8,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,1005 General Fund/Program Receipts,Revenue,1005,DGF,,572.3,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,39.7,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,23261,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,PFT,Position Count,0,,,166,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,PPT,Position Count,0,,,15,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,526,7,"Design, Engineering and Constru",2298,4,Central Design & Eng Svcs,NP,Position Count,0,,,7,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,Line 71000,Expenditure,0,,,17063.4,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,Line 72000,Expenditure,0,,,8.7,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,Line 73000,Expenditure,0,,,482.6,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,Line 74000,Expenditure,0,,,104.2,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,1004 General Fund Receipts,Revenue,1004,UGF,,124.3,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,1005 General Fund/Program Receipts,Revenue,1005,DGF,,135.5,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,164.6,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,17204.7,0,0,0,0,0,0,0,0,0
+1232,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,1232 In-state Pipeline Fund Interagency,Revenue,1232,Other,Duplicated,29.8,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,PFT,Position Count,0,,,109,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,PPT,Position Count,0,,,12,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,526,7,"Design, Engineering and Constru",2299,5,Northern Design & Eng Svcs,NP,Position Count,0,,,2,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,Line 71000,Expenditure,0,,,10455.5,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,Line 72000,Expenditure,0,,,40,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,Line 73000,Expenditure,0,,,231.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,Line 74000,Expenditure,0,,,107.4,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,1004 General Fund Receipts,Revenue,1004,UGF,,127.4,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,1005 General Fund/Program Receipts,Revenue,1005,DGF,,206.9,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,0,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,10500,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,PFT,Position Count,0,,,68,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,PPT,Position Count,0,,,5,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,526,7,"Design, Engineering and Constru",2300,6,Southcoast Design & Eng Svcs,NP,Position Count,0,,,3,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,Line 71000,Expenditure,0,,,20837.5,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,Line 72000,Expenditure,0,,,25,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,Line 73000,Expenditure,0,,,921.9,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,Line 74000,Expenditure,0,,,206,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,Line 75000,Expenditure,0,,,126.6,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,1004 General Fund Receipts,Revenue,1004,UGF,,97.7,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,48.6,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,21970.7,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,PFT,Position Count,0,,,114,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,PPT,Position Count,0,,,41,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,526,7,"Design, Engineering and Constru",2293,7,Central Construction & CIP,NP,Position Count,0,,,19,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,526,7,"Design, Engineering and Constru",2295,8,Northern Construction & CIP,Line 71000,Expenditure,0,,,17824.4,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Constru",2295,8,Northern Construction & CIP,Line 72000,Expenditure,0,,,36.7,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Constru",2295,8,Northern Construction & CIP,Line 73000,Expenditure,0,,,253.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Constru",2295,8,Northern Construction & CIP,Line 74000,Expenditure,0,,,133.2,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Constru",2295,8,Northern Construction & CIP,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Constru",2295,8,Northern Construction & CIP,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Constru",2295,8,Northern Construction & CIP,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Constru",2295,8,Northern Construction & CIP,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,526,7,"Design, Engineering and Constru",2295,8,Northern Construction & CIP,1004 General Fund Receipts,Revenue,1004,UGF,,160.2,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Constru",2295,8,Northern Construction & CIP,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,18087.2,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,526,7,"Design, Engineering and Constru",2295,8,Northern Construction & CIP,PFT,Position Count,0,,,90,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,526,7,"Design, Engineering and Constru",2295,8,Northern Construction & CIP,PPT,Position Count,0,,,58,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,526,7,"Design, Engineering and Constru",2295,8,Northern Construction & CIP,NP,Position Count,0,,,5,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,526,7,"Design, Engineering and Constru",2297,9,Southcoast Region Construction,Line 71000,Expenditure,0,,,7005,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Constru",2297,9,Southcoast Region Construction,Line 72000,Expenditure,0,,,74.8,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Constru",2297,9,Southcoast Region Construction,Line 73000,Expenditure,0,,,311.8,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Constru",2297,9,Southcoast Region Construction,Line 74000,Expenditure,0,,,144.4,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Constru",2297,9,Southcoast Region Construction,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Constru",2297,9,Southcoast Region Construction,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Constru",2297,9,Southcoast Region Construction,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Constru",2297,9,Southcoast Region Construction,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,526,7,"Design, Engineering and Constru",2297,9,Southcoast Region Construction,1004 General Fund Receipts,Revenue,1004,UGF,,55.7,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Constru",2297,9,Southcoast Region Construction,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,7480.3,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,526,7,"Design, Engineering and Constru",2297,9,Southcoast Region Construction,PFT,Position Count,0,,,36,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,526,7,"Design, Engineering and Constru",2297,9,Southcoast Region Construction,PPT,Position Count,0,,,15,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Line 71000,Expenditure,0,,,17391.3,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Line 72000,Expenditure,0,,,560,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Line 73000,Expenditure,0,,,2605.2,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Line 74000,Expenditure,0,,,14177.3,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Line 75000,Expenditure,0,,,96.5,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1026,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other,Duplicated,34830.3,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,PFT,Position Count,0,,,158,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,Line 71000,Expenditure,0,,,16955.9,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,Line 72000,Expenditure,0,,,310.2,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,Line 73000,Expenditure,0,,,26660.3,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,Line 74000,Expenditure,0,,,2198.3,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,Line 75000,Expenditure,0,,,94.1,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1002,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,1002 Federal Receipts,Revenue,1002,Fed,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,1004 General Fund Receipts,Revenue,1004,UGF,,109.7,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,1005 General Fund/Program Receipts,Revenue,1005,DGF,,0,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,41816.7,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,4292.4,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,PFT,Position Count,0,,,139,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,PPT,Position Count,0,,,5,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",3195,0,Facilities Services,NP,Position Count,0,,,3,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",566,12,Central Region Facilities,Line 71000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",566,12,Central Region Facilities,Line 72000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",566,12,Central Region Facilities,Line 73000,Expenditure,0,,,8337.2,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",566,12,Central Region Facilities,Line 74000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",566,12,Central Region Facilities,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",566,12,Central Region Facilities,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",566,12,Central Region Facilities,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",566,12,Central Region Facilities,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",566,12,Central Region Facilities,1004 General Fund Receipts,Revenue,1004,UGF,,6988.8,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",566,12,Central Region Facilities,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,649.9,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",566,12,Central Region Facilities,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,685.8,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",566,12,Central Region Facilities,1244 Rural Airport Receipts,Revenue,1244,Other,,12.7,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2069,13,Northern Region Facilities,Line 71000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2069,13,Northern Region Facilities,Line 72000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2069,13,Northern Region Facilities,Line 73000,Expenditure,0,,,10889.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2069,13,Northern Region Facilities,Line 74000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2069,13,Northern Region Facilities,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2069,13,Northern Region Facilities,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2069,13,Northern Region Facilities,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2069,13,Northern Region Facilities,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1002,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2069,13,Northern Region Facilities,1002 Federal Receipts,Revenue,1002,Fed,,160.1,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2069,13,Northern Region Facilities,1004 General Fund Receipts,Revenue,1004,UGF,,10427.2,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2069,13,Northern Region Facilities,1005 General Fund/Program Receipts,Revenue,1005,DGF,,136.1,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2069,13,Northern Region Facilities,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,166,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",604,14,Southcoast Region Facilities,Line 71000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",604,14,Southcoast Region Facilities,Line 72000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",604,14,Southcoast Region Facilities,Line 73000,Expenditure,0,,,3320.5,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",604,14,Southcoast Region Facilities,Line 74000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",604,14,Southcoast Region Facilities,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",604,14,Southcoast Region Facilities,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",604,14,Southcoast Region Facilities,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",604,14,Southcoast Region Facilities,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",604,14,Southcoast Region Facilities,1004 General Fund Receipts,Revenue,1004,UGF,,3124.1,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",604,14,Southcoast Region Facilities,1005 General Fund/Program Receipts,Revenue,1005,DGF,,41.4,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",604,14,Southcoast Region Facilities,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,110,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",604,14,Southcoast Region Facilities,1076 Marine Highway System Fund,Revenue,1076,DGF,,45,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",565,15,Traffic Signal Management,Line 71000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",565,15,Traffic Signal Management,Line 72000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",565,15,Traffic Signal Management,Line 73000,Expenditure,0,,,1770.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",565,15,Traffic Signal Management,Line 74000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",565,15,Traffic Signal Management,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",565,15,Traffic Signal Management,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",565,15,Traffic Signal Management,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",565,15,Traffic Signal Management,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",565,15,Traffic Signal Management,1004 General Fund Receipts,Revenue,1004,UGF,,1759.3,0,0,0,0,0,0,0,0,0
+1108,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",565,15,Traffic Signal Management,1108 Statutory Designated Program Receipts,Revenue,1108,Other,,11.1,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,Line 71000,Expenditure,0,,,20036.3,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,Line 72000,Expenditure,0,,,90,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,Line 73000,Expenditure,0,,,12958.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,Line 74000,Expenditure,0,,,8770.1,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,Line 75000,Expenditure,0,,,5,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,1004 General Fund Receipts,Revenue,1004,UGF,,19360.6,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,1005 General Fund/Program Receipts,Revenue,1005,DGF,,612.2,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,239.3,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,4193.1,0,0,0,0,0,0,0,0,0
+1108,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,1108 Statutory Designated Program Receipts,Revenue,1108,Other,,140.4,0,0,0,0,0,0,0,0,0
+1200,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,1200 Vehicle Rental Tax Receipts,Revenue,1200,DGF,,4999.2,0,0,0,0,0,0,0,0,0
+1214,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,1214 Whittier Tunnel Toll Receipts,Revenue,1214,Other,,55,0,0,0,0,0,0,0,0,0
+1239,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,1239 Aviation Fuel Tax Revenue,Revenue,1239,Other,,1520.9,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,1244 Rural Airport Receipts,Revenue,1244,Other,,764,0,0,0,0,0,0,0,0,0
+1249,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,1249 Motor Fuel Tax Receipts,Revenue,1249,DGF,,9974.8,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,PFT,Position Count,0,,,162,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,PPT,Position Count,0,,,4,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",564,16,Central Highways and Aviation,NP,Position Count,0,,,14,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,Line 71000,Expenditure,0,,,34289.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,Line 72000,Expenditure,0,,,1300,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,Line 73000,Expenditure,0,,,18948.3,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,Line 74000,Expenditure,0,,,9743.9,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1002,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,1002 Federal Receipts,Revenue,1002,Fed,,122.4,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,1004 General Fund Receipts,Revenue,1004,UGF,,34425.2,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,1005 General Fund/Program Receipts,Revenue,1005,DGF,,404.4,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,158.2,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,1027 International Airport Revenue Fund,Revenue,1027,Other,,52.2,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,7238,0,0,0,0,0,0,0,0,0
+1108,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,1108 Statutory Designated Program Receipts,Revenue,1108,Other,,64.8,0,0,0,0,0,0,0,0,0
+1200,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,1200 Vehicle Rental Tax Receipts,Revenue,1200,DGF,,502.9,0,0,0,0,0,0,0,0,0
+1239,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,1239 Aviation Fuel Tax Revenue,Revenue,1239,Other,,2448.3,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,1244 Rural Airport Receipts,Revenue,1244,Other,,1388.1,0,0,0,0,0,0,0,0,0
+1249,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,1249 Motor Fuel Tax Receipts,Revenue,1249,DGF,,17476.8,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,PFT,Position Count,0,,,250,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,PPT,Position Count,0,,,51,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2068,17,Northern Highways & Aviation,NP,Position Count,0,,,20,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,Line 71000,Expenditure,0,,,10565,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,Line 72000,Expenditure,0,,,130.9,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,Line 73000,Expenditure,0,,,8051.7,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,Line 74000,Expenditure,0,,,4327.2,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1002,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,1002 Federal Receipts,Revenue,1002,Fed,,532.8,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,1004 General Fund Receipts,Revenue,1004,UGF,,11083.5,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,1005 General Fund/Program Receipts,Revenue,1005,DGF,,60,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,1027 International Airport Revenue Fund,Revenue,1027,Other,,1363.4,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,1610.7,0,0,0,0,0,0,0,0,0
+1108,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,1108 Statutory Designated Program Receipts,Revenue,1108,Other,,109.6,0,0,0,0,0,0,0,0,0
+1200,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,1200 Vehicle Rental Tax Receipts,Revenue,1200,DGF,,846.9,0,0,0,0,0,0,0,0,0
+1239,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,1239 Aviation Fuel Tax Revenue,Revenue,1239,Other,,839.9,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,1244 Rural Airport Receipts,Revenue,1244,Other,,461.8,0,0,0,0,0,0,0,0,0
+1249,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,1249 Motor Fuel Tax Receipts,Revenue,1249,DGF,,6166.2,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,PFT,Position Count,0,,,82,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,PPT,Position Count,0,,,7,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",603,18,Southcoast Highways & Aviation,NP,Position Count,0,,,2,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2510,19,Whittier Access and Tunnel,Line 71000,Expenditure,0,,,160.8,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2510,19,Whittier Access and Tunnel,Line 72000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2510,19,Whittier Access and Tunnel,Line 73000,Expenditure,0,,,5625.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2510,19,Whittier Access and Tunnel,Line 74000,Expenditure,0,,,66.8,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2510,19,Whittier Access and Tunnel,Line 75000,Expenditure,0,,,207.5,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2510,19,Whittier Access and Tunnel,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2510,19,Whittier Access and Tunnel,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2510,19,Whittier Access and Tunnel,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2510,19,Whittier Access and Tunnel,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,4331.3,0,0,0,0,0,0,0,0,0
+1214,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2510,19,Whittier Access and Tunnel,1214 Whittier Tunnel Toll Receipts,Revenue,1214,Other,,1729.2,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,408,12,"Highways, Aviation and Faciliti",2510,19,Whittier Access and Tunnel,PFT,Position Count,0,,,1,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Line 71000,Expenditure,0,,,1022.4,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Line 72000,Expenditure,0,,,13.4,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Line 73000,Expenditure,0,,,1227.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Line 74000,Expenditure,0,,,6.6,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,1027 International Airport Revenue Fund,Revenue,1027,Other,,2269.5,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,PFT,Position Count,0,,,9,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Line 71000,Expenditure,0,,,5076.9,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Line 72000,Expenditure,0,,,111.8,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Line 73000,Expenditure,0,,,2866.6,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Line 74000,Expenditure,0,,,254,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,1027 International Airport Revenue Fund,Revenue,1027,Other,,8309.3,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,PFT,Position Count,0,,,39,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Line 71000,Expenditure,0,,,12423.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Line 72000,Expenditure,0,,,27,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Line 73000,Expenditure,0,,,11102.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Line 74000,Expenditure,0,,,1427,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Line 75000,Expenditure,0,,,93,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,1027 International Airport Revenue Fund,Revenue,1027,Other,,25072.2,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,PFT,Position Count,0,,,129,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Line 71000,Expenditure,0,,,9952.6,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Line 72000,Expenditure,0,,,6,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Line 73000,Expenditure,0,,,1094.3,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Line 74000,Expenditure,0,,,7202.1,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Line 75000,Expenditure,0,,,18,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,1027 International Airport Revenue Fund,Revenue,1027,Other,,18273,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,PFT,Position Count,0,,,88,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,PPT,Position Count,0,,,19,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Line 71000,Expenditure,0,,,2422.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Line 72000,Expenditure,0,,,6.3,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Line 73000,Expenditure,0,,,4488.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Line 74000,Expenditure,0,,,81,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Line 75000,Expenditure,0,,,10,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,1027 International Airport Revenue Fund,Revenue,1027,Other,,7007.5,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,PFT,Position Count,0,,,21,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Line 71000,Expenditure,0,,,11159.6,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Line 72000,Expenditure,0,,,275,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Line 73000,Expenditure,0,,,643.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Line 74000,Expenditure,0,,,420.5,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Line 75000,Expenditure,0,,,58,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1002,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,1002 Federal Receipts,Revenue,1002,Fed,,594.6,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,1027 International Airport Revenue Fund,Revenue,1027,Other,,11961.9,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,PFT,Position Count,0,,,81,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Line 71000,Expenditure,0,,,1667.8,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Line 72000,Expenditure,0,,,60.3,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Line 73000,Expenditure,0,,,515.9,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Line 74000,Expenditure,0,,,12.8,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,1027 International Airport Revenue Fund,Revenue,1027,Other,,2168.7,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,88.1,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,PFT,Position Count,0,,,13,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,PPT,Position Count,0,,,0,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Line 71000,Expenditure,0,,,2353.9,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Line 72000,Expenditure,0,,,7.8,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Line 73000,Expenditure,0,,,1945.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Line 74000,Expenditure,0,,,436.4,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,1027 International Airport Revenue Fund,Revenue,1027,Other,,4743.5,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,PFT,Position Count,0,,,22,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Line 71000,Expenditure,0,,,3029.4,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Line 72000,Expenditure,0,,,6.7,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Line 73000,Expenditure,0,,,53.6,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Line 74000,Expenditure,0,,,1509.6,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,1027 International Airport Revenue Fund,Revenue,1027,Other,,4599.3,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,PFT,Position Count,0,,,22,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,PPT,Position Count,0,,,5,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Line 71000,Expenditure,0,,,1005.6,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Line 72000,Expenditure,0,,,9.7,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Line 73000,Expenditure,0,,,104.3,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Line 74000,Expenditure,0,,,29.6,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,1027 International Airport Revenue Fund,Revenue,1027,Other,,1149.2,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,PFT,Position Count,0,,,8,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Line 71000,Expenditure,0,,,4821,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Line 72000,Expenditure,0,,,22.4,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Line 73000,Expenditure,0,,,135.9,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Line 74000,Expenditure,0,,,254.8,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1002,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,1002 Federal Receipts,Revenue,1002,Fed,,213.3,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,1007 Interagency Receipts,Revenue,1007,Other,Duplicated,5,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,1027 International Airport Revenue Fund,Revenue,1027,Other,,5000.8,0,0,0,0,0,0,0,0,0
+1108,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,1108 Statutory Designated Program Receipts,Revenue,1108,Other,,15,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,PFT,Position Count,0,,,33,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,PPT,Position Count,0,,,0,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Line 71000,Expenditure,0,,,60463.9,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Line 72000,Expenditure,0,,,2013.3,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Line 73000,Expenditure,0,,,9347.9,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Line 74000,Expenditure,0,,,2636.6,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,1004 General Fund Receipts,Revenue,1004,UGF,,41887.6,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,1076 Marine Highway System Fund,Revenue,1076,DGF,,28957,0,0,0,0,0,0,0,0,0
+1249,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,1249 Motor Fuel Tax Receipts,Revenue,1249,DGF,,3617.1,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,PFT,Position Count,0,,,598,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,PPT,Position Count,0,,,23,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,NP,Position Count,0,,,45,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Line 71000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Line 72000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Line 73000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Line 74000,Expenditure,0,,,12640.3,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,1004 General Fund Receipts,Revenue,1004,UGF,,7796.3,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,1076 Marine Highway System Fund,Revenue,1076,DGF,,4844,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Line 71000,Expenditure,0,,,1805.8,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Line 72000,Expenditure,0,,,12,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Line 73000,Expenditure,0,,,233.7,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Line 74000,Expenditure,0,,,100,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,1004 General Fund Receipts,Revenue,1004,UGF,,53.1,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,702.8,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,1076 Marine Highway System Fund,Revenue,1076,DGF,,1395.6,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,PFT,Position Count,0,,,13,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,NP,Position Count,0,,,0,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Line 71000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Line 72000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Line 73000,Expenditure,0,,,199.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Line 74000,Expenditure,0,,,130,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,1076 Marine Highway System Fund,Revenue,1076,DGF,,329.4,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Line 71000,Expenditure,0,,,1165.9,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Line 72000,Expenditure,0,,,2.9,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Line 73000,Expenditure,0,,,96.8,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Line 74000,Expenditure,0,,,22.7,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,1004 General Fund Receipts,Revenue,1004,UGF,,56.3,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,1076 Marine Highway System Fund,Revenue,1076,DGF,,1232,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,PFT,Position Count,0,,,11,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Line 71000,Expenditure,0,,,4084.6,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Line 72000,Expenditure,0,,,43.1,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Line 73000,Expenditure,0,,,2207.8,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Line 74000,Expenditure,0,,,98.4,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,1004 General Fund Receipts,Revenue,1004,UGF,,112.1,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,1076 Marine Highway System Fund,Revenue,1076,DGF,,6321.8,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,PFT,Position Count,0,,,30,0,0,0,0,0,0,0,0,0
+11000,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,PPT,Position Count,0,,,20,0,0,0,0,0,0,0,0,0
+12000,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,NP,Position Count,0,,,0,0,0,0,0,0,0,0,0,0
+1,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Line 71000,Expenditure,0,,,3254.6,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Line 72000,Expenditure,0,,,46.9,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Line 73000,Expenditure,0,,,53.8,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Line 74000,Expenditure,0,,,43.8,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Line 75000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Line 76000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Line 77000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Line 78000,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,1061 Capital Improvement Project Receipts,Revenue,1061,Other,Duplicated,146.4,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,1076 Marine Highway System Fund,Revenue,1076,DGF,,3252.7,0,0,0,0,0,0,0,0,0
+10000,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,PFT,Position Count,0,,,28,0,0,0,0,0,0,0,0,0

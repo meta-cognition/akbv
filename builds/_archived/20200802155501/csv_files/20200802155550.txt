@@ -1,0 +1,13 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	1	7	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Personal Services	Expenditure	0			2113.50	0	0	0	0	0	0	0	0	0
+2	1	7	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Travel	Expenditure	0			17.70	0	0	0	0	0	0	0	0	0
+3	1	7	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Contractual Services	Expenditure	0			243.60	0	0	0	0	0	0	0	0	0
+4	1	7	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Commodities	Expenditure	0			70.40	0	0	0	0	0	0	0	0	0
+5	1	7	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Capital Outlay	Expenditure	0			3.00	0	0	0	0	0	0	0	0	0
+6	1	7	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	1	7	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	1	7	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	1	7	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		554.80	0	0	0	0	0	0	0	0	0
+1002	1	7	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	1002 Federal Receipts	Revenue	1002	Federal Funds		229.00	0	0	0	0	0	0	0	0	0
+1004	1	7	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1664.40	0	0	0	0	0	0	0	0	0
+10000	1	7	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Permanent Full-Time	Position Count	0			19.00	0	0	0	0	0	0	0	0	0

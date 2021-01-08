@@ -1,0 +1,656 @@
+REPORT_SORT, DEPT_NUM, DEPT_SORT, DEPT_NAME, RDU_NUM, RDU_SORT, 7 RDU_NAME, COMP_NUM, COMP_SORT, 10 COMP_NAME, 11 REPORT_LINE, 12 LINE_TYPE, FUND_CODE, 14 FUND_GROUP, 15 DUPLICATED_INDICATOR, 16 SCEN1_AMOUNT,SCEN2_AMOUNT,SCEN3_AMOUNT,SCEN4_AMOUNT,SCEN5_AMOUNT,SCEN6_AMOUNT,SCEN7_AMOUNT,SCEN8_AMOUNT,SCEN9_AMOUNT,SCEN10_AMOUNT
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,707.2,0,0,0,0,0,0,0,0,0
+1026,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other Funds,Duplicated,67.4,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,152,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,526,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,257.3,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,1244 Rural Airport Receipts,Revenue,1244,Other Funds,,48.2,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,34.2,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,7,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,312.8,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,11,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,261,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,901.1,0,0,0,0,0,0,0,0,0
+1108,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,1108 Statutory Designated Program Receipts,Revenue,1108,Other Funds,,25,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1027,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,108.9,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,707.1,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,812.5,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1005 General Fund/Program Receipts,Revenue,1005,Designated General Funds,,0,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,333.6,0,0,0,0,0,0,0,0,0
+1026,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other Funds,Duplicated,609.6,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,496.9,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,6105.3,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,652,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,1244 Rural Airport Receipts,Revenue,1244,Other Funds,,26.1,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,940.5,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,1005 General Fund/Program Receipts,Revenue,1005,Designated General Funds,,0,0,0,0,0,0,0,0,0,0
+1026,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other Funds,Duplicated,83.3,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,253.2,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,2163.1,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,441.5,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1061,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,2937.5,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,531,0,0,0,0,0,0,0,0,0
+1026,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other Funds,Duplicated,92.7,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,206.7,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,1265.3,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,270.7,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,608.6,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,304.1,0,0,0,0,0,0,0,0,0
+1026,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other Funds,Duplicated,73.5,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,411.6,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,655.8,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,423.5,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,270.2,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,0,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,1078.4,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,480.6,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,97.1,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,711,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,1005.7,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,0,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,2186,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,45.3,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,114.1,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,1005 General Fund/Program Receipts,Revenue,1005,Designated General Funds,,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,12.9,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,325.6,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,1244 Rural Airport Receipts,Revenue,1244,Other Funds,,3849.7,0,0,0,0,0,0,0,0,0
+1245,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,1245 Rural Airport Receipts I/A,Revenue,1245,Other Funds,Duplicated,260.7,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,266.3,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,28.9,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,7335.6,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,1244 Rural Airport Receipts,Revenue,1244,Other Funds,,688,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,1089.8,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,1005 General Fund/Program Receipts,Revenue,1005,Designated General Funds,,3069.7,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,15,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,2065.3,0,0,0,0,0,0,0,0,0
+1215,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,1215 Uniform Commercial Registration fees,Revenue,1215,Other Funds,,656.6,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,922.3,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,17,0,0,0,0,0,0,0,0,0
+1026,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other Funds,Duplicated,67.4,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,106.8,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,14984.6,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,314.4,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,526,7,"Design, Engineering and Construction",2298,4,Central Design & Eng Svcs,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,106.8,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,526,7,"Design, Engineering and Construction",2298,4,Central Design & Eng Svcs,1005 General Fund/Program Receipts,Revenue,1005,Designated General Funds,,572.3,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,526,7,"Design, Engineering and Construction",2298,4,Central Design & Eng Svcs,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,39.7,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Construction",2298,4,Central Design & Eng Svcs,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,23261,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,526,7,"Design, Engineering and Construction",2299,5,Northern Design & Eng Svcs,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,124.3,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,526,7,"Design, Engineering and Construction",2299,5,Northern Design & Eng Svcs,1005 General Fund/Program Receipts,Revenue,1005,Designated General Funds,,135.5,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,526,7,"Design, Engineering and Construction",2299,5,Northern Design & Eng Svcs,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,164.6,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Construction",2299,5,Northern Design & Eng Svcs,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,17204.7,0,0,0,0,0,0,0,0,0
+1232,25,15,Transportation,526,7,"Design, Engineering and Construction",2299,5,Northern Design & Eng Svcs,1232 In-state Pipeline Fund Interagency,Revenue,1232,Other Funds,Duplicated,29.8,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,526,7,"Design, Engineering and Construction",2300,6,Southcoast Design & Eng Svcs,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,127.4,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,526,7,"Design, Engineering and Construction",2300,6,Southcoast Design & Eng Svcs,1005 General Fund/Program Receipts,Revenue,1005,Designated General Funds,,206.9,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,526,7,"Design, Engineering and Construction",2300,6,Southcoast Design & Eng Svcs,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,0,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Construction",2300,6,Southcoast Design & Eng Svcs,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,10500,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,526,7,"Design, Engineering and Construction",2293,7,Central Construction & CIP,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,97.7,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,526,7,"Design, Engineering and Construction",2293,7,Central Construction & CIP,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,48.6,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Construction",2293,7,Central Construction & CIP,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,21970.7,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,526,7,"Design, Engineering and Construction",2295,8,Northern Construction & CIP,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,160.2,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Construction",2295,8,Northern Construction & CIP,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,18087.2,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,526,7,"Design, Engineering and Construction",2297,9,Southcoast Region Construction,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,55.7,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,526,7,"Design, Engineering and Construction",2297,9,Southcoast Region Construction,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,7480.3,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1026,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,1026 Highways/Equipment Working Capital Fund,Revenue,1026,Other Funds,Duplicated,34830.3,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1002,25,15,Transportation,408,12,"Highways, Aviation and Facilities",3195,0,Facilities Services,1002 Federal Receipts,Revenue,1002,Federal Funds,,0,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,408,12,"Highways, Aviation and Facilities",3195,0,Facilities Services,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,109.7,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,408,12,"Highways, Aviation and Facilities",3195,0,Facilities Services,1005 General Fund/Program Receipts,Revenue,1005,Designated General Funds,,0,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,408,12,"Highways, Aviation and Facilities",3195,0,Facilities Services,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,41816.7,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,408,12,"Highways, Aviation and Facilities",3195,0,Facilities Services,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,4292.4,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,408,12,"Highways, Aviation and Facilities",566,12,Central Region Facilities,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,6988.8,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,408,12,"Highways, Aviation and Facilities",566,12,Central Region Facilities,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,649.9,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,408,12,"Highways, Aviation and Facilities",566,12,Central Region Facilities,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,685.8,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,408,12,"Highways, Aviation and Facilities",566,12,Central Region Facilities,1244 Rural Airport Receipts,Revenue,1244,Other Funds,,12.7,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1002,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2069,13,Northern Region Facilities,1002 Federal Receipts,Revenue,1002,Federal Funds,,160.1,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2069,13,Northern Region Facilities,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,10427.2,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2069,13,Northern Region Facilities,1005 General Fund/Program Receipts,Revenue,1005,Designated General Funds,,136.1,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2069,13,Northern Region Facilities,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,166,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,408,12,"Highways, Aviation and Facilities",604,14,Southcoast Region Facilities,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,3124.1,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,408,12,"Highways, Aviation and Facilities",604,14,Southcoast Region Facilities,1005 General Fund/Program Receipts,Revenue,1005,Designated General Funds,,41.4,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,408,12,"Highways, Aviation and Facilities",604,14,Southcoast Region Facilities,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,110,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,408,12,"Highways, Aviation and Facilities",604,14,Southcoast Region Facilities,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,45,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,408,12,"Highways, Aviation and Facilities",565,15,Traffic Signal Management,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,1759.3,0,0,0,0,0,0,0,0,0
+1108,25,15,Transportation,408,12,"Highways, Aviation and Facilities",565,15,Traffic Signal Management,1108 Statutory Designated Program Receipts,Revenue,1108,Other Funds,,11.1,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,19360.6,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,1005 General Fund/Program Receipts,Revenue,1005,Designated General Funds,,612.2,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,239.3,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,4193.1,0,0,0,0,0,0,0,0,0
+1108,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,1108 Statutory Designated Program Receipts,Revenue,1108,Other Funds,,140.4,0,0,0,0,0,0,0,0,0
+1200,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,1200 Vehicle Rental Tax Receipts,Revenue,1200,Designated General Funds,,4999.2,0,0,0,0,0,0,0,0,0
+1214,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,1214 Whittier Tunnel Toll Receipts,Revenue,1214,Other Funds,,55,0,0,0,0,0,0,0,0,0
+1239,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,1239 Aviation Fuel Tax Revenue,Revenue,1239,Other Funds,,1520.9,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,1244 Rural Airport Receipts,Revenue,1244,Other Funds,,764,0,0,0,0,0,0,0,0,0
+1249,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,1249 Motor Fuel Tax Receipts,Revenue,1249,Designated General Funds,,9974.8,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1002,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,1002 Federal Receipts,Revenue,1002,Federal Funds,,122.4,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,34425.2,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,1005 General Fund/Program Receipts,Revenue,1005,Designated General Funds,,404.4,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,158.2,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,52.2,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,7238,0,0,0,0,0,0,0,0,0
+1108,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,1108 Statutory Designated Program Receipts,Revenue,1108,Other Funds,,64.8,0,0,0,0,0,0,0,0,0
+1200,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,1200 Vehicle Rental Tax Receipts,Revenue,1200,Designated General Funds,,502.9,0,0,0,0,0,0,0,0,0
+1239,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,1239 Aviation Fuel Tax Revenue,Revenue,1239,Other Funds,,2448.3,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,1244 Rural Airport Receipts,Revenue,1244,Other Funds,,1388.1,0,0,0,0,0,0,0,0,0
+1249,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,1249 Motor Fuel Tax Receipts,Revenue,1249,Designated General Funds,,17476.8,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1002,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,1002 Federal Receipts,Revenue,1002,Federal Funds,,532.8,0,0,0,0,0,0,0,0,0
+1004,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,11083.5,0,0,0,0,0,0,0,0,0
+1005,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,1005 General Fund/Program Receipts,Revenue,1005,Designated General Funds,,60,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,1363.4,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,1610.7,0,0,0,0,0,0,0,0,0
+1108,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,1108 Statutory Designated Program Receipts,Revenue,1108,Other Funds,,109.6,0,0,0,0,0,0,0,0,0
+1200,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,1200 Vehicle Rental Tax Receipts,Revenue,1200,Designated General Funds,,846.9,0,0,0,0,0,0,0,0,0
+1239,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,1239 Aviation Fuel Tax Revenue,Revenue,1239,Other Funds,,839.9,0,0,0,0,0,0,0,0,0
+1244,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,1244 Rural Airport Receipts,Revenue,1244,Other Funds,,461.8,0,0,0,0,0,0,0,0,0
+1249,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,1249 Motor Fuel Tax Receipts,Revenue,1249,Designated General Funds,,6166.2,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1061,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2510,19,Whittier Access and Tunnel,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,4331.3,0,0,0,0,0,0,0,0,0
+1214,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2510,19,Whittier Access and Tunnel,1214 Whittier Tunnel Toll Receipts,Revenue,1214,Other Funds,,1729.2,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1027,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,2269.5,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1007,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,8309.3,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1027,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,25072.2,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1027,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,18273,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1027,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,7007.5,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1002,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,1002 Federal Receipts,Revenue,1002,Federal Funds,,594.6,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,11961.9,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1027,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,2168.7,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,88.1,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1007,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,0,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,4743.5,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1027,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,4599.3,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1027,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,1149.2,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1002,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,1002 Federal Receipts,Revenue,1002,Federal Funds,,213.3,0,0,0,0,0,0,0,0,0
+1007,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,1007 Interagency Receipts,Revenue,1007,Other Funds,Duplicated,5,0,0,0,0,0,0,0,0,0
+1027,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,1027 International Airport Revenue Fund,Revenue,1027,Other Funds,,5000.8,0,0,0,0,0,0,0,0,0
+1108,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,1108 Statutory Designated Program Receipts,Revenue,1108,Other Funds,,15,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,41887.6,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,28957,0,0,0,0,0,0,0,0,0
+1249,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,1249 Motor Fuel Tax Receipts,Revenue,1249,Designated General Funds,,3617.1,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,7796.3,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,4844,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,53.1,0,0,0,0,0,0,0,0,0
+1061,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,702.8,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,1395.6,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1076,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,329.4,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,56.3,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,1232,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1004,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,1004 General Fund Receipts,Revenue,1004,Unrestricted General Funds,,112.1,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,6321.8,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1061,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,1061 Capital Improvement Project Receipts,Revenue,1061,Other Funds,Duplicated,146.4,0,0,0,0,0,0,0,0,0
+1076,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,1076 Marine Highway System Fund,Revenue,1076,Designated General Funds,,3252.7,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,

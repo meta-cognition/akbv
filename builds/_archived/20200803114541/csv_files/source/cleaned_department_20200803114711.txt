@@ -1,0 +1,365 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	141	1	Foundation Program	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	141	1	Foundation Program	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	141	1	Foundation Program	Line 73000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	141	1	Foundation Program	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	141	1	Foundation Program	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	141	1	Foundation Program	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	141	1	Foundation Program	Line 77000	Expenditure	0			1234069.40	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	141	1	Foundation Program	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	141	1	Foundation Program	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1183504.20	0	0	0	0	0	0	0	0	0
+1043	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	141	1	Foundation Program	1043 Impact Aid for K-12 Schools	Revenue	1043	Federal Funds		20791.00	0	0	0	0	0	0	0	0	0
+1066	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	141	1	Foundation Program	1066 Public School Trust Fund	Revenue	1066	Other Funds		29774.20	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	144	2	Pupil Transportation	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	144	2	Pupil Transportation	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	144	2	Pupil Transportation	Line 73000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	144	2	Pupil Transportation	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	144	2	Pupil Transportation	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	144	2	Pupil Transportation	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	144	2	Pupil Transportation	Line 77000	Expenditure	0			76997.70	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	144	2	Pupil Transportation	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	144	2	Pupil Transportation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		76997.70	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	3112	3	Additional Foundation Funding	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	3112	3	Additional Foundation Funding	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	3112	3	Additional Foundation Funding	Line 73000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	3112	3	Additional Foundation Funding	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	3112	3	Additional Foundation Funding	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	3112	3	Additional Foundation Funding	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	3112	3	Additional Foundation Funding	Line 77000	Expenditure	0			488.20	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	3112	3	Additional Foundation Funding	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	3112	3	Additional Foundation Funding	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1108	5	4	Educ & Early Devel	645	1	K-12 Aid to School Districts	3112	3	Additional Foundation Funding	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		488.20	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	53	2	K-12 Support	148	3	Residential Schools Program	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	53	2	K-12 Support	148	3	Residential Schools Program	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	53	2	K-12 Support	148	3	Residential Schools Program	Line 73000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	53	2	K-12 Support	148	3	Residential Schools Program	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	53	2	K-12 Support	148	3	Residential Schools Program	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	53	2	K-12 Support	148	3	Residential Schools Program	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	53	2	K-12 Support	148	3	Residential Schools Program	Line 77000	Expenditure	0			8353.40	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	53	2	K-12 Support	148	3	Residential Schools Program	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	53	2	K-12 Support	148	3	Residential Schools Program	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		2088.40	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	53	2	K-12 Support	148	3	Residential Schools Program	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		6265.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	53	2	K-12 Support	150	4	Youth in Detention	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	53	2	K-12 Support	150	4	Youth in Detention	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	53	2	K-12 Support	150	4	Youth in Detention	Line 73000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	53	2	K-12 Support	150	4	Youth in Detention	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	53	2	K-12 Support	150	4	Youth in Detention	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	53	2	K-12 Support	150	4	Youth in Detention	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	53	2	K-12 Support	150	4	Youth in Detention	Line 77000	Expenditure	0			1100.00	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	53	2	K-12 Support	150	4	Youth in Detention	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	53	2	K-12 Support	150	4	Youth in Detention	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		275.00	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	53	2	K-12 Support	150	4	Youth in Detention	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		825.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	53	2	K-12 Support	2735	5	Special Schools	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	53	2	K-12 Support	2735	5	Special Schools	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	53	2	K-12 Support	2735	5	Special Schools	Line 73000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	53	2	K-12 Support	2735	5	Special Schools	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	53	2	K-12 Support	2735	5	Special Schools	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	53	2	K-12 Support	2735	5	Special Schools	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	53	2	K-12 Support	2735	5	Special Schools	Line 77000	Expenditure	0			3537.90	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	53	2	K-12 Support	2735	5	Special Schools	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	53	2	K-12 Support	2735	5	Special Schools	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		884.50	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	53	2	K-12 Support	2735	5	Special Schools	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2653.40	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2736	1	Executive Administration	Line 71000	Expenditure	0			717.20	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2736	1	Executive Administration	Line 72000	Expenditure	0			68.80	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2736	1	Executive Administration	Line 73000	Expenditure	0			56.50	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2736	1	Executive Administration	Line 74000	Expenditure	0			11.30	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2736	1	Executive Administration	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2736	1	Executive Administration	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2736	1	Executive Administration	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2736	1	Executive Administration	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2736	1	Executive Administration	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		207.90	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2736	1	Executive Administration	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		623.50	0	0	0	0	0	0	0	0	0
+1007	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2736	1	Executive Administration	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	22.40	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2736	1	Executive Administration	PFT	Position Count	0			6.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Line 71000	Expenditure	0			1303.40	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Line 73000	Expenditure	0			511.30	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Line 74000	Expenditure	0			15.00	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		242.60	0	0	0	0	0	0	0	0	0
+1002	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	1002 Federal Receipts	Revenue	1002	Federal Funds		145.00	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		727.70	0	0	0	0	0	0	0	0	0
+1007	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	714.40	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	PFT	Position Count	0			12.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2148	3	Information Services	Line 71000	Expenditure	0			352.30	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2148	3	Information Services	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2148	3	Information Services	Line 73000	Expenditure	0			619.00	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2148	3	Information Services	Line 74000	Expenditure	0			51.20	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2148	3	Information Services	Line 75000	Expenditure	0			6.00	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2148	3	Information Services	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2148	3	Information Services	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2148	3	Information Services	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2148	3	Information Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		95.80	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2148	3	Information Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		287.20	0	0	0	0	0	0	0	0	0
+1007	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2148	3	Information Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	645.50	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2148	3	Information Services	PFT	Position Count	0			4.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2737	4	School Finance & Facilities	Line 71000	Expenditure	0			1590.10	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2737	4	School Finance & Facilities	Line 72000	Expenditure	0			72.60	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2737	4	School Finance & Facilities	Line 73000	Expenditure	0			809.60	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2737	4	School Finance & Facilities	Line 74000	Expenditure	0			6.00	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2737	4	School Finance & Facilities	Line 75000	Expenditure	0			6.00	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2737	4	School Finance & Facilities	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2737	4	School Finance & Facilities	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2737	4	School Finance & Facilities	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2737	4	School Finance & Facilities	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		389.00	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2737	4	School Finance & Facilities	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1166.80	0	0	0	0	0	0	0	0	0
+1007	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2737	4	School Finance & Facilities	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	928.50	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2737	4	School Finance & Facilities	PFT	Position Count	0			11.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	Line 71000	Expenditure	0			1167.00	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	Line 72000	Expenditure	0			60.00	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	Line 73000	Expenditure	0			4500.40	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	Line 74000	Expenditure	0			30.00	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	Line 77000	Expenditure	0			71333.30	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		22.30	0	0	0	0	0	0	0	0	0
+1002	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	1002 Federal Receipts	Revenue	1002	Federal Funds		76511.00	0	0	0	0	0	0	0	0	0
+1003	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		55.90	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		11.10	0	0	0	0	0	0	0	0	0
+1014	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	1014 Donated Commodity/Handling Fee Account	Revenue	1014	Federal Funds		490.40	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1955	5	Child Nutrition	PFT	Position Count	0			10.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	Line 71000	Expenditure	0			5282.00	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	Line 72000	Expenditure	0			403.60	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	Line 73000	Expenditure	0			11961.80	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	Line 74000	Expenditure	0			307.80	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	Line 75000	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	Line 77000	Expenditure	0			134292.60	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1269.90	0	0	0	0	0	0	0	0	0
+1002	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	1002 Federal Receipts	Revenue	1002	Federal Funds		144994.50	0	0	0	0	0	0	0	0	0
+1003	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		207.30	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3602.40	0	0	0	0	0	0	0	0	0
+1007	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1147.50	0	0	0	0	0	0	0	0	0
+1037	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		377.80	0	0	0	0	0	0	0	0	0
+1092	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		50.00	0	0	0	0	0	0	0	0	0
+1108	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		50.00	0	0	0	0	0	0	0	0	0
+1151	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		553.40	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2796	6	Student and School Achievement	PFT	Position Count	0			42.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2977	7	State System of Support	Line 71000	Expenditure	0			825.50	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2977	7	State System of Support	Line 72000	Expenditure	0			37.50	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2977	7	State System of Support	Line 73000	Expenditure	0			1037.70	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2977	7	State System of Support	Line 74000	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2977	7	State System of Support	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2977	7	State System of Support	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2977	7	State System of Support	Line 77000	Expenditure	0			260.00	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2977	7	State System of Support	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2977	7	State System of Support	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		542.70	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2977	7	State System of Support	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1628.00	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2977	7	State System of Support	PFT	Position Count	0			7.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1240	8	Teacher Certification	Line 71000	Expenditure	0			692.90	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1240	8	Teacher Certification	Line 72000	Expenditure	0			23.50	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1240	8	Teacher Certification	Line 73000	Expenditure	0			212.90	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1240	8	Teacher Certification	Line 74000	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1240	8	Teacher Certification	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1240	8	Teacher Certification	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1240	8	Teacher Certification	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1240	8	Teacher Certification	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1005	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1240	8	Teacher Certification	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		939.30	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	1240	8	Teacher Certification	PFT	Position Count	0			5.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2912	9	Early Learning Coordination	Line 71000	Expenditure	0			235.50	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2912	9	Early Learning Coordination	Line 72000	Expenditure	0			22.30	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2912	9	Early Learning Coordination	Line 73000	Expenditure	0			208.70	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2912	9	Early Learning Coordination	Line 74000	Expenditure	0			95.80	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2912	9	Early Learning Coordination	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2912	9	Early Learning Coordination	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2912	9	Early Learning Coordination	Line 77000	Expenditure	0			9049.50	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2912	9	Early Learning Coordination	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2912	9	Early Learning Coordination	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		2372.00	0	0	0	0	0	0	0	0	0
+1002	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2912	9	Early Learning Coordination	1002 Federal Receipts	Revenue	1002	Federal Funds		123.80	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2912	9	Early Learning Coordination	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		7116.00	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	2912	9	Early Learning Coordination	PFT	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	3028	10	Pre-Kindergarten Grants	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	3028	10	Pre-Kindergarten Grants	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	3028	10	Pre-Kindergarten Grants	Line 73000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	3028	10	Pre-Kindergarten Grants	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	3028	10	Pre-Kindergarten Grants	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	3028	10	Pre-Kindergarten Grants	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	3028	10	Pre-Kindergarten Grants	Line 77000	Expenditure	0			2000.00	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	3028	10	Pre-Kindergarten Grants	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	3028	10	Pre-Kindergarten Grants	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	3028	10	Pre-Kindergarten Grants	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2000.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	Line 71000	Expenditure	0			552.00	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	Line 72000	Expenditure	0			147.80	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	Line 73000	Expenditure	0			861.00	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	Line 74000	Expenditure	0			17.50	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	Line 75000	Expenditure	0			30.00	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	Line 77000	Expenditure	0			2254.00	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		171.60	0	0	0	0	0	0	0	0	0
+1002	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	1002 Federal Receipts	Revenue	1002	Federal Funds		806.60	0	0	0	0	0	0	0	0	0
+1003	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		514.60	0	0	0	0	0	0	0	0	0
+1005	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		10.90	0	0	0	0	0	0	0	0	0
+1007	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	7.00	0	0	0	0	0	0	0	0	0
+1108	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		2321.60	0	0	0	0	0	0	0	0	0
+1145	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	1145 Art in Public Places Fund	Revenue	1145	Other Funds	Duplicated	30.00	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	666	4	Alaska Council on the Arts	3193	0	Alaska Council on the Arts	PFT	Position Count	0			5.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	61	5	Commissions and Boards	190	1	Professional Teaching Practice	Line 71000	Expenditure	0			163.70	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	61	5	Commissions and Boards	190	1	Professional Teaching Practice	Line 72000	Expenditure	0			12.00	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	61	5	Commissions and Boards	190	1	Professional Teaching Practice	Line 73000	Expenditure	0			75.30	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	61	5	Commissions and Boards	190	1	Professional Teaching Practice	Line 74000	Expenditure	0			2.60	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	61	5	Commissions and Boards	190	1	Professional Teaching Practice	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	61	5	Commissions and Boards	190	1	Professional Teaching Practice	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	61	5	Commissions and Boards	190	1	Professional Teaching Practice	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	61	5	Commissions and Boards	190	1	Professional Teaching Practice	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1005	5	4	Educ & Early Devel	61	5	Commissions and Boards	190	1	Professional Teaching Practice	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		253.60	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	61	5	Commissions and Boards	190	1	Professional Teaching Practice	PFT	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	Line 71000	Expenditure	0			5197.90	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	Line 72000	Expenditure	0			1020.00	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	Line 73000	Expenditure	0			4856.40	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	Line 74000	Expenditure	0			446.20	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	Line 75000	Expenditure	0			27.00	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1160.60	0	0	0	0	0	0	0	0	0
+1002	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	1002 Federal Receipts	Revenue	1002	Federal Funds		252.80	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3481.70	0	0	0	0	0	0	0	0	0
+1005	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		55.20	0	0	0	0	0	0	0	0	0
+1007	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	6427.20	0	0	0	0	0	0	0	0	0
+1108	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		170.00	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	PFT	Position Count	0			43.00	0	0	0	0	0	0	0	0	0
+11000	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	1060	1	Mt. Edgecumbe Boarding School	PPT	Position Count	0			11.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	3207	2	MEHS Facilities Maintenance	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	3207	2	MEHS Facilities Maintenance	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	3207	2	MEHS Facilities Maintenance	Line 73000	Expenditure	0			1844.50	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	3207	2	MEHS Facilities Maintenance	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	3207	2	MEHS Facilities Maintenance	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	3207	2	MEHS Facilities Maintenance	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	3207	2	MEHS Facilities Maintenance	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	3207	2	MEHS Facilities Maintenance	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	3207	2	MEHS Facilities Maintenance	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		100.00	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	3207	2	MEHS Facilities Maintenance	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		300.00	0	0	0	0	0	0	0	0	0
+1005	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	3207	2	MEHS Facilities Maintenance	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		250.00	0	0	0	0	0	0	0	0	0
+1007	5	4	Educ & Early Devel	64	6	Mt. Edgecumbe Boarding School	3207	2	MEHS Facilities Maintenance	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1194.50	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	356	7	State Facilities Maintenance	2422	0	EED State Facilities Rent	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	356	7	State Facilities Maintenance	2422	0	EED State Facilities Rent	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	356	7	State Facilities Maintenance	2422	0	EED State Facilities Rent	Line 73000	Expenditure	0			1068.20	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	356	7	State Facilities Maintenance	2422	0	EED State Facilities Rent	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	356	7	State Facilities Maintenance	2422	0	EED State Facilities Rent	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	356	7	State Facilities Maintenance	2422	0	EED State Facilities Rent	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	356	7	State Facilities Maintenance	2422	0	EED State Facilities Rent	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	356	7	State Facilities Maintenance	2422	0	EED State Facilities Rent	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	356	7	State Facilities Maintenance	2422	0	EED State Facilities Rent	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		267.10	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	356	7	State Facilities Maintenance	2422	0	EED State Facilities Rent	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		801.10	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	Line 71000	Expenditure	0			3113.70	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	Line 72000	Expenditure	0			22.30	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	Line 73000	Expenditure	0			861.30	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	Line 74000	Expenditure	0			188.50	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	Line 77000	Expenditure	0			3249.80	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		605.40	0	0	0	0	0	0	0	0	0
+1002	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	1002 Federal Receipts	Revenue	1002	Federal Funds		1298.10	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3723.70	0	0	0	0	0	0	0	0	0
+1005	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		62.60	0	0	0	0	0	0	0	0	0
+1007	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	158.30	0	0	0	0	0	0	0	0	0
+1108	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		100.00	0	0	0	0	0	0	0	0	0
+1226	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	1226 Alaska Higher Education Investment Fund	Revenue	1226	Designated General Funds		1487.50	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	PFT	Position Count	0			25.00	0	0	0	0	0	0	0	0	0
+12000	5	4	Educ & Early Devel	386	9	AK LAM	208	1	Library Operations	NP	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	386	9	AK LAM	977	2	Archives	Line 71000	Expenditure	0			1162.20	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	386	9	AK LAM	977	2	Archives	Line 72000	Expenditure	0			5.40	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	386	9	AK LAM	977	2	Archives	Line 73000	Expenditure	0			125.70	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	386	9	AK LAM	977	2	Archives	Line 74000	Expenditure	0			31.00	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	386	9	AK LAM	977	2	Archives	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	386	9	AK LAM	977	2	Archives	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	386	9	AK LAM	977	2	Archives	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	386	9	AK LAM	977	2	Archives	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	386	9	AK LAM	977	2	Archives	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		275.30	0	0	0	0	0	0	0	0	0
+1002	5	4	Educ & Early Devel	386	9	AK LAM	977	2	Archives	1002 Federal Receipts	Revenue	1002	Federal Funds		39.50	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	386	9	AK LAM	977	2	Archives	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		825.80	0	0	0	0	0	0	0	0	0
+1007	5	4	Educ & Early Devel	386	9	AK LAM	977	2	Archives	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	183.70	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	386	9	AK LAM	977	2	Archives	PFT	Position Count	0			10.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	Line 71000	Expenditure	0			1495.40	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	Line 72000	Expenditure	0			15.30	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	Line 73000	Expenditure	0			232.60	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	Line 74000	Expenditure	0			15.00	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	Line 77000	Expenditure	0			238.60	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		300.70	0	0	0	0	0	0	0	0	0
+1002	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	1002 Federal Receipts	Revenue	1002	Federal Funds		271.00	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		902.20	0	0	0	0	0	0	0	0	0
+1005	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		523.00	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	PFT	Position Count	0			13.00	0	0	0	0	0	0	0	0	0
+11000	5	4	Educ & Early Devel	386	9	AK LAM	210	3	Museum Operations	PPT	Position Count	0			3.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	386	9	AK LAM	3058	4	OWL	Line 71000	Expenditure	0			99.20	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	386	9	AK LAM	3058	4	OWL	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	386	9	AK LAM	3058	4	OWL	Line 73000	Expenditure	0			215.20	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	386	9	AK LAM	3058	4	OWL	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	386	9	AK LAM	3058	4	OWL	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	386	9	AK LAM	3058	4	OWL	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	386	9	AK LAM	3058	4	OWL	Line 77000	Expenditure	0			158.00	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	386	9	AK LAM	3058	4	OWL	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	386	9	AK LAM	3058	4	OWL	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	386	9	AK LAM	3058	4	OWL	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		472.40	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	386	9	AK LAM	3058	4	OWL	PFT	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	386	9	AK LAM	3059	5	Live Homework Help	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	386	9	AK LAM	3059	5	Live Homework Help	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	386	9	AK LAM	3059	5	Live Homework Help	Line 73000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	386	9	AK LAM	3059	5	Live Homework Help	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	386	9	AK LAM	3059	5	Live Homework Help	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	386	9	AK LAM	3059	5	Live Homework Help	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	386	9	AK LAM	3059	5	Live Homework Help	Line 77000	Expenditure	0			138.20	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	386	9	AK LAM	3059	5	Live Homework Help	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1226	5	4	Educ & Early Devel	386	9	AK LAM	3059	5	Live Homework Help	1226 Alaska Higher Education Investment Fund	Revenue	1226	Designated General Funds		138.20	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	386	9	AK LAM	3143	6	APK Facilities Maintenance	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	386	9	AK LAM	3143	6	APK Facilities Maintenance	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	386	9	AK LAM	3143	6	APK Facilities Maintenance	Line 73000	Expenditure	0			1336.30	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	386	9	AK LAM	3143	6	APK Facilities Maintenance	Line 74000	Expenditure	0			28.80	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	386	9	AK LAM	3143	6	APK Facilities Maintenance	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	386	9	AK LAM	3143	6	APK Facilities Maintenance	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	386	9	AK LAM	3143	6	APK Facilities Maintenance	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	386	9	AK LAM	3143	6	APK Facilities Maintenance	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	5	4	Educ & Early Devel	386	9	AK LAM	3143	6	APK Facilities Maintenance	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		316.30	0	0	0	0	0	0	0	0	0
+1004	5	4	Educ & Early Devel	386	9	AK LAM	3143	6	APK Facilities Maintenance	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		948.80	0	0	0	0	0	0	0	0	0
+1005	5	4	Educ & Early Devel	386	9	AK LAM	3143	6	APK Facilities Maintenance	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		100.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	Line 71000	Expenditure	0			8210.10	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	Line 72000	Expenditure	0			32.40	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	Line 73000	Expenditure	0			2995.10	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	Line 74000	Expenditure	0			108.20	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	Line 77000	Expenditure	0			5841.80	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1005	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		50.90	0	0	0	0	0	0	0	0	0
+1007	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	11062.10	0	0	0	0	0	0	0	0	0
+1108	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		150.00	0	0	0	0	0	0	0	0	0
+1226	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	1226 Alaska Higher Education Investment Fund	Revenue	1226	Designated General Funds		5924.60	0	0	0	0	0	0	0	0	0
+10000	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	PFT	Position Count	0			71.00	0	0	0	0	0	0	0	0	0
+12000	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	2738	0	Program Admin & Operations	NP	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	953	3	WWAMI Medical Education	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	953	3	WWAMI Medical Education	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	953	3	WWAMI Medical Education	Line 73000	Expenditure	0			3224.50	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	953	3	WWAMI Medical Education	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	953	3	WWAMI Medical Education	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	953	3	WWAMI Medical Education	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	953	3	WWAMI Medical Education	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	953	3	WWAMI Medical Education	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1226	5	4	Educ & Early Devel	68	10	Alaska Postsecondary Education	953	3	WWAMI Medical Education	1226 Alaska Higher Education Investment Fund	Revenue	1226	Designated General Funds		3224.50	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	610	11	AK Performance Scholarship Awd	2990	0	AK Perf Scholarship Awd	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	610	11	AK Performance Scholarship Awd	2990	0	AK Perf Scholarship Awd	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	610	11	AK Performance Scholarship Awd	2990	0	AK Perf Scholarship Awd	Line 73000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	610	11	AK Performance Scholarship Awd	2990	0	AK Perf Scholarship Awd	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	610	11	AK Performance Scholarship Awd	2990	0	AK Perf Scholarship Awd	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	610	11	AK Performance Scholarship Awd	2990	0	AK Perf Scholarship Awd	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	610	11	AK Performance Scholarship Awd	2990	0	AK Perf Scholarship Awd	Line 77000	Expenditure	0			11750.00	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	610	11	AK Performance Scholarship Awd	2990	0	AK Perf Scholarship Awd	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1226	5	4	Educ & Early Devel	610	11	AK Performance Scholarship Awd	2990	0	AK Perf Scholarship Awd	1226 Alaska Higher Education Investment Fund	Revenue	1226	Designated General Funds		11750.00	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	637	12	Alaska Student Loan Corporation	3096	0	Loan Servicing	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	637	12	Alaska Student Loan Corporation	3096	0	Loan Servicing	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	637	12	Alaska Student Loan Corporation	3096	0	Loan Servicing	Line 73000	Expenditure	0			11062.10	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	637	12	Alaska Student Loan Corporation	3096	0	Loan Servicing	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	637	12	Alaska Student Loan Corporation	3096	0	Loan Servicing	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	637	12	Alaska Student Loan Corporation	3096	0	Loan Servicing	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	637	12	Alaska Student Loan Corporation	3096	0	Loan Servicing	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	637	12	Alaska Student Loan Corporation	3096	0	Loan Servicing	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1106	5	4	Educ & Early Devel	637	12	Alaska Student Loan Corporation	3096	0	Loan Servicing	1106 Alaska Student Loan Corporation Receipts	Revenue	1106	Other Funds		11062.10	0	0	0	0	0	0	0	0	0

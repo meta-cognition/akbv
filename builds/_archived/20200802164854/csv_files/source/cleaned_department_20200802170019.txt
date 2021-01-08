@@ -1,0 +1,157 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3268	0	Vaccine Assessment Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3268	0	Vaccine Assessment Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3268	0	Vaccine Assessment Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3268	0	Vaccine Assessment Fund	Commodities	Expenditure	0			11800.00	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3268	0	Vaccine Assessment Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3268	0	Vaccine Assessment Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3268	0	Vaccine Assessment Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3268	0	Vaccine Assessment Fund	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1005	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3268	0	Vaccine Assessment Fund	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		11800.00	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3278	0	Abandoned Motor Vehicle Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3278	0	Abandoned Motor Vehicle Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3278	0	Abandoned Motor Vehicle Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3278	0	Abandoned Motor Vehicle Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3278	0	Abandoned Motor Vehicle Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3278	0	Abandoned Motor Vehicle Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3278	0	Abandoned Motor Vehicle Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3278	0	Abandoned Motor Vehicle Fund	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1005	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3278	0	Abandoned Motor Vehicle Fund	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		0	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3013	1	Alaska Children's Trust Grant AC	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3013	1	Alaska Children's Trust Grant AC	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3013	1	Alaska Children's Trust Grant AC	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3013	1	Alaska Children's Trust Grant AC	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3013	1	Alaska Children's Trust Grant AC	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3013	1	Alaska Children's Trust Grant AC	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3013	1	Alaska Children's Trust Grant AC	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3013	1	Alaska Children's Trust Grant AC	Miscellaneous	Expenditure	0			15.20	0	0	0	0	0	0	0	0	0
+1005	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3013	1	Alaska Children's Trust Grant AC	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		13.90	0	0	0	0	0	0	0	0	0
+1234	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3013	1	Alaska Children's Trust Grant AC	1234 License Plates	Revenue	1234	Designated General Funds		1.30	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2907	3	Community Assistance Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2907	3	Community Assistance Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2907	3	Community Assistance Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2907	3	Community Assistance Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2907	3	Community Assistance Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2907	3	Community Assistance Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2907	3	Community Assistance Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2907	3	Community Assistance Fund	Miscellaneous	Expenditure	0			28731.50	0	0	0	0	0	0	0	0	0
+1169	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2907	3	Community Assistance Fund	1169 PCE Endowment Fund	Revenue	1169	Designated General Funds		28731.50	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3219	4	Derelict Vessel Prevention Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3219	4	Derelict Vessel Prevention Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3219	4	Derelict Vessel Prevention Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3219	4	Derelict Vessel Prevention Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3219	4	Derelict Vessel Prevention Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3219	4	Derelict Vessel Prevention Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3219	4	Derelict Vessel Prevention Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3219	4	Derelict Vessel Prevention Fund	Miscellaneous	Expenditure	0			58.60	0	0	0	0	0	0	0	0	0
+1216	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3219	4	Derelict Vessel Prevention Fund	1216 Boat Registration Fees	Revenue	1216	Designated General Funds		58.60	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2497	5	Disaster Relief Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2497	5	Disaster Relief Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2497	5	Disaster Relief Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2497	5	Disaster Relief Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2497	5	Disaster Relief Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2497	5	Disaster Relief Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2497	5	Disaster Relief Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2497	5	Disaster Relief Fund	Miscellaneous	Expenditure	0			9000.00	0	0	0	0	0	0	0	0	0
+1002	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2497	5	Disaster Relief Fund	1002 Federal Receipts	Revenue	1002	Federal Funds		9000.00	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3250	6	Dividend Raffle Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3250	6	Dividend Raffle Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3250	6	Dividend Raffle Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3250	6	Dividend Raffle Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3250	6	Dividend Raffle Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3250	6	Dividend Raffle Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3250	6	Dividend Raffle Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3250	6	Dividend Raffle Fund	Miscellaneous	Expenditure	0			244.10	0	0	0	0	0	0	0	0	0
+1108	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3250	6	Dividend Raffle Fund	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		244.10	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2867	8	Muni Bond Bank Reserve Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2867	8	Muni Bond Bank Reserve Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2867	8	Muni Bond Bank Reserve Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2867	8	Muni Bond Bank Reserve Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2867	8	Muni Bond Bank Reserve Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2867	8	Muni Bond Bank Reserve Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2867	8	Muni Bond Bank Reserve Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2867	8	Muni Bond Bank Reserve Fund	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2804	10	Public Education Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2804	10	Public Education Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2804	10	Public Education Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2804	10	Public Education Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2804	10	Public Education Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2804	10	Public Education Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2804	10	Public Education Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2804	10	Public Education Fund	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1004	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	2804	10	Public Education Fund	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3159	11	Peace Ofcr/Firefighter Survivors	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3159	11	Peace Ofcr/Firefighter Survivors	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3159	11	Peace Ofcr/Firefighter Survivors	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3159	11	Peace Ofcr/Firefighter Survivors	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3159	11	Peace Ofcr/Firefighter Survivors	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3159	11	Peace Ofcr/Firefighter Survivors	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3159	11	Peace Ofcr/Firefighter Survivors	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3159	11	Peace Ofcr/Firefighter Survivors	Miscellaneous	Expenditure	0			30.00	0	0	0	0	0	0	0	0	0
+1004	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3159	11	Peace Ofcr/Firefighter Survivors	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		30.00	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3025	12	REAA School Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3025	12	REAA School Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3025	12	REAA School Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3025	12	REAA School Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3025	12	REAA School Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3025	12	REAA School Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3025	12	REAA School Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3025	12	REAA School Fund	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1004	52	23	Fund Capitalization	608	1	Fund Caps (no approps out)	3025	12	REAA School Fund	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	3085	0	AK LNG Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	3085	0	AK LNG Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	3085	0	AK LNG Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	3085	0	AK LNG Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	3085	0	AK LNG Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	3085	0	AK LNG Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	3085	0	AK LNG Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	3085	0	AK LNG Fund	Miscellaneous	Expenditure	0			20000.00	0	0	0	0	0	0	0	0	0
+1108	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	3085	0	AK LNG Fund	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		20000.00	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2507	1	AK Clean Water Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2507	1	AK Clean Water Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2507	1	AK Clean Water Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2507	1	AK Clean Water Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2507	1	AK Clean Water Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2507	1	AK Clean Water Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2507	1	AK Clean Water Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2507	1	AK Clean Water Fund	Miscellaneous	Expenditure	0			11600.00	0	0	0	0	0	0	0	0	0
+1002	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2507	1	AK Clean Water Fund	1002 Federal Receipts	Revenue	1002	Federal Funds		9600.00	0	0	0	0	0	0	0	0	0
+1144	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2507	1	AK Clean Water Fund	1144 Clean Water Fund Bond Receipts	Revenue	1144	Other Funds	Duplicated	2000.00	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2722	1	Election Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2722	1	Election Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2722	1	Election Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2722	1	Election Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2722	1	Election Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2722	1	Election Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2722	1	Election Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2722	1	Election Fund	Miscellaneous	Expenditure	0			35.00	0	0	0	0	0	0	0	0	0
+1217	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2722	1	Election Fund	1217 NGF Earnings	Revenue	1217	Other Funds		35.00	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2508	2	AK Drinking Water Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2508	2	AK Drinking Water Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2508	2	AK Drinking Water Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2508	2	AK Drinking Water Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2508	2	AK Drinking Water Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2508	2	AK Drinking Water Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2508	2	AK Drinking Water Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2508	2	AK Drinking Water Fund	Miscellaneous	Expenditure	0			10510.00	0	0	0	0	0	0	0	0	0
+1002	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2508	2	AK Drinking Water Fund	1002 Federal Receipts	Revenue	1002	Federal Funds		8310.00	0	0	0	0	0	0	0	0	0
+1159	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2508	2	AK Drinking Water Fund	1159 Drinking Water Fund Bond Receipts	Revenue	1159	Other Funds	Duplicated	2200.00	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2936	3	Crime Victim Compensation Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2936	3	Crime Victim Compensation Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2936	3	Crime Victim Compensation Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2936	3	Crime Victim Compensation Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2936	3	Crime Victim Compensation Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2936	3	Crime Victim Compensation Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2936	3	Crime Victim Compensation Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2936	3	Crime Victim Compensation Fund	Miscellaneous	Expenditure	0			1518.50	0	0	0	0	0	0	0	0	0
+1005	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2936	3	Crime Victim Compensation Fund	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		70.00	0	0	0	0	0	0	0	0	0
+1171	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2936	3	Crime Victim Compensation Fund	1171 PF Dividend Appropriations in lieu of Dividends to Criminals	Revenue	1171	Other Funds	Duplicated	1448.50	0	0	0	0	0	0	0	0	0
+1	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2823	4	F&G Revenue Bond Redemption Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2823	4	F&G Revenue Bond Redemption Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2823	4	F&G Revenue Bond Redemption Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2823	4	F&G Revenue Bond Redemption Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2823	4	F&G Revenue Bond Redemption Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2823	4	F&G Revenue Bond Redemption Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2823	4	F&G Revenue Bond Redemption Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2823	4	F&G Revenue Bond Redemption Fund	Miscellaneous	Expenditure	0			6135.80	0	0	0	0	0	0	0	0	0
+1199	52	23	Fund Capitalization	612	2	Caps spent as duplicated funds	2823	4	F&G Revenue Bond Redemption Fund	1199 Alaska Sport Fishing Enterprise Account	Revenue	1199	Other Funds		6135.80	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,282 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	Personal Services	Expenditure	0			10194.50	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	Travel	Expenditure	0			148.40	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	Contractual Services	Expenditure	0			2306.20	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	Commodities	Expenditure	0			920.90	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	Capital Outlay	Expenditure	0			81.70	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1620.80	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	1002 Federal Receipts	Revenue	1002	Federal Funds		3901.80	0	0	0	0	0	0	0	0	0
+1003	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		160.30	0	0	0	0	0	0	0	0	0
+1004	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5688.10	0	0	0	0	0	0	0	0	0
+1005	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		81.60	0	0	0	0	0	0	0	0	0
+1007	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	20.10	0	0	0	0	0	0	0	0	0
+1024	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	1024 Fish and Game Fund	Revenue	1024	Other Funds		50.50	0	0	0	0	0	0	0	0	0
+1061	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	60.10	0	0	0	0	0	0	0	0	0
+1108	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		696.40	0	0	0	0	0	0	0	0	0
+1109	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	1109 Test Fisheries Receipts	Revenue	1109	Designated General Funds		804.90	0	0	0	0	0	0	0	0	0
+1201	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	1201 Commercial Fisheries Entry Commission Receipts	Revenue	1201	Designated General Funds		567.10	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	Permanent Full-Time	Position Count	0			61.00	0	0	0	0	0	0	0	0	0
+11000	11	6	Fish and Game	143	1	Commercial Fisheries	2167	1	SE Region Fisheries Mgmt.	Permanent Part-Time	Position Count	0			82.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	Personal Services	Expenditure	0			8247.50	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	Travel	Expenditure	0			59.90	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	Contractual Services	Expenditure	0			2030.00	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	Commodities	Expenditure	0			633.50	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	Capital Outlay	Expenditure	0			78.20	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1798.40	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	1002 Federal Receipts	Revenue	1002	Federal Funds		241.30	0	0	0	0	0	0	0	0	0
+1003	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		204.00	0	0	0	0	0	0	0	0	0
+1004	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5782.80	0	0	0	0	0	0	0	0	0
+1005	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		275.10	0	0	0	0	0	0	0	0	0
+1007	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	95.30	0	0	0	0	0	0	0	0	0
+1061	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	188.30	0	0	0	0	0	0	0	0	0
+1108	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		1634.60	0	0	0	0	0	0	0	0	0
+1109	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	1109 Test Fisheries Receipts	Revenue	1109	Designated General Funds		365.80	0	0	0	0	0	0	0	0	0
+1201	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	1201 Commercial Fisheries Entry Commission Receipts	Revenue	1201	Designated General Funds		463.50	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	Permanent Full-Time	Position Count	0			44.00	0	0	0	0	0	0	0	0	0
+11000	11	6	Fish and Game	143	1	Commercial Fisheries	2168	2	Central Region Fisheries Mgmt.	Permanent Part-Time	Position Count	0			122.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	Personal Services	Expenditure	0			6756.90	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	Travel	Expenditure	0			181.90	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	Contractual Services	Expenditure	0			1792.70	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	Commodities	Expenditure	0			748.20	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	Capital Outlay	Expenditure	0			96.30	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	Miscellaneous	Expenditure	0			-205.20	0	0	0	0	0	0	0	0	0
+1001	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1244.20	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	1002 Federal Receipts	Revenue	1002	Federal Funds		1335.20	0	0	0	0	0	0	0	0	0
+1004	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5247.00	0	0	0	0	0	0	0	0	0
+1005	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		296.70	0	0	0	0	0	0	0	0	0
+1007	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	110.80	0	0	0	0	0	0	0	0	0
+1061	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	328.70	0	0	0	0	0	0	0	0	0
+1108	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		225.10	0	0	0	0	0	0	0	0	0
+1109	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	1109 Test Fisheries Receipts	Revenue	1109	Designated General Funds		42.40	0	0	0	0	0	0	0	0	0
+1201	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	1201 Commercial Fisheries Entry Commission Receipts	Revenue	1201	Designated General Funds		540.70	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	Permanent Full-Time	Position Count	0			36.00	0	0	0	0	0	0	0	0	0
+11000	11	6	Fish and Game	143	1	Commercial Fisheries	2169	3	AYK Region Fisheries Mgmt.	Permanent Part-Time	Position Count	0			70.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	Personal Services	Expenditure	0			10303.60	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	Travel	Expenditure	0			215.00	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	Contractual Services	Expenditure	0			2887.30	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	Commodities	Expenditure	0			882.40	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	Capital Outlay	Expenditure	0			89.40	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1489.70	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	1002 Federal Receipts	Revenue	1002	Federal Funds		2430.00	0	0	0	0	0	0	0	0	0
+1004	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5579.30	0	0	0	0	0	0	0	0	0
+1005	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		376.10	0	0	0	0	0	0	0	0	0
+1007	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	20.00	0	0	0	0	0	0	0	0	0
+1061	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	433.20	0	0	0	0	0	0	0	0	0
+1108	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		1325.40	0	0	0	0	0	0	0	0	0
+1109	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	1109 Test Fisheries Receipts	Revenue	1109	Designated General Funds		2211.90	0	0	0	0	0	0	0	0	0
+1201	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	1201 Commercial Fisheries Entry Commission Receipts	Revenue	1201	Designated General Funds		512.10	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	Permanent Full-Time	Position Count	0			50.00	0	0	0	0	0	0	0	0	0
+11000	11	6	Fish and Game	143	1	Commercial Fisheries	2170	4	Westward Region Fisheries Mgmt.	Permanent Part-Time	Position Count	0			81.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	Personal Services	Expenditure	0			11892.70	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	Travel	Expenditure	0			237.90	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	Contractual Services	Expenditure	0			6219.70	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	Commodities	Expenditure	0			552.50	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	Capital Outlay	Expenditure	0			88.40	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		2103.50	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	1002 Federal Receipts	Revenue	1002	Federal Funds		2298.30	0	0	0	0	0	0	0	0	0
+1004	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		6787.30	0	0	0	0	0	0	0	0	0
+1005	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		1388.70	0	0	0	0	0	0	0	0	0
+1007	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	776.60	0	0	0	0	0	0	0	0	0
+1018	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	1018 Exxon Valdez Oil Spill Settlement	Revenue	1018	Other Funds		201.80	0	0	0	0	0	0	0	0	0
+1024	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	1024 Fish and Game Fund	Revenue	1024	Other Funds		218.70	0	0	0	0	0	0	0	0	0
+1061	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	506.10	0	0	0	0	0	0	0	0	0
+1108	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		1658.30	0	0	0	0	0	0	0	0	0
+1201	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	1201 Commercial Fisheries Entry Commission Receipts	Revenue	1201	Designated General Funds		3051.90	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	Permanent Full-Time	Position Count	0			83.00	0	0	0	0	0	0	0	0	0
+11000	11	6	Fish and Game	143	1	Commercial Fisheries	2171	5	Statewide Fisheries Management	Permanent Part-Time	Position Count	0			18.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	143	1	Commercial Fisheries	471	8	Commercial Fish Entry Commission	Personal Services	Expenditure	0			2669.70	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	143	1	Commercial Fisheries	471	8	Commercial Fish Entry Commission	Travel	Expenditure	0			17.30	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	143	1	Commercial Fisheries	471	8	Commercial Fish Entry Commission	Contractual Services	Expenditure	0			363.30	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	143	1	Commercial Fisheries	471	8	Commercial Fish Entry Commission	Commodities	Expenditure	0			75.40	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	143	1	Commercial Fisheries	471	8	Commercial Fish Entry Commission	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	143	1	Commercial Fisheries	471	8	Commercial Fish Entry Commission	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	143	1	Commercial Fisheries	471	8	Commercial Fish Entry Commission	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	143	1	Commercial Fisheries	471	8	Commercial Fish Entry Commission	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1201	11	6	Fish and Game	143	1	Commercial Fisheries	471	8	Commercial Fish Entry Commission	1201 Commercial Fisheries Entry Commission Receipts	Revenue	1201	Designated General Funds		3125.70	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	143	1	Commercial Fisheries	471	8	Commercial Fish Entry Commission	Permanent Full-Time	Position Count	0			21.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	Personal Services	Expenditure	0			26163.50	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	Travel	Expenditure	0			329.30	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	Contractual Services	Expenditure	0			13679.30	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	Commodities	Expenditure	0			2143.50	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	Capital Outlay	Expenditure	0			711.50	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		341.30	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	1002 Federal Receipts	Revenue	1002	Federal Funds		17416.00	0	0	0	0	0	0	0	0	0
+1003	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		394.90	0	0	0	0	0	0	0	0	0
+1004	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1079.00	0	0	0	0	0	0	0	0	0
+1007	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	699.60	0	0	0	0	0	0	0	0	0
+1024	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	1024 Fish and Game Fund	Revenue	1024	Other Funds		18889.00	0	0	0	0	0	0	0	0	0
+1061	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	2174.80	0	0	0	0	0	0	0	0	0
+1108	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		1532.50	0	0	0	0	0	0	0	0	0
+1199	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	1199 Alaska Sport Fishing Enterprise Account	Revenue	1199	Other Funds		500.00	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	Permanent Full-Time	Position Count	0			165.00	0	0	0	0	0	0	0	0	0
+11000	11	6	Fish and Game	145	2	Sport Fisheries	464	1	Sport Fisheries	Permanent Part-Time	Position Count	0			142.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	145	2	Sport Fisheries	3007	2	Sport Fish Hatcheries	Personal Services	Expenditure	0			2507.80	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	145	2	Sport Fisheries	3007	2	Sport Fish Hatcheries	Travel	Expenditure	0			21.50	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	145	2	Sport Fisheries	3007	2	Sport Fish Hatcheries	Contractual Services	Expenditure	0			2726.10	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	145	2	Sport Fisheries	3007	2	Sport Fish Hatcheries	Commodities	Expenditure	0			598.50	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	145	2	Sport Fisheries	3007	2	Sport Fish Hatcheries	Capital Outlay	Expenditure	0			6.50	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	145	2	Sport Fisheries	3007	2	Sport Fish Hatcheries	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	145	2	Sport Fisheries	3007	2	Sport Fish Hatcheries	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	145	2	Sport Fisheries	3007	2	Sport Fish Hatcheries	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	145	2	Sport Fisheries	3007	2	Sport Fish Hatcheries	1002 Federal Receipts	Revenue	1002	Federal Funds		5580.70	0	0	0	0	0	0	0	0	0
+1024	11	6	Fish and Game	145	2	Sport Fisheries	3007	2	Sport Fish Hatcheries	1024 Fish and Game Fund	Revenue	1024	Other Funds		226.30	0	0	0	0	0	0	0	0	0
+1061	11	6	Fish and Game	145	2	Sport Fisheries	3007	2	Sport Fish Hatcheries	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	53.40	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	145	2	Sport Fisheries	3007	2	Sport Fish Hatcheries	Permanent Full-Time	Position Count	0			22.00	0	0	0	0	0	0	0	0	0
+11000	11	6	Fish and Game	145	2	Sport Fisheries	3007	2	Sport Fish Hatcheries	Permanent Part-Time	Position Count	0			3.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	Personal Services	Expenditure	0			29967.50	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	Travel	Expenditure	0			1305.20	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	Contractual Services	Expenditure	0			14762.90	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	Commodities	Expenditure	0			3329.00	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	Capital Outlay	Expenditure	0			80.00	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		420.30	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	1002 Federal Receipts	Revenue	1002	Federal Funds		32799.00	0	0	0	0	0	0	0	0	0
+1003	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		31.20	0	0	0	0	0	0	0	0	0
+1004	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1256.50	0	0	0	0	0	0	0	0	0
+1007	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	564.50	0	0	0	0	0	0	0	0	0
+1024	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	1024 Fish and Game Fund	Revenue	1024	Other Funds		12915.30	0	0	0	0	0	0	0	0	0
+1061	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	940.60	0	0	0	0	0	0	0	0	0
+1108	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		517.20	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	Permanent Full-Time	Position Count	0			228.00	0	0	0	0	0	0	0	0	0
+11000	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	Permanent Part-Time	Position Count	0			45.00	0	0	0	0	0	0	0	0	0
+12000	11	6	Fish and Game	147	3	Wildlife Conservation	473	1	Wildlife Conservation	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	147	3	Wildlife Conservation	2807	4	Hunter Ed Public Shooting Ranges	Personal Services	Expenditure	0			632.10	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	147	3	Wildlife Conservation	2807	4	Hunter Ed Public Shooting Ranges	Travel	Expenditure	0			2.00	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	147	3	Wildlife Conservation	2807	4	Hunter Ed Public Shooting Ranges	Contractual Services	Expenditure	0			259.70	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	147	3	Wildlife Conservation	2807	4	Hunter Ed Public Shooting Ranges	Commodities	Expenditure	0			113.50	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	147	3	Wildlife Conservation	2807	4	Hunter Ed Public Shooting Ranges	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	147	3	Wildlife Conservation	2807	4	Hunter Ed Public Shooting Ranges	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	147	3	Wildlife Conservation	2807	4	Hunter Ed Public Shooting Ranges	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	147	3	Wildlife Conservation	2807	4	Hunter Ed Public Shooting Ranges	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1024	11	6	Fish and Game	147	3	Wildlife Conservation	2807	4	Hunter Ed Public Shooting Ranges	1024 Fish and Game Fund	Revenue	1024	Other Funds		1007.30	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	147	3	Wildlife Conservation	2807	4	Hunter Ed Public Shooting Ranges	Permanent Full-Time	Position Count	0			3.00	0	0	0	0	0	0	0	0	0
+11000	11	6	Fish and Game	147	3	Wildlife Conservation	2807	4	Hunter Ed Public Shooting Ranges	Permanent Part-Time	Position Count	0			5.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	148	4	Statewide Support Services	2175	1	Commissioner's Office	Personal Services	Expenditure	0			1049.60	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	148	4	Statewide Support Services	2175	1	Commissioner's Office	Travel	Expenditure	0			49.50	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	148	4	Statewide Support Services	2175	1	Commissioner's Office	Contractual Services	Expenditure	0			46.20	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	148	4	Statewide Support Services	2175	1	Commissioner's Office	Commodities	Expenditure	0			16.60	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	148	4	Statewide Support Services	2175	1	Commissioner's Office	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	148	4	Statewide Support Services	2175	1	Commissioner's Office	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	148	4	Statewide Support Services	2175	1	Commissioner's Office	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	148	4	Statewide Support Services	2175	1	Commissioner's Office	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	148	4	Statewide Support Services	2175	1	Commissioner's Office	1002 Federal Receipts	Revenue	1002	Federal Funds		107.00	0	0	0	0	0	0	0	0	0
+1007	11	6	Fish and Game	148	4	Statewide Support Services	2175	1	Commissioner's Office	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1054.90	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	148	4	Statewide Support Services	2175	1	Commissioner's Office	Permanent Full-Time	Position Count	0			7.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Personal Services	Expenditure	0			5014.00	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Travel	Expenditure	0			35.70	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Contractual Services	Expenditure	0			6369.60	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Commodities	Expenditure	0			217.20	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Capital Outlay	Expenditure	0			115.00	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		486.70	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	1002 Federal Receipts	Revenue	1002	Federal Funds		1772.90	0	0	0	0	0	0	0	0	0
+1004	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1460.10	0	0	0	0	0	0	0	0	0
+1005	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		153.10	0	0	0	0	0	0	0	0	0
+1007	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	7061.20	0	0	0	0	0	0	0	0	0
+1018	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	1018 Exxon Valdez Oil Spill Settlement	Revenue	1018	Other Funds		341.30	0	0	0	0	0	0	0	0	0
+1061	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	146.80	0	0	0	0	0	0	0	0	0
+1108	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		329.40	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Permanent Full-Time	Position Count	0			46.00	0	0	0	0	0	0	0	0	0
+11000	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Permanent Part-Time	Position Count	0			6.00	0	0	0	0	0	0	0	0	0
+12000	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	148	4	Statewide Support Services	2048	4	Boards of Fisheries and Game	Personal Services	Expenditure	0			864.60	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	148	4	Statewide Support Services	2048	4	Boards of Fisheries and Game	Travel	Expenditure	0			143.20	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	148	4	Statewide Support Services	2048	4	Boards of Fisheries and Game	Contractual Services	Expenditure	0			169.30	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	148	4	Statewide Support Services	2048	4	Boards of Fisheries and Game	Commodities	Expenditure	0			25.40	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	148	4	Statewide Support Services	2048	4	Boards of Fisheries and Game	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	148	4	Statewide Support Services	2048	4	Boards of Fisheries and Game	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	148	4	Statewide Support Services	2048	4	Boards of Fisheries and Game	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	148	4	Statewide Support Services	2048	4	Boards of Fisheries and Game	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	11	6	Fish and Game	148	4	Statewide Support Services	2048	4	Boards of Fisheries and Game	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		276.80	0	0	0	0	0	0	0	0	0
+1004	11	6	Fish and Game	148	4	Statewide Support Services	2048	4	Boards of Fisheries and Game	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		903.70	0	0	0	0	0	0	0	0	0
+1007	11	6	Fish and Game	148	4	Statewide Support Services	2048	4	Boards of Fisheries and Game	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	22.00	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	148	4	Statewide Support Services	2048	4	Boards of Fisheries and Game	Permanent Full-Time	Position Count	0			6.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	148	4	Statewide Support Services	2231	5	Advisory Committees	Personal Services	Expenditure	0			389.70	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	148	4	Statewide Support Services	2231	5	Advisory Committees	Travel	Expenditure	0			127.30	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	148	4	Statewide Support Services	2231	5	Advisory Committees	Contractual Services	Expenditure	0			20.00	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	148	4	Statewide Support Services	2231	5	Advisory Committees	Commodities	Expenditure	0			2.50	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	148	4	Statewide Support Services	2231	5	Advisory Committees	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	148	4	Statewide Support Services	2231	5	Advisory Committees	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	148	4	Statewide Support Services	2231	5	Advisory Committees	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	148	4	Statewide Support Services	2231	5	Advisory Committees	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	11	6	Fish and Game	148	4	Statewide Support Services	2231	5	Advisory Committees	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		126.10	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	148	4	Statewide Support Services	2231	5	Advisory Committees	1002 Federal Receipts	Revenue	1002	Federal Funds		35.30	0	0	0	0	0	0	0	0	0
+1004	11	6	Fish and Game	148	4	Statewide Support Services	2231	5	Advisory Committees	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		378.10	0	0	0	0	0	0	0	0	0
+11000	11	6	Fish and Game	148	4	Statewide Support Services	2231	5	Advisory Committees	Permanent Part-Time	Position Count	0			5.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	148	4	Statewide Support Services	2693	8	EVOS Trustee Council	Personal Services	Expenditure	0			602.90	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	148	4	Statewide Support Services	2693	8	EVOS Trustee Council	Travel	Expenditure	0			102.70	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	148	4	Statewide Support Services	2693	8	EVOS Trustee Council	Contractual Services	Expenditure	0			1530.50	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	148	4	Statewide Support Services	2693	8	EVOS Trustee Council	Commodities	Expenditure	0			68.30	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	148	4	Statewide Support Services	2693	8	EVOS Trustee Council	Capital Outlay	Expenditure	0			75.00	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	148	4	Statewide Support Services	2693	8	EVOS Trustee Council	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	148	4	Statewide Support Services	2693	8	EVOS Trustee Council	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	148	4	Statewide Support Services	2693	8	EVOS Trustee Council	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	148	4	Statewide Support Services	2693	8	EVOS Trustee Council	1002 Federal Receipts	Revenue	1002	Federal Funds		456.90	0	0	0	0	0	0	0	0	0
+1018	11	6	Fish and Game	148	4	Statewide Support Services	2693	8	EVOS Trustee Council	1018 Exxon Valdez Oil Spill Settlement	Revenue	1018	Other Funds		1922.50	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	148	4	Statewide Support Services	2693	8	EVOS Trustee Council	Permanent Full-Time	Position Count	0			4.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	148	4	Statewide Support Services	2367	9	State Facilities Maintenance	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	148	4	Statewide Support Services	2367	9	State Facilities Maintenance	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	148	4	Statewide Support Services	2367	9	State Facilities Maintenance	Contractual Services	Expenditure	0			5100.80	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	148	4	Statewide Support Services	2367	9	State Facilities Maintenance	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	148	4	Statewide Support Services	2367	9	State Facilities Maintenance	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	148	4	Statewide Support Services	2367	9	State Facilities Maintenance	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	148	4	Statewide Support Services	2367	9	State Facilities Maintenance	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	148	4	Statewide Support Services	2367	9	State Facilities Maintenance	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	11	6	Fish and Game	148	4	Statewide Support Services	2367	9	State Facilities Maintenance	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	5100.80	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	Personal Services	Expenditure	0			4316.90	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	Travel	Expenditure	0			55.20	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	Contractual Services	Expenditure	0			871.10	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	Commodities	Expenditure	0			179.80	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	Capital Outlay	Expenditure	0			20.00	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		807.10	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	1002 Federal Receipts	Revenue	1002	Federal Funds		113.60	0	0	0	0	0	0	0	0	0
+1004	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2643.40	0	0	0	0	0	0	0	0	0
+1007	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1207.00	0	0	0	0	0	0	0	0	0
+1018	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	1018 Exxon Valdez Oil Spill Settlement	Revenue	1018	Other Funds		12.00	0	0	0	0	0	0	0	0	0
+1055	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	1055 Interagency/Oil & Hazardous Waste	Revenue	1055	Other Funds	Duplicated	111.00	0	0	0	0	0	0	0	0	0
+1061	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	267.90	0	0	0	0	0	0	0	0	0
+1108	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		281.00	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	Permanent Full-Time	Position Count	0			37.00	0	0	0	0	0	0	0	0	0
+11000	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	Permanent Part-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+12000	11	6	Fish and Game	151	5	Habitat	486	6	Habitat	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	Personal Services	Expenditure	0			4010.40	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	Travel	Expenditure	0			128.50	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	Contractual Services	Expenditure	0			970.80	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	Commodities	Expenditure	0			181.80	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	Capital Outlay	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		617.50	0	0	0	0	0	0	0	0	0
+1002	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	1002 Federal Receipts	Revenue	1002	Federal Funds		1648.50	0	0	0	0	0	0	0	0	0
+1004	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1852.40	0	0	0	0	0	0	0	0	0
+1007	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	778.30	0	0	0	0	0	0	0	0	0
+1061	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	204.30	0	0	0	0	0	0	0	0	0
+1108	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		195.50	0	0	0	0	0	0	0	0	0
+10000	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	Permanent Full-Time	Position Count	0			22.00	0	0	0	0	0	0	0	0	0
+11000	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	Permanent Part-Time	Position Count	0			24.00	0	0	0	0	0	0	0	0	0
+12000	11	6	Fish and Game	270	9	Subsistence Research & Monitori	2625	7	State Subsistence Research	Non-Permanent	Position Count	0			3.00	0	0	0	0	0	0	0	0	0

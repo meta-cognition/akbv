@@ -1,0 +1,13 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1005	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		1431.50	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	895.40	0	0	0	0	0	0	0	0	0
+1033	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	1033 Surplus Property Revolving Fund	Revenue	1033	Federal Funds		339.50	0	0	0	0	0	0	0	0	0
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Personal Services	Expenditure	0			2196.10	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Travel	Expenditure	0			2.50	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Contractual Services	Expenditure	0			448.40	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Commodities	Expenditure	0			19.40	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0

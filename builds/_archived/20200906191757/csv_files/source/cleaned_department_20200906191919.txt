@@ -1,0 +1,214 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	Personal Services	Expenditure	0			12959.80	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	Travel	Expenditure	0			48.10	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	Contractual Services	Expenditure	0			3848.50	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	Commodities	Expenditure	0			89.00	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		3984.60	0	0	0	0	0	0	0	0	0
+1004	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		11953.70	0	0	0	0	0	0	0	0	0
+1005	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		809.30	0	0	0	0	0	0	0	0	0
+1061	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	99.10	0	0	0	0	0	0	0	0	0
+1105	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	1105 Alaska Permanent Fund Corporation Receipts	Revenue	1105	Other Funds		98.70	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	Permanent Full-Time	Position Count	0			100.00	0	0	0	0	0	0	0	0	0
+12000	4	14	Revenue	510	1	Taxation and Treasury	2476	1	Tax Division	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	Personal Services	Expenditure	0			7984.70	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	Travel	Expenditure	0			52.20	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	Contractual Services	Expenditure	0			2129.90	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	Commodities	Expenditure	0			39.80	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		707.70	0	0	0	0	0	0	0	0	0
+1004	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2123.10	0	0	0	0	0	0	0	0	0
+1007	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	6538.70	0	0	0	0	0	0	0	0	0
+1017	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	1017 Benefits Systems Receipts	Revenue	1017	Other Funds		164.30	0	0	0	0	0	0	0	0	0
+1027	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		38.60	0	0	0	0	0	0	0	0	0
+1066	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	1066 Public School Trust Fund	Revenue	1066	Other Funds		274.40	0	0	0	0	0	0	0	0	0
+1169	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	1169 PCE Endowment Fund	Revenue	1169	Designated General Funds		359.80	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	510	1	Taxation and Treasury	121	2	Treasury Division	Permanent Full-Time	Position Count	0			41.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	510	1	Taxation and Treasury	2938	3	Unclaimed Property	Personal Services	Expenditure	0			330.60	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	510	1	Taxation and Treasury	2938	3	Unclaimed Property	Travel	Expenditure	0			7.60	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	510	1	Taxation and Treasury	2938	3	Unclaimed Property	Contractual Services	Expenditure	0			336.10	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	510	1	Taxation and Treasury	2938	3	Unclaimed Property	Commodities	Expenditure	0			7.70	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	510	1	Taxation and Treasury	2938	3	Unclaimed Property	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	510	1	Taxation and Treasury	2938	3	Unclaimed Property	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	510	1	Taxation and Treasury	2938	3	Unclaimed Property	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	510	1	Taxation and Treasury	2938	3	Unclaimed Property	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1005	4	14	Revenue	510	1	Taxation and Treasury	2938	3	Unclaimed Property	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		682.00	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	510	1	Taxation and Treasury	2938	3	Unclaimed Property	Permanent Full-Time	Position Count	0			3.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	510	1	Taxation and Treasury	2813	4	AK Retirement Management Board	Personal Services	Expenditure	0			86.20	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	510	1	Taxation and Treasury	2813	4	AK Retirement Management Board	Travel	Expenditure	0			134.10	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	510	1	Taxation and Treasury	2813	4	AK Retirement Management Board	Contractual Services	Expenditure	0			9686.40	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	510	1	Taxation and Treasury	2813	4	AK Retirement Management Board	Commodities	Expenditure	0			32.50	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	510	1	Taxation and Treasury	2813	4	AK Retirement Management Board	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	510	1	Taxation and Treasury	2813	4	AK Retirement Management Board	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	510	1	Taxation and Treasury	2813	4	AK Retirement Management Board	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	510	1	Taxation and Treasury	2813	4	AK Retirement Management Board	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1017	4	14	Revenue	510	1	Taxation and Treasury	2813	4	AK Retirement Management Board	1017 Benefits Systems Receipts	Revenue	1017	Other Funds		5155.60	0	0	0	0	0	0	0	0	0
+1029	4	14	Revenue	510	1	Taxation and Treasury	2813	4	AK Retirement Management Board	1029 Public Employees Retirement System Fund	Revenue	1029	Other Funds		2962.00	0	0	0	0	0	0	0	0	0
+1034	4	14	Revenue	510	1	Taxation and Treasury	2813	4	AK Retirement Management Board	1034 Teachers Retirement System Fund	Revenue	1034	Other Funds		1680.00	0	0	0	0	0	0	0	0	0
+1042	4	14	Revenue	510	1	Taxation and Treasury	2813	4	AK Retirement Management Board	1042 Judicial Retirement System	Revenue	1042	Other Funds		51.10	0	0	0	0	0	0	0	0	0
+1045	4	14	Revenue	510	1	Taxation and Treasury	2813	4	AK Retirement Management Board	1045 National Guard & Naval Militia Retirement System	Revenue	1045	Other Funds		90.50	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	510	1	Taxation and Treasury	2812	5	ARM Custody and Mgt Fees	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	510	1	Taxation and Treasury	2812	5	ARM Custody and Mgt Fees	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	510	1	Taxation and Treasury	2812	5	ARM Custody and Mgt Fees	Contractual Services	Expenditure	0			45000.00	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	510	1	Taxation and Treasury	2812	5	ARM Custody and Mgt Fees	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	510	1	Taxation and Treasury	2812	5	ARM Custody and Mgt Fees	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	510	1	Taxation and Treasury	2812	5	ARM Custody and Mgt Fees	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	510	1	Taxation and Treasury	2812	5	ARM Custody and Mgt Fees	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	510	1	Taxation and Treasury	2812	5	ARM Custody and Mgt Fees	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1017	4	14	Revenue	510	1	Taxation and Treasury	2812	5	ARM Custody and Mgt Fees	1017 Benefits Systems Receipts	Revenue	1017	Other Funds		21394.60	0	0	0	0	0	0	0	0	0
+1029	4	14	Revenue	510	1	Taxation and Treasury	2812	5	ARM Custody and Mgt Fees	1029 Public Employees Retirement System Fund	Revenue	1029	Other Funds		16089.30	0	0	0	0	0	0	0	0	0
+1034	4	14	Revenue	510	1	Taxation and Treasury	2812	5	ARM Custody and Mgt Fees	1034 Teachers Retirement System Fund	Revenue	1034	Other Funds		7095.10	0	0	0	0	0	0	0	0	0
+1042	4	14	Revenue	510	1	Taxation and Treasury	2812	5	ARM Custody and Mgt Fees	1042 Judicial Retirement System	Revenue	1042	Other Funds		275.90	0	0	0	0	0	0	0	0	0
+1045	4	14	Revenue	510	1	Taxation and Treasury	2812	5	ARM Custody and Mgt Fees	1045 National Guard & Naval Militia Retirement System	Revenue	1045	Other Funds		145.10	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	Personal Services	Expenditure	0			6249.00	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	Travel	Expenditure	0			18.10	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	Contractual Services	Expenditure	0			1913.10	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	Commodities	Expenditure	0			69.20	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		3.80	0	0	0	0	0	0	0	0	0
+1004	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		11.20	0	0	0	0	0	0	0	0	0
+1005	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		376.30	0	0	0	0	0	0	0	0	0
+1007	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	20.00	0	0	0	0	0	0	0	0	0
+1050	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	1050 Permanent Fund Dividend Fund	Revenue	1050	Other Funds	Duplicated	7838.10	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	510	1	Taxation and Treasury	981	6	Permanent Fund Dividend Division	Permanent Full-Time	Position Count	0			67.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	Personal Services	Expenditure	0			17752.00	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	Travel	Expenditure	0			33.10	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	Contractual Services	Expenditure	0			7733.20	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	Commodities	Expenditure	0			201.10	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	Capital Outlay	Expenditure	0			25.80	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1953.90	0	0	0	0	0	0	0	0	0
+1002	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	1002 Federal Receipts	Revenue	1002	Federal Funds		16083.30	0	0	0	0	0	0	0	0	0
+1003	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		5502.70	0	0	0	0	0	0	0	0	0
+1004	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		359.20	0	0	0	0	0	0	0	0	0
+1005	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		50.00	0	0	0	0	0	0	0	0	0
+1016	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	1016 CSSD Federal Incentive Payments	Revenue	1016	Federal Funds		1796.10	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	41	2	Child Support Services	111	6	Child Support Services	Permanent Full-Time	Position Count	0			196.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	50	3	Administration and Support	123	1	Commissioner's Office	Personal Services	Expenditure	0			434.50	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	50	3	Administration and Support	123	1	Commissioner's Office	Travel	Expenditure	0			38.50	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	50	3	Administration and Support	123	1	Commissioner's Office	Contractual Services	Expenditure	0			133.90	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	50	3	Administration and Support	123	1	Commissioner's Office	Commodities	Expenditure	0			28.90	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	50	3	Administration and Support	123	1	Commissioner's Office	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	50	3	Administration and Support	123	1	Commissioner's Office	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	50	3	Administration and Support	123	1	Commissioner's Office	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	50	3	Administration and Support	123	1	Commissioner's Office	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	4	14	Revenue	50	3	Administration and Support	123	1	Commissioner's Office	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		32.70	0	0	0	0	0	0	0	0	0
+1004	4	14	Revenue	50	3	Administration and Support	123	1	Commissioner's Office	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		98.00	0	0	0	0	0	0	0	0	0
+1007	4	14	Revenue	50	3	Administration and Support	123	1	Commissioner's Office	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	173.10	0	0	0	0	0	0	0	0	0
+1133	4	14	Revenue	50	3	Administration and Support	123	1	Commissioner's Office	1133 CSSD Administrative Cost Reimbursement	Revenue	1133	Federal Funds		332.00	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	50	3	Administration and Support	123	1	Commissioner's Office	Permanent Full-Time	Position Count	0			3.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Personal Services	Expenditure	0			1351.80	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Travel	Expenditure	0			15.90	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Contractual Services	Expenditure	0			1070.20	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Commodities	Expenditure	0			17.00	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		133.60	0	0	0	0	0	0	0	0	0
+1004	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		400.80	0	0	0	0	0	0	0	0	0
+1007	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1458.50	0	0	0	0	0	0	0	0	0
+1133	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	1133 CSSD Administrative Cost Reimbursement	Revenue	1133	Federal Funds		462.00	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Permanent Full-Time	Position Count	0			12.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	50	3	Administration and Support	2993	5	Criminal Investigations Unit	Personal Services	Expenditure	0			263.80	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	50	3	Administration and Support	2993	5	Criminal Investigations Unit	Travel	Expenditure	0			14.00	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	50	3	Administration and Support	2993	5	Criminal Investigations Unit	Contractual Services	Expenditure	0			106.20	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	50	3	Administration and Support	2993	5	Criminal Investigations Unit	Commodities	Expenditure	0			4.40	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	50	3	Administration and Support	2993	5	Criminal Investigations Unit	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	50	3	Administration and Support	2993	5	Criminal Investigations Unit	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	50	3	Administration and Support	2993	5	Criminal Investigations Unit	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	50	3	Administration and Support	2993	5	Criminal Investigations Unit	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	4	14	Revenue	50	3	Administration and Support	2993	5	Criminal Investigations Unit	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	388.40	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	50	3	Administration and Support	2993	5	Criminal Investigations Unit	Permanent Full-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	47	4	Mental Health Trust Authority	1423	1	Mental Health Trust Operations	Personal Services	Expenditure	0			2983.10	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	47	4	Mental Health Trust Authority	1423	1	Mental Health Trust Operations	Travel	Expenditure	0			82.00	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	47	4	Mental Health Trust Authority	1423	1	Mental Health Trust Operations	Contractual Services	Expenditure	0			1599.00	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	47	4	Mental Health Trust Authority	1423	1	Mental Health Trust Operations	Commodities	Expenditure	0			67.00	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	47	4	Mental Health Trust Authority	1423	1	Mental Health Trust Operations	Capital Outlay	Expenditure	0			14.00	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	47	4	Mental Health Trust Authority	1423	1	Mental Health Trust Operations	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	47	4	Mental Health Trust Authority	1423	1	Mental Health Trust Operations	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	47	4	Mental Health Trust Authority	1423	1	Mental Health Trust Operations	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	4	14	Revenue	47	4	Mental Health Trust Authority	1423	1	Mental Health Trust Operations	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	30.00	0	0	0	0	0	0	0	0	0
+1094	4	14	Revenue	47	4	Mental Health Trust Authority	1423	1	Mental Health Trust Operations	1094 Mental Health Trust Administration	Revenue	1094	Other Funds		4215.10	0	0	0	0	0	0	0	0	0
+1180	4	14	Revenue	47	4	Mental Health Trust Authority	1423	1	Mental Health Trust Operations	1180 Alcohol & Other Drug Abuse Treatment & Prevention Fund	Revenue	1180	Designated General Funds		500.00	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	47	4	Mental Health Trust Authority	1423	1	Mental Health Trust Operations	Permanent Full-Time	Position Count	0			18.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	47	4	Mental Health Trust Authority	2749	2	Long Term Care Ombudsman Office	Personal Services	Expenditure	0			719.60	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	47	4	Mental Health Trust Authority	2749	2	Long Term Care Ombudsman Office	Travel	Expenditure	0			48.80	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	47	4	Mental Health Trust Authority	2749	2	Long Term Care Ombudsman Office	Contractual Services	Expenditure	0			122.10	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	47	4	Mental Health Trust Authority	2749	2	Long Term Care Ombudsman Office	Commodities	Expenditure	0			10.20	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	47	4	Mental Health Trust Authority	2749	2	Long Term Care Ombudsman Office	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	47	4	Mental Health Trust Authority	2749	2	Long Term Care Ombudsman Office	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	47	4	Mental Health Trust Authority	2749	2	Long Term Care Ombudsman Office	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	47	4	Mental Health Trust Authority	2749	2	Long Term Care Ombudsman Office	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	4	14	Revenue	47	4	Mental Health Trust Authority	2749	2	Long Term Care Ombudsman Office	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	413.50	0	0	0	0	0	0	0	0	0
+1037	4	14	Revenue	47	4	Mental Health Trust Authority	2749	2	Long Term Care Ombudsman Office	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		487.20	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	47	4	Mental Health Trust Authority	2749	2	Long Term Care Ombudsman Office	Permanent Full-Time	Position Count	0			6.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	44	5	AK Municipal Bond Bank Auth	108	3	AMBBA Operations	Personal Services	Expenditure	0			207.60	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	44	5	AK Municipal Bond Bank Auth	108	3	AMBBA Operations	Travel	Expenditure	0			14.50	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	44	5	AK Municipal Bond Bank Auth	108	3	AMBBA Operations	Contractual Services	Expenditure	0			783.60	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	44	5	AK Municipal Bond Bank Auth	108	3	AMBBA Operations	Commodities	Expenditure	0			3.80	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	44	5	AK Municipal Bond Bank Auth	108	3	AMBBA Operations	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	44	5	AK Municipal Bond Bank Auth	108	3	AMBBA Operations	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	44	5	AK Municipal Bond Bank Auth	108	3	AMBBA Operations	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	44	5	AK Municipal Bond Bank Auth	108	3	AMBBA Operations	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1104	4	14	Revenue	44	5	AK Municipal Bond Bank Auth	108	3	AMBBA Operations	1104 Alaska Municipal Bond Bank Receipts	Revenue	1104	Other Funds		904.50	0	0	0	0	0	0	0	0	0
+1108	4	14	Revenue	44	5	AK Municipal Bond Bank Auth	108	3	AMBBA Operations	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		105.00	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	44	5	AK Municipal Bond Bank Auth	108	3	AMBBA Operations	Permanent Full-Time	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	Personal Services	Expenditure	0			41097.40	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	Travel	Expenditure	0			547.00	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	Contractual Services	Expenditure	0			17816.90	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	Commodities	Expenditure	0			2489.30	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	Capital Outlay	Expenditure	0			312.10	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	Grants, Benefits	Expenditure	0			37230.50	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	1002 Federal Receipts	Revenue	1002	Federal Funds		60966.20	0	0	0	0	0	0	0	0	0
+1007	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	797.30	0	0	0	0	0	0	0	0	0
+1061	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	2346.90	0	0	0	0	0	0	0	0	0
+1103	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	1103 Alaska Housing Finance Corporation Receipts	Revenue	1103	Other Funds		35382.80	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	Permanent Full-Time	Position Count	0			314.00	0	0	0	0	0	0	0	0	0
+11000	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	Permanent Part-Time	Position Count	0			22.00	0	0	0	0	0	0	0	0	0
+12000	4	14	Revenue	46	6	Alaska Housing Finance Corp	110	1	AHFC Operations	Non-Permanent	Position Count	0			14.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	46	6	Alaska Housing Finance Corp	3048	4	AK Corp for Affordable Housing	Personal Services	Expenditure	0			284.90	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	46	6	Alaska Housing Finance Corp	3048	4	AK Corp for Affordable Housing	Travel	Expenditure	0			24.80	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	46	6	Alaska Housing Finance Corp	3048	4	AK Corp for Affordable Housing	Contractual Services	Expenditure	0			129.70	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	46	6	Alaska Housing Finance Corp	3048	4	AK Corp for Affordable Housing	Commodities	Expenditure	0			24.80	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	46	6	Alaska Housing Finance Corp	3048	4	AK Corp for Affordable Housing	Capital Outlay	Expenditure	0			15.00	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	46	6	Alaska Housing Finance Corp	3048	4	AK Corp for Affordable Housing	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	46	6	Alaska Housing Finance Corp	3048	4	AK Corp for Affordable Housing	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	46	6	Alaska Housing Finance Corp	3048	4	AK Corp for Affordable Housing	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	4	14	Revenue	46	6	Alaska Housing Finance Corp	3048	4	AK Corp for Affordable Housing	1002 Federal Receipts	Revenue	1002	Federal Funds		307.00	0	0	0	0	0	0	0	0	0
+1061	4	14	Revenue	46	6	Alaska Housing Finance Corp	3048	4	AK Corp for Affordable Housing	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	172.20	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	46	6	Alaska Housing Finance Corp	3048	4	AK Corp for Affordable Housing	Permanent Full-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	45	7	AK Permanent Fund Corporation	109	1	APFC Operations	Personal Services	Expenditure	0			12839.40	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	45	7	AK Permanent Fund Corporation	109	1	APFC Operations	Travel	Expenditure	0			700.00	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	45	7	AK Permanent Fund Corporation	109	1	APFC Operations	Contractual Services	Expenditure	0			3404.40	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	45	7	AK Permanent Fund Corporation	109	1	APFC Operations	Commodities	Expenditure	0			336.90	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	45	7	AK Permanent Fund Corporation	109	1	APFC Operations	Capital Outlay	Expenditure	0			400.00	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	45	7	AK Permanent Fund Corporation	109	1	APFC Operations	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	45	7	AK Permanent Fund Corporation	109	1	APFC Operations	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	45	7	AK Permanent Fund Corporation	109	1	APFC Operations	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1105	4	14	Revenue	45	7	AK Permanent Fund Corporation	109	1	APFC Operations	1105 Alaska Permanent Fund Corporation Receipts	Revenue	1105	Other Funds		17680.70	0	0	0	0	0	0	0	0	0
+10000	4	14	Revenue	45	7	AK Permanent Fund Corporation	109	1	APFC Operations	Permanent Full-Time	Position Count	0			58.00	0	0	0	0	0	0	0	0	0
+11000	4	14	Revenue	45	7	AK Permanent Fund Corporation	109	1	APFC Operations	Permanent Part-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+12000	4	14	Revenue	45	7	AK Permanent Fund Corporation	109	1	APFC Operations	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	45	7	AK Permanent Fund Corporation	2310	1	APFC Investment Management Fees	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	45	7	AK Permanent Fund Corporation	2310	1	APFC Investment Management Fees	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	45	7	AK Permanent Fund Corporation	2310	1	APFC Investment Management Fees	Contractual Services	Expenditure	0			129400.60	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	45	7	AK Permanent Fund Corporation	2310	1	APFC Investment Management Fees	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	45	7	AK Permanent Fund Corporation	2310	1	APFC Investment Management Fees	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	45	7	AK Permanent Fund Corporation	2310	1	APFC Investment Management Fees	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	45	7	AK Permanent Fund Corporation	2310	1	APFC Investment Management Fees	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	45	7	AK Permanent Fund Corporation	2310	1	APFC Investment Management Fees	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1105	4	14	Revenue	45	7	AK Permanent Fund Corporation	2310	1	APFC Investment Management Fees	1105 Alaska Permanent Fund Corporation Receipts	Revenue	1105	Other Funds		129400.60	0	0	0	0	0	0	0	0	0

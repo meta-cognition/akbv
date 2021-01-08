@@ -1,0 +1,25 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1001	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1397.00	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4190.80	0	0	0	0	0	0	0	0	0
+1005	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		1334.00	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	4247.40	0	0	0	0	0	0	0	0	0
+1061	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	489.10	0	0	0	0	0	0	0	0	0
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Personal Services	Expenditure	0			6224.80	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Travel	Expenditure	0			14.70	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Contractual Services	Expenditure	0			5373.80	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Commodities	Expenditure	0			45.00	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Travel	Expenditure	0			17.00	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Contractual Services	Expenditure	0			35661.90	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1017	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	1017 Benefits Systems Receipts	Revenue	1017	Other Funds		35678.90	0	0	0	0	0	0	0	0	0

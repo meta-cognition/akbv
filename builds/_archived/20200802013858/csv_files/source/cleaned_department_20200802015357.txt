@@ -1,0 +1,154 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	31	18	Legislature	247	1	Budget and Audit Committee	773	1	Legislative Audit	Personal Services	Expenditure	0			5571.10	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	247	1	Budget and Audit Committee	773	1	Legislative Audit	Travel	Expenditure	0			85.20	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	247	1	Budget and Audit Committee	773	1	Legislative Audit	Contractual Services	Expenditure	0			545.20	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	247	1	Budget and Audit Committee	773	1	Legislative Audit	Commodities	Expenditure	0			61.00	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	247	1	Budget and Audit Committee	773	1	Legislative Audit	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	247	1	Budget and Audit Committee	773	1	Legislative Audit	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	247	1	Budget and Audit Committee	773	1	Legislative Audit	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	247	1	Budget and Audit Committee	773	1	Legislative Audit	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	31	18	Legislature	247	1	Budget and Audit Committee	773	1	Legislative Audit	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1315.60	0	0	0	0	0	0	0	0	0
+1004	31	18	Legislature	247	1	Budget and Audit Committee	773	1	Legislative Audit	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3946.90	0	0	0	0	0	0	0	0	0
+1007	31	18	Legislature	247	1	Budget and Audit Committee	773	1	Legislative Audit	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1000.00	0	0	0	0	0	0	0	0	0
+10000	31	18	Legislature	247	1	Budget and Audit Committee	773	1	Legislative Audit	Permanent Full-Time	Position Count	0			40.00	0	0	0	0	0	0	0	0	0
+11000	31	18	Legislature	247	1	Budget and Audit Committee	773	1	Legislative Audit	Permanent Part-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	31	18	Legislature	247	1	Budget and Audit Committee	774	2	Legislative Finance	Personal Services	Expenditure	0			6649.40	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	247	1	Budget and Audit Committee	774	2	Legislative Finance	Travel	Expenditure	0			198.10	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	247	1	Budget and Audit Committee	774	2	Legislative Finance	Contractual Services	Expenditure	0			373.60	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	247	1	Budget and Audit Committee	774	2	Legislative Finance	Commodities	Expenditure	0			34.40	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	247	1	Budget and Audit Committee	774	2	Legislative Finance	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	247	1	Budget and Audit Committee	774	2	Legislative Finance	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	247	1	Budget and Audit Committee	774	2	Legislative Finance	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	247	1	Budget and Audit Committee	774	2	Legislative Finance	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	31	18	Legislature	247	1	Budget and Audit Committee	774	2	Legislative Finance	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1813.90	0	0	0	0	0	0	0	0	0
+1004	31	18	Legislature	247	1	Budget and Audit Committee	774	2	Legislative Finance	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5441.60	0	0	0	0	0	0	0	0	0
+10000	31	18	Legislature	247	1	Budget and Audit Committee	774	2	Legislative Finance	Permanent Full-Time	Position Count	0			46.00	0	0	0	0	0	0	0	0	0
+11000	31	18	Legislature	247	1	Budget and Audit Committee	774	2	Legislative Finance	Permanent Part-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	31	18	Legislature	247	1	Budget and Audit Committee	775	4	Committee Expenses	Personal Services	Expenditure	0			435.70	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	247	1	Budget and Audit Committee	775	4	Committee Expenses	Travel	Expenditure	0			42.10	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	247	1	Budget and Audit Committee	775	4	Committee Expenses	Contractual Services	Expenditure	0			1421.90	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	247	1	Budget and Audit Committee	775	4	Committee Expenses	Commodities	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	247	1	Budget and Audit Committee	775	4	Committee Expenses	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	247	1	Budget and Audit Committee	775	4	Committee Expenses	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	247	1	Budget and Audit Committee	775	4	Committee Expenses	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	247	1	Budget and Audit Committee	775	4	Committee Expenses	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	31	18	Legislature	247	1	Budget and Audit Committee	775	4	Committee Expenses	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		477.40	0	0	0	0	0	0	0	0	0
+1004	31	18	Legislature	247	1	Budget and Audit Committee	775	4	Committee Expenses	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1432.30	0	0	0	0	0	0	0	0	0
+10000	31	18	Legislature	247	1	Budget and Audit Committee	775	4	Committee Expenses	Permanent Full-Time	Position Count	0			3.00	0	0	0	0	0	0	0	0	0
+11000	31	18	Legislature	247	1	Budget and Audit Committee	775	4	Committee Expenses	Permanent Part-Time	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Personal Services	Expenditure	0			9833.00	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Travel	Expenditure	0			141.00	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Contractual Services	Expenditure	0			2160.20	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Commodities	Expenditure	0			522.40	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Capital Outlay	Expenditure	0			18.00	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		3092.10	0	0	0	0	0	0	0	0	0
+1004	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		9276.20	0	0	0	0	0	0	0	0	0
+1005	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		251.30	0	0	0	0	0	0	0	0	0
+1007	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	55.00	0	0	0	0	0	0	0	0	0
+10000	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Permanent Full-Time	Position Count	0			68.00	0	0	0	0	0	0	0	0	0
+11000	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Permanent Part-Time	Position Count	0			44.00	0	0	0	0	0	0	0	0	0
+12000	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Non-Permanent	Position Count	0			28.00	0	0	0	0	0	0	0	0	0
+1	31	18	Legislature	248	2	Legislative Council	783	3	Council and Subcommittees	Personal Services	Expenditure	0			165.00	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	248	2	Legislative Council	783	3	Council and Subcommittees	Travel	Expenditure	0			75.00	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	248	2	Legislative Council	783	3	Council and Subcommittees	Contractual Services	Expenditure	0			397.00	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	248	2	Legislative Council	783	3	Council and Subcommittees	Commodities	Expenditure	0			45.00	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	248	2	Legislative Council	783	3	Council and Subcommittees	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	248	2	Legislative Council	783	3	Council and Subcommittees	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	248	2	Legislative Council	783	3	Council and Subcommittees	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	248	2	Legislative Council	783	3	Council and Subcommittees	Miscellaneous	Expenditure	0			2500.00	0	0	0	0	0	0	0	0	0
+1001	31	18	Legislature	248	2	Legislative Council	783	3	Council and Subcommittees	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		170.50	0	0	0	0	0	0	0	0	0
+1004	31	18	Legislature	248	2	Legislative Council	783	3	Council and Subcommittees	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3011.50	0	0	0	0	0	0	0	0	0
+1	31	18	Legislature	248	2	Legislative Council	2028	4	Legal and Research Services	Personal Services	Expenditure	0			4322.30	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	248	2	Legislative Council	2028	4	Legal and Research Services	Travel	Expenditure	0			69.00	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	248	2	Legislative Council	2028	4	Legal and Research Services	Contractual Services	Expenditure	0			76.10	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	248	2	Legislative Council	2028	4	Legal and Research Services	Commodities	Expenditure	0			99.50	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	248	2	Legislative Council	2028	4	Legal and Research Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	248	2	Legislative Council	2028	4	Legal and Research Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	248	2	Legislative Council	2028	4	Legal and Research Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	248	2	Legislative Council	2028	4	Legal and Research Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	31	18	Legislature	248	2	Legislative Council	2028	4	Legal and Research Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1141.70	0	0	0	0	0	0	0	0	0
+1004	31	18	Legislature	248	2	Legislative Council	2028	4	Legal and Research Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3425.20	0	0	0	0	0	0	0	0	0
+10000	31	18	Legislature	248	2	Legislative Council	2028	4	Legal and Research Services	Permanent Full-Time	Position Count	0			20.00	0	0	0	0	0	0	0	0	0
+11000	31	18	Legislature	248	2	Legislative Council	2028	4	Legal and Research Services	Permanent Part-Time	Position Count	0			14.00	0	0	0	0	0	0	0	0	0
+1	31	18	Legislature	248	2	Legislative Council	2321	5	Ethics Committee	Personal Services	Expenditure	0			195.90	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	248	2	Legislative Council	2321	5	Ethics Committee	Travel	Expenditure	0			25.00	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	248	2	Legislative Council	2321	5	Ethics Committee	Contractual Services	Expenditure	0			30.80	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	248	2	Legislative Council	2321	5	Ethics Committee	Commodities	Expenditure	0			1.80	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	248	2	Legislative Council	2321	5	Ethics Committee	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	248	2	Legislative Council	2321	5	Ethics Committee	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	248	2	Legislative Council	2321	5	Ethics Committee	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	248	2	Legislative Council	2321	5	Ethics Committee	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	31	18	Legislature	248	2	Legislative Council	2321	5	Ethics Committee	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		63.40	0	0	0	0	0	0	0	0	0
+1004	31	18	Legislature	248	2	Legislative Council	2321	5	Ethics Committee	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		190.10	0	0	0	0	0	0	0	0	0
+10000	31	18	Legislature	248	2	Legislative Council	2321	5	Ethics Committee	Permanent Full-Time	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+11000	31	18	Legislature	248	2	Legislative Council	2321	5	Ethics Committee	Permanent Part-Time	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	31	18	Legislature	248	2	Legislative Council	2769	6	Office of Victims Rights	Personal Services	Expenditure	0			932.00	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	248	2	Legislative Council	2769	6	Office of Victims Rights	Travel	Expenditure	0			7.00	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	248	2	Legislative Council	2769	6	Office of Victims Rights	Contractual Services	Expenditure	0			22.60	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	248	2	Legislative Council	2769	6	Office of Victims Rights	Commodities	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	248	2	Legislative Council	2769	6	Office of Victims Rights	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	248	2	Legislative Council	2769	6	Office of Victims Rights	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	248	2	Legislative Council	2769	6	Office of Victims Rights	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	248	2	Legislative Council	2769	6	Office of Victims Rights	Miscellaneous	Expenditure	0			27.90	0	0	0	0	0	0	0	0	0
+1001	31	18	Legislature	248	2	Legislative Council	2769	6	Office of Victims Rights	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		98.10	0	0	0	0	0	0	0	0	0
+1004	31	18	Legislature	248	2	Legislative Council	2769	6	Office of Victims Rights	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		294.10	0	0	0	0	0	0	0	0	0
+1171	31	18	Legislature	248	2	Legislative Council	2769	6	Office of Victims Rights	1171 PF Dividend Appropriations in lieu of Dividends to Criminals	Revenue	1171	Other Funds	Duplicated	607.30	0	0	0	0	0	0	0	0	0
+10000	31	18	Legislature	248	2	Legislative Council	2769	6	Office of Victims Rights	Permanent Full-Time	Position Count	0			7.00	0	0	0	0	0	0	0	0	0
+1	31	18	Legislature	248	2	Legislative Council	790	7	Ombudsman	Personal Services	Expenditure	0			1209.20	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	248	2	Legislative Council	790	7	Ombudsman	Travel	Expenditure	0			28.10	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	248	2	Legislative Council	790	7	Ombudsman	Contractual Services	Expenditure	0			72.20	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	248	2	Legislative Council	790	7	Ombudsman	Commodities	Expenditure	0			9.50	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	248	2	Legislative Council	790	7	Ombudsman	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	248	2	Legislative Council	790	7	Ombudsman	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	248	2	Legislative Council	790	7	Ombudsman	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	248	2	Legislative Council	790	7	Ombudsman	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	31	18	Legislature	248	2	Legislative Council	790	7	Ombudsman	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		329.80	0	0	0	0	0	0	0	0	0
+1004	31	18	Legislature	248	2	Legislative Council	790	7	Ombudsman	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		989.20	0	0	0	0	0	0	0	0	0
+10000	31	18	Legislature	248	2	Legislative Council	790	7	Ombudsman	Permanent Full-Time	Position Count	0			10.00	0	0	0	0	0	0	0	0	0
+1	31	18	Legislature	248	2	Legislative Council	2485	8	LEG State Facilities Rent	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	248	2	Legislative Council	2485	8	LEG State Facilities Rent	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	248	2	Legislative Council	2485	8	LEG State Facilities Rent	Contractual Services	Expenditure	0			1529.80	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	248	2	Legislative Council	2485	8	LEG State Facilities Rent	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	248	2	Legislative Council	2485	8	LEG State Facilities Rent	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	248	2	Legislative Council	2485	8	LEG State Facilities Rent	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	248	2	Legislative Council	2485	8	LEG State Facilities Rent	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	248	2	Legislative Council	2485	8	LEG State Facilities Rent	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	31	18	Legislature	248	2	Legislative Council	2485	8	LEG State Facilities Rent	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		382.50	0	0	0	0	0	0	0	0	0
+1004	31	18	Legislature	248	2	Legislative Council	2485	8	LEG State Facilities Rent	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1147.30	0	0	0	0	0	0	0	0	0
+1	31	18	Legislature	249	4	Legislative Operating Budget	3232	0	Leg Salaries and Allowances	Personal Services	Expenditure	0			5147.30	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	249	4	Legislative Operating Budget	3232	0	Leg Salaries and Allowances	Travel	Expenditure	0			2607.60	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	249	4	Legislative Operating Budget	3232	0	Leg Salaries and Allowances	Contractual Services	Expenditure	0			580.00	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	249	4	Legislative Operating Budget	3232	0	Leg Salaries and Allowances	Commodities	Expenditure	0			100.00	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	249	4	Legislative Operating Budget	3232	0	Leg Salaries and Allowances	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	249	4	Legislative Operating Budget	3232	0	Leg Salaries and Allowances	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	249	4	Legislative Operating Budget	3232	0	Leg Salaries and Allowances	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	249	4	Legislative Operating Budget	3232	0	Leg Salaries and Allowances	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	31	18	Legislature	249	4	Legislative Operating Budget	3232	0	Leg Salaries and Allowances	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		2108.70	0	0	0	0	0	0	0	0	0
+1004	31	18	Legislature	249	4	Legislative Operating Budget	3232	0	Leg Salaries and Allowances	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		6326.20	0	0	0	0	0	0	0	0	0
+10000	31	18	Legislature	249	4	Legislative Operating Budget	3232	0	Leg Salaries and Allowances	Permanent Full-Time	Position Count	0			60.00	0	0	0	0	0	0	0	0	0
+1	31	18	Legislature	249	4	Legislative Operating Budget	796	1	Legislative Operating Budget	Personal Services	Expenditure	0			9817.40	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	249	4	Legislative Operating Budget	796	1	Legislative Operating Budget	Travel	Expenditure	0			350.00	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	249	4	Legislative Operating Budget	796	1	Legislative Operating Budget	Contractual Services	Expenditure	0			885.90	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	249	4	Legislative Operating Budget	796	1	Legislative Operating Budget	Commodities	Expenditure	0			73.00	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	249	4	Legislative Operating Budget	796	1	Legislative Operating Budget	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	249	4	Legislative Operating Budget	796	1	Legislative Operating Budget	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	249	4	Legislative Operating Budget	796	1	Legislative Operating Budget	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	249	4	Legislative Operating Budget	796	1	Legislative Operating Budget	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	31	18	Legislature	249	4	Legislative Operating Budget	796	1	Legislative Operating Budget	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		2781.60	0	0	0	0	0	0	0	0	0
+1004	31	18	Legislature	249	4	Legislative Operating Budget	796	1	Legislative Operating Budget	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		8344.70	0	0	0	0	0	0	0	0	0
+1	31	18	Legislature	249	4	Legislative Operating Budget	782	2	Session Expenses	Personal Services	Expenditure	0			8164.50	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	249	4	Legislative Operating Budget	782	2	Session Expenses	Travel	Expenditure	0			514.00	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	249	4	Legislative Operating Budget	782	2	Session Expenses	Contractual Services	Expenditure	0			672.80	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	249	4	Legislative Operating Budget	782	2	Session Expenses	Commodities	Expenditure	0			334.50	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	249	4	Legislative Operating Budget	782	2	Session Expenses	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	249	4	Legislative Operating Budget	782	2	Session Expenses	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	249	4	Legislative Operating Budget	782	2	Session Expenses	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	249	4	Legislative Operating Budget	782	2	Session Expenses	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	31	18	Legislature	249	4	Legislative Operating Budget	782	2	Session Expenses	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		2394.20	0	0	0	0	0	0	0	0	0
+1004	31	18	Legislature	249	4	Legislative Operating Budget	782	2	Session Expenses	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		7182.60	0	0	0	0	0	0	0	0	0
+1005	31	18	Legislature	249	4	Legislative Operating Budget	782	2	Session Expenses	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		76.40	0	0	0	0	0	0	0	0	0
+1007	31	18	Legislature	249	4	Legislative Operating Budget	782	2	Session Expenses	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	32.60	0	0	0	0	0	0	0	0	0
+11000	31	18	Legislature	249	4	Legislative Operating Budget	782	2	Session Expenses	Permanent Part-Time	Position Count	0			224.00	0	0	0	0	0	0	0	0	0

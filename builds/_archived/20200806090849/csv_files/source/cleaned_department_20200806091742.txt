@@ -1,0 +1,140 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	Personal Services	Expenditure	0			950.70	0	0	0	0	0	0	0	0	0
+2	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	Travel	Expenditure	0			37.00	0	0	0	0	0	0	0	0	0
+3	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	Contractual Services	Expenditure	0			19.90	0	0	0	0	0	0	0	0	0
+4	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	Commodities	Expenditure	0			10.60	0	0	0	0	0	0	0	0	0
+5	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		106.40	0	0	0	0	0	0	0	0	0
+1002	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	1002 Federal Receipts	Revenue	1002	Federal Funds		562.50	0	0	0	0	0	0	0	0	0
+1004	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		319.20	0	0	0	0	0	0	0	0	0
+1007	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	23.20	0	0	0	0	0	0	0	0	0
+1018	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	1018 Exxon Valdez Oil Spill Settlement	Revenue	1018	Other Funds		6.90	0	0	0	0	0	0	0	0	0
+10000	18	5	Environ Conservation	202	1	Administration	633	1	Office of the Commissioner	Permanent Full-Time	Position Count	0			6.00	0	0	0	0	0	0	0	0	0
+1	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Personal Services	Expenditure	0			4818.00	0	0	0	0	0	0	0	0	0
+2	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Travel	Expenditure	0			25.00	0	0	0	0	0	0	0	0	0
+3	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Contractual Services	Expenditure	0			859.40	0	0	0	0	0	0	0	0	0
+4	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Commodities	Expenditure	0			48.90	0	0	0	0	0	0	0	0	0
+5	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		18.10	0	0	0	0	0	0	0	0	0
+1002	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	1002 Federal Receipts	Revenue	1002	Federal Funds		1517.10	0	0	0	0	0	0	0	0	0
+1003	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		41.50	0	0	0	0	0	0	0	0	0
+1004	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		12.70	0	0	0	0	0	0	0	0	0
+1007	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	498.30	0	0	0	0	0	0	0	0	0
+1052	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	1052 Oil/Hazardous Prevention/Response Fund	Revenue	1052	Designated General Funds		1700.90	0	0	0	0	0	0	0	0	0
+1061	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	751.40	0	0	0	0	0	0	0	0	0
+1093	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	1093 Clean Air Protection Fund	Revenue	1093	Other Funds		428.80	0	0	0	0	0	0	0	0	0
+1108	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		30.00	0	0	0	0	0	0	0	0	0
+1166	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	1166 Commercial Passenger Vessel Environmental Compliance Fund	Revenue	1166	Other Funds		209.80	0	0	0	0	0	0	0	0	0
+1205	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	1205 Berth Fees for the Ocean Ranger Program	Revenue	1205	Other Funds		19.70	0	0	0	0	0	0	0	0	0
+1230	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	1230 Alaska Clean Water Administrative Fund	Revenue	1230	Other Funds		331.70	0	0	0	0	0	0	0	0	0
+1231	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	1231 Alaska Drinking Water Administrative Fund	Revenue	1231	Other Funds		191.30	0	0	0	0	0	0	0	0	0
+10000	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Permanent Full-Time	Position Count	0			45.00	0	0	0	0	0	0	0	0	0
+1	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	Contractual Services	Expenditure	0			3278.60	0	0	0	0	0	0	0	0	0
+4	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		492.10	0	0	0	0	0	0	0	0	0
+1002	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	1002 Federal Receipts	Revenue	1002	Federal Funds		612.40	0	0	0	0	0	0	0	0	0
+1003	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		13.70	0	0	0	0	0	0	0	0	0
+1004	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1462.60	0	0	0	0	0	0	0	0	0
+1052	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	1052 Oil/Hazardous Prevention/Response Fund	Revenue	1052	Designated General Funds		430.80	0	0	0	0	0	0	0	0	0
+1093	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	1093 Clean Air Protection Fund	Revenue	1093	Other Funds		118.80	0	0	0	0	0	0	0	0	0
+1166	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	1166 Commercial Passenger Vessel Environmental Compliance Fund	Revenue	1166	Other Funds		61.10	0	0	0	0	0	0	0	0	0
+1205	18	5	Environ Conservation	202	1	Administration	2750	3	State Support Services	1205 Berth Fees for the Ocean Ranger Program	Revenue	1205	Other Funds		87.10	0	0	0	0	0	0	0	0	0
+1	18	5	Environ Conservation	531	2	DEC Bldgs Maint & Operations	2783	0	DEC Bldgs Maint & Operations	Personal Services	Expenditure	0			192.40	0	0	0	0	0	0	0	0	0
+2	18	5	Environ Conservation	531	2	DEC Bldgs Maint & Operations	2783	0	DEC Bldgs Maint & Operations	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	18	5	Environ Conservation	531	2	DEC Bldgs Maint & Operations	2783	0	DEC Bldgs Maint & Operations	Contractual Services	Expenditure	0			427.30	0	0	0	0	0	0	0	0	0
+4	18	5	Environ Conservation	531	2	DEC Bldgs Maint & Operations	2783	0	DEC Bldgs Maint & Operations	Commodities	Expenditure	0			27.50	0	0	0	0	0	0	0	0	0
+5	18	5	Environ Conservation	531	2	DEC Bldgs Maint & Operations	2783	0	DEC Bldgs Maint & Operations	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	18	5	Environ Conservation	531	2	DEC Bldgs Maint & Operations	2783	0	DEC Bldgs Maint & Operations	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	18	5	Environ Conservation	531	2	DEC Bldgs Maint & Operations	2783	0	DEC Bldgs Maint & Operations	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	18	5	Environ Conservation	531	2	DEC Bldgs Maint & Operations	2783	0	DEC Bldgs Maint & Operations	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	18	5	Environ Conservation	531	2	DEC Bldgs Maint & Operations	2783	0	DEC Bldgs Maint & Operations	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		161.80	0	0	0	0	0	0	0	0	0
+1004	18	5	Environ Conservation	531	2	DEC Bldgs Maint & Operations	2783	0	DEC Bldgs Maint & Operations	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		485.40	0	0	0	0	0	0	0	0	0
+10000	18	5	Environ Conservation	531	2	DEC Bldgs Maint & Operations	2783	0	DEC Bldgs Maint & Operations	Permanent Full-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	Personal Services	Expenditure	0			14650.00	0	0	0	0	0	0	0	0	0
+2	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	Travel	Expenditure	0			390.40	0	0	0	0	0	0	0	0	0
+3	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	Contractual Services	Expenditure	0			2017.80	0	0	0	0	0	0	0	0	0
+4	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	Commodities	Expenditure	0			321.90	0	0	0	0	0	0	0	0	0
+5	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1491.90	0	0	0	0	0	0	0	0	0
+1002	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	1002 Federal Receipts	Revenue	1002	Federal Funds		6502.90	0	0	0	0	0	0	0	0	0
+1003	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1362.80	0	0	0	0	0	0	0	0	0
+1004	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3112.80	0	0	0	0	0	0	0	0	0
+1005	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		4030.00	0	0	0	0	0	0	0	0	0
+1007	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	90.90	0	0	0	0	0	0	0	0	0
+1108	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		15.10	0	0	0	0	0	0	0	0	0
+1166	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	1166 Commercial Passenger Vessel Environmental Compliance Fund	Revenue	1166	Other Funds		457.70	0	0	0	0	0	0	0	0	0
+1205	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	1205 Berth Fees for the Ocean Ranger Program	Revenue	1205	Other Funds		316.00	0	0	0	0	0	0	0	0	0
+10000	18	5	Environ Conservation	207	3	Environmental Health	3202	0	Environmental Health	Permanent Full-Time	Position Count	0			124.00	0	0	0	0	0	0	0	0	0
+1	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	Personal Services	Expenditure	0			7496.60	0	0	0	0	0	0	0	0	0
+2	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	Travel	Expenditure	0			132.50	0	0	0	0	0	0	0	0	0
+3	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	Contractual Services	Expenditure	0			3040.50	0	0	0	0	0	0	0	0	0
+4	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	Commodities	Expenditure	0			234.00	0	0	0	0	0	0	0	0	0
+5	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	Capital Outlay	Expenditure	0			64.50	0	0	0	0	0	0	0	0	0
+6	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		438.60	0	0	0	0	0	0	0	0	0
+1002	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	1002 Federal Receipts	Revenue	1002	Federal Funds		2228.10	0	0	0	0	0	0	0	0	0
+1003	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1088.20	0	0	0	0	0	0	0	0	0
+1004	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		227.50	0	0	0	0	0	0	0	0	0
+1005	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		2295.60	0	0	0	0	0	0	0	0	0
+1007	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	41.60	0	0	0	0	0	0	0	0	0
+1061	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	163.50	0	0	0	0	0	0	0	0	0
+1093	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	1093 Clean Air Protection Fund	Revenue	1093	Other Funds		4067.20	0	0	0	0	0	0	0	0	0
+1108	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		18.30	0	0	0	0	0	0	0	0	0
+1166	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	1166 Commercial Passenger Vessel Environmental Compliance Fund	Revenue	1166	Other Funds		312.60	0	0	0	0	0	0	0	0	0
+1236	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	1236 Alaska Liquefied Natural Gas Project Fund I/A (AK LNG I/A)	Revenue	1236	Other Funds	Duplicated	86.90	0	0	0	0	0	0	0	0	0
+10000	18	5	Environ Conservation	206	4	Air Quality	2061	7	Air Quality	Permanent Full-Time	Position Count	0			66.00	0	0	0	0	0	0	0	0	0
+1	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	Personal Services	Expenditure	0			14858.20	0	0	0	0	0	0	0	0	0
+2	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	Travel	Expenditure	0			329.50	0	0	0	0	0	0	0	0	0
+3	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	Contractual Services	Expenditure	0			4299.90	0	0	0	0	0	0	0	0	0
+4	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	Commodities	Expenditure	0			117.20	0	0	0	0	0	0	0	0	0
+5	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	1002 Federal Receipts	Revenue	1002	Federal Funds		4733.70	0	0	0	0	0	0	0	0	0
+1007	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	416.50	0	0	0	0	0	0	0	0	0
+1052	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	1052 Oil/Hazardous Prevention/Response Fund	Revenue	1052	Designated General Funds		13557.80	0	0	0	0	0	0	0	0	0
+1055	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	1055 Interagency/Oil & Hazardous Waste	Revenue	1055	Other Funds	Duplicated	380.50	0	0	0	0	0	0	0	0	0
+1061	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	69.20	0	0	0	0	0	0	0	0	0
+1166	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	1166 Commercial Passenger Vessel Environmental Compliance Fund	Revenue	1166	Other Funds		447.10	0	0	0	0	0	0	0	0	0
+10000	18	5	Environ Conservation	208	5	Spill Prevention and Response	3094	1	Spill Prevention and Response	Permanent Full-Time	Position Count	0			128.00	0	0	0	0	0	0	0	0	0
+1	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	Personal Services	Expenditure	0			13471.30	0	0	0	0	0	0	0	0	0
+2	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	Travel	Expenditure	0			473.10	0	0	0	0	0	0	0	0	0
+3	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	Contractual Services	Expenditure	0			4897.40	0	0	0	0	0	0	0	0	0
+4	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	Commodities	Expenditure	0			170.80	0	0	0	0	0	0	0	0	0
+5	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	Capital Outlay	Expenditure	0			30.00	0	0	0	0	0	0	0	0	0
+6	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	Grants, Benefits	Expenditure	0			2645.20	0	0	0	0	0	0	0	0	0
+8	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1157.10	0	0	0	0	0	0	0	0	0
+1002	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	1002 Federal Receipts	Revenue	1002	Federal Funds		7816.80	0	0	0	0	0	0	0	0	0
+1003	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1001.80	0	0	0	0	0	0	0	0	0
+1004	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2469.70	0	0	0	0	0	0	0	0	0
+1005	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		2631.30	0	0	0	0	0	0	0	0	0
+1007	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	460.30	0	0	0	0	0	0	0	0	0
+1061	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	2434.70	0	0	0	0	0	0	0	0	0
+1108	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		15.00	0	0	0	0	0	0	0	0	0
+1166	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	1166 Commercial Passenger Vessel Environmental Compliance Fund	Revenue	1166	Other Funds		449.70	0	0	0	0	0	0	0	0	0
+1205	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	1205 Berth Fees for the Ocean Ranger Program	Revenue	1205	Other Funds		2000.00	0	0	0	0	0	0	0	0	0
+1230	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	1230 Alaska Clean Water Administrative Fund	Revenue	1230	Other Funds		958.00	0	0	0	0	0	0	0	0	0
+1231	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	1231 Alaska Drinking Water Administrative Fund	Revenue	1231	Other Funds		282.90	0	0	0	0	0	0	0	0	0
+1236	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	1236 Alaska Liquefied Natural Gas Project Fund I/A (AK LNG I/A)	Revenue	1236	Other Funds	Duplicated	10.50	0	0	0	0	0	0	0	0	0
+10000	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	Permanent Full-Time	Position Count	0			107.00	0	0	0	0	0	0	0	0	0
+12000	18	5	Environ Conservation	210	6	Water	3204	0	Water Qlty Infrastructure	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0

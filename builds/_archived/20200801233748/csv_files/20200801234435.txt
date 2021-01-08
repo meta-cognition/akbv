@@ -1,0 +1,89 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Personal Services	Expenditure	0			2108.60	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Travel	Expenditure	0			5.50	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Contractual Services	Expenditure	0			778.10	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Commodities	Expenditure	0			21.70	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	3	10	Law	280	3	Administration and Support	2164	2	Administrative Services	Personal Services	Expenditure	0			1747.60	0	0	0	0	0	0	0	0	0
+2	3	10	Law	280	3	Administration and Support	2164	2	Administrative Services	Travel	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0
+3	3	10	Law	280	3	Administration and Support	2164	2	Administrative Services	Contractual Services	Expenditure	0			1405.80	0	0	0	0	0	0	0	0	0
+4	3	10	Law	280	3	Administration and Support	2164	2	Administrative Services	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	3	10	Law	280	3	Administration and Support	2164	2	Administrative Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	3	10	Law	280	3	Administration and Support	2164	2	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	3	10	Law	280	3	Administration and Support	2164	2	Administrative Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	3	10	Law	280	3	Administration and Support	2164	2	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Personal Services	Expenditure	0			1351.80	0	0	0	0	0	0	0	0	0
+2	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Travel	Expenditure	0			15.90	0	0	0	0	0	0	0	0	0
+3	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Contractual Services	Expenditure	0			1070.20	0	0	0	0	0	0	0	0	0
+4	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Commodities	Expenditure	0			17.00	0	0	0	0	0	0	0	0	0
+5	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	4	14	Revenue	50	3	Administration and Support	125	2	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Personal Services	Expenditure	0			1303.40	0	0	0	0	0	0	0	0	0
+2	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Contractual Services	Expenditure	0			511.30	0	0	0	0	0	0	0	0	0
+4	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Commodities	Expenditure	0			15.00	0	0	0	0	0	0	0	0	0
+5	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	5	4	Educ & Early Devel	677	3	Education Support and Adm Svcs	157	2	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	8	2	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Personal Services	Expenditure	0			3548.30	0	0	0	0	0	0	0	0	0
+2	8	2	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Travel	Expenditure	0			13.50	0	0	0	0	0	0	0	0	0
+3	8	2	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Contractual Services	Expenditure	0			801.50	0	0	0	0	0	0	0	0	0
+4	8	2	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Commodities	Expenditure	0			41.10	0	0	0	0	0	0	0	0	0
+5	8	2	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Capital Outlay	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0
+6	8	2	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	8	2	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	8	2	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	10	12	Natural Resources	600	1	Administration and Support	424	5	Administrative Services	Personal Services	Expenditure	0			2926.90	0	0	0	0	0	0	0	0	0
+2	10	12	Natural Resources	600	1	Administration and Support	424	5	Administrative Services	Travel	Expenditure	0			16.00	0	0	0	0	0	0	0	0	0
+3	10	12	Natural Resources	600	1	Administration and Support	424	5	Administrative Services	Contractual Services	Expenditure	0			736.60	0	0	0	0	0	0	0	0	0
+4	10	12	Natural Resources	600	1	Administration and Support	424	5	Administrative Services	Commodities	Expenditure	0			15.00	0	0	0	0	0	0	0	0	0
+5	10	12	Natural Resources	600	1	Administration and Support	424	5	Administrative Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	10	12	Natural Resources	600	1	Administration and Support	424	5	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	10	12	Natural Resources	600	1	Administration and Support	424	5	Administrative Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	10	12	Natural Resources	600	1	Administration and Support	424	5	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Personal Services	Expenditure	0			5014.00	0	0	0	0	0	0	0	0	0
+2	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Travel	Expenditure	0			35.70	0	0	0	0	0	0	0	0	0
+3	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Contractual Services	Expenditure	0			6369.60	0	0	0	0	0	0	0	0	0
+4	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Commodities	Expenditure	0			217.20	0	0	0	0	0	0	0	0	0
+5	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Capital Outlay	Expenditure	0			115.00	0	0	0	0	0	0	0	0	0
+6	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	11	6	Fish and Game	148	4	Statewide Support Services	479	2	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	12	13	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Personal Services	Expenditure	0			2529.10	0	0	0	0	0	0	0	0	0
+2	12	13	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Travel	Expenditure	0			26.10	0	0	0	0	0	0	0	0	0
+3	12	13	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Contractual Services	Expenditure	0			848.30	0	0	0	0	0	0	0	0	0
+4	12	13	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Commodities	Expenditure	0			83.80	0	0	0	0	0	0	0	0	0
+5	12	13	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Capital Outlay	Expenditure	0			17.00	0	0	0	0	0	0	0	0	0
+6	12	13	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	13	Public Safety	165	7	Statewide Support	525	3	Administrative Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	13	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Personal Services	Expenditure	0			4818.00	0	0	0	0	0	0	0	0	0
+2	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Travel	Expenditure	0			25.00	0	0	0	0	0	0	0	0	0
+3	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Contractual Services	Expenditure	0			859.40	0	0	0	0	0	0	0	0	0
+4	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Commodities	Expenditure	0			48.90	0	0	0	0	0	0	0	0	0
+5	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	18	5	Environ Conservation	202	1	Administration	635	2	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	20	3	Corrections	271	2	Administration and Support	697	3	Administrative Services	Personal Services	Expenditure	0			3602.80	0	0	0	0	0	0	0	0	0
+2	20	3	Corrections	271	2	Administration and Support	697	3	Administrative Services	Travel	Expenditure	0			9.80	0	0	0	0	0	0	0	0	0
+3	20	3	Corrections	271	2	Administration and Support	697	3	Administrative Services	Contractual Services	Expenditure	0			1235.10	0	0	0	0	0	0	0	0	0
+4	20	3	Corrections	271	2	Administration and Support	697	3	Administrative Services	Commodities	Expenditure	0			73.00	0	0	0	0	0	0	0	0	0
+5	20	3	Corrections	271	2	Administration and Support	697	3	Administrative Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	20	3	Corrections	271	2	Administration and Support	697	3	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	20	3	Corrections	271	2	Administration and Support	697	3	Administrative Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	20	3	Corrections	271	2	Administration and Support	697	3	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Personal Services	Expenditure	0			9833.00	0	0	0	0	0	0	0	0	0
+2	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Travel	Expenditure	0			141.00	0	0	0	0	0	0	0	0	0
+3	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Contractual Services	Expenditure	0			2160.20	0	0	0	0	0	0	0	0	0
+4	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Commodities	Expenditure	0			522.40	0	0	0	0	0	0	0	0	0
+5	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Capital Outlay	Expenditure	0			18.00	0	0	0	0	0	0	0	0	0
+6	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	31	18	Legislature	248	2	Legislative Council	780	2	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0

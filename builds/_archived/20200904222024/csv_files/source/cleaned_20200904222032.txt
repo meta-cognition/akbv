@@ -1,0 +1,67 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1001	25	15	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		177.2	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		531.4	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		8.6	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		25.7	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		65.3	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		195.7	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		203.1	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		609.4	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		235.1	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		705.4	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	333	1	Administration and Support	2757	9	Human Resources	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		132.8	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	333	1	Administration and Support	2757	9	Human Resources	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		398.2	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		151.4	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		454.3	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		67.7	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		203	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		120.2	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		360.5	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		251.6	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		754.8	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		28.5	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		85.5	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	333	1	Administration and Support	2762	15	Program Development	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		66.6	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	333	1	Administration and Support	2762	15	Program Development	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		199.7	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		286.1	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		858.1	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		230.6	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		691.7	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		26.7	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		80.1	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		31.1	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		93.4	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		31.9	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		95.7	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		24.4	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		73.3	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		40.1	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		120.2	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		14	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		41.8	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	408	12	Highways, Aviation and Facilities	3195	0	Facilities Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		27.4	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	408	12	Highways, Aviation and Facilities	3195	0	Facilities Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		82.3	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1747.2	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5241.6	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		2606.8	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		7820.4	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		781	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2343.1	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	408	12	Highways, Aviation and Facilities	565	15	Traffic Signal Management	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		439.8	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	408	12	Highways, Aviation and Facilities	565	15	Traffic Signal Management	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1319.5	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		4693.2	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		14499.7	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		8554.2	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		25662.7	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		2757.8	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		8273.3	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1980	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		44013.3	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	334	16	Marine Highway System	2979	2	Marine Vessel Fuel	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1949.1	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	334	16	Marine Highway System	2979	2	Marine Vessel Fuel	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5847.2	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		13.3	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		39.8	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		14.1	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		42.2	0	0	0	0	0	0	0	0	0
+1001	25	15	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		28	0	0	0	0	0	0	0	0	0
+1004	25	15	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		84	0	0	0	0	0	0	0	0	0

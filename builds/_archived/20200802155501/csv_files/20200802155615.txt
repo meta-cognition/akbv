@@ -1,0 +1,5 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1001	1	7	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		149.10	0	0	0	0	0	0	0	0	0
+1004	1	7	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		447.10	0	0	0	0	0	0	0	0	0
+1001	1	7	Governor	407	3	Gov State Facilities Rent	2779	0	Governor's Office Leasing	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		122.70	0	0	0	0	0	0	0	0	0
+1004	1	7	Governor	407	3	Gov State Facilities Rent	2779	0	Governor's Office Leasing	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		367.90	0	0	0	0	0	0	0	0	0

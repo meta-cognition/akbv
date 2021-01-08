@@ -1,0 +1,6 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT
+			Natural Resources			Fire Risk Reduction and Fuel Breaks				1004 General Fund Receipts	AP				5000.0								
+			Natural Resources			Abandoned Mine Lands Reclamation Federal Program				1002 Federal Receipts	AP				3200.0								
+			Natural Resources			National Recreational Trails Federal Grant Program				1002 Federal Receipts	AP				1500.0								
+			Natural Resources			National Recreational Trails Federal Grant Program				1005 General Fund/Program Receipts	AP				100.0								
+			Natural Resources			Snowmobile Trail Development Program and Grants				1195 SnoMachReg	AP				250.0								

@@ -1,0 +1,353 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	2	1	Administration	13	2	Centralized Admin. Services	2771	1	Administrative Hearings	Line 71000	Expenditure	0			2277.10	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	2771	1	Administrative Hearings	Line 72000	Expenditure	0			42.00	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	2771	1	Administrative Hearings	Line 73000	Expenditure	0			380.10	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	2771	1	Administrative Hearings	Line 74000	Expenditure	0			23.00	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	2771	1	Administrative Hearings	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	2771	1	Administrative Hearings	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	2771	1	Administrative Hearings	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	2771	1	Administrative Hearings	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	13	2	Centralized Admin. Services	2771	1	Administrative Hearings	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		22.00	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	13	2	Centralized Admin. Services	2771	1	Administrative Hearings	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		65.80	0	0	0	0	0	0	0	0	0
+1005	2	1	Administration	13	2	Centralized Admin. Services	2771	1	Administrative Hearings	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		100.00	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	13	2	Centralized Admin. Services	2771	1	Administrative Hearings	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	2534.40	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	13	2	Centralized Admin. Services	2771	1	Administrative Hearings	PFT	Position Count	0			16.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	13	2	Centralized Admin. Services	2778	2	DOA Leases	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	2778	2	DOA Leases	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	2778	2	DOA Leases	Line 73000	Expenditure	0			1026.40	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	2778	2	DOA Leases	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	2778	2	DOA Leases	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	2778	2	DOA Leases	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	2778	2	DOA Leases	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	2778	2	DOA Leases	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	13	2	Centralized Admin. Services	2778	2	DOA Leases	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		256.60	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	13	2	Centralized Admin. Services	2778	2	DOA Leases	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		769.80	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	13	2	Centralized Admin. Services	45	3	Office of the Commissioner	Line 71000	Expenditure	0			971.00	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	45	3	Office of the Commissioner	Line 72000	Expenditure	0			26.70	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	45	3	Office of the Commissioner	Line 73000	Expenditure	0			375.10	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	45	3	Office of the Commissioner	Line 74000	Expenditure	0			20.00	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	45	3	Office of the Commissioner	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	45	3	Office of the Commissioner	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	45	3	Office of the Commissioner	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	45	3	Office of the Commissioner	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	13	2	Centralized Admin. Services	45	3	Office of the Commissioner	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1.60	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	13	2	Centralized Admin. Services	45	3	Office of the Commissioner	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4.70	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	13	2	Centralized Admin. Services	45	3	Office of the Commissioner	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1386.50	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	13	2	Centralized Admin. Services	45	3	Office of the Commissioner	PFT	Position Count	0			6.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Line 71000	Expenditure	0			2108.60	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Line 72000	Expenditure	0			5.50	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Line 73000	Expenditure	0			778.10	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Line 74000	Expenditure	0			21.70	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		159.90	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		479.80	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	2274.20	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	13	2	Centralized Admin. Services	46	4	Administrative Services	PFT	Position Count	0			17.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Line 71000	Expenditure	0			6224.80	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Line 72000	Expenditure	0			14.70	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Line 73000	Expenditure	0			5373.80	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Line 74000	Expenditure	0			45.00	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1397.00	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4190.80	0	0	0	0	0	0	0	0	0
+1005	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		1334.00	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	4247.40	0	0	0	0	0	0	0	0	0
+1061	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	489.10	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	13	2	Centralized Admin. Services	59	6	Finance	PFT	Position Count	0			49.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	13	2	Centralized Admin. Services	2966	7	E-Travel	Line 71000	Expenditure	0			133.30	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	2966	7	E-Travel	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	2966	7	E-Travel	Line 73000	Expenditure	0			1411.60	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	2966	7	E-Travel	Line 74000	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	2966	7	E-Travel	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	2966	7	E-Travel	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	2966	7	E-Travel	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	2966	7	E-Travel	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	13	2	Centralized Admin. Services	2966	7	E-Travel	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1549.90	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	13	2	Centralized Admin. Services	2966	7	E-Travel	PFT	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	Line 71000	Expenditure	0			11446.50	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	Line 72000	Expenditure	0			23.60	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	Line 73000	Expenditure	0			1043.20	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	Line 74000	Expenditure	0			36.80	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		85.00	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		255.10	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	12210.00	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	PFT	Position Count	0			115.00	0	0	0	0	0	0	0	0	0
+11000	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	PPT	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+12000	2	1	Administration	13	2	Centralized Admin. Services	56	8	Personnel	NP	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	13	2	Centralized Admin. Services	58	9	Labor Relations	Line 71000	Expenditure	0			1151.30	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	58	9	Labor Relations	Line 72000	Expenditure	0			22.80	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	58	9	Labor Relations	Line 73000	Expenditure	0			136.40	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	58	9	Labor Relations	Line 74000	Expenditure	0			16.80	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	58	9	Labor Relations	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	58	9	Labor Relations	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	58	9	Labor Relations	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	58	9	Labor Relations	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	13	2	Centralized Admin. Services	58	9	Labor Relations	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		331.80	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	13	2	Centralized Admin. Services	58	9	Labor Relations	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		995.50	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	13	2	Centralized Admin. Services	58	9	Labor Relations	PFT	Position Count	0			7.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	13	2	Centralized Admin. Services	2752	10	Centralized HR	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	2752	10	Centralized HR	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	2752	10	Centralized HR	Line 73000	Expenditure	0			112.20	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	2752	10	Centralized HR	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	2752	10	Centralized HR	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	2752	10	Centralized HR	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	2752	10	Centralized HR	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	2752	10	Centralized HR	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	13	2	Centralized Admin. Services	2752	10	Centralized HR	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		28.10	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	13	2	Centralized Admin. Services	2752	10	Centralized HR	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		84.10	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	Line 71000	Expenditure	0			13875.10	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	Line 72000	Expenditure	0			39.20	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	Line 73000	Expenditure	0			6324.90	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	Line 74000	Expenditure	0			198.00	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		62.20	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		686.40	0	0	0	0	0	0	0	0	0
+1017	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	1017 Benefits Systems Receipts	Revenue	1017	Other Funds		6465.90	0	0	0	0	0	0	0	0	0
+1023	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	1023 FICA Administration Fund Account	Revenue	1023	Other Funds		131.90	0	0	0	0	0	0	0	0	0
+1029	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	1029 Public Employees Retirement System Fund	Revenue	1029	Other Funds		9167.90	0	0	0	0	0	0	0	0	0
+1034	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	1034 Teachers Retirement System Fund	Revenue	1034	Other Funds		3529.20	0	0	0	0	0	0	0	0	0
+1042	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	1042 Judicial Retirement System	Revenue	1042	Other Funds		120.00	0	0	0	0	0	0	0	0	0
+1045	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	1045 National Guard & Naval Militia Retirement System	Revenue	1045	Other Funds		273.70	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	PFT	Position Count	0			124.00	0	0	0	0	0	0	0	0	0
+12000	2	1	Administration	13	2	Centralized Admin. Services	64	11	Retirement and Benefits	NP	Position Count	0			5.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Line 72000	Expenditure	0			17.00	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Line 73000	Expenditure	0			35661.90	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1017	2	1	Administration	13	2	Centralized Admin. Services	2152	12	Health Plans Administration	1017 Benefits Systems Receipts	Revenue	1017	Other Funds		35678.90	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Line 73000	Expenditure	0			37.50	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		9.40	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		28.10	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Line 71000	Expenditure	0			6987.80	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Line 72000	Expenditure	0			3.70	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Line 73000	Expenditure	0			1348.90	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Line 74000	Expenditure	0			18.00	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1005	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		3461.80	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	4896.60	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	PFT	Position Count	0			79.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Line 71000	Expenditure	0			2196.10	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Line 72000	Expenditure	0			2.50	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Line 73000	Expenditure	0			448.40	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Line 74000	Expenditure	0			19.40	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1005	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		1431.50	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	895.40	0	0	0	0	0	0	0	0	0
+1033	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	1033 Surplus Property Revolving Fund	Revenue	1033	Federal Funds		339.50	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	PFT	Position Count	0			19.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Line 71000	Expenditure	0			541.30	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Line 73000	Expenditure	0			1978.00	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Line 74000	Expenditure	0			48.00	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	2567.30	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	PFT	Position Count	0			5.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Line 73000	Expenditure	0			44844.20	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	44844.20	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Line 71000	Expenditure	0			1341.30	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Line 72000	Expenditure	0			3.80	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Line 73000	Expenditure	0			288.90	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Line 74000	Expenditure	0			4.70	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1638.70	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	PFT	Position Count	0			11.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Line 73000	Expenditure	0			15445.50	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1005	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		280.10	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	601.50	0	0	0	0	0	0	0	0	0
+1147	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	1147 Public Building Fund	Revenue	1147	Other Funds	Duplicated	14563.90	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Line 71000	Expenditure	0			684.80	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Line 72000	Expenditure	0			1.00	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Line 73000	Expenditure	0			909.80	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Line 74000	Expenditure	0			27.50	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1061	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	752.70	0	0	0	0	0	0	0	0	0
+1147	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	1147 Public Building Fund	Revenue	1147	Other Funds	Duplicated	870.40	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	PFT	Position Count	0			5.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	2558	10	NPBF Facilities	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	2558	10	NPBF Facilities	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	2558	10	NPBF Facilities	Line 73000	Expenditure	0			801.30	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	2558	10	NPBF Facilities	Line 74000	Expenditure	0			23.30	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	2558	10	NPBF Facilities	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	2558	10	NPBF Facilities	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	2558	10	NPBF Facilities	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	2558	10	NPBF Facilities	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	17	3	Shared Services of Alaska	2558	10	NPBF Facilities	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		120.40	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	17	3	Shared Services of Alaska	2558	10	NPBF Facilities	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		361.30	0	0	0	0	0	0	0	0	0
+1005	2	1	Administration	17	3	Shared Services of Alaska	2558	10	NPBF Facilities	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		62.00	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	17	3	Shared Services of Alaska	2558	10	NPBF Facilities	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	280.90	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Line 71000	Expenditure	0			31071.70	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Line 72000	Expenditure	0			84.90	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Line 73000	Expenditure	0			38296.20	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Line 74000	Expenditure	0			395.30	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Line 75000	Expenditure	0			1954.90	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1081	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	1081 Information Services Fund	Revenue	1081	Other Funds	Duplicated	71803.00	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	PFT	Position Count	0			236.00	0	0	0	0	0	0	0	0	0
+11000	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	PPT	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	413	5	Admin State Facilities Rent	2484	0	State Facilities Rent	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	413	5	Admin State Facilities Rent	2484	0	State Facilities Rent	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	413	5	Admin State Facilities Rent	2484	0	State Facilities Rent	Line 73000	Expenditure	0			506.20	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	413	5	Admin State Facilities Rent	2484	0	State Facilities Rent	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	413	5	Admin State Facilities Rent	2484	0	State Facilities Rent	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	413	5	Admin State Facilities Rent	2484	0	State Facilities Rent	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	413	5	Admin State Facilities Rent	2484	0	State Facilities Rent	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	413	5	Admin State Facilities Rent	2484	0	State Facilities Rent	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	413	5	Admin State Facilities Rent	2484	0	State Facilities Rent	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		126.60	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	413	5	Admin State Facilities Rent	2484	0	State Facilities Rent	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		379.60	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	30	8	Public Communications Services	2044	2	Public Broadcasting - Radio	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	30	8	Public Communications Services	2044	2	Public Broadcasting - Radio	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	30	8	Public Communications Services	2044	2	Public Broadcasting - Radio	Line 73000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	30	8	Public Communications Services	2044	2	Public Broadcasting - Radio	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	30	8	Public Communications Services	2044	2	Public Broadcasting - Radio	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	30	8	Public Communications Services	2044	2	Public Broadcasting - Radio	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	30	8	Public Communications Services	2044	2	Public Broadcasting - Radio	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	30	8	Public Communications Services	2044	2	Public Broadcasting - Radio	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	30	8	Public Communications Services	2044	2	Public Broadcasting - Radio	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	30	8	Public Communications Services	2044	2	Public Broadcasting - Radio	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	30	8	Public Communications Services	2045	3	Public Broadcasting - T.V.	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	30	8	Public Communications Services	2045	3	Public Broadcasting - T.V.	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	30	8	Public Communications Services	2045	3	Public Broadcasting - T.V.	Line 73000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	30	8	Public Communications Services	2045	3	Public Broadcasting - T.V.	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	30	8	Public Communications Services	2045	3	Public Broadcasting - T.V.	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	30	8	Public Communications Services	2045	3	Public Broadcasting - T.V.	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	30	8	Public Communications Services	2045	3	Public Broadcasting - T.V.	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	30	8	Public Communications Services	2045	3	Public Broadcasting - T.V.	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	30	8	Public Communications Services	2045	3	Public Broadcasting - T.V.	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	30	8	Public Communications Services	2045	3	Public Broadcasting - T.V.	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	30	8	Public Communications Services	2349	4	Satellite Infrastructure	Line 71000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	30	8	Public Communications Services	2349	4	Satellite Infrastructure	Line 72000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	30	8	Public Communications Services	2349	4	Satellite Infrastructure	Line 73000	Expenditure	0			719.50	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	30	8	Public Communications Services	2349	4	Satellite Infrastructure	Line 74000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	30	8	Public Communications Services	2349	4	Satellite Infrastructure	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	30	8	Public Communications Services	2349	4	Satellite Infrastructure	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	30	8	Public Communications Services	2349	4	Satellite Infrastructure	Line 77000	Expenditure	0			160.00	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	30	8	Public Communications Services	2349	4	Satellite Infrastructure	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	30	8	Public Communications Services	2349	4	Satellite Infrastructure	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		194.90	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	30	8	Public Communications Services	2349	4	Satellite Infrastructure	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		584.60	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	30	8	Public Communications Services	2349	4	Satellite Infrastructure	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	100.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	23	9	Risk Management	71	1	Risk Management	Line 71000	Expenditure	0			828.00	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	23	9	Risk Management	71	1	Risk Management	Line 72000	Expenditure	0			7.30	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	23	9	Risk Management	71	1	Risk Management	Line 73000	Expenditure	0			39936.10	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	23	9	Risk Management	71	1	Risk Management	Line 74000	Expenditure	0			13.50	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	23	9	Risk Management	71	1	Risk Management	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	23	9	Risk Management	71	1	Risk Management	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	23	9	Risk Management	71	1	Risk Management	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	23	9	Risk Management	71	1	Risk Management	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	23	9	Risk Management	71	1	Risk Management	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	40784.90	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	23	9	Risk Management	71	1	Risk Management	PFT	Position Count	0			6.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	Line 71000	Expenditure	0			21020.00	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	Line 72000	Expenditure	0			327.80	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	Line 73000	Expenditure	0			8152.50	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	Line 74000	Expenditure	0			232.40	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	Line 78000	Expenditure	0			91.50	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		6241.00	0	0	0	0	0	0	0	0	0
+1002	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	1002 Federal Receipts	Revenue	1002	Federal Funds		258.40	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		18722.80	0	0	0	0	0	0	0	0	0
+1005	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		1935.90	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	588.00	0	0	0	0	0	0	0	0	0
+1037	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		1986.60	0	0	0	0	0	0	0	0	0
+1092	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		91.50	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	PFT	Position Count	0			160.00	0	0	0	0	0	0	0	0	0
+11000	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	PPT	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+12000	2	1	Administration	11	11	Legal & Advocacy Services	43	1	Office of Public Advocacy	NP	Position Count	0			15.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	Line 71000	Expenditure	0			24054.00	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	Line 72000	Expenditure	0			514.60	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	Line 73000	Expenditure	0			3932.90	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	Line 74000	Expenditure	0			235.10	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	Line 78000	Expenditure	0			193.80	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		6772.50	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		20317.60	0	0	0	0	0	0	0	0	0
+1005	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		578.40	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	508.10	0	0	0	0	0	0	0	0	0
+1037	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		554.00	0	0	0	0	0	0	0	0	0
+1092	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		199.80	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	PFT	Position Count	0			182.00	0	0	0	0	0	0	0	0	0
+11000	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	PPT	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+12000	2	1	Administration	11	11	Legal & Advocacy Services	1631	2	Public Defender Agency	NP	Position Count	0			10.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	22	13	Alaska Public Offices Comm	70	1	Alaska Public Offices Comm	Line 71000	Expenditure	0			790.00	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	22	13	Alaska Public Offices Comm	70	1	Alaska Public Offices Comm	Line 72000	Expenditure	0			2.80	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	22	13	Alaska Public Offices Comm	70	1	Alaska Public Offices Comm	Line 73000	Expenditure	0			140.50	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	22	13	Alaska Public Offices Comm	70	1	Alaska Public Offices Comm	Line 74000	Expenditure	0			16.00	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	22	13	Alaska Public Offices Comm	70	1	Alaska Public Offices Comm	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	22	13	Alaska Public Offices Comm	70	1	Alaska Public Offices Comm	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	22	13	Alaska Public Offices Comm	70	1	Alaska Public Offices Comm	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	22	13	Alaska Public Offices Comm	70	1	Alaska Public Offices Comm	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	22	13	Alaska Public Offices Comm	70	1	Alaska Public Offices Comm	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		201.00	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	22	13	Alaska Public Offices Comm	70	1	Alaska Public Offices Comm	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		603.00	0	0	0	0	0	0	0	0	0
+1005	2	1	Administration	22	13	Alaska Public Offices Comm	70	1	Alaska Public Offices Comm	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		145.30	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	22	13	Alaska Public Offices Comm	70	1	Alaska Public Offices Comm	PFT	Position Count	0			8.00	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	Line 71000	Expenditure	0			11630.20	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	Line 72000	Expenditure	0			50.00	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	Line 73000	Expenditure	0			4770.00	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	Line 74000	Expenditure	0			1353.50	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	Line 75000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	Line 76000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	Line 77000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	Line 78000	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	1002 Federal Receipts	Revenue	1002	Federal Funds		506.70	0	0	0	0	0	0	0	0	0
+1005	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		17245.10	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	51.90	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	PFT	Position Count	0			140.00	0	0	0	0	0	0	0	0	0
+11000	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	PPT	Position Count	0			4.00	0	0	0	0	0	0	0	0	0
+12000	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	NP	Position Count	0			2.00	0	0	0	0	0	0	0	0	0

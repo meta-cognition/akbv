@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Final FY21 HB205 Ch8 HB206 Ch2 (4383) <br /> Department of Transportation & Public Facilities (Fund / Appropriation / Allocation) ($1,010,522.0)</title>
+	<!-- Plotly.js --><!-- 20200908091806 -->
+	<script src="plotly-latest.min.js"></script>
+	<meta charset="UTF-8">
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Expires" content="0" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<style>
+		.node-label-text-path { 
+			/*
+			font-weight: bold; 
+			*/
+			text-shadow: none !important;
+			fill: black !important; 
+			stroke: white; 
+			stroke-width:2px; 
+			paint-order: stroke;
+			stroke-opacity: .5;
+		}
+		
+		g.node-entered path {
+			fill: rgb(0,0,255) !important;
+			fill-opacity: 1 !important;
+		}
+		
+		g.node-label {
+			fill: rgb(0,0,255) !important;
+			fill-opacity: 1 !important;
+		}
+		
+		g.hovertext path{
+			fill-opacity: 1 !important; 
+		}
+		
+		g.hovertext rect{
+			fill-opacity: 1 !important; 
+		}
+		/* Removed below to allow javascript assignment of style to nodes with links. */
+		/*
+		rect.node-capture
+		{
+			cursor: pointer; 
+		} 
+		*/
+		.akbv {
+			font-family: 'Tangerine', serif;
+			font-size: 36px;
+			text-shadow: 4px 4px 4px #aaa;
+			margin: auto auto 10px auto;
+			text-align:center;
+		}
+		.disclaimer {
+			width: 1000px;
+			font-size: 12px;
+			margin: 15px auto auto auto;
+			padding-left:10px;
+		}
+		.button-bar {
+			margin: auto auto 10px auto;
+			text-align:center;
+		}
+		#myDiv {
+			box-shadow: 5px 5px 10px;
+		}
+		body {
+			background-color: #F8F8F8;
+			}
+		
+	</style>
+</head>
+<body>
+<div class="akbv">Alaska Budget Visualizer (beta)</div>
+<div style="margin:auto; width:600px; text-align: center;">
+<div><h2>Final FY21 HB205 Ch8 HB206 Ch2 (4383)</h2></div>
+<div><h3><a href="plot-capital.html">Statewide Fund Group Overview</a></h3></div>
+<div class="accordion" id="accordionDepartments"><div class="card"><div class="card-header" id="heading_1"><h2 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="true" aria-controls="collapse_1">Governor's Office</button></h2></div><div id="collapse_1" class="collapse" aria-labelledby="heading_1" data-parent="#accordionDepartments"><div class="card-body"><a href="governor/plot-capital.html">Capital Budget</a>
+</div></div></div><div class="card"><div class="card-header" id="heading_2"><h2 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="true" aria-controls="collapse_2">Department of Administration</button></h2></div><div id="collapse_2" class="collapse" aria-labelledby="heading_2" data-parent="#accordionDepartments"><div class="card-body"><a href="administration/plot-capital.html">Capital Budget</a>
+</div></div></div><div class="card"><div class="card-header" id="heading_4"><h2 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_4" aria-expanded="true" aria-controls="collapse_4">Department of Revenue</button></h2></div><div id="collapse_4" class="collapse" aria-labelledby="heading_4" data-parent="#accordionDepartments"><div class="card-body"><a href="revenue/plot-capital.html">Capital Budget</a>
+</div></div></div><div class="card"><div class="card-header" id="heading_6"><h2 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="true" aria-controls="collapse_6">Department of Health & Social Services</button></h2></div><div id="collapse_6" class="collapse" aria-labelledby="heading_6" data-parent="#accordionDepartments"><div class="card-body"><a href="health-and-social-svcs/plot-capital.html">Capital Budget</a>
+</div></div></div><div class="card"><div class="card-header" id="heading_7"><h2 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_7" aria-expanded="true" aria-controls="collapse_7">Department of Labor & Workforce Development</button></h2></div><div id="collapse_7" class="collapse" aria-labelledby="heading_7" data-parent="#accordionDepartments"><div class="card-body"><a href="labor-and-workforce/plot-capital.html">Capital Budget</a>
+</div></div></div><div class="card"><div class="card-header" id="heading_8"><h2 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_8" aria-expanded="true" aria-controls="collapse_8">Department of Commerce, Community, and Economic Development</button></h2></div><div id="collapse_8" class="collapse" aria-labelledby="heading_8" data-parent="#accordionDepartments"><div class="card-body"><a href="commerce/plot-capital.html">Capital Budget</a>
+</div></div></div><div class="card"><div class="card-header" id="heading_9"><h2 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_9" aria-expanded="true" aria-controls="collapse_9">Department of Military & Veterans Affairs</button></h2></div><div id="collapse_9" class="collapse" aria-labelledby="heading_9" data-parent="#accordionDepartments"><div class="card-body"><a href="military-and-veterans-affairs/plot-capital.html">Capital Budget</a>
+</div></div></div><div class="card"><div class="card-header" id="heading_10"><h2 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_10" aria-expanded="true" aria-controls="collapse_10">Department of Natural Resources</button></h2></div><div id="collapse_10" class="collapse" aria-labelledby="heading_10" data-parent="#accordionDepartments"><div class="card-body"><a href="natural-resources/plot-capital.html">Capital Budget</a>
+</div></div></div><div class="card"><div class="card-header" id="heading_13"><h2 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_13" aria-expanded="true" aria-controls="collapse_13">Department of Environmental Conservation</button></h2></div><div id="collapse_13" class="collapse" aria-labelledby="heading_13" data-parent="#accordionDepartments"><div class="card-body"><a href="environ-conservation/plot-capital.html">Capital Budget</a>
+</div></div></div><div class="card"><div class="card-header" id="heading_15"><h2 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_15" aria-expanded="true" aria-controls="collapse_15">Department of Transportation & Public Facilities</button></h2></div><div id="collapse_15" class="collapse" aria-labelledby="heading_15" data-parent="#accordionDepartments"><div class="card-body"><a href="transportation/plot-capital.html">Capital Budget</a>
+</div></div></div></div>
+</div>
+
+<div class="disclaimer">DISCLAIMER: This is beta software, it's functionality and compatability have not been fully tested. This software tool being piloted internally. It has been made available for public access for convenience and any incidental benefit it may provide. The information shown is not a comprehensive accounting. This software and the information displayed is offered with no guarantees or assurances of accuracy or validity and is provided for demonstration purposes only. For questions please contact Dom Pannone <a href="mailto:dom.pannone@alaska.gov">dom.pannone@alaska.gov</a></div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+
+

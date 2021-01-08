@@ -1,0 +1,149 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	Personal Services	Expenditure	0			3723.30	0	0	0	0	0	0	0	0	0
+2	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	Travel	Expenditure	0			144.40	0	0	0	0	0	0	0	0	0
+3	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	Contractual Services	Expenditure	0			1897.70	0	0	0	0	0	0	0	0	0
+4	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	Commodities	Expenditure	0			226.70	0	0	0	0	0	0	0	0	0
+5	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		658.40	0	0	0	0	0	0	0	0	0
+1002	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	1002 Federal Receipts	Revenue	1002	Federal Funds		1967.80	0	0	0	0	0	0	0	0	0
+1003	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		238.70	0	0	0	0	0	0	0	0	0
+1004	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1736.30	0	0	0	0	0	0	0	0	0
+1007	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1242.20	0	0	0	0	0	0	0	0	0
+1061	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	148.70	0	0	0	0	0	0	0	0	0
+10000	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	414	1	Office of the Commissioner	Permanent Full-Time	Position Count	0			32.00	0	0	0	0	0	0	0	0	0
+1	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	Personal Services	Expenditure	0			6734.40	0	0	0	0	0	0	0	0	0
+2	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	Travel	Expenditure	0			421.00	0	0	0	0	0	0	0	0	0
+3	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	Contractual Services	Expenditure	0			1528.30	0	0	0	0	0	0	0	0	0
+4	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	Commodities	Expenditure	0			90.40	0	0	0	0	0	0	0	0	0
+5	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	Grants, Benefits	Expenditure	0			1050.30	0	0	0	0	0	0	0	0	0
+8	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		528.10	0	0	0	0	0	0	0	0	0
+1002	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	1002 Federal Receipts	Revenue	1002	Federal Funds		4625.60	0	0	0	0	0	0	0	0	0
+1003	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1584.30	0	0	0	0	0	0	0	0	0
+1007	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1986.60	0	0	0	0	0	0	0	0	0
+1061	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	699.80	0	0	0	0	0	0	0	0	0
+1108	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		400.00	0	0	0	0	0	0	0	0	0
+10000	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2657	2	Homeland Security &  Emerg Mgt	Permanent Full-Time	Position Count	0			61.00	0	0	0	0	0	0	0	0	0
+1	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2960	3	ALMR	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2960	3	ALMR	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2960	3	ALMR	Contractual Services	Expenditure	0			4263.10	0	0	0	0	0	0	0	0	0
+4	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2960	3	ALMR	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2960	3	ALMR	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2960	3	ALMR	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2960	3	ALMR	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2960	3	ALMR	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2960	3	ALMR	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		575.80	0	0	0	0	0	0	0	0	0
+1002	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2960	3	ALMR	1002 Federal Receipts	Revenue	1002	Federal Funds		1900.00	0	0	0	0	0	0	0	0	0
+1004	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2960	3	ALMR	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1727.30	0	0	0	0	0	0	0	0	0
+1005	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	2960	3	ALMR	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		60.00	0	0	0	0	0	0	0	0	0
+1	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	Personal Services	Expenditure	0			5054.70	0	0	0	0	0	0	0	0	0
+2	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	Travel	Expenditure	0			387.80	0	0	0	0	0	0	0	0	0
+3	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	Contractual Services	Expenditure	0			4879.10	0	0	0	0	0	0	0	0	0
+4	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	Commodities	Expenditure	0			293.40	0	0	0	0	0	0	0	0	0
+5	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	Capital Outlay	Expenditure	0			9.90	0	0	0	0	0	0	0	0	0
+6	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		635.10	0	0	0	0	0	0	0	0	0
+1002	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	1002 Federal Receipts	Revenue	1002	Federal Funds		7120.10	0	0	0	0	0	0	0	0	0
+1003	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1703.80	0	0	0	0	0	0	0	0	0
+1004	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		201.10	0	0	0	0	0	0	0	0	0
+1005	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		27.40	0	0	0	0	0	0	0	0	0
+1007	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	751.70	0	0	0	0	0	0	0	0	0
+1061	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	100.40	0	0	0	0	0	0	0	0	0
+1108	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		85.30	0	0	0	0	0	0	0	0	0
+10000	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	415	4	Army Guard Facilities Maint.	Permanent Full-Time	Position Count	0			49.00	0	0	0	0	0	0	0	0	0
+1	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	526	4	Civil Air Patrol	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	526	4	Civil Air Patrol	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	526	4	Civil Air Patrol	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	526	4	Civil Air Patrol	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	526	4	Civil Air Patrol	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	526	4	Civil Air Patrol	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	526	4	Civil Air Patrol	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	526	4	Civil Air Patrol	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	526	4	Civil Air Patrol	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	526	4	Civil Air Patrol	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	416	5	Air Guard Facilities Maint.	Personal Services	Expenditure	0			3645.50	0	0	0	0	0	0	0	0	0
+2	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	416	5	Air Guard Facilities Maint.	Travel	Expenditure	0			25.10	0	0	0	0	0	0	0	0	0
+3	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	416	5	Air Guard Facilities Maint.	Contractual Services	Expenditure	0			3004.90	0	0	0	0	0	0	0	0	0
+4	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	416	5	Air Guard Facilities Maint.	Commodities	Expenditure	0			299.30	0	0	0	0	0	0	0	0	0
+5	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	416	5	Air Guard Facilities Maint.	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	416	5	Air Guard Facilities Maint.	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	416	5	Air Guard Facilities Maint.	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	416	5	Air Guard Facilities Maint.	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	416	5	Air Guard Facilities Maint.	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		474.50	0	0	0	0	0	0	0	0	0
+1002	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	416	5	Air Guard Facilities Maint.	1002 Federal Receipts	Revenue	1002	Federal Funds		5076.90	0	0	0	0	0	0	0	0	0
+1003	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	416	5	Air Guard Facilities Maint.	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1229.10	0	0	0	0	0	0	0	0	0
+1004	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	416	5	Air Guard Facilities Maint.	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		194.30	0	0	0	0	0	0	0	0	0
+10000	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	416	5	Air Guard Facilities Maint.	Permanent Full-Time	Position Count	0			38.00	0	0	0	0	0	0	0	0	0
+1	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	Personal Services	Expenditure	0			6924.90	0	0	0	0	0	0	0	0	0
+2	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	Travel	Expenditure	0			52.90	0	0	0	0	0	0	0	0	0
+3	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	Contractual Services	Expenditure	0			1452.40	0	0	0	0	0	0	0	0	0
+4	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	Commodities	Expenditure	0			1035.50	0	0	0	0	0	0	0	0	0
+5	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	Grants, Benefits	Expenditure	0			308.00	0	0	0	0	0	0	0	0	0
+8	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1170.60	0	0	0	0	0	0	0	0	0
+1002	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	1002 Federal Receipts	Revenue	1002	Federal Funds		4305.00	0	0	0	0	0	0	0	0	0
+1003	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		951.40	0	0	0	0	0	0	0	0	0
+1004	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2560.20	0	0	0	0	0	0	0	0	0
+1005	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		1.00	0	0	0	0	0	0	0	0	0
+1007	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	655.80	0	0	0	0	0	0	0	0	0
+1108	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		129.70	0	0	0	0	0	0	0	0	0
+10000	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	1969	6	Alaska Military Youth Academy	Permanent Full-Time	Position Count	0			69.00	0	0	0	0	0	0	0	0	0
+1	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	Personal Services	Expenditure	0			499.10	0	0	0	0	0	0	0	0	0
+2	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	Travel	Expenditure	0			61.70	0	0	0	0	0	0	0	0	0
+3	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	Contractual Services	Expenditure	0			350.80	0	0	0	0	0	0	0	0	0
+4	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	Commodities	Expenditure	0			53.80	0	0	0	0	0	0	0	0	0
+5	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	Grants, Benefits	Expenditure	0			1251.60	0	0	0	0	0	0	0	0	0
+8	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	Miscellaneous	Expenditure	0			7.80	0	0	0	0	0	0	0	0	0
+1001	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		463.60	0	0	0	0	0	0	0	0	0
+1002	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	1002 Federal Receipts	Revenue	1002	Federal Funds		351.70	0	0	0	0	0	0	0	0	0
+1004	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1390.80	0	0	0	0	0	0	0	0	0
+1181	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	1181 Alaska Veterans' Memorial Endowment Fund	Revenue	1181	Other Funds		10.90	0	0	0	0	0	0	0	0	0
+1234	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	1234 License Plates	Revenue	1234	Designated General Funds		7.80	0	0	0	0	0	0	0	0	0
+10000	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	421	7	Veterans' Services	Permanent Full-Time	Position Count	0			4.00	0	0	0	0	0	0	0	0	0
+1	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	836	8	State Active Duty	Personal Services	Expenditure	0			115.00	0	0	0	0	0	0	0	0	0
+2	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	836	8	State Active Duty	Travel	Expenditure	0			35.00	0	0	0	0	0	0	0	0	0
+3	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	836	8	State Active Duty	Contractual Services	Expenditure	0			175.00	0	0	0	0	0	0	0	0	0
+4	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	836	8	State Active Duty	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	836	8	State Active Duty	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	836	8	State Active Duty	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	836	8	State Active Duty	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	836	8	State Active Duty	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	836	8	State Active Duty	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1.30	0	0	0	0	0	0	0	0	0
+1004	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	836	8	State Active Duty	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3.70	0	0	0	0	0	0	0	0	0
+1007	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	836	8	State Active Duty	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	100.00	0	0	0	0	0	0	0	0	0
+1108	9	11	Military & Veterans Affairs	530	1	Military & Veterans Affairs	836	8	State Active Duty	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		220.00	0	0	0	0	0	0	0	0	0
+1	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	1424	1	AK Aerospace Corp	Personal Services	Expenditure	0			1184.20	0	0	0	0	0	0	0	0	0
+2	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	1424	1	AK Aerospace Corp	Travel	Expenditure	0			126.80	0	0	0	0	0	0	0	0	0
+3	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	1424	1	AK Aerospace Corp	Contractual Services	Expenditure	0			2883.00	0	0	0	0	0	0	0	0	0
+4	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	1424	1	AK Aerospace Corp	Commodities	Expenditure	0			26.70	0	0	0	0	0	0	0	0	0
+5	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	1424	1	AK Aerospace Corp	Capital Outlay	Expenditure	0			7.40	0	0	0	0	0	0	0	0	0
+6	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	1424	1	AK Aerospace Corp	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	1424	1	AK Aerospace Corp	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	1424	1	AK Aerospace Corp	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	1424	1	AK Aerospace Corp	1002 Federal Receipts	Revenue	1002	Federal Funds		2877.30	0	0	0	0	0	0	0	0	0
+1061	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	1424	1	AK Aerospace Corp	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	230.90	0	0	0	0	0	0	0	0	0
+1101	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	1424	1	AK Aerospace Corp	1101 Alaska Aerospace Development Corporation Receipts	Revenue	1101	Other Funds		1119.90	0	0	0	0	0	0	0	0	0
+10000	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	1424	1	AK Aerospace Corp	Permanent Full-Time	Position Count	0			6.00	0	0	0	0	0	0	0	0	0
+1	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	2362	2	AAC Facilities Maintenance	Personal Services	Expenditure	0			598.60	0	0	0	0	0	0	0	0	0
+2	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	2362	2	AAC Facilities Maintenance	Travel	Expenditure	0			95.40	0	0	0	0	0	0	0	0	0
+3	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	2362	2	AAC Facilities Maintenance	Contractual Services	Expenditure	0			5300.70	0	0	0	0	0	0	0	0	0
+4	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	2362	2	AAC Facilities Maintenance	Commodities	Expenditure	0			512.30	0	0	0	0	0	0	0	0	0
+5	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	2362	2	AAC Facilities Maintenance	Capital Outlay	Expenditure	0			57.30	0	0	0	0	0	0	0	0	0
+6	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	2362	2	AAC Facilities Maintenance	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	2362	2	AAC Facilities Maintenance	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	2362	2	AAC Facilities Maintenance	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	2362	2	AAC Facilities Maintenance	1002 Federal Receipts	Revenue	1002	Federal Funds		4697.90	0	0	0	0	0	0	0	0	0
+1061	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	2362	2	AAC Facilities Maintenance	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	156.80	0	0	0	0	0	0	0	0	0
+1101	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	2362	2	AAC Facilities Maintenance	1101 Alaska Aerospace Development Corporation Receipts	Revenue	1101	Other Funds		1709.60	0	0	0	0	0	0	0	0	0
+10000	9	11	Military & Veterans Affairs	127	3	Alaska Aerospace Corp	2362	2	AAC Facilities Maintenance	Permanent Full-Time	Position Count	0			4.00	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,59 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	57	21	State Retirement Payments	551	1	PERS State Assistance	2864	19	School District PERS	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	57	21	State Retirement Payments	551	1	PERS State Assistance	2864	19	School District PERS	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	57	21	State Retirement Payments	551	1	PERS State Assistance	2864	19	School District PERS	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	57	21	State Retirement Payments	551	1	PERS State Assistance	2864	19	School District PERS	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	57	21	State Retirement Payments	551	1	PERS State Assistance	2864	19	School District PERS	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	57	21	State Retirement Payments	551	1	PERS State Assistance	2864	19	School District PERS	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	57	21	State Retirement Payments	551	1	PERS State Assistance	2864	19	School District PERS	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	57	21	State Retirement Payments	551	1	PERS State Assistance	2864	19	School District PERS	Miscellaneous	Expenditure	0			29981.60	0	0	0	0	0	0	0	0	0
+1001	57	21	State Retirement Payments	551	1	PERS State Assistance	2864	19	School District PERS	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		7495.40	0	0	0	0	0	0	0	0	0
+1004	57	21	State Retirement Payments	551	1	PERS State Assistance	2864	19	School District PERS	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		22486.20	0	0	0	0	0	0	0	0	0
+1	57	21	State Retirement Payments	551	1	PERS State Assistance	2866	21	Other PERS	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	57	21	State Retirement Payments	551	1	PERS State Assistance	2866	21	Other PERS	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	57	21	State Retirement Payments	551	1	PERS State Assistance	2866	21	Other PERS	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	57	21	State Retirement Payments	551	1	PERS State Assistance	2866	21	Other PERS	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	57	21	State Retirement Payments	551	1	PERS State Assistance	2866	21	Other PERS	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	57	21	State Retirement Payments	551	1	PERS State Assistance	2866	21	Other PERS	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	57	21	State Retirement Payments	551	1	PERS State Assistance	2866	21	Other PERS	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	57	21	State Retirement Payments	551	1	PERS State Assistance	2866	21	Other PERS	Miscellaneous	Expenditure	0			173603.40	0	0	0	0	0	0	0	0	0
+1001	57	21	State Retirement Payments	551	1	PERS State Assistance	2866	21	Other PERS	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		43400.90	0	0	0	0	0	0	0	0	0
+1004	57	21	State Retirement Payments	551	1	PERS State Assistance	2866	21	Other PERS	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		130202.50	0	0	0	0	0	0	0	0	0
+1	57	21	State Retirement Payments	552	2	TRS State Assistance	2863	18	School District TRS	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	57	21	State Retirement Payments	552	2	TRS State Assistance	2863	18	School District TRS	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	57	21	State Retirement Payments	552	2	TRS State Assistance	2863	18	School District TRS	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	57	21	State Retirement Payments	552	2	TRS State Assistance	2863	18	School District TRS	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	57	21	State Retirement Payments	552	2	TRS State Assistance	2863	18	School District TRS	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	57	21	State Retirement Payments	552	2	TRS State Assistance	2863	18	School District TRS	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	57	21	State Retirement Payments	552	2	TRS State Assistance	2863	18	School District TRS	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	57	21	State Retirement Payments	552	2	TRS State Assistance	2863	18	School District TRS	Miscellaneous	Expenditure	0			128467.60	0	0	0	0	0	0	0	0	0
+1001	57	21	State Retirement Payments	552	2	TRS State Assistance	2863	18	School District TRS	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		32116.90	0	0	0	0	0	0	0	0	0
+1004	57	21	State Retirement Payments	552	2	TRS State Assistance	2863	18	School District TRS	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		96350.70	0	0	0	0	0	0	0	0	0
+1	57	21	State Retirement Payments	552	2	TRS State Assistance	2865	20	Other TRS	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	57	21	State Retirement Payments	552	2	TRS State Assistance	2865	20	Other TRS	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	57	21	State Retirement Payments	552	2	TRS State Assistance	2865	20	Other TRS	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	57	21	State Retirement Payments	552	2	TRS State Assistance	2865	20	Other TRS	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	57	21	State Retirement Payments	552	2	TRS State Assistance	2865	20	Other TRS	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	57	21	State Retirement Payments	552	2	TRS State Assistance	2865	20	Other TRS	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	57	21	State Retirement Payments	552	2	TRS State Assistance	2865	20	Other TRS	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	57	21	State Retirement Payments	552	2	TRS State Assistance	2865	20	Other TRS	Miscellaneous	Expenditure	0			6508.40	0	0	0	0	0	0	0	0	0
+1001	57	21	State Retirement Payments	552	2	TRS State Assistance	2865	20	Other TRS	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1627.10	0	0	0	0	0	0	0	0	0
+1004	57	21	State Retirement Payments	552	2	TRS State Assistance	2865	20	Other TRS	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4881.30	0	0	0	0	0	0	0	0	0
+1	57	21	State Retirement Payments	650	4	EPORS	3125	0	EPORS	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	57	21	State Retirement Payments	650	4	EPORS	3125	0	EPORS	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	57	21	State Retirement Payments	650	4	EPORS	3125	0	EPORS	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	57	21	State Retirement Payments	650	4	EPORS	3125	0	EPORS	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	57	21	State Retirement Payments	650	4	EPORS	3125	0	EPORS	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	57	21	State Retirement Payments	650	4	EPORS	3125	0	EPORS	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	57	21	State Retirement Payments	650	4	EPORS	3125	0	EPORS	Grants, Benefits	Expenditure	0			1861.40	0	0	0	0	0	0	0	0	0
+8	57	21	State Retirement Payments	650	4	EPORS	3125	0	EPORS	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1004	57	21	State Retirement Payments	650	4	EPORS	3125	0	EPORS	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1861.40	0	0	0	0	0	0	0	0	0
+1	57	21	State Retirement Payments	588	6	Judicial Retirement System	2918	0	JRS Past Service Costs	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	57	21	State Retirement Payments	588	6	Judicial Retirement System	2918	0	JRS Past Service Costs	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	57	21	State Retirement Payments	588	6	Judicial Retirement System	2918	0	JRS Past Service Costs	Contractual Services	Expenditure	0			5145.00	0	0	0	0	0	0	0	0	0
+4	57	21	State Retirement Payments	588	6	Judicial Retirement System	2918	0	JRS Past Service Costs	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	57	21	State Retirement Payments	588	6	Judicial Retirement System	2918	0	JRS Past Service Costs	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	57	21	State Retirement Payments	588	6	Judicial Retirement System	2918	0	JRS Past Service Costs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	57	21	State Retirement Payments	588	6	Judicial Retirement System	2918	0	JRS Past Service Costs	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	57	21	State Retirement Payments	588	6	Judicial Retirement System	2918	0	JRS Past Service Costs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1004	57	21	State Retirement Payments	588	6	Judicial Retirement System	2918	0	JRS Past Service Costs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5145.00	0	0	0	0	0	0	0	0	0

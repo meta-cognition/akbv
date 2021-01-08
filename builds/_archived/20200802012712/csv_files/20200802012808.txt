@@ -1,0 +1,23 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1081	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	1081 Information Services Fund	Revenue	1081	Other Funds	Duplicated	71803.00	0	0	0	0	0	0	0	0	0
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Personal Services	Expenditure	0			31071.70	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Travel	Expenditure	0			84.90	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Contractual Services	Expenditure	0			38296.20	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Commodities	Expenditure	0			395.30	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Capital Outlay	Expenditure	0			1954.90	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Personal Services	Expenditure	0			31071.70	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Travel	Expenditure	0			84.90	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Contractual Services	Expenditure	0			38296.20	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Commodities	Expenditure	0			395.30	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Capital Outlay	Expenditure	0			1954.90	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1081	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	1081 Information Services Fund	Revenue	1081	Other Funds	Duplicated	71803.00	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Permanent Full-Time	Position Count	0			236.00	0	0	0	0	0	0	0	0	0
+11000	2	1	Administration	653	4	Office of IT	3141	2	Alaska Division of IT	Permanent Part-Time	Position Count	0			1.00	0	0	0	0	0	0	0	0	0

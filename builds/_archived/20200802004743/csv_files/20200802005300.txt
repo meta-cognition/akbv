@@ -1,0 +1,14 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Contractual Services	Expenditure	0			37.50	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		9.40	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		28.10	0	0	0	0	0	0	0	0	0
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1001	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		9.40	0	0	0	0	0	0	0	0	0
+1004	2	1	Administration	13	2	Centralized Admin. Services	2054	13	Labor Agreements Misc Items	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		28.10	0	0	0	0	0	0	0	0	0

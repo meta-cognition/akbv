@@ -1,0 +1,77 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Personal Services	Expenditure	0			6987.80	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Travel	Expenditure	0			3.70	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Contractual Services	Expenditure	0			1348.90	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Commodities	Expenditure	0			18.00	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Personal Services	Expenditure	0			2196.10	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Travel	Expenditure	0			2.50	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Contractual Services	Expenditure	0			448.40	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Commodities	Expenditure	0			19.40	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	3262	4	Stwd Contracting and Property	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Personal Services	Expenditure	0			541.30	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Contractual Services	Expenditure	0			1978.00	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Commodities	Expenditure	0			48.00	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	2333	5	Print Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Contractual Services	Expenditure	0			44844.20	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	81	6	Leases	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Personal Services	Expenditure	0			1341.30	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Travel	Expenditure	0			3.80	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Contractual Services	Expenditure	0			288.90	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Commodities	Expenditure	0			4.70	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	2304	7	Lease Administration	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Contractual Services	Expenditure	0			15445.50	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	2429	8	Facilities	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Personal Services	Expenditure	0			684.80	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Travel	Expenditure	0			1.00	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Contractual Services	Expenditure	0			909.80	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Commodities	Expenditure	0			27.50	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	2430	9	Facilities Administration	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1	2	1	Administration	17	3	Shared Services of Alaska	2558	10	Non-Permanent	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	2558	10	Non-Permanent	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	2558	10	Non-Permanent	Contractual Services	Expenditure	0			801.30	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	2558	10	Non-Permanent	Commodities	Expenditure	0			23.30	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	2558	10	Non-Permanent	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	2558	10	Non-Permanent	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	2558	10	Non-Permanent	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	2558	10	Non-Permanent	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Personal Services	Expenditure	0			6987.80	0	0	0	0	0	0	0	0	0
+2	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Travel	Expenditure	0			3.70	0	0	0	0	0	0	0	0	0
+3	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Contractual Services	Expenditure	0			1348.90	0	0	0	0	0	0	0	0	0
+4	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Commodities	Expenditure	0			18.00	0	0	0	0	0	0	0	0	0
+5	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1005	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		3461.80	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	4896.60	0	0	0	0	0	0	0	0	0
+10000	2	1	Administration	17	3	Shared Services of Alaska	3134	1	Accounting	Permanent Full-Time	Position Count	0			79.00	0	0	0	0	0	0	0	0	0

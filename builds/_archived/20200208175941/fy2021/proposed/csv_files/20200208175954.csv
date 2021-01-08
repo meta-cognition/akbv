@@ -1,0 +1,656 @@
+REPORT_SORT, DEPT_NUM, DEPT_SORT, DEPT_NAME, RDU_NUM, RDU_SORT, 7 RDU_NAME, COMP_NUM, COMP_SORT, 10 COMP_NAME, 11 REPORT_LINE, 12 LINE_TYPE, FUND_CODE, 14 FUND_GROUP, 15 DUPLICATED_INDICATOR, 16 SCEN1_AMOUNT,SCEN2_AMOUNT,SCEN3_AMOUNT,SCEN4_AMOUNT,SCEN5_AMOUNT,SCEN6_AMOUNT,SCEN7_AMOUNT,SCEN8_AMOUNT,SCEN9_AMOUNT,SCEN10_AMOUNT
+1,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Personal Services,Expenditure,0,,,1370.4,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Travel,Expenditure,0,,,65.6,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Contractual Services,Expenditure,0,,,313.3,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Commodities,Expenditure,0,,,8.8,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,530,1,Commissioner's Office,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Personal Services,Expenditure,0,,,343.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Travel,Expenditure,0,,,3.1,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Contractual Services,Expenditure,0,,,16.8,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Commodities,Expenditure,0,,,2,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2355,2,Contracting and Appeals,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Personal Services,Expenditure,0,,,962.7,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Travel,Expenditure,0,,,31,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Contractual Services,Expenditure,0,,,174.5,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Commodities,Expenditure,0,,,18.9,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2331,3,EE/Civil Rights,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Personal Services,Expenditure,0,,,730.7,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Travel,Expenditure,0,,,3.3,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Contractual Services,Expenditure,0,,,69.9,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Commodities,Expenditure,0,,,12.1,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2356,4,Internal Review,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Personal Services,Expenditure,0,,,6416.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Travel,Expenditure,0,,,28,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Contractual Services,Expenditure,0,,,2533.3,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Commodities,Expenditure,0,,,58.6,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,537,6,Statewide Admin Services,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Personal Services,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Travel,Expenditure,0,,,10.2,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Contractual Services,Expenditure,0,,,3743.5,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Commodities,Expenditure,0,,,127.9,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,540,7,Information Systems and Services,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Personal Services,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Travel,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Contractual Services,Expenditure,0,,,2937.5,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Commodities,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2892,8,Leased Facilities,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Personal Services,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Travel,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Contractual Services,Expenditure,0,,,2366.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Commodities,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2757,9,Human Resources,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Personal Services,Expenditure,0,,,2400.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Travel,Expenditure,0,,,3.5,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Contractual Services,Expenditure,0,,,67.5,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Commodities,Expenditure,0,,,6,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2851,10,Statewide Procurement,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Personal Services,Expenditure,0,,,1266.4,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Travel,Expenditure,0,,,8.5,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Contractual Services,Expenditure,0,,,57.2,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Commodities,Expenditure,0,,,15,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Capital Outlay,Expenditure,0,,,1.5,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2292,11,Central Support Svcs,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Personal Services,Expenditure,0,,,1090.2,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Travel,Expenditure,0,,,6.1,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Contractual Services,Expenditure,0,,,171.2,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Commodities,Expenditure,0,,,21.2,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2294,12,Northern Support Services,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Personal Services,Expenditure,0,,,3001.6,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Travel,Expenditure,0,,,36.2,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Contractual Services,Expenditure,0,,,161.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Commodities,Expenditure,0,,,38.1,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2296,13,Southcoast Support Services,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Personal Services,Expenditure,0,,,3901,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Travel,Expenditure,0,,,159.1,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Contractual Services,Expenditure,0,,,463.6,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Commodities,Expenditure,0,,,39.3,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,1811,14,Statewide Aviation,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Personal Services,Expenditure,0,,,7832,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Travel,Expenditure,0,,,64.4,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Contractual Services,Expenditure,0,,,340.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Commodities,Expenditure,0,,,80.8,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Capital Outlay,Expenditure,0,,,1.5,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2762,15,Program Development,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Personal Services,Expenditure,0,,,5881.7,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Travel,Expenditure,0,,,158.6,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Contractual Services,Expenditure,0,,,729.2,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Commodities,Expenditure,0,,,87.5,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Capital Outlay,Expenditure,0,,,39.4,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,333,1,Administration and Support,2332,19,Measurement Standards,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,Personal Services,Expenditure,0,,,14907.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,Travel,Expenditure,0,,,31,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,Contractual Services,Expenditure,0,,,1184,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,Commodities,Expenditure,0,,,290.4,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Construction",2357,2,SW Design & Engineering Svcs,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,526,7,"Design, Engineering and Construction",2298,4,Central Design & Eng Svcs,Personal Services,Expenditure,0,,,23182.9,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Construction",2298,4,Central Design & Eng Svcs,Travel,Expenditure,0,,,22.4,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Construction",2298,4,Central Design & Eng Svcs,Contractual Services,Expenditure,0,,,609.6,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Construction",2298,4,Central Design & Eng Svcs,Commodities,Expenditure,0,,,159.9,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Construction",2298,4,Central Design & Eng Svcs,Capital Outlay,Expenditure,0,,,5,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Construction",2298,4,Central Design & Eng Svcs,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Construction",2298,4,Central Design & Eng Svcs,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Construction",2298,4,Central Design & Eng Svcs,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,526,7,"Design, Engineering and Construction",2299,5,Northern Design & Eng Svcs,Personal Services,Expenditure,0,,,17063.4,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Construction",2299,5,Northern Design & Eng Svcs,Travel,Expenditure,0,,,8.7,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Construction",2299,5,Northern Design & Eng Svcs,Contractual Services,Expenditure,0,,,482.6,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Construction",2299,5,Northern Design & Eng Svcs,Commodities,Expenditure,0,,,104.2,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Construction",2299,5,Northern Design & Eng Svcs,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Construction",2299,5,Northern Design & Eng Svcs,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Construction",2299,5,Northern Design & Eng Svcs,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Construction",2299,5,Northern Design & Eng Svcs,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,526,7,"Design, Engineering and Construction",2300,6,Southcoast Design & Eng Svcs,Personal Services,Expenditure,0,,,10455.5,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Construction",2300,6,Southcoast Design & Eng Svcs,Travel,Expenditure,0,,,40,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Construction",2300,6,Southcoast Design & Eng Svcs,Contractual Services,Expenditure,0,,,231.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Construction",2300,6,Southcoast Design & Eng Svcs,Commodities,Expenditure,0,,,107.4,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Construction",2300,6,Southcoast Design & Eng Svcs,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Construction",2300,6,Southcoast Design & Eng Svcs,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Construction",2300,6,Southcoast Design & Eng Svcs,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Construction",2300,6,Southcoast Design & Eng Svcs,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,526,7,"Design, Engineering and Construction",2293,7,Central Construction & CIP,Personal Services,Expenditure,0,,,20837.5,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Construction",2293,7,Central Construction & CIP,Travel,Expenditure,0,,,25,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Construction",2293,7,Central Construction & CIP,Contractual Services,Expenditure,0,,,921.9,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Construction",2293,7,Central Construction & CIP,Commodities,Expenditure,0,,,206,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Construction",2293,7,Central Construction & CIP,Capital Outlay,Expenditure,0,,,126.6,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Construction",2293,7,Central Construction & CIP,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Construction",2293,7,Central Construction & CIP,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Construction",2293,7,Central Construction & CIP,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,526,7,"Design, Engineering and Construction",2295,8,Northern Construction & CIP,Personal Services,Expenditure,0,,,17824.4,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Construction",2295,8,Northern Construction & CIP,Travel,Expenditure,0,,,36.7,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Construction",2295,8,Northern Construction & CIP,Contractual Services,Expenditure,0,,,253.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Construction",2295,8,Northern Construction & CIP,Commodities,Expenditure,0,,,133.2,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Construction",2295,8,Northern Construction & CIP,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Construction",2295,8,Northern Construction & CIP,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Construction",2295,8,Northern Construction & CIP,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Construction",2295,8,Northern Construction & CIP,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,526,7,"Design, Engineering and Construction",2297,9,Southcoast Region Construction,Personal Services,Expenditure,0,,,7005,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,526,7,"Design, Engineering and Construction",2297,9,Southcoast Region Construction,Travel,Expenditure,0,,,74.8,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,526,7,"Design, Engineering and Construction",2297,9,Southcoast Region Construction,Contractual Services,Expenditure,0,,,311.8,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,526,7,"Design, Engineering and Construction",2297,9,Southcoast Region Construction,Commodities,Expenditure,0,,,144.4,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,526,7,"Design, Engineering and Construction",2297,9,Southcoast Region Construction,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,526,7,"Design, Engineering and Construction",2297,9,Southcoast Region Construction,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,526,7,"Design, Engineering and Construction",2297,9,Southcoast Region Construction,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,526,7,"Design, Engineering and Construction",2297,9,Southcoast Region Construction,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Personal Services,Expenditure,0,,,17391.3,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Travel,Expenditure,0,,,560,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Contractual Services,Expenditure,0,,,2605.2,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Commodities,Expenditure,0,,,14177.3,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Capital Outlay,Expenditure,0,,,96.5,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,369,9,State Equipment Fleet,2791,5,State Equipment Fleet,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,408,12,"Highways, Aviation and Facilities",3195,0,Facilities Services,Personal Services,Expenditure,0,,,16955.9,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Facilities",3195,0,Facilities Services,Travel,Expenditure,0,,,310.2,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Facilities",3195,0,Facilities Services,Contractual Services,Expenditure,0,,,26660.3,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Facilities",3195,0,Facilities Services,Commodities,Expenditure,0,,,2198.3,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Facilities",3195,0,Facilities Services,Capital Outlay,Expenditure,0,,,94.1,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Facilities",3195,0,Facilities Services,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Facilities",3195,0,Facilities Services,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Facilities",3195,0,Facilities Services,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,408,12,"Highways, Aviation and Facilities",566,12,Central Region Facilities,Personal Services,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Facilities",566,12,Central Region Facilities,Travel,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Facilities",566,12,Central Region Facilities,Contractual Services,Expenditure,0,,,8337.2,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Facilities",566,12,Central Region Facilities,Commodities,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Facilities",566,12,Central Region Facilities,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Facilities",566,12,Central Region Facilities,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Facilities",566,12,Central Region Facilities,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Facilities",566,12,Central Region Facilities,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2069,13,Northern Region Facilities,Personal Services,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2069,13,Northern Region Facilities,Travel,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2069,13,Northern Region Facilities,Contractual Services,Expenditure,0,,,10889.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2069,13,Northern Region Facilities,Commodities,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2069,13,Northern Region Facilities,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2069,13,Northern Region Facilities,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2069,13,Northern Region Facilities,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2069,13,Northern Region Facilities,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,408,12,"Highways, Aviation and Facilities",604,14,Southcoast Region Facilities,Personal Services,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Facilities",604,14,Southcoast Region Facilities,Travel,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Facilities",604,14,Southcoast Region Facilities,Contractual Services,Expenditure,0,,,3320.5,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Facilities",604,14,Southcoast Region Facilities,Commodities,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Facilities",604,14,Southcoast Region Facilities,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Facilities",604,14,Southcoast Region Facilities,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Facilities",604,14,Southcoast Region Facilities,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Facilities",604,14,Southcoast Region Facilities,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,408,12,"Highways, Aviation and Facilities",565,15,Traffic Signal Management,Personal Services,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Facilities",565,15,Traffic Signal Management,Travel,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Facilities",565,15,Traffic Signal Management,Contractual Services,Expenditure,0,,,1770.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Facilities",565,15,Traffic Signal Management,Commodities,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Facilities",565,15,Traffic Signal Management,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Facilities",565,15,Traffic Signal Management,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Facilities",565,15,Traffic Signal Management,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Facilities",565,15,Traffic Signal Management,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,Personal Services,Expenditure,0,,,20036.3,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,Travel,Expenditure,0,,,90,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,Contractual Services,Expenditure,0,,,12958.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,Commodities,Expenditure,0,,,8770.1,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,Capital Outlay,Expenditure,0,,,5,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Facilities",564,16,Central Highways and Aviation,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,Personal Services,Expenditure,0,,,34289.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,Travel,Expenditure,0,,,1300,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,Contractual Services,Expenditure,0,,,18948.3,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,Commodities,Expenditure,0,,,9743.9,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2068,17,Northern Highways & Aviation,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,Personal Services,Expenditure,0,,,10565,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,Travel,Expenditure,0,,,130.9,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,Contractual Services,Expenditure,0,,,8051.7,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,Commodities,Expenditure,0,,,4327.2,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Facilities",603,18,Southcoast Highways & Aviation,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2510,19,Whittier Access and Tunnel,Personal Services,Expenditure,0,,,160.8,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2510,19,Whittier Access and Tunnel,Travel,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2510,19,Whittier Access and Tunnel,Contractual Services,Expenditure,0,,,5625.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2510,19,Whittier Access and Tunnel,Commodities,Expenditure,0,,,66.8,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2510,19,Whittier Access and Tunnel,Capital Outlay,Expenditure,0,,,207.5,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2510,19,Whittier Access and Tunnel,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2510,19,Whittier Access and Tunnel,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,408,12,"Highways, Aviation and Facilities",2510,19,Whittier Access and Tunnel,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Personal Services,Expenditure,0,,,1022.4,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Travel,Expenditure,0,,,13.4,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Contractual Services,Expenditure,0,,,1227.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Commodities,Expenditure,0,,,6.6,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,1649,1,International Airport Systems,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Personal Services,Expenditure,0,,,5076.9,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Travel,Expenditure,0,,,111.8,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Contractual Services,Expenditure,0,,,2866.6,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Commodities,Expenditure,0,,,254,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,613,2,AIA Administration,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Personal Services,Expenditure,0,,,12423.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Travel,Expenditure,0,,,27,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Contractual Services,Expenditure,0,,,11102.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Commodities,Expenditure,0,,,1427,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Capital Outlay,Expenditure,0,,,93,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,2467,3,AIA Facilities,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Personal Services,Expenditure,0,,,9952.6,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Travel,Expenditure,0,,,6,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Contractual Services,Expenditure,0,,,1094.3,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Commodities,Expenditure,0,,,7202.1,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Capital Outlay,Expenditure,0,,,18,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,2470,4,AIA Field & Equipment Maint,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Personal Services,Expenditure,0,,,2422.1,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Travel,Expenditure,0,,,6.3,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Contractual Services,Expenditure,0,,,4488.1,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Commodities,Expenditure,0,,,81,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Capital Outlay,Expenditure,0,,,10,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,1812,5,AIA Operations,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Personal Services,Expenditure,0,,,11159.6,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Travel,Expenditure,0,,,275,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Contractual Services,Expenditure,0,,,643.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Commodities,Expenditure,0,,,420.5,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Capital Outlay,Expenditure,0,,,58,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,610,6,AIA Safety,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Personal Services,Expenditure,0,,,1667.8,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Travel,Expenditure,0,,,60.3,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Contractual Services,Expenditure,0,,,515.9,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Commodities,Expenditure,0,,,12.8,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,619,7,FIA Administration,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Personal Services,Expenditure,0,,,2353.9,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Travel,Expenditure,0,,,7.8,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Contractual Services,Expenditure,0,,,1945.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Commodities,Expenditure,0,,,436.4,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,2468,8,FIA Facilities,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Personal Services,Expenditure,0,,,3029.4,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Travel,Expenditure,0,,,6.7,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Contractual Services,Expenditure,0,,,53.6,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Commodities,Expenditure,0,,,1509.6,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,615,9,FIA Field & Equipment Maint,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Personal Services,Expenditure,0,,,1005.6,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Travel,Expenditure,0,,,9.7,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Contractual Services,Expenditure,0,,,104.3,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Commodities,Expenditure,0,,,29.6,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,1813,10,FIA Operations,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Personal Services,Expenditure,0,,,4821,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Travel,Expenditure,0,,,22.4,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Contractual Services,Expenditure,0,,,135.9,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Commodities,Expenditure,0,,,254.8,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,189,13,International Airports,617,11,FIA Safety,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Personal Services,Expenditure,0,,,60463.9,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Travel,Expenditure,0,,,2013.3,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Contractual Services,Expenditure,0,,,9347.9,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Commodities,Expenditure,0,,,2636.6,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,2604,1,Marine Vessel Operations,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Personal Services,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Travel,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Contractual Services,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Commodities,Expenditure,0,,,12640.3,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,2979,2,Marine Vessel Fuel,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Personal Services,Expenditure,0,,,1805.8,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Travel,Expenditure,0,,,12,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Contractual Services,Expenditure,0,,,233.7,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Commodities,Expenditure,0,,,100,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,2359,3,Marine Engineering,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Personal Services,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Travel,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Contractual Services,Expenditure,0,,,199.4,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Commodities,Expenditure,0,,,130,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,1212,4,Overhaul,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Personal Services,Expenditure,0,,,1165.9,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Travel,Expenditure,0,,,2.9,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Contractual Services,Expenditure,0,,,96.8,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Commodities,Expenditure,0,,,22.7,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,625,5,Reservations and Marketing,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Personal Services,Expenditure,0,,,4084.6,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Travel,Expenditure,0,,,43.1,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Contractual Services,Expenditure,0,,,2207.8,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Commodities,Expenditure,0,,,98.4,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,2789,6,Marine Shore Operations,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+1,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Personal Services,Expenditure,0,,,3254.6,0,0,0,0,0,0,0,0,0
+2,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Travel,Expenditure,0,,,46.9,0,0,0,0,0,0,0,0,0
+3,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Contractual Services,Expenditure,0,,,53.8,0,0,0,0,0,0,0,0,0
+4,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Commodities,Expenditure,0,,,43.8,0,0,0,0,0,0,0,0,0
+5,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Capital Outlay,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+6,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Line 7600,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+7,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,"Grants, Benefits",Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+8,25,15,Transportation,334,16,Marine Highway System,629,7,Vessel Operations Management,Miscellaneous,Expenditure,0,,,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,

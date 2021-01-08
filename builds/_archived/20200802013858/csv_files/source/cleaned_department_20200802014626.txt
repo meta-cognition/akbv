@@ -1,0 +1,332 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	7	9	Labor & Workforce	109	1	Commissioner and Administrative	340	1	Commissioner's Office	Personal Services	Expenditure	0			885.30	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	109	1	Commissioner and Administrative	340	1	Commissioner's Office	Travel	Expenditure	0			44.10	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	109	1	Commissioner and Administrative	340	1	Commissioner's Office	Contractual Services	Expenditure	0			70.30	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	109	1	Commissioner and Administrative	340	1	Commissioner's Office	Commodities	Expenditure	0			15.00	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	109	1	Commissioner and Administrative	340	1	Commissioner's Office	Capital Outlay	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	109	1	Commissioner and Administrative	340	1	Commissioner's Office	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	109	1	Commissioner and Administrative	340	1	Commissioner's Office	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	109	1	Commissioner and Administrative	340	1	Commissioner's Office	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	7	9	Labor & Workforce	109	1	Commissioner and Administrative	340	1	Commissioner's Office	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		127.10	0	0	0	0	0	0	0	0	0
+1004	7	9	Labor & Workforce	109	1	Commissioner and Administrative	340	1	Commissioner's Office	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		381.40	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	109	1	Commissioner and Administrative	340	1	Commissioner's Office	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	516.20	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	109	1	Commissioner and Administrative	340	1	Commissioner's Office	Permanent Full-Time	Position Count	0			6.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	Personal Services	Expenditure	0			1608.60	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	Travel	Expenditure	0			86.70	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	Contractual Services	Expenditure	0			218.60	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	Commodities	Expenditure	0			26.40	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	"Grants, Benefits"	Expenditure	0			15544.80	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		311.30	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	1002 Federal Receipts	Revenue	1002	Federal Funds		5010.20	0	0	0	0	0	0	0	0	0
+1004	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		933.80	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	589.50	0	0	0	0	0	0	0	0	0
+1054	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	1054 State Employment & Training Program	Revenue	1054	Designated General Funds		5923.70	0	0	0	0	0	0	0	0	0
+1151	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		4716.60	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2659	1	Workforce Investment Board	Permanent Full-Time	Position Count	0			14.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	109	1	Commissioner and Administrative	1200	2	Alaska Labor Relations Agency	Personal Services	Expenditure	0			369.20	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	109	1	Commissioner and Administrative	1200	2	Alaska Labor Relations Agency	Travel	Expenditure	0			27.80	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	109	1	Commissioner and Administrative	1200	2	Alaska Labor Relations Agency	Contractual Services	Expenditure	0			113.20	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	109	1	Commissioner and Administrative	1200	2	Alaska Labor Relations Agency	Commodities	Expenditure	0			27.00	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	109	1	Commissioner and Administrative	1200	2	Alaska Labor Relations Agency	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	109	1	Commissioner and Administrative	1200	2	Alaska Labor Relations Agency	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	109	1	Commissioner and Administrative	1200	2	Alaska Labor Relations Agency	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	109	1	Commissioner and Administrative	1200	2	Alaska Labor Relations Agency	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	7	9	Labor & Workforce	109	1	Commissioner and Administrative	1200	2	Alaska Labor Relations Agency	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		134.30	0	0	0	0	0	0	0	0	0
+1004	7	9	Labor & Workforce	109	1	Commissioner and Administrative	1200	2	Alaska Labor Relations Agency	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		402.90	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	109	1	Commissioner and Administrative	1200	2	Alaska Labor Relations Agency	Permanent Full-Time	Position Count	0			3.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	Personal Services	Expenditure	0			2860.30	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	Travel	Expenditure	0			12.80	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	Contractual Services	Expenditure	0			1046.20	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	Commodities	Expenditure	0			28.10	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		94.80	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	1002 Federal Receipts	Revenue	1002	Federal Funds		2483.80	0	0	0	0	0	0	0	0	0
+1003	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		80.50	0	0	0	0	0	0	0	0	0
+1004	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		203.50	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1084.80	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	109	1	Commissioner and Administrative	335	4	Management Services	Permanent Full-Time	Position Count	0			26.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2742	6	Leasing	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2742	6	Leasing	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2742	6	Leasing	Contractual Services	Expenditure	0			2547.50	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2742	6	Leasing	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2742	6	Leasing	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2742	6	Leasing	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2742	6	Leasing	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2742	6	Leasing	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2742	6	Leasing	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		636.90	0	0	0	0	0	0	0	0	0
+1004	7	9	Labor & Workforce	109	1	Commissioner and Administrative	2742	6	Leasing	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1910.60	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	109	1	Commissioner and Administrative	334	7	Data Processing	Personal Services	Expenditure	0			2584.10	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	109	1	Commissioner and Administrative	334	7	Data Processing	Travel	Expenditure	0			6.80	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	109	1	Commissioner and Administrative	334	7	Data Processing	Contractual Services	Expenditure	0			2869.00	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	109	1	Commissioner and Administrative	334	7	Data Processing	Commodities	Expenditure	0			127.10	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	109	1	Commissioner and Administrative	334	7	Data Processing	Capital Outlay	Expenditure	0			25.00	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	109	1	Commissioner and Administrative	334	7	Data Processing	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	109	1	Commissioner and Administrative	334	7	Data Processing	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	109	1	Commissioner and Administrative	334	7	Data Processing	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	7	9	Labor & Workforce	109	1	Commissioner and Administrative	334	7	Data Processing	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		30.70	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	109	1	Commissioner and Administrative	334	7	Data Processing	1002 Federal Receipts	Revenue	1002	Federal Funds		3581.90	0	0	0	0	0	0	0	0	0
+1004	7	9	Labor & Workforce	109	1	Commissioner and Administrative	334	7	Data Processing	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		92.20	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	109	1	Commissioner and Administrative	334	7	Data Processing	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1907.20	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	109	1	Commissioner and Administrative	334	7	Data Processing	Permanent Full-Time	Position Count	0			16.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	Personal Services	Expenditure	0			3135.70	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	Travel	Expenditure	0			39.20	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	Contractual Services	Expenditure	0			945.40	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	Commodities	Expenditure	0			25.00	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		274.30	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	1002 Federal Receipts	Revenue	1002	Federal Funds		1384.50	0	0	0	0	0	0	0	0	0
+1004	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		823.00	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1493.70	0	0	0	0	0	0	0	0	0
+1092	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		25.00	0	0	0	0	0	0	0	0	0
+1108	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		20.00	0	0	0	0	0	0	0	0	0
+1157	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	1157 Workers Safety and Compensation Administration Account	Revenue	1157	Designated General Funds		124.80	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	Permanent Full-Time	Position Count	0			25.00	0	0	0	0	0	0	0	0	0
+12000	7	9	Labor & Workforce	109	1	Commissioner and Administrative	336	8	Labor Market Information	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	112	2	Workers' Compensation	344	1	Workers' Compensation	Personal Services	Expenditure	0			4534.40	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	112	2	Workers' Compensation	344	1	Workers' Compensation	Travel	Expenditure	0			38.20	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	112	2	Workers' Compensation	344	1	Workers' Compensation	Contractual Services	Expenditure	0			1125.80	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	112	2	Workers' Compensation	344	1	Workers' Compensation	Commodities	Expenditure	0			85.10	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	112	2	Workers' Compensation	344	1	Workers' Compensation	Capital Outlay	Expenditure	0			6.00	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	112	2	Workers' Compensation	344	1	Workers' Compensation	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	112	2	Workers' Compensation	344	1	Workers' Compensation	"Grants, Benefits"	Expenditure	0			12.00	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	112	2	Workers' Compensation	344	1	Workers' Compensation	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1157	7	9	Labor & Workforce	112	2	Workers' Compensation	344	1	Workers' Compensation	1157 Workers Safety and Compensation Administration Account	Revenue	1157	Designated General Funds		5801.50	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	112	2	Workers' Compensation	344	1	Workers' Compensation	Permanent Full-Time	Position Count	0			45.00	0	0	0	0	0	0	0	0	0
+12000	7	9	Labor & Workforce	112	2	Workers' Compensation	344	1	Workers' Compensation	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	112	2	Workers' Compensation	2816	2	Workers' Comp Appeals Comm	Personal Services	Expenditure	0			281.40	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	112	2	Workers' Compensation	2816	2	Workers' Comp Appeals Comm	Travel	Expenditure	0			1.50	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	112	2	Workers' Compensation	2816	2	Workers' Comp Appeals Comm	Contractual Services	Expenditure	0			138.00	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	112	2	Workers' Compensation	2816	2	Workers' Comp Appeals Comm	Commodities	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	112	2	Workers' Compensation	2816	2	Workers' Comp Appeals Comm	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	112	2	Workers' Compensation	2816	2	Workers' Comp Appeals Comm	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	112	2	Workers' Compensation	2816	2	Workers' Comp Appeals Comm	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	112	2	Workers' Compensation	2816	2	Workers' Comp Appeals Comm	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1157	7	9	Labor & Workforce	112	2	Workers' Compensation	2816	2	Workers' Comp Appeals Comm	1157 Workers Safety and Compensation Administration Account	Revenue	1157	Designated General Funds		425.90	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	112	2	Workers' Compensation	2816	2	Workers' Comp Appeals Comm	Permanent Full-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	112	2	Workers' Compensation	2820	3	WC Benefits Guaranty Fund	Personal Services	Expenditure	0			95.10	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	112	2	Workers' Compensation	2820	3	WC Benefits Guaranty Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	112	2	Workers' Compensation	2820	3	WC Benefits Guaranty Fund	Contractual Services	Expenditure	0			249.80	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	112	2	Workers' Compensation	2820	3	WC Benefits Guaranty Fund	Commodities	Expenditure	0			2.00	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	112	2	Workers' Compensation	2820	3	WC Benefits Guaranty Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	112	2	Workers' Compensation	2820	3	WC Benefits Guaranty Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	112	2	Workers' Compensation	2820	3	WC Benefits Guaranty Fund	"Grants, Benefits"	Expenditure	0			432.70	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	112	2	Workers' Compensation	2820	3	WC Benefits Guaranty Fund	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1203	7	9	Labor & Workforce	112	2	Workers' Compensation	2820	3	WC Benefits Guaranty Fund	1203 Workers' Compensation Benefits Guaranty Fund	Revenue	1203	Designated General Funds		779.60	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	112	2	Workers' Compensation	2820	3	WC Benefits Guaranty Fund	Permanent Full-Time	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	112	2	Workers' Compensation	2342	4	Second Injury Fund	Personal Services	Expenditure	0			200.30	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	112	2	Workers' Compensation	2342	4	Second Injury Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	112	2	Workers' Compensation	2342	4	Second Injury Fund	Contractual Services	Expenditure	0			79.20	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	112	2	Workers' Compensation	2342	4	Second Injury Fund	Commodities	Expenditure	0			4.30	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	112	2	Workers' Compensation	2342	4	Second Injury Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	112	2	Workers' Compensation	2342	4	Second Injury Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	112	2	Workers' Compensation	2342	4	Second Injury Fund	"Grants, Benefits"	Expenditure	0			2568.30	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	112	2	Workers' Compensation	2342	4	Second Injury Fund	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1031	7	9	Labor & Workforce	112	2	Workers' Compensation	2342	4	Second Injury Fund	1031 Second Injury Fund Reserve Account	Revenue	1031	Designated General Funds		2852.10	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	112	2	Workers' Compensation	2342	4	Second Injury Fund	Permanent Full-Time	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	112	2	Workers' Compensation	343	5	Fishermen's Fund	Personal Services	Expenditure	0			255.90	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	112	2	Workers' Compensation	343	5	Fishermen's Fund	Travel	Expenditure	0			11.00	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	112	2	Workers' Compensation	343	5	Fishermen's Fund	Contractual Services	Expenditure	0			217.20	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	112	2	Workers' Compensation	343	5	Fishermen's Fund	Commodities	Expenditure	0			9.70	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	112	2	Workers' Compensation	343	5	Fishermen's Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	112	2	Workers' Compensation	343	5	Fishermen's Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	112	2	Workers' Compensation	343	5	Fishermen's Fund	"Grants, Benefits"	Expenditure	0			916.10	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	112	2	Workers' Compensation	343	5	Fishermen's Fund	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1032	7	9	Labor & Workforce	112	2	Workers' Compensation	343	5	Fishermen's Fund	1032 Fishermen's Fund	Revenue	1032	Designated General Funds		1409.90	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	112	2	Workers' Compensation	343	5	Fishermen's Fund	Permanent Full-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	113	3	Labor Standards and Safety	345	8	Wage and Hour Administration	Personal Services	Expenditure	0			1920.50	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	113	3	Labor Standards and Safety	345	8	Wage and Hour Administration	Travel	Expenditure	0			4.80	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	113	3	Labor Standards and Safety	345	8	Wage and Hour Administration	Contractual Services	Expenditure	0			408.50	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	113	3	Labor Standards and Safety	345	8	Wage and Hour Administration	Commodities	Expenditure	0			12.00	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	113	3	Labor Standards and Safety	345	8	Wage and Hour Administration	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	113	3	Labor Standards and Safety	345	8	Wage and Hour Administration	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	113	3	Labor Standards and Safety	345	8	Wage and Hour Administration	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	113	3	Labor Standards and Safety	345	8	Wage and Hour Administration	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	7	9	Labor & Workforce	113	3	Labor Standards and Safety	345	8	Wage and Hour Administration	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	7	9	Labor & Workforce	113	3	Labor Standards and Safety	345	8	Wage and Hour Administration	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		313.50	0	0	0	0	0	0	0	0	0
+1005	7	9	Labor & Workforce	113	3	Labor Standards and Safety	345	8	Wage and Hour Administration	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		1400.00	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	113	3	Labor Standards and Safety	345	8	Wage and Hour Administration	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	632.30	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	113	3	Labor Standards and Safety	345	8	Wage and Hour Administration	Permanent Full-Time	Position Count	0			20.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	113	3	Labor Standards and Safety	346	9	Mechanical Inspection	Personal Services	Expenditure	0			2396.20	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	113	3	Labor Standards and Safety	346	9	Mechanical Inspection	Travel	Expenditure	0			115.00	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	113	3	Labor Standards and Safety	346	9	Mechanical Inspection	Contractual Services	Expenditure	0			444.20	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	113	3	Labor Standards and Safety	346	9	Mechanical Inspection	Commodities	Expenditure	0			20.00	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	113	3	Labor Standards and Safety	346	9	Mechanical Inspection	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	113	3	Labor Standards and Safety	346	9	Mechanical Inspection	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	113	3	Labor Standards and Safety	346	9	Mechanical Inspection	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	113	3	Labor Standards and Safety	346	9	Mechanical Inspection	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1005	7	9	Labor & Workforce	113	3	Labor Standards and Safety	346	9	Mechanical Inspection	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		133.50	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	113	3	Labor Standards and Safety	346	9	Mechanical Inspection	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	712.20	0	0	0	0	0	0	0	0	0
+1172	7	9	Labor & Workforce	113	3	Labor Standards and Safety	346	9	Mechanical Inspection	1172 Building Safety Account	Revenue	1172	Designated General Funds		2129.70	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	113	3	Labor Standards and Safety	346	9	Mechanical Inspection	Permanent Full-Time	Position Count	0			21.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	Personal Services	Expenditure	0			3834.10	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	Travel	Expenditure	0			127.80	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	Contractual Services	Expenditure	0			1604.80	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	Commodities	Expenditure	0			55.00	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		73.80	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	1002 Federal Receipts	Revenue	1002	Federal Funds		2056.00	0	0	0	0	0	0	0	0	0
+1003	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		221.20	0	0	0	0	0	0	0	0	0
+1005	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		12.60	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	290.10	0	0	0	0	0	0	0	0	0
+1157	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	1157 Workers Safety and Compensation Administration Account	Revenue	1157	Designated General Funds		2968.00	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	113	3	Labor Standards and Safety	970	10	Occupational Safety and Health	Permanent Full-Time	Position Count	0			38.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	113	3	Labor Standards and Safety	1626	11	Alaska Safety Advisory Council	Personal Services	Expenditure	0			23.10	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	113	3	Labor Standards and Safety	1626	11	Alaska Safety Advisory Council	Travel	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	113	3	Labor Standards and Safety	1626	11	Alaska Safety Advisory Council	Contractual Services	Expenditure	0			97.20	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	113	3	Labor Standards and Safety	1626	11	Alaska Safety Advisory Council	Commodities	Expenditure	0			60.00	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	113	3	Labor Standards and Safety	1626	11	Alaska Safety Advisory Council	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	113	3	Labor Standards and Safety	1626	11	Alaska Safety Advisory Council	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	113	3	Labor Standards and Safety	1626	11	Alaska Safety Advisory Council	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	113	3	Labor Standards and Safety	1626	11	Alaska Safety Advisory Council	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1108	7	9	Labor & Workforce	113	3	Labor Standards and Safety	1626	11	Alaska Safety Advisory Council	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		185.30	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3116	1	DETS Administration	Personal Services	Expenditure	0			1159.30	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3116	1	DETS Administration	Travel	Expenditure	0			16.50	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3116	1	DETS Administration	Contractual Services	Expenditure	0			151.80	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3116	1	DETS Administration	Commodities	Expenditure	0			21.60	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3116	1	DETS Administration	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3116	1	DETS Administration	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3116	1	DETS Administration	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3116	1	DETS Administration	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3116	1	DETS Administration	1002 Federal Receipts	Revenue	1002	Federal Funds		1145.50	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3116	1	DETS Administration	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	203.70	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3116	1	DETS Administration	Permanent Full-Time	Position Count	0			9.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	Personal Services	Expenditure	0			9127.90	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	Travel	Expenditure	0			61.10	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	Contractual Services	Expenditure	0			3476.10	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	Commodities	Expenditure	0			106.20	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	Capital Outlay	Expenditure	0			120.50	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	"Grants, Benefits"	Expenditure	0			4645.90	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	1002 Federal Receipts	Revenue	1002	Federal Funds		12325.00	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	4421.10	0	0	0	0	0	0	0	0	0
+1049	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	1049 Training and Building Fund	Revenue	1049	Designated General Funds		773.60	0	0	0	0	0	0	0	0	0
+1108	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		18.00	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	Permanent Full-Time	Position Count	0			93.00	0	0	0	0	0	0	0	0	0
+12000	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2761	2	Workforce Services	Non-Permanent	Position Count	0			6.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	Personal Services	Expenditure	0			2260.70	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	Travel	Expenditure	0			8.70	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	Contractual Services	Expenditure	0			2507.90	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	Commodities	Expenditure	0			51.80	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	"Grants, Benefits"	Expenditure	0			6386.30	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		645.20	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	1002 Federal Receipts	Revenue	1002	Federal Funds		6428.50	0	0	0	0	0	0	0	0	0
+1003	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1471.60	0	0	0	0	0	0	0	0	0
+1004	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		463.90	0	0	0	0	0	0	0	0	0
+1054	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	1054 State Employment & Training Program	Revenue	1054	Designated General Funds		2125.30	0	0	0	0	0	0	0	0	0
+1151	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		80.90	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	646	4	Employment & Training Svcs	3117	3	Workforce Development	Permanent Full-Time	Position Count	0			18.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	Personal Services	Expenditure	0			17176.30	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	Travel	Expenditure	0			34.60	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	Contractual Services	Expenditure	0			5324.60	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	Commodities	Expenditure	0			252.30	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	Capital Outlay	Expenditure	0			7.50	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	1002 Federal Receipts	Revenue	1002	Federal Funds		21573.50	0	0	0	0	0	0	0	0	0
+1005	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		8.10	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	339.90	0	0	0	0	0	0	0	0	0
+1054	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	1054 State Employment & Training Program	Revenue	1054	Designated General Funds		426.90	0	0	0	0	0	0	0	0	0
+1108	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		20.00	0	0	0	0	0	0	0	0	0
+1151	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		426.90	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	Permanent Full-Time	Position Count	0			145.00	0	0	0	0	0	0	0	0	0
+11000	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	Permanent Part-Time	Position Count	0			31.00	0	0	0	0	0	0	0	0	0
+12000	7	9	Labor & Workforce	646	4	Employment & Training Svcs	2276	4	Unemployment Insurance	Non-Permanent	Position Count	0			4.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	202	1	Voc Rehab Administration	Personal Services	Expenditure	0			904.70	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	202	1	Voc Rehab Administration	Travel	Expenditure	0			16.60	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	202	1	Voc Rehab Administration	Contractual Services	Expenditure	0			264.80	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	202	1	Voc Rehab Administration	Commodities	Expenditure	0			60.00	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	202	1	Voc Rehab Administration	Capital Outlay	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	202	1	Voc Rehab Administration	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	202	1	Voc Rehab Administration	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	202	1	Voc Rehab Administration	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	202	1	Voc Rehab Administration	1002 Federal Receipts	Revenue	1002	Federal Funds		981.30	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	202	1	Voc Rehab Administration	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	274.80	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	202	1	Voc Rehab Administration	Permanent Full-Time	Position Count	0			7.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	Personal Services	Expenditure	0			9156.10	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	Travel	Expenditure	0			107.80	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	Contractual Services	Expenditure	0			2076.80	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	Commodities	Expenditure	0			215.10	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	"Grants, Benefits"	Expenditure	0			5454.40	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1124.00	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	1002 Federal Receipts	Revenue	1002	Federal Funds		12192.00	0	0	0	0	0	0	0	0	0
+1003	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		3371.80	0	0	0	0	0	0	0	0	0
+1117	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	1117 Randolph Sheppard Small Business Fund	Revenue	1117	Other Funds		124.20	0	0	0	0	0	0	0	0	0
+1237	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	1237 Vocational Rehabilitation Small Bus. Enterprise Revolving Fd	Revenue	1237	Designated General Funds		198.20	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	Permanent Full-Time	Position Count	0			85.00	0	0	0	0	0	0	0	0	0
+12000	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1828	2	Client Services	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	206	5	Disability Determination	Personal Services	Expenditure	0			3030.50	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	206	5	Disability Determination	Travel	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	206	5	Disability Determination	Contractual Services	Expenditure	0			1064.50	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	206	5	Disability Determination	Commodities	Expenditure	0			42.50	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	206	5	Disability Determination	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	206	5	Disability Determination	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	206	5	Disability Determination	"Grants, Benefits"	Expenditure	0			1764.50	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	206	5	Disability Determination	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	206	5	Disability Determination	1002 Federal Receipts	Revenue	1002	Federal Funds		5616.40	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	206	5	Disability Determination	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	290.60	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	206	5	Disability Determination	Permanent Full-Time	Position Count	0			34.00	0	0	0	0	0	0	0	0	0
+12000	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	206	5	Disability Determination	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1958	6	Special Projects	Personal Services	Expenditure	0			15.70	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1958	6	Special Projects	Travel	Expenditure	0			4.20	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1958	6	Special Projects	Contractual Services	Expenditure	0			3.20	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1958	6	Special Projects	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1958	6	Special Projects	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1958	6	Special Projects	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1958	6	Special Projects	"Grants, Benefits"	Expenditure	0			1219.60	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1958	6	Special Projects	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1958	6	Special Projects	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		41.80	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1958	6	Special Projects	1002 Federal Receipts	Revenue	1002	Federal Funds		956.00	0	0	0	0	0	0	0	0	0
+1003	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1958	6	Special Projects	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		31.50	0	0	0	0	0	0	0	0	0
+1004	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1958	6	Special Projects	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		93.70	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	65	7	Vocational Rehabilitation	1958	6	Special Projects	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	119.70	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	Personal Services	Expenditure	0			6958.70	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	Travel	Expenditure	0			45.20	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	Contractual Services	Expenditure	0			3876.70	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	Commodities	Expenditure	0			1360.10	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	Capital Outlay	Expenditure	0			87.90	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	"Grants, Benefits"	Expenditure	0			1149.20	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		1090.30	0	0	0	0	0	0	0	0	0
+1002	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	1002 Federal Receipts	Revenue	1002	Federal Funds		815.30	0	0	0	0	0	0	0	0	0
+1004	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3271.00	0	0	0	0	0	0	0	0	0
+1005	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		3763.00	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1047.00	0	0	0	0	0	0	0	0	0
+1108	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		1139.50	0	0	0	0	0	0	0	0	0
+1151	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		2351.70	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	Permanent Full-Time	Position Count	0			52.00	0	0	0	0	0	0	0	0	0
+11000	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	Permanent Part-Time	Position Count	0			13.00	0	0	0	0	0	0	0	0	0
+12000	7	9	Labor & Workforce	578	8	AVTEC	2686	3	AVTEC	Non-Permanent	Position Count	0			4.00	0	0	0	0	0	0	0	0	0
+1	7	9	Labor & Workforce	578	8	AVTEC	2701	4	AVTEC Facilities Maintenance	Personal Services	Expenditure	0			415.60	0	0	0	0	0	0	0	0	0
+2	7	9	Labor & Workforce	578	8	AVTEC	2701	4	AVTEC Facilities Maintenance	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	7	9	Labor & Workforce	578	8	AVTEC	2701	4	AVTEC Facilities Maintenance	Contractual Services	Expenditure	0			1455.90	0	0	0	0	0	0	0	0	0
+4	7	9	Labor & Workforce	578	8	AVTEC	2701	4	AVTEC Facilities Maintenance	Commodities	Expenditure	0			52.90	0	0	0	0	0	0	0	0	0
+5	7	9	Labor & Workforce	578	8	AVTEC	2701	4	AVTEC Facilities Maintenance	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	7	9	Labor & Workforce	578	8	AVTEC	2701	4	AVTEC Facilities Maintenance	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	7	9	Labor & Workforce	578	8	AVTEC	2701	4	AVTEC Facilities Maintenance	"Grants, Benefits"	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	7	9	Labor & Workforce	578	8	AVTEC	2701	4	AVTEC Facilities Maintenance	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	7	9	Labor & Workforce	578	8	AVTEC	2701	4	AVTEC Facilities Maintenance	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1824.60	0	0	0	0	0	0	0	0	0
+1061	7	9	Labor & Workforce	578	8	AVTEC	2701	4	AVTEC Facilities Maintenance	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	99.80	0	0	0	0	0	0	0	0	0
+10000	7	9	Labor & Workforce	578	8	AVTEC	2701	4	AVTEC Facilities Maintenance	Permanent Full-Time	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+11000	7	9	Labor & Workforce	578	8	AVTEC	2701	4	AVTEC Facilities Maintenance	Permanent Part-Time	Position Count	0			4.00	0	0	0	0	0	0	0	0	0
+12000	7	9	Labor & Workforce	578	8	AVTEC	2701	4	AVTEC Facilities Maintenance	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0

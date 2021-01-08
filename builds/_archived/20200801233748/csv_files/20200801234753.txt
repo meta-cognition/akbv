@@ -1,0 +1,4 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1002	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	1002 Federal Receipts	Revenue	1002	Federal Funds		506.70	0	0	0	0	0	0	0	0	0
+1005	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		17245.10	0	0	0	0	0	0	0	0	0
+1007	2	1	Administration	265	14	Division of Motor Vehicles	2348	0	Motor Vehicles	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	51.90	0	0	0	0	0	0	0	0	0

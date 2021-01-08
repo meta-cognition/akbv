@@ -1,0 +1,32 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT
+			Transportation			Airport Improvement Program				1002 Federal Receipts	AP*				187700.0								
+			Transportation			Airport Improvement Program				1027 International Airport Revenue Fund	AP*				24000.0								
+			Transportation			Airport Improvement Program				1112 International Airports Construction Fund	AP*				2700.0								
+			Transportation			Airport Improvement Program			Alaska International Airport System	1002 Federal Receipts	AL				47700.0								
+			Transportation			Airport Improvement Program			Alaska International Airport System	1027 International Airport Revenue Fund	AL				24000.0								
+			Transportation			Airport Improvement Program			Alaska International Airport System	1112 International Airports Construction Fund	AL				2700.0								
+			Transportation			Airport Improvement Program			Rural Airport Improvement Program	1002 Federal Receipts	AL				140000.0								
+			Transportation			Alaska Marine Highway System Vessel Overhaul, Annual Certification and Shoreside Facilities Rehabilitation				1076 Marine Hwy	AP				15000.0								
+			Transportation			Federal-Aid Highway Project Match Credits				1002 Federal Receipts	AP				5275.2								
+			Transportation			Federal-Aid Highway Project Match Credits				1005 General Fund/Program Receipts	AP				1500.0								
+			Transportation			Federal Program Match				1003 General Fund Match	AP*				49094.3								
+			Transportation			Federal Program Match				1004 General Fund Receipts	AP*				7514.6								
+			Transportation			Federal Program Match				1139 AHFC Div	AP*				8400.0								
+			Transportation			Federal Program Match			Federal-Aid Aviation State Match	1003 General Fund Match	AL				8853.4								
+			Transportation			Federal Program Match			Federal-Aid Highway State Match	1003 General Fund Match	AL				38940.9								
+			Transportation			Federal Program Match			Federal-Aid Highway State Match	1139 AHFC Div	AL				8400.0								
+			Transportation			Federal Program Match			Federal-Aid Highway State Match- Reappropriation Backfill	1004 General Fund Receipts	AL				7514.6								
+			Transportation			Federal Program Match			Other Federal Program Match	1003 General Fund Match	AL				1300.0								
+			Transportation			MH Coordinated Transportation and Vehicles				1037 GF/MH	AP				1000.0								
+			Transportation			MH Coordinated Transportation and Vehicles				1092 Mental Health Trust Authority Authorized Receipts	AP				300.0								
+			Transportation			State Equipment Fleet Replacement				1026 Highways/Equipment Working Capital Fund	AP				15000.0								
+			Transportation			Statewide Federal Programs				1002 Federal Receipts	AP*				33000.0								
+			Transportation			Statewide Federal Programs				1004 General Fund Receipts	AP*				37.7								
+			Transportation			Statewide Federal Programs				1108 Statutory Designated Program Receipts	AP*				10000.0								
+			Transportation			Statewide Federal Programs			Cooperative Reimbursable Projects	1002 Federal Receipts	AL				5000.0								
+			Transportation			Statewide Federal Programs			Cooperative Reimbursable Projects	1108 Statutory Designated Program Receipts	AL				10000.0								
+			Transportation			Statewide Federal Programs			Federal Emergency Projects	1002 Federal Receipts	AL				10000.0								
+			Transportation			Statewide Federal Programs			Federal Transit Administration Grants	1002 Federal Receipts	AL				10000.0								
+			Transportation			Statewide Federal Programs			Highway Safety Grants Program	1002 Federal Receipts	AL				8000.0								
+			Transportation			Statewide Federal Programs			Highway Safety Grants Program	1004 General Fund Receipts	AL				37.7								
+			Transportation			Surface Transportation Program				1002 Federal Receipts	AP				650000.0								
