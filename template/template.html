@@ -1,8 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html>	
+<!-- BUILD_ID: @@@UID@@@ -->
+<!-- https://github.com/meta-cognition/akbv -->
 <head>
 	<title>@@@TITLE@@@</title>
-	<!-- Plotly.js --><!-- @@@UID@@@ -->
+	<!-- Plotly.js -->
 	<script src="@@@PLOTLYSOURCE@@@"></script>
 	<meta charset="UTF-8">
 	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
@@ -40,7 +42,7 @@
 		g.hovertext rect{
 			fill-opacity: 1 !important; 
 		}
-		/* Removed below to allow javascript assignment of style to nodes with links. */
+		/* Commented the style below to allow javascript assignment of style to nodes with links. */
 		/*
 		rect.node-capture
 		{
@@ -97,7 +99,7 @@ var user_font_size = 11;
 			@@@NODELABEL@@@
 			@@@NODECOLOR@@@
 			@@@NODEMETA@@@
-		
+					
 			hoverlabel: {
 				opacity: 1,
 				bgcolor: "rgb(153, 204, 255)",
@@ -105,10 +107,13 @@ var user_font_size = 11;
 			},  
 	
 			@@@NODEHOVERTEMPLATE@@@
-		
+			/* for manual custom node location.
 			/* groups : [[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17],[18,19,20,21,22,23,24,25,26,27,28]], */
 			/* x :[.01,.02,.03,.04,.05], */
 			/* y :[.01,.02,.03,.04,.05] */
+			/* akbv margins are at .007 and .993, with center at .5 */
+			@@@NODEX@@@
+			@@@NODEY@@@
 		},
 
 		link: { 

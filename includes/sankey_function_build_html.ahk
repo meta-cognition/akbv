@@ -21,6 +21,8 @@ build_html()
 	StringReplace, html_file, html_file, @@@NODELABEL@@@, % json_node_label
 	StringReplace, html_file, html_file, @@@NODECOLOR@@@, % json_node_color
 	StringReplace, html_file, html_file, @@@NODEMETA@@@, % json_node_meta
+	StringReplace, html_file, html_file, @@@NODEX@@@, % json_node_x
+	StringReplace, html_file, html_file, @@@NODEY@@@, % json_node_y
 
 	StringReplace, html_file, html_file, @@@LINKSOURCE@@@, % json_link_source
 	StringReplace, html_file, html_file, @@@LINKTARGET@@@, % json_link_target

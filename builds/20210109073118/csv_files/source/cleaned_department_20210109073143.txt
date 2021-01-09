@@ -1,0 +1,114 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	1	80	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Personal Services	Expenditure	0			2113.50	0	0	0	0	0	0	0	0	0
+2	1	80	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Travel	Expenditure	0			17.70	0	0	0	0	0	0	0	0	0
+3	1	80	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Contractual Services	Expenditure	0			243.60	0	0	0	0	0	0	0	0	0
+4	1	80	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Commodities	Expenditure	0			70.40	0	0	0	0	0	0	0	0	0
+5	1	80	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Capital Outlay	Expenditure	0			3.00	0	0	0	0	0	0	0	0	0
+6	1	80	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	1	80	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	1	80	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	1	80	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	1	80	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	1002 Federal Receipts	Revenue	1002	Federal Funds		229.00	0	0	0	0	0	0	0	0	0
+1004	1	80	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2219.20	0	0	0	0	0	0	0	0	0
+10000	1	80	Governor	1	1	Commissions/Special Offices	1	1	Human Rights Commission	Permanent Full-Time	Position Count	0			18.00	0	0	0	0	0	0	0	0	0
+1	1	80	Governor	2	2	Executive Operations	6	1	Executive Office	Personal Services	Expenditure	0			9130.30	0	0	0	0	0	0	0	0	0
+2	1	80	Governor	2	2	Executive Operations	6	1	Executive Office	Travel	Expenditure	0			712.90	0	0	0	0	0	0	0	0	0
+3	1	80	Governor	2	2	Executive Operations	6	1	Executive Office	Contractual Services	Expenditure	0			1113.40	0	0	0	0	0	0	0	0	0
+4	1	80	Governor	2	2	Executive Operations	6	1	Executive Office	Commodities	Expenditure	0			159.10	0	0	0	0	0	0	0	0	0
+5	1	80	Governor	2	2	Executive Operations	6	1	Executive Office	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	1	80	Governor	2	2	Executive Operations	6	1	Executive Office	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	1	80	Governor	2	2	Executive Operations	6	1	Executive Office	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	1	80	Governor	2	2	Executive Operations	6	1	Executive Office	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	1	80	Governor	2	2	Executive Operations	6	1	Executive Office	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	1	80	Governor	2	2	Executive Operations	6	1	Executive Office	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		10932.90	0	0	0	0	0	0	0	0	0
+1061	1	80	Governor	2	2	Executive Operations	6	1	Executive Office	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	182.80	0	0	0	0	0	0	0	0	0
+10000	1	80	Governor	2	2	Executive Operations	6	1	Executive Office	Permanent Full-Time	Position Count	0			64.00	0	0	0	0	0	0	0	0	0
+12000	1	80	Governor	2	2	Executive Operations	6	1	Executive Office	Non-Permanent	Position Count	0			8.00	0	0	0	0	0	0	0	0	0
+1	1	80	Governor	2	2	Executive Operations	9	3	Governor's House	Personal Services	Expenditure	0			424.30	0	0	0	0	0	0	0	0	0
+2	1	80	Governor	2	2	Executive Operations	9	3	Governor's House	Travel	Expenditure	0			12.00	0	0	0	0	0	0	0	0	0
+3	1	80	Governor	2	2	Executive Operations	9	3	Governor's House	Contractual Services	Expenditure	0			214.50	0	0	0	0	0	0	0	0	0
+4	1	80	Governor	2	2	Executive Operations	9	3	Governor's House	Commodities	Expenditure	0			84.70	0	0	0	0	0	0	0	0	0
+5	1	80	Governor	2	2	Executive Operations	9	3	Governor's House	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	1	80	Governor	2	2	Executive Operations	9	3	Governor's House	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	1	80	Governor	2	2	Executive Operations	9	3	Governor's House	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	1	80	Governor	2	2	Executive Operations	9	3	Governor's House	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	1	80	Governor	2	2	Executive Operations	9	3	Governor's House	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	1	80	Governor	2	2	Executive Operations	9	3	Governor's House	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		735.50	0	0	0	0	0	0	0	0	0
+10000	1	80	Governor	2	2	Executive Operations	9	3	Governor's House	Permanent Full-Time	Position Count	0			4.00	0	0	0	0	0	0	0	0	0
+1	1	80	Governor	2	2	Executive Operations	10	4	Contingency Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	1	80	Governor	2	2	Executive Operations	10	4	Contingency Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	1	80	Governor	2	2	Executive Operations	10	4	Contingency Fund	Contractual Services	Expenditure	0			250.00	0	0	0	0	0	0	0	0	0
+4	1	80	Governor	2	2	Executive Operations	10	4	Contingency Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	1	80	Governor	2	2	Executive Operations	10	4	Contingency Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	1	80	Governor	2	2	Executive Operations	10	4	Contingency Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	1	80	Governor	2	2	Executive Operations	10	4	Contingency Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	1	80	Governor	2	2	Executive Operations	10	4	Contingency Fund	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	1	80	Governor	2	2	Executive Operations	10	4	Contingency Fund	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	1	80	Governor	2	2	Executive Operations	10	4	Contingency Fund	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		250.00	0	0	0	0	0	0	0	0	0
+1	1	80	Governor	2	2	Executive Operations	11	5	Lieutenant Governor	Personal Services	Expenditure	0			875.80	0	0	0	0	0	0	0	0	0
+2	1	80	Governor	2	2	Executive Operations	11	5	Lieutenant Governor	Travel	Expenditure	0			85.20	0	0	0	0	0	0	0	0	0
+3	1	80	Governor	2	2	Executive Operations	11	5	Lieutenant Governor	Contractual Services	Expenditure	0			194.60	0	0	0	0	0	0	0	0	0
+4	1	80	Governor	2	2	Executive Operations	11	5	Lieutenant Governor	Commodities	Expenditure	0			19.00	0	0	0	0	0	0	0	0	0
+5	1	80	Governor	2	2	Executive Operations	11	5	Lieutenant Governor	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	1	80	Governor	2	2	Executive Operations	11	5	Lieutenant Governor	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	1	80	Governor	2	2	Executive Operations	11	5	Lieutenant Governor	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	1	80	Governor	2	2	Executive Operations	11	5	Lieutenant Governor	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	1	80	Governor	2	2	Executive Operations	11	5	Lieutenant Governor	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	1	80	Governor	2	2	Executive Operations	11	5	Lieutenant Governor	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1174.60	0	0	0	0	0	0	0	0	0
+10000	1	80	Governor	2	2	Executive Operations	11	5	Lieutenant Governor	Permanent Full-Time	Position Count	0			7.00	0	0	0	0	0	0	0	0	0
+1	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Contractual Services	Expenditure	0			596.20	0	0	0	0	0	0	0	0	0
+4	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		596.20	0	0	0	0	0	0	0	0	0
+1	1	80	Governor	407	3	Gov State Facilities Rent	2779	0	Governor's Office Leasing	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	1	80	Governor	407	3	Gov State Facilities Rent	2779	0	Governor's Office Leasing	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	1	80	Governor	407	3	Gov State Facilities Rent	2779	0	Governor's Office Leasing	Contractual Services	Expenditure	0			490.60	0	0	0	0	0	0	0	0	0
+4	1	80	Governor	407	3	Gov State Facilities Rent	2779	0	Governor's Office Leasing	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	1	80	Governor	407	3	Gov State Facilities Rent	2779	0	Governor's Office Leasing	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	1	80	Governor	407	3	Gov State Facilities Rent	2779	0	Governor's Office Leasing	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	1	80	Governor	407	3	Gov State Facilities Rent	2779	0	Governor's Office Leasing	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	1	80	Governor	407	3	Gov State Facilities Rent	2779	0	Governor's Office Leasing	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	1	80	Governor	407	3	Gov State Facilities Rent	2779	0	Governor's Office Leasing	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	1	80	Governor	407	3	Gov State Facilities Rent	2779	0	Governor's Office Leasing	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		490.60	0	0	0	0	0	0	0	0	0
+1	1	80	Governor	3	4	Office of Management & Budget	2144	1	Office of Management & Budget	Personal Services	Expenditure	0			2468.20	0	0	0	0	0	0	0	0	0
+2	1	80	Governor	3	4	Office of Management & Budget	2144	1	Office of Management & Budget	Travel	Expenditure	0			10.20	0	0	0	0	0	0	0	0	0
+3	1	80	Governor	3	4	Office of Management & Budget	2144	1	Office of Management & Budget	Contractual Services	Expenditure	0			158.40	0	0	0	0	0	0	0	0	0
+4	1	80	Governor	3	4	Office of Management & Budget	2144	1	Office of Management & Budget	Commodities	Expenditure	0			14.00	0	0	0	0	0	0	0	0	0
+5	1	80	Governor	3	4	Office of Management & Budget	2144	1	Office of Management & Budget	Capital Outlay	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0
+6	1	80	Governor	3	4	Office of Management & Budget	2144	1	Office of Management & Budget	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	1	80	Governor	3	4	Office of Management & Budget	2144	1	Office of Management & Budget	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	1	80	Governor	3	4	Office of Management & Budget	2144	1	Office of Management & Budget	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	1	80	Governor	3	4	Office of Management & Budget	2144	1	Office of Management & Budget	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	1	80	Governor	3	4	Office of Management & Budget	2144	1	Office of Management & Budget	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2655.80	0	0	0	0	0	0	0	0	0
+1007	1	80	Governor	3	4	Office of Management & Budget	2144	1	Office of Management & Budget	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	0	0	0	0	0	0	0	0	0	0
+10000	1	80	Governor	3	4	Office of Management & Budget	2144	1	Office of Management & Budget	Permanent Full-Time	Position Count	0			16.00	0	0	0	0	0	0	0	0	0
+12000	1	80	Governor	3	4	Office of Management & Budget	2144	1	Office of Management & Budget	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	1	80	Governor	3	4	Office of Management & Budget	3290	2	Admin Services Directors	Personal Services	Expenditure	0			2708.60	0	0	0	0	0	0	0	0	0
+2	1	80	Governor	3	4	Office of Management & Budget	3290	2	Admin Services Directors	Travel	Expenditure	0			15.00	0	0	0	0	0	0	0	0	0
+3	1	80	Governor	3	4	Office of Management & Budget	3290	2	Admin Services Directors	Contractual Services	Expenditure	0			167.50	0	0	0	0	0	0	0	0	0
+4	1	80	Governor	3	4	Office of Management & Budget	3290	2	Admin Services Directors	Commodities	Expenditure	0			14.00	0	0	0	0	0	0	0	0	0
+5	1	80	Governor	3	4	Office of Management & Budget	3290	2	Admin Services Directors	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	1	80	Governor	3	4	Office of Management & Budget	3290	2	Admin Services Directors	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	1	80	Governor	3	4	Office of Management & Budget	3290	2	Admin Services Directors	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	1	80	Governor	3	4	Office of Management & Budget	3290	2	Admin Services Directors	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	1	80	Governor	3	4	Office of Management & Budget	3290	2	Admin Services Directors	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	2905.10	0	0	0	0	0	0	0	0	0
+10000	1	80	Governor	3	4	Office of Management & Budget	3290	2	Admin Services Directors	Permanent Full-Time	Position Count	0			14.00	0	0	0	0	0	0	0	0	0
+1	1	80	Governor	433	5	Elections	21	1	Elections	Personal Services	Expenditure	0			3344.30	0	0	0	0	0	0	0	0	0
+2	1	80	Governor	433	5	Elections	21	1	Elections	Travel	Expenditure	0			80.40	0	0	0	0	0	0	0	0	0
+3	1	80	Governor	433	5	Elections	21	1	Elections	Contractual Services	Expenditure	0			2606.60	0	0	0	0	0	0	0	0	0
+4	1	80	Governor	433	5	Elections	21	1	Elections	Commodities	Expenditure	0			95.80	0	0	0	0	0	0	0	0	0
+5	1	80	Governor	433	5	Elections	21	1	Elections	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	1	80	Governor	433	5	Elections	21	1	Elections	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	1	80	Governor	433	5	Elections	21	1	Elections	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	1	80	Governor	433	5	Elections	21	1	Elections	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	1	80	Governor	433	5	Elections	21	1	Elections	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	1	80	Governor	433	5	Elections	21	1	Elections	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5420.40	0	0	0	0	0	0	0	0	0
+1185	1	80	Governor	433	5	Elections	21	1	Elections	1185 Election Fund (HAVA)	Revenue	1185	Other Funds	Duplicated	706.70	0	0	0	0	0	0	0	0	0
+10000	1	80	Governor	433	5	Elections	21	1	Elections	Permanent Full-Time	Position Count	0			28.00	0	0	0	0	0	0	0	0	0
+12000	1	80	Governor	433	5	Elections	21	1	Elections	Non-Permanent	Position Count	0			14.00	0	0	0	0	0	0	0	0	0

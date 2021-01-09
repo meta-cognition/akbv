@@ -68,7 +68,7 @@ loop
 		;msgbox % this_row_department
 		if ( this_row_department = "Office of the Governor")
 		{
-			msgbox this_value
+			;msgbox this_value
 		}
 		if ( this_value > 0 )
 		{

@@ -159,6 +159,8 @@ build_nodes_from_columns(columns*)
 	json_node_label 		:= "label : ["
 	json_node_color 		:= "color : ["
 	json_node_meta			:= "meta  : ["
+	json_node_x				:= "x  : ["
+	json_node_y				:= "y  : ["
 	
 	for index, node in sankey_object.nodes.all
 	{
@@ -172,11 +174,15 @@ build_nodes_from_columns(columns*)
 		}
 		json_node_color .= """" . sankey_object.nodes.all[index].node_rgb_color . """, " 
 		json_node_meta .= """" . sankey_object.nodes.all[index].node_id . """, " 
+		json_node_x .= "/*" . sankey_object.nodes.all[index].node_name . "*/, "  
+		json_node_y .= "/*" . sankey_object.nodes.all[index].node_name . "*/, "  
 	}
 	
 	json_node_label .= "],"
 	json_node_color .= "],"
 	json_node_meta .= "],"
+	json_node_x .= "],"
+	json_node_y .= "],"
 	
 	progress_subtext := "Building nodes: COMPLETE!"
 	Progress, , % progress_subtext, , % progress_title

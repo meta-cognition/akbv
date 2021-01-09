@@ -1,5 +1,5 @@
 ﻿; The Sankey Builder (aka Alaska Budget Visualizer)
-;   by Dom Pannone, The Half Blood Prince,  2020
+;   by Dom Pannone, THBP, 2020
 
 
 ;OPTIMIZATIONS START
@@ -7,6 +7,7 @@
 #MaxHotkeysPerInterval 99000000
 #HotkeyInterval 99000000
 #KeyHistory 0
+#SingleInstance, Force			; Single instance only
 ListLines Off
 Process, Priority, , A
 SetBatchLines, -1
@@ -20,10 +21,7 @@ SendMode Input
 
 SetWorkingDir %A_ScriptDir%  	; Ensures a consistent starting directory.
 
-#SingleInstance, Force			; Single instance only
-Menu, Tray, Icon, resources\ico\icon.ico
-menu, tray, NoStandard
-Menu, Tray, Add, Quit, DoQuit 
+DoGui()
 
 ;=======================================================================|
 #Include includes\csv.ahk												; see file, add byref to csv load to load file once
@@ -35,8 +33,8 @@ Menu, Tray, Add, Quit, DoQuit
 #Include includes\sankey_function_csv_sum_positions.ahk					; csv_find_and_sum_positions(string_find, search_column)
 #Include includes\sankey_function_csv_find_replace.ahk					; csv_find_replace(string_find, string_replace)	
 ;=======================================================================|
-#Include includes\sankey_function_build_nodes.ahk						; build_nodes_from_columns(columns*) **NOTE: columns must be added from left to right.**
-#Include includes\sankey_function_build_links.ahk						; see file
+#Include includes\sankey_function_build_nodes.ahk           			; build_nodes_from_columns(columns*) **NOTE: columns must be added from left to right.**
+#Include includes\sankey_function_build_links.ahk                       ; see file
 #Include includes\sankey_function_build_json.ahk						; build_json()
 #Include includes\sankey_function_build_javascript.ahk					; build_javascript()
 #Include includes\sankey_function_build_html.ahk						; build_html()
@@ -93,11 +91,13 @@ FileSelectFile, sankey_csv_source,, % A_ScriptDir "\abs exports\", Please Select
 FileSelectFile, input_file_1,, % A_ScriptDir "\abs exports\", From ABS "Export Project Summary (UGF/DGF/Other/Fed) (1328)",*.txt
 output_file_1 := A_ScriptDir "\abs exports\capital_fund_category_conditioned_" A_Now ".txt"
 cmd := "interpreter\autohotkey .\capital_etl_statewide_fund_category.ahk """ input_file_1 """ """ output_file_1 """"
+runwait, % cmd
 sankey_csv_source_capital_category := output_file_1
 
 FileSelectFile, input_file_2,, % A_ScriptDir "\abs exports\",From ABS "Export Project Information (Appropriations with Allocations) (272)",*.txt
 output_file_2 := A_ScriptDir "\abs exports\capital_conditioned_" A_Now ".txt"
 cmd := "interpreter\autohotkey .\capital_etl_by_department.ahk """ input_file_2 """ """ output_file_2 """"
+runwait, % cmd
 sankey_csv_source_capital_statewide := output_file_2
 
 StartTime := A_TickCount
@@ -191,3 +191,19 @@ DoQuit() {
 	ExitApp
 Return
 }
+
+DoGui()
+{
+    Menu, Tray, Icon, resources\ico\icon.ico
+    menu, tray, NoStandard
+    Menu, Tray, Add, Quit, DoQuit 
+    Gui, Add, Picture, x52 y10 w120 h120 , C:\Users\dompa\Documents\GitHub\akbv\resources\png\cupcake.png
+    Gui, Font, S14 CDefault, Verdana
+    Gui, Add, Text, x40 y155 w180 h30 , akbv is running
+    Gui, Add, Button, x62 y199 w100 h30 gDoQuit, abort
+    Gui, Show, w225 h250, akbv
+}
+
+GuiClose:
+    Gui, Show
+return
