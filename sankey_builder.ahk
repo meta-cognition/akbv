@@ -1,6 +1,5 @@
 ﻿; The Sankey Builder (aka Alaska Budget Visualizer)
-;   by Dom Pannone, THBP, 2020
-
+;   by Dom Pannone, THBP, 2020-2021
 
 ;OPTIMIZATIONS START
 #NoEnv
@@ -20,8 +19,6 @@ SendMode Input
 ;OPTIMIZATIONS END
 
 SetWorkingDir %A_ScriptDir%  	; Ensures a consistent starting directory.
-
-DoGui()
 
 ;=======================================================================|
 #Include includes\csv.ahk												; see file, add byref to csv load to load file once
@@ -53,7 +50,15 @@ DoGui()
 ;=======================================================================|
 #Include includes\sankey_reference.ahk									; human readable reference file for object structures
 
-; Static column variables for operating budget source data.
+; SHOW CUPCAKE, SING HAPPY BIRTHDAY
+DoGui()
+
+; SELECT INPUT FILES, EXPORTS FROM ABS
+FileSelectFile, sankey_csv_source,, % A_ScriptDir "\abs exports\", Please Select an Operating File`, From ABS "Export Component Detail (1512)",*.txt
+FileSelectFile, input_file_1,, % A_ScriptDir "\abs exports\", From ABS "Export Project Summary (UGF/DGF/Other/Fed) (1328)",*.txt
+FileSelectFile, input_file_2,, % A_ScriptDir "\abs exports\", From ABS "Export Project Information (Appropriations with Allocations) (272)",*.txt
+
+; STATIC COLUMNS FOR OPERATING BUDGET SOURCE DATA
 department_column	:= 4	; e.g. Transportation
 rdu_column 			:= 7 	; e.g. Marine Highway System
 component_column	:= 10	; e.g. Vessel Operations
@@ -64,45 +69,29 @@ value_column		:= 16	; e.g. (value)
 scenario_column		:= 11	;
 scenario_row		:= 2	;
 
+; FOR FILTERS
 position_labels		:= "Permanent Part-Time|Permanent Full-Time|Non-Permanent"
 expenditure_labels	:= "Personal Services|Travel|Contractual Services|Commodities|Capital Outlay|Line 76000|Grants, Benefits|Miscellaneous"
 non_fund_labels		:= expenditure_labels . "|" . position_labels
 
-json_value_format 	:= "valueformat: ""$,.1f"","
-;json_value_format 	:= "valueformat: ""-$,.1f"","
-
+; MISC VARIABLES
+json_value_format 	:= "valueformat: ""$,.1f"","  ;json_value_format 	:= "valueformat: ""-$,.1f"","
 format_mode := "dollars" 			; "dollars" or "positions"
 show_values_in_labels := true		; show values next to node labels
 sum_appropriation_values := false	; set to true for values in a capital budget
-
-parent_levels := 0					; DO NOT CHANGE - how many '../' to find plotly.js, starts at 0
-
-this_build_uid			:= A_Now	; a unique timestamp for each build, embeded/fingerprinted in the html file as well.
-
 menu_html  := ""
-
 rn := "`r`n"
 
-; MANUALLY CHANGE THESE!
-save_csv_files 			:= false	; set to true for troubleshooting, set to false for speed.
+; SO DOM COBB CAN KNOW IF HE'S IN SANKEY WITHIN A SANKEY... WITHIN A SANKEY.
+parent_levels := 0	; DO NOT CHANGE - how many '../' to find plotly.js, starts at 0
 
-FileSelectFile, sankey_csv_source,, % A_ScriptDir "\abs exports\", Please Select an Operating File`, From ABS "Export Component Detail (1512)",*.txt
+; FOR TRACKING
+this_build_uid := A_Now	; a unique timestamp for each build, embeded/fingerprinted in the html file as well.
 
-FileSelectFile, input_file_1,, % A_ScriptDir "\abs exports\", From ABS "Export Project Summary (UGF/DGF/Other/Fed) (1328)",*.txt
-output_file_1 := A_ScriptDir "\abs exports\capital_fund_category_conditioned_" A_Now ".txt"
-cmd := "interpreter\autohotkey .\capital_etl_statewide_fund_category.ahk """ input_file_1 """ """ output_file_1 """"
-runwait, % cmd
-sankey_csv_source_capital_category := output_file_1
+; MANUALLY CHANGE THIS
+save_csv_files := false	; set to true for troubleshooting, set to false for speed.
 
-FileSelectFile, input_file_2,, % A_ScriptDir "\abs exports\",From ABS "Export Project Information (Appropriations with Allocations) (272)",*.txt
-output_file_2 := A_ScriptDir "\abs exports\capital_conditioned_" A_Now ".txt"
-cmd := "interpreter\autohotkey .\capital_etl_by_department.ahk """ input_file_2 """ """ output_file_2 """"
-runwait, % cmd
-sankey_csv_source_capital_statewide := output_file_2
-
-StartTime := A_TickCount
-
-plotly_source	:= "plotly-latest.min.js"
+; SET UP DIRECTORY FOR THIS BUILD
 build_directory := A_ScriptDir "\builds\" this_build_uid 
 csv_directory := build_directory "\csv_files"
 
@@ -110,10 +99,8 @@ FileCreateDir, % build_directory
 FileCreateDir, % csv_directory
 FileCreateDir, % csv_directory "\source"
 
+plotly_source	:= "plotly-latest.min.js"
 FileCopy, % A_ScriptDir "\resources\js\plotly\plotly-latest.min.js", % build_directory "\plotly-latest.min.js"
-
-Gui +OwnDialogs
-Gui -DPIScale
 
 Progress, A M T ZH0 Y0 FS10 W800 H80 C00,
 Run, explore %build_directory%
@@ -123,24 +110,30 @@ WinMove, % this_build_uid, , % A_ScreenWidth/2 - 500*(A_ScreenDPI/96), 150*(A_Sc
 InitializeColors()
 InitializeDepartments()
 
+; MORE VARIABLES
 sankey_object := {}
 sankey_object.links := []
 sankey_object.hyperlink_ids := []
 javascript_links =
 javascript_hovers =
 
-if (sankey_csv_source != "" )
+; GO TIME
+;=========================================================================
+
+StartTime := A_TickCount
+
+if ( sankey_csv_source != "" )
 {
     FileCopy, % sankey_csv_source, % csv_directory "\source\"		; copy/bakcup input data within build for refenence, troubleshooting/analysis, auditing
     FileRead, sankey_csv_ramfile, % sankey_csv_source				; stores source data in memory
     
     cleanup_data()
     
-    #Include sankey_instruction_0.ahk		; Statewide All Dept
-    #Include sankey_instruction_1.ahk		; Fund RDU Component
-    #Include sankey_instruction_2.ahk		; RDU only and Component only
-    #Include sankey_instruction_3.ahk		; PCN Main
-    #Include sankey_instruction_4.ahk		; Department Overview
+    #Include includes\sankey_instruction_0.ahk		; Statewide All Dept
+    #Include includes\sankey_instruction_1.ahk		; Fund RDU Component
+    #Include includes\sankey_instruction_2.ahk		; RDU only and Component only
+    #Include includes\sankey_instruction_3.ahk		; PCN Main
+    #Include includes\sankey_instruction_4.ahk		; Department Overview
 }
 
 FileAppend, % "Operating Build Time: " FormatSeconds((A_TickCount-StartTime)/1000) rn, % build_directory "\build-time.txt"
@@ -148,14 +141,17 @@ FileAppend, % "Operating Build Time: " FormatSeconds((A_TickCount-StartTime)/100
 
 StartTime := A_TickCount
 
-if (sankey_csv_source_capital_category != "" )
+if ( input_file_1 != "" )
 {
-    FileCopy, % sankey_csv_source_capital_category, % csv_directory "\source\"		; copy/bakcup input data within build for refenence, troubleshooting/analysis, auditing
+    output_file_1 := csv_directory "\capital_fund_category_conditioned_" A_Now ".txt"
+    cmd := "interpreter\autohotkey .\capital_etl_statewide_fund_category.ahk """ input_file_1 """ """ output_file_1 """"
+    runwait, % cmd
+    sankey_csv_source_capital_category := output_file_1
     FileRead, sankey_csv_ramfile, % sankey_csv_source_capital_category				; stores source data in memory
     
     cleanup_data(true)
     
-    #Include sankey_instruction_5.ahk		; Statewide All Dept Capital fund category
+    #Include includes\sankey_instruction_5.ahk		; Statewide All Dept Capital fund category
 }
 FileAppend, % "Capital Category Build Time: " FormatSeconds((A_TickCount-StartTime)/1000) rn, % build_directory "\build-time.txt"
 
@@ -163,21 +159,29 @@ FileAppend, % "Capital Category Build Time: " FormatSeconds((A_TickCount-StartTi
 
 StartTime := A_TickCount
 
-if (sankey_csv_source_capital_category != "" )
+if ( input_file_2 != "" )
 {
-    FileCopy, % sankey_csv_source_capital_statewide, % csv_directory "\source\"		; copy/bakcup input data within build for refenence, troubleshooting/analysis, auditing
+    output_file_2 := csv_directory "\capital_statewide_conditioned_" A_Now ".txt"
+    cmd := "interpreter\autohotkey .\capital_etl_by_department.ahk """ input_file_2 """ """ output_file_2 """"
+    runwait, % cmd
+    sankey_csv_source_capital_statewide := output_file_2
     FileRead, sankey_csv_ramfile, % sankey_csv_source_capital_statewide				; stores source data in memory
 
     cleanup_data(true)
 
-    #Include sankey_instruction_6.ahk		; Capital Budget
+    #Include includes\sankey_instruction_6.ahk		; Capital Budget
 }
 
-FileAppend, % "Capital Category Build Time: " FormatSeconds((A_TickCount-StartTime)/1000) rn, % build_directory "\build-time.txt"
-;=========================================================================
+FileAppend, % "Capital Statewide Build Time: " FormatSeconds((A_TickCount-StartTime)/1000) rn, % build_directory "\build-time.txt"
 
 ExitApp
 
+;=========================================================================
+
+
+;=========================================================================
+;=========================================================================
+; MISC FUNCTIONS
 FormatSeconds(NumberOfSeconds)  ; Convert the specified number of seconds to hh:mm:ss format.
 {
     time = 19990101  ; *Midnight* of an arbitrary date.
