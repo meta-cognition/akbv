@@ -1,8 +1,0 @@
-layout.update(dict(annotations= [{'x': 0.24, 'y':0.95 
-                                      ,'text': 'Previous 30 Days'
-                                      ,'font': { 'color': 'rgb(55, 128, 191)', 'size': 14}
-                                      ,'showarrow':False, 'xanchor':'center' },
-                                     {'x': 0.76, 'y':0.95 
-                                      ,'text': 'Last 30 Days' 
-                                      ,'font': { 'color': 'rgb(55, 128, 191)', 'size': 14}
-                                      ,'showarrow':False, 'xanchor':'center' } ]))

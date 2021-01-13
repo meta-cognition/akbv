@@ -15,8 +15,8 @@ entry_type_column 				:= 9 	; Appropriation or Allocation
 reference_number_column			:= 4
 parent_reference_number_column	:= 21
 project_title_column			:= 10	; 
-fund_column_min					:= 69	; e.g. 1004 GF
-fund_column_max					:= 85	; e.g. Expenditure/Reveneu
+fund_column_min					:= 69	; CHECK THE ABS EXPORT, THESE CHANGE
+fund_column_max					:= 89	; CHECK THE ABS EXPORT, THESE CHANGE
 
 rn := "`r`n"
 
@@ -65,11 +65,9 @@ loop
 		this_fund := CSV_ReadCell("sankey_csv_identifier", 1, this_fund_column)
 		this_value := CSV_ReadCell("sankey_csv_identifier", current_row, this_fund_column)
 		this_value := round( this_value / 1000 ,  1 )
-		;msgbox % this_row_department
-		if ( this_row_department = "Office of the Governor")
-		{
-			;msgbox this_value
-		}
+		/* 
+			if you're having any trouble check the column variables, the ABS reports are shifty.
+		*/
 		if ( this_value > 0 )
 		{
 			new_data .= "" A_Tab "" A_Tab "" A_Tab this_row_department A_Tab "" A_Tab "" A_Tab this_row_appropriation_name  A_Tab "" A_Tab "" A_Tab this_row_allocation_name A_Tab this_fund A_Tab this_row_entry_type A_Tab A_Tab A_Tab A_Tab this_value A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab  rn

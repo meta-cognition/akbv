@@ -1,8 +1,27 @@
 menu_html := ""
 menu_html .= "<div style=""margin:auto; width:600px; text-align: center;"">" rn
-menu_html .= "<div><h2>" this_scenario_name "</h2></div>" rn
+menu_html .= "<div class=""abs-scenario""><h2>" this_scenario_name "</h2></div>" rn
+menu_html .= "<div class=""accordion"" id=""accordionDepartments"">" rn
+
+/*
 menu_html .= "<div><h3><a href=""" this_plot_name ".html"">Statewide Fund Group Overview</a></h3></div>" rn
-menu_html .= "<div class=""accordion"" id=""accordionDepartments"">"
+*/
+
+menu_html .= "<div class=""card"">" rn
+menu_html .= "<div class=""card-header"" id=""heading_" ("1") """>" rn
+menu_html .= "<h2 class=""mb-0"">" rn
+menu_html .= "<button class=""btn btn-link collapsed"" type=""button"" data-toggle=""collapse"" data-target=""#collapse_" ("1") """ aria-expanded=""true"" aria-controls=""collapse_" ("1") """>" rn
+menu_html .= "Statewide Fund Group Overview" rn
+menu_html .= "</button>" rn
+menu_html .= "</h2>" rn
+menu_html .= "</div>" rn
+menu_html .= "<div id=""collapse_" ("1") """ class=""collapse"" aria-labelledby=""heading_" ("1") """ data-parent=""#accordionDepartments"">" rn
+menu_html .= "<div class=""card-body"">" rn
+menu_html .= "<div><a href=""" this_plot_name ".html"">Statewide Capital Budget</a></div>" rn
+menu_html .= "</div>" rn
+menu_html .= "</div>" rn
+menu_html .= "</div>" rn
+
 
 for key, department_list_object in department_list
 {	
@@ -48,21 +67,21 @@ for key, department_list_object in department_list
 					continue
 					
 			
-				menu_html .= "<div class=""card"">"
-				menu_html .= "<div class=""card-header"" id=""heading_" key """>"
-				menu_html .= "<h2 class=""mb-0"">"
-				menu_html .= "<button class=""btn btn-link collapsed"" type=""button"" data-toggle=""collapse"" data-target=""#collapse_" key """ aria-expanded=""true"" aria-controls=""collapse_" key """>"
-				menu_html .= department_list_object.readable_name
-				menu_html .= "</button>"
-				menu_html .= "</h2>"
-				menu_html .= "</div>"
+				menu_html .= "<div class=""card"">" rn
+				menu_html .= "<div class=""card-header"" id=""heading_" (key + 1) """>" rn
+				menu_html .= "<h2 class=""mb-0"">" rn
+				menu_html .= "<button class=""btn btn-link collapsed"" type=""button"" data-toggle=""collapse"" data-target=""#collapse_" (key + 1) """ aria-expanded=""true"" aria-controls=""collapse_" (key + 1) """>" rn
+				menu_html .= department_list_object.readable_name rn
+				menu_html .= "</button>" rn
+				menu_html .= "</h2>" rn
+				menu_html .= "</div>" rn
 
-				menu_html .= "<div id=""collapse_" key """ class=""collapse"" aria-labelledby=""heading_" key """ data-parent=""#accordionDepartments"">"
-				menu_html .= "<div class=""card-body"">"
+				menu_html .= "<div id=""collapse_" (key + 1) """ class=""collapse"" aria-labelledby=""heading_" (key + 1) """ data-parent=""#accordionDepartments"">" rn
+				menu_html .= "<div class=""card-body"">" rn
 				menu_html .= "<a href=""" department_list_object.folder_name "/" this_plot_name ".html"">Capital Budget</a>" rn
-				menu_html .= "</div>"
-				menu_html .= "</div>"
-				menu_html .= "</div>"
+				menu_html .= "</div>" rn
+				menu_html .= "</div>" rn
+				menu_html .= "</div>" rn
   
 				
 				format_mode := "dollars"

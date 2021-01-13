@@ -1,0 +1,344 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	Personal Services	Expenditure	0			3574.4	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	Travel	Expenditure	0			207	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	Contractual Services	Expenditure	0			925.4	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	Commodities	Expenditure	0			562.4	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	Capital Outlay	Expenditure	0			10.9	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	1002 Federal Receipts	Revenue	1002	Federal Funds		500	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2404.1	0	0	0	0	0	0	0	0	0
+1005	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		2190	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	186	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	556	1	Fire and Life Safety	3051	1	Fire and Life Safety	Permanent Full-Time	Position Count	0			28	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	Personal Services	Expenditure	0			87.7	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	Travel	Expenditure	0			53.1	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	Contractual Services	Expenditure	0			207	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	Commodities	Expenditure	0			25	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	Capital Outlay	Expenditure	0			3	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	1002 Federal Receipts	Revenue	1002	Federal Funds		53.2	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		112.5	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	6.2	0	0	0	0	0	0	0	0	0
+1108	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		203.9	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	556	1	Fire and Life Safety	2428	2	AK Fire Standards Council	Permanent Full-Time	Position Count	0			1	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	Personal Services	Expenditure	0			986.6	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	Travel	Expenditure	0			826.9	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	Contractual Services	Expenditure	0			4055.7	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	Commodities	Expenditure	0			766.8	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	Capital Outlay	Expenditure	0			828.5	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	1002 Federal Receipts	Revenue	1002	Federal Funds		7047.5	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		106.2	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	301.1	0	0	0	0	0	0	0	0	0
+1061	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	9.7	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	Permanent Full-Time	Position Count	0			5	0	0	0	0	0	0	0	0	0
+12000	12	140	Public Safety	160	2	Alaska State Troopers	1001	1	Special Projects	Non-Permanent	Position Count	0			3	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	160	2	Alaska State Troopers	3073	2	Alaska Bureau of Highway Patrol	Personal Services	Expenditure	0			908	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	160	2	Alaska State Troopers	3073	2	Alaska Bureau of Highway Patrol	Travel	Expenditure	0			124.7	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	160	2	Alaska State Troopers	3073	2	Alaska Bureau of Highway Patrol	Contractual Services	Expenditure	0			1178.7	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	160	2	Alaska State Troopers	3073	2	Alaska Bureau of Highway Patrol	Commodities	Expenditure	0			163.7	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	160	2	Alaska State Troopers	3073	2	Alaska Bureau of Highway Patrol	Capital Outlay	Expenditure	0			645.1	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	160	2	Alaska State Troopers	3073	2	Alaska Bureau of Highway Patrol	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	160	2	Alaska State Troopers	3073	2	Alaska Bureau of Highway Patrol	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	160	2	Alaska State Troopers	3073	2	Alaska Bureau of Highway Patrol	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	160	2	Alaska State Troopers	3073	2	Alaska Bureau of Highway Patrol	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	160	2	Alaska State Troopers	3073	2	Alaska Bureau of Highway Patrol	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1190.9	0	0	0	0	0	0	0	0	0
+1061	12	140	Public Safety	160	2	Alaska State Troopers	3073	2	Alaska Bureau of Highway Patrol	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	1829.3	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	160	2	Alaska State Troopers	3073	2	Alaska Bureau of Highway Patrol	Permanent Full-Time	Position Count	0			4	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	160	2	Alaska State Troopers	2885	3	AK Bureau of Judicial Svcs	Personal Services	Expenditure	0			4217.9	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	160	2	Alaska State Troopers	2885	3	AK Bureau of Judicial Svcs	Travel	Expenditure	0			14.1	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	160	2	Alaska State Troopers	2885	3	AK Bureau of Judicial Svcs	Contractual Services	Expenditure	0			525.9	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	160	2	Alaska State Troopers	2885	3	AK Bureau of Judicial Svcs	Commodities	Expenditure	0			51.5	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	160	2	Alaska State Troopers	2885	3	AK Bureau of Judicial Svcs	Capital Outlay	Expenditure	0			6	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	160	2	Alaska State Troopers	2885	3	AK Bureau of Judicial Svcs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	160	2	Alaska State Troopers	2885	3	AK Bureau of Judicial Svcs	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	160	2	Alaska State Troopers	2885	3	AK Bureau of Judicial Svcs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	160	2	Alaska State Troopers	2885	3	AK Bureau of Judicial Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	160	2	Alaska State Troopers	2885	3	AK Bureau of Judicial Svcs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4759	0	0	0	0	0	0	0	0	0
+1005	12	140	Public Safety	160	2	Alaska State Troopers	2885	3	AK Bureau of Judicial Svcs	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		56.4	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	160	2	Alaska State Troopers	2885	3	AK Bureau of Judicial Svcs	Permanent Full-Time	Position Count	0			36	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	160	2	Alaska State Troopers	512	4	Prisoner Transportation	Personal Services	Expenditure	0			0.5	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	160	2	Alaska State Troopers	512	4	Prisoner Transportation	Travel	Expenditure	0			1164.4	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	160	2	Alaska State Troopers	512	4	Prisoner Transportation	Contractual Services	Expenditure	0			769.3	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	160	2	Alaska State Troopers	512	4	Prisoner Transportation	Commodities	Expenditure	0			20	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	160	2	Alaska State Troopers	512	4	Prisoner Transportation	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	160	2	Alaska State Troopers	512	4	Prisoner Transportation	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	160	2	Alaska State Troopers	512	4	Prisoner Transportation	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	160	2	Alaska State Troopers	512	4	Prisoner Transportation	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	160	2	Alaska State Troopers	512	4	Prisoner Transportation	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	160	2	Alaska State Troopers	512	4	Prisoner Transportation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1884.2	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	160	2	Alaska State Troopers	512	4	Prisoner Transportation	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	70	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	160	2	Alaska State Troopers	513	5	Search and Rescue	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	160	2	Alaska State Troopers	513	5	Search and Rescue	Travel	Expenditure	0			66.2	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	160	2	Alaska State Troopers	513	5	Search and Rescue	Contractual Services	Expenditure	0			381.8	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	160	2	Alaska State Troopers	513	5	Search and Rescue	Commodities	Expenditure	0			127.5	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	160	2	Alaska State Troopers	513	5	Search and Rescue	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	160	2	Alaska State Troopers	513	5	Search and Rescue	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	160	2	Alaska State Troopers	513	5	Search and Rescue	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	160	2	Alaska State Troopers	513	5	Search and Rescue	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	160	2	Alaska State Troopers	513	5	Search and Rescue	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	160	2	Alaska State Troopers	513	5	Search and Rescue	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		575.5	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	160	2	Alaska State Troopers	3280	6	Training Academy Recruit Sal.	Personal Services	Expenditure	0			1599.1	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	160	2	Alaska State Troopers	3280	6	Training Academy Recruit Sal.	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	160	2	Alaska State Troopers	3280	6	Training Academy Recruit Sal.	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	160	2	Alaska State Troopers	3280	6	Training Academy Recruit Sal.	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	160	2	Alaska State Troopers	3280	6	Training Academy Recruit Sal.	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	160	2	Alaska State Troopers	3280	6	Training Academy Recruit Sal.	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	160	2	Alaska State Troopers	3280	6	Training Academy Recruit Sal.	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	160	2	Alaska State Troopers	3280	6	Training Academy Recruit Sal.	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	160	2	Alaska State Troopers	3280	6	Training Academy Recruit Sal.	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	160	2	Alaska State Troopers	3280	6	Training Academy Recruit Sal.	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1599.1	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	160	2	Alaska State Troopers	3280	6	Training Academy Recruit Sal.	Permanent Full-Time	Position Count	0			17	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	160	2	Alaska State Troopers	515	7	Rural Trooper Housing	Personal Services	Expenditure	0			1	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	160	2	Alaska State Troopers	515	7	Rural Trooper Housing	Travel	Expenditure	0			5.2	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	160	2	Alaska State Troopers	515	7	Rural Trooper Housing	Contractual Services	Expenditure	0			2834.8	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	160	2	Alaska State Troopers	515	7	Rural Trooper Housing	Commodities	Expenditure	0			5	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	160	2	Alaska State Troopers	515	7	Rural Trooper Housing	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	160	2	Alaska State Troopers	515	7	Rural Trooper Housing	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	160	2	Alaska State Troopers	515	7	Rural Trooper Housing	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	160	2	Alaska State Troopers	515	7	Rural Trooper Housing	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	160	2	Alaska State Troopers	515	7	Rural Trooper Housing	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	160	2	Alaska State Troopers	515	7	Rural Trooper Housing	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1312.4	0	0	0	0	0	0	0	0	0
+1005	12	140	Public Safety	160	2	Alaska State Troopers	515	7	Rural Trooper Housing	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		1497.6	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	160	2	Alaska State Troopers	515	7	Rural Trooper Housing	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	36	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	Personal Services	Expenditure	0			5619.4	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	Travel	Expenditure	0			54.8	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	Contractual Services	Expenditure	0			3054.2	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	Commodities	Expenditure	0			132.2	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	Grants, Benefits	Expenditure	0			712.2	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	1002 Federal Receipts	Revenue	1002	Federal Funds		2542.9	0	0	0	0	0	0	0	0	0
+1003	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		693.3	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		6336.6	0	0	0	0	0	0	0	0	0
+1005	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		0	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	160	2	Alaska State Troopers	3052	8	SW Drug and Alcohol Enforcement	Permanent Full-Time	Position Count	0			31	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	Personal Services	Expenditure	0			70540.3	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	Travel	Expenditure	0			1455.7	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	Contractual Services	Expenditure	0			10905.2	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	Commodities	Expenditure	0			952.7	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	Capital Outlay	Expenditure	0			1529.2	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		84793.5	0	0	0	0	0	0	0	0	0
+1005	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		100	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	409.6	0	0	0	0	0	0	0	0	0
+1061	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	0	0	0	0	0	0	0	0	0	0
+1092	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		80	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	Permanent Full-Time	Position Count	0			417	0	0	0	0	0	0	0	0	0
+12000	12	140	Public Safety	160	2	Alaska State Troopers	2325	9	AST Detachments	Non-Permanent	Position Count	0			8	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	160	2	Alaska State Troopers	2744	10	Alaska Bureau of Investigation	Personal Services	Expenditure	0			5128.1	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	160	2	Alaska State Troopers	2744	10	Alaska Bureau of Investigation	Travel	Expenditure	0			60	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	160	2	Alaska State Troopers	2744	10	Alaska Bureau of Investigation	Contractual Services	Expenditure	0			403.6	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	160	2	Alaska State Troopers	2744	10	Alaska Bureau of Investigation	Commodities	Expenditure	0			48	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	160	2	Alaska State Troopers	2744	10	Alaska Bureau of Investigation	Capital Outlay	Expenditure	0			5.2	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	160	2	Alaska State Troopers	2744	10	Alaska Bureau of Investigation	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	160	2	Alaska State Troopers	2744	10	Alaska Bureau of Investigation	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	160	2	Alaska State Troopers	2744	10	Alaska Bureau of Investigation	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	160	2	Alaska State Troopers	2744	10	Alaska Bureau of Investigation	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	160	2	Alaska State Troopers	2744	10	Alaska Bureau of Investigation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5644.9	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	160	2	Alaska State Troopers	2744	10	Alaska Bureau of Investigation	Permanent Full-Time	Position Count	0			30	0	0	0	0	0	0	0	0	0
+12000	12	140	Public Safety	160	2	Alaska State Troopers	2744	10	Alaska Bureau of Investigation	Non-Permanent	Position Count	0			6	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	Personal Services	Expenditure	0			20877.6	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	Travel	Expenditure	0			430.3	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	Contractual Services	Expenditure	0			1924.7	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	Commodities	Expenditure	0			374.9	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	Capital Outlay	Expenditure	0			9.9	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		23304.8	0	0	0	0	0	0	0	0	0
+1005	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		175	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	21.1	0	0	0	0	0	0	0	0	0
+1061	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	116.5	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	Permanent Full-Time	Position Count	0			108	0	0	0	0	0	0	0	0	0
+11000	12	140	Public Safety	160	2	Alaska State Troopers	2746	11	Alaska Wildlife Troopers	Permanent Part-Time	Position Count	0			18	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	Personal Services	Expenditure	0			3591.9	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	Travel	Expenditure	0			67.8	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	Contractual Services	Expenditure	0			851.2	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	Commodities	Expenditure	0			988.8	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4665	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	809.5	0	0	0	0	0	0	0	0	0
+1061	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	25.2	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	Permanent Full-Time	Position Count	0			24	0	0	0	0	0	0	0	0	0
+12000	12	140	Public Safety	160	2	Alaska State Troopers	492	12	AK W-life Troopers Aircraft Sect	Non-Permanent	Position Count	0			0	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	160	2	Alaska State Troopers	493	13	AK W-life Troopers Marine Enforc	Personal Services	Expenditure	0			2026	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	160	2	Alaska State Troopers	493	13	AK W-life Troopers Marine Enforc	Travel	Expenditure	0			21	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	160	2	Alaska State Troopers	493	13	AK W-life Troopers Marine Enforc	Contractual Services	Expenditure	0			344.3	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	160	2	Alaska State Troopers	493	13	AK W-life Troopers Marine Enforc	Commodities	Expenditure	0			317.3	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	160	2	Alaska State Troopers	493	13	AK W-life Troopers Marine Enforc	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	160	2	Alaska State Troopers	493	13	AK W-life Troopers Marine Enforc	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	160	2	Alaska State Troopers	493	13	AK W-life Troopers Marine Enforc	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	160	2	Alaska State Troopers	493	13	AK W-life Troopers Marine Enforc	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	160	2	Alaska State Troopers	493	13	AK W-life Troopers Marine Enforc	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	160	2	Alaska State Troopers	493	13	AK W-life Troopers Marine Enforc	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2708.6	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	160	2	Alaska State Troopers	493	13	AK W-life Troopers Marine Enforc	Permanent Full-Time	Position Count	0			13	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	161	3	Village Public Safety Officers	3047	0	Village Public Safety Officer Pg	Personal Services	Expenditure	0			355	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	161	3	Village Public Safety Officers	3047	0	Village Public Safety Officer Pg	Travel	Expenditure	0			452.1	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	161	3	Village Public Safety Officers	3047	0	Village Public Safety Officer Pg	Contractual Services	Expenditure	0			982.4	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	161	3	Village Public Safety Officers	3047	0	Village Public Safety Officer Pg	Commodities	Expenditure	0			30	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	161	3	Village Public Safety Officers	3047	0	Village Public Safety Officer Pg	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	161	3	Village Public Safety Officers	3047	0	Village Public Safety Officer Pg	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	161	3	Village Public Safety Officers	3047	0	Village Public Safety Officer Pg	Grants, Benefits	Expenditure	0			11905.4	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	161	3	Village Public Safety Officers	3047	0	Village Public Safety Officer Pg	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	161	3	Village Public Safety Officers	3047	0	Village Public Safety Officer Pg	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	161	3	Village Public Safety Officers	3047	0	Village Public Safety Officer Pg	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		13724.9	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	161	3	Village Public Safety Officers	3047	0	Village Public Safety Officer Pg	Permanent Full-Time	Position Count	0			3	0	0	0	0	0	0	0	0	0
+12000	12	140	Public Safety	161	3	Village Public Safety Officers	3047	0	Village Public Safety Officer Pg	Non-Permanent	Position Count	0			1	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	162	4	AK Police Standards Council	519	1	AK Police Standards Council	Personal Services	Expenditure	0			557.6	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	162	4	AK Police Standards Council	519	1	AK Police Standards Council	Travel	Expenditure	0			43.8	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	162	4	AK Police Standards Council	519	1	AK Police Standards Council	Contractual Services	Expenditure	0			749.5	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	162	4	AK Police Standards Council	519	1	AK Police Standards Council	Commodities	Expenditure	0			37.5	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	162	4	AK Police Standards Council	519	1	AK Police Standards Council	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	162	4	AK Police Standards Council	519	1	AK Police Standards Council	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	162	4	AK Police Standards Council	519	1	AK Police Standards Council	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	162	4	AK Police Standards Council	519	1	AK Police Standards Council	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1005	12	140	Public Safety	162	4	AK Police Standards Council	519	1	AK Police Standards Council	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		1308.4	0	0	0	0	0	0	0	0	0
+1092	12	140	Public Safety	162	4	AK Police Standards Council	519	1	AK Police Standards Council	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		80	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	162	4	AK Police Standards Council	519	1	AK Police Standards Council	Permanent Full-Time	Position Count	0			4	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	Personal Services	Expenditure	0			1154.4	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	Travel	Expenditure	0			29.8	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	Contractual Services	Expenditure	0			2587.8	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	Commodities	Expenditure	0			110	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	Grants, Benefits	Expenditure	0			22802.8	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	1002 Federal Receipts	Revenue	1002	Federal Funds		13742.5	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		10670.8	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	177.8	0	0	0	0	0	0	0	0	0
+1171	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	1171 Restorative Justice	Revenue	1171	Other Funds	Duplicated	93.7	0	0	0	0	0	0	0	0	0
+1246	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	1246 Recidivism Reduction Fund	Revenue	1246	Designated General Funds		2000	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	164	5	Domestic Viol/Sexual Assault	521	1	Domestic Viol/Sexual Assault	Permanent Full-Time	Position Count	0			9	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	163	6	Violent Crimes Comp Board	520	1	Violent Crimes Comp Board	Personal Services	Expenditure	0			396.3	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	163	6	Violent Crimes Comp Board	520	1	Violent Crimes Comp Board	Travel	Expenditure	0			2.7	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	163	6	Violent Crimes Comp Board	520	1	Violent Crimes Comp Board	Contractual Services	Expenditure	0			73.6	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	163	6	Violent Crimes Comp Board	520	1	Violent Crimes Comp Board	Commodities	Expenditure	0			3.2	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	163	6	Violent Crimes Comp Board	520	1	Violent Crimes Comp Board	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	163	6	Violent Crimes Comp Board	520	1	Violent Crimes Comp Board	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	163	6	Violent Crimes Comp Board	520	1	Violent Crimes Comp Board	Grants, Benefits	Expenditure	0			1531.3	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	163	6	Violent Crimes Comp Board	520	1	Violent Crimes Comp Board	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	12	140	Public Safety	163	6	Violent Crimes Comp Board	520	1	Violent Crimes Comp Board	1002 Federal Receipts	Revenue	1002	Federal Funds		1000	0	0	0	0	0	0	0	0	0
+1220	12	140	Public Safety	163	6	Violent Crimes Comp Board	520	1	Violent Crimes Comp Board	1220 Crime Victim Compensation Fund	Revenue	1220	Other Funds	Duplicated	1007.1	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	163	6	Violent Crimes Comp Board	520	1	Violent Crimes Comp Board	Permanent Full-Time	Position Count	0			3	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	Personal Services	Expenditure	0			1491.9	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	Travel	Expenditure	0			36.5	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	Contractual Services	Expenditure	0			20.2	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	Commodities	Expenditure	0			21.4	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		918.9	0	0	0	0	0	0	0	0	0
+1005	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		0	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	651.1	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	Permanent Full-Time	Position Count	0			10	0	0	0	0	0	0	0	0	0
+12000	12	140	Public Safety	165	7	Statewide Support	523	1	Commissioner's Office	Non-Permanent	Position Count	0			1	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	Personal Services	Expenditure	0			1896.2	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	Travel	Expenditure	0			105	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	Contractual Services	Expenditure	0			1068.8	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	Commodities	Expenditure	0			397.6	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	Capital Outlay	Expenditure	0			21.5	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1994.3	0	0	0	0	0	0	0	0	0
+1005	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		184.3	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1310.5	0	0	0	0	0	0	0	0	0
+1092	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		0	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	165	7	Statewide Support	524	2	Training Academy	Permanent Full-Time	Position Count	0			11	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Personal Services	Expenditure	0			2312.2	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Travel	Expenditure	0			2.4	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Contractual Services	Expenditure	0			1161.5	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Commodities	Expenditure	0			30	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	165	7	Statewide Support	525	3	Administrative Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	165	7	Statewide Support	525	3	Administrative Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2601.3	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	165	7	Statewide Support	525	3	Administrative Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	904.8	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	165	7	Statewide Support	525	3	Administrative Services	Permanent Full-Time	Position Count	0			20	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	165	7	Statewide Support	3199	5	Information Systems	Personal Services	Expenditure	0			1399.3	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	165	7	Statewide Support	3199	5	Information Systems	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	165	7	Statewide Support	3199	5	Information Systems	Contractual Services	Expenditure	0			1239.8	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	165	7	Statewide Support	3199	5	Information Systems	Commodities	Expenditure	0			100	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	165	7	Statewide Support	3199	5	Information Systems	Capital Outlay	Expenditure	0			95.2	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	165	7	Statewide Support	3199	5	Information Systems	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	165	7	Statewide Support	3199	5	Information Systems	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	165	7	Statewide Support	3199	5	Information Systems	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	165	7	Statewide Support	3199	5	Information Systems	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	165	7	Statewide Support	3199	5	Information Systems	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1426.4	0	0	0	0	0	0	0	0	0
+1005	12	140	Public Safety	165	7	Statewide Support	3199	5	Information Systems	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		220.9	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	165	7	Statewide Support	3199	5	Information Systems	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1187	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	165	7	Statewide Support	3199	5	Information Systems	Permanent Full-Time	Position Count	0			11	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	Personal Services	Expenditure	0			4330.1	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	Travel	Expenditure	0			149	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	Contractual Services	Expenditure	0			2875.2	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	Commodities	Expenditure	0			620.8	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	Capital Outlay	Expenditure	0			90	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	1002 Federal Receipts	Revenue	1002	Federal Funds		2251.9	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3479.5	0	0	0	0	0	0	0	0	0
+1005	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		931	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1402.7	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	Permanent Full-Time	Position Count	0			44	0	0	0	0	0	0	0	0	0
+12000	12	140	Public Safety	165	7	Statewide Support	3200	6	Crim Just Information Systems	Non-Permanent	Position Count	0			1	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	Personal Services	Expenditure	0			4738.1	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	Travel	Expenditure	0			49.2	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	Contractual Services	Expenditure	0			1488.1	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	Commodities	Expenditure	0			535.8	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	Capital Outlay	Expenditure	0			33	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	1002 Federal Receipts	Revenue	1002	Federal Funds		563	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5982.7	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	118.8	0	0	0	0	0	0	0	0	0
+1061	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	179.7	0	0	0	0	0	0	0	0	0
+10000	12	140	Public Safety	165	7	Statewide Support	527	7	Laboratory Services	Permanent Full-Time	Position Count	0			42	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	165	7	Statewide Support	2368	8	Facility Maintenance	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	165	7	Statewide Support	2368	8	Facility Maintenance	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	165	7	Statewide Support	2368	8	Facility Maintenance	Contractual Services	Expenditure	0			300	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	165	7	Statewide Support	2368	8	Facility Maintenance	Commodities	Expenditure	0			705.9	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	165	7	Statewide Support	2368	8	Facility Maintenance	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	165	7	Statewide Support	2368	8	Facility Maintenance	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	165	7	Statewide Support	2368	8	Facility Maintenance	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	165	7	Statewide Support	2368	8	Facility Maintenance	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	12	140	Public Safety	165	7	Statewide Support	2368	8	Facility Maintenance	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1005.9	0	0	0	0	0	0	0	0	0
+1	12	140	Public Safety	165	7	Statewide Support	2469	9	DPS State Facilities Rent	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	12	140	Public Safety	165	7	Statewide Support	2469	9	DPS State Facilities Rent	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	12	140	Public Safety	165	7	Statewide Support	2469	9	DPS State Facilities Rent	Contractual Services	Expenditure	0			114.4	0	0	0	0	0	0	0	0	0
+4	12	140	Public Safety	165	7	Statewide Support	2469	9	DPS State Facilities Rent	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	12	140	Public Safety	165	7	Statewide Support	2469	9	DPS State Facilities Rent	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	12	140	Public Safety	165	7	Statewide Support	2469	9	DPS State Facilities Rent	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	12	140	Public Safety	165	7	Statewide Support	2469	9	DPS State Facilities Rent	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	12	140	Public Safety	165	7	Statewide Support	2469	9	DPS State Facilities Rent	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	12	140	Public Safety	165	7	Statewide Support	2469	9	DPS State Facilities Rent	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	12	140	Public Safety	165	7	Statewide Support	2469	9	DPS State Facilities Rent	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		114.4	0	0	0	0	0	0	0	0	0

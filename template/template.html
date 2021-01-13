@@ -3,7 +3,7 @@
 <!-- BUILD_ID: @@@UID@@@ -->
 <!-- https://github.com/meta-cognition/akbv -->
 <head>
-	<title>@@@TITLE@@@</title>
+	<title>@@@HTMLTITLE@@@</title>
 	<!-- Plotly.js -->
 	<script src="@@@PLOTLYSOURCE@@@"></script>
 	<meta charset="UTF-8">
@@ -80,9 +80,8 @@
 <div class="button-bar"><button onclick="goBack()"><< Go Back</button>&nbsp;|&nbsp;<button onclick="resize_default();">Default Size</button>&nbsp;<button onclick="resize_small();">Make Smaller</button>&nbsp;<button onclick="resize_window();">Fit to Window</button>&nbsp;|&nbsp;<button onclick="resize_text_larger();">Larger Text</button>&nbsp;<button onclick="resize_text_smaller();">Smaller Text</button></div>
 <a name="plot"></a> 
 <div id="myDiv" style="width:@@@WIDTH@@@px; margin: auto; border:1px solid black;"><!-- Plotly chart will be drawn inside this DIV --></div>
-<div class="disclaimer">DISCLAIMER: This is beta software, it's functionality and compatability have not been fully tested. This software tool being piloted internally. It has been made available for public access for convenience and any incidental benefit it may provide. The information shown is not a comprehensive accounting. This software and the information displayed is offered with no guarantees or assurances of accuracy or validity and is provided for demonstration purposes only. For questions please contact Dom Pannone <a href="mailto:dom.pannone@alaska.gov">dom.pannone@alaska.gov</a></div>
-<script>
-var user_font_size = 11;
+<div class="disclaimer">DISCLAIMER: This is beta software, it's functionality and compatability have not been fully tested. This software tool being piloted internally. It has been made available for public access for convenience and any incidental benefit it may provide. The information shown is not a comprehensive accounting. This software and the information displayed is offered with no guarantees or assurances of accuracy or validity and is provided for demonstration purposes only. For questions please contact Dom Pannone, <a href="mailto:dom.pannone@alaska.gov">dom.pannone@alaska.gov</a>. For comprehensive budget information please visit the State of Alaska Office of Management and Budget website, <a href="https://omb.alaska.gov/">https://omb.alaska.gov/</a>.</div><script>
+	var user_font_size = 11;
     var data = {
 		type: "sankey",
 		arrangement: "fixed",
@@ -248,7 +247,7 @@ var user_font_size = 11;
 		var current_size = Plotly.relayout('myDiv').font;
 	}
 </script>
-	</script>
+
 </body>
 
 

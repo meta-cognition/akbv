@@ -34,29 +34,29 @@ new_data .=  A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab "SCEN1_
 current_row = 2
 loop 
 {
-	this_row_department 				:= CSV_ReadCell("sankey_csv_identifier", current_row, department_column)
-	this_fund_column := fund_column_min
-	loop
-	{ 
-	
-		this_fund := CSV_ReadCell("sankey_csv_identifier", 1, this_fund_column)
-		this_value := CSV_ReadCell("sankey_csv_identifier", current_row, this_fund_column)
-		this_value := round( this_value / 1000 ,  1 )
-		if ( this_value > 0 )
-		{
-			new_data .= "" A_Tab "" A_Tab "" A_Tab this_row_department A_Tab "" A_Tab "" A_Tab "" A_Tab "" A_Tab "" A_Tab "" A_Tab ""  A_Tab "Revenue" A_Tab "" A_Tab this_fund A_Tab "" A_Tab this_value A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab  rn
-		}
-		if (this_fund_column = fund_column_max)
-		{
-			break
-		}
-		this_fund_column++
-	}
-	if (current_row = sankey_csv_total_rows) 
-	{
-		break
-	}
-	current_row++
+    this_row_department 				:= CSV_ReadCell("sankey_csv_identifier", current_row, department_column)
+    this_fund_column := fund_column_min
+    loop
+    { 
+    
+        this_fund := CSV_ReadCell("sankey_csv_identifier", 1, this_fund_column)
+        this_value := CSV_ReadCell("sankey_csv_identifier", current_row, this_fund_column)
+        this_value := round( this_value / 1000 ,  1 )
+        if ( this_value > 0 )
+        {
+            new_data .= "" A_Tab "" A_Tab "" A_Tab this_row_department A_Tab "" A_Tab "" A_Tab "" A_Tab "" A_Tab "" A_Tab "" A_Tab ""  A_Tab "Revenue" A_Tab "" A_Tab this_fund A_Tab "" A_Tab this_value A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab  rn
+        }
+        if (this_fund_column = fund_column_max)
+        {
+            break
+        }
+        this_fund_column++
+    }
+    if (current_row = sankey_csv_total_rows) 
+    {
+        break
+    }
+    current_row++
 }
 
 FileAppend, % new_data, % A_Args[2]

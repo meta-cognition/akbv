@@ -1,0 +1,1051 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	3236	0	APH Payment Assistance	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	3236	0	APH Payment Assistance	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	3236	0	APH Payment Assistance	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	3236	0	APH Payment Assistance	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	3236	0	APH Payment Assistance	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	3236	0	APH Payment Assistance	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	3236	0	APH Payment Assistance	Grants, Benefits	Expenditure	0			36964.30	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	3236	0	APH Payment Assistance	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	3236	0	APH Payment Assistance	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	3236	0	APH Payment Assistance	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		36964.30	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2731	1	Alaska Pioneer Homes Management	Personal Services	Expenditure	0			1415.70	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2731	1	Alaska Pioneer Homes Management	Travel	Expenditure	0			43.30	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2731	1	Alaska Pioneer Homes Management	Contractual Services	Expenditure	0			179.60	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2731	1	Alaska Pioneer Homes Management	Commodities	Expenditure	0			23.10	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2731	1	Alaska Pioneer Homes Management	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2731	1	Alaska Pioneer Homes Management	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2731	1	Alaska Pioneer Homes Management	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2731	1	Alaska Pioneer Homes Management	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2731	1	Alaska Pioneer Homes Management	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2731	1	Alaska Pioneer Homes Management	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1661.70	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2731	1	Alaska Pioneer Homes Management	Permanent Full-Time	Position Count	0			12.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	Personal Services	Expenditure	0			43131.50	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	Travel	Expenditure	0			14.70	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	Contractual Services	Expenditure	0			19981.40	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	Commodities	Expenditure	0			2906.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	Capital Outlay	Expenditure	0			95.60	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	Grants, Benefits	Expenditure	0			4.80	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	1002 Federal Receipts	Revenue	1002	Federal Funds		1602.90	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2235.80	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		19490.80	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	40795.70	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		2008.80	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	Permanent Full-Time	Position Count	0			409.00	0	0	0	0	0	0	0	0	0
+11000	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	Permanent Part-Time	Position Count	0			15.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	503	1	Alaska Pioneer Homes	2671	2	Pioneer Homes	Non-Permanent	Position Count	0			21.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	Personal Services	Expenditure	0			39188.40	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	Travel	Expenditure	0			19.60	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	Contractual Services	Expenditure	0			13126.50	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	Commodities	Expenditure	0			1119.40	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	Capital Outlay	Expenditure	0			65.40	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	Grants, Benefits	Expenditure	0			2035.70	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3281.50	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	23743.10	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		11712.10	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		10818.30	0	0	0	0	0	0	0	0	0
+1268	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	1268 Mental Health Trust Reserve	Revenue	1268	Designated General Funds		6000.00	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	Permanent Full-Time	Position Count	0			328.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	692	2	AK Psychiatric Institute	311	12	Alaska Psychiatric Institute	Non-Permanent	Position Count	0			10.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	Grants, Benefits	Expenditure	0			46430.10	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	1002 Federal Receipts	Revenue	1002	Federal Funds		9507.80	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		675.40	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	492.40	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		6622.20	0	0	0	0	0	0	0	0	0
+1092	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		0	0	0	0	0	0	0	0	0	0
+1171	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	1171 Restorative Justice	Revenue	1171	Other Funds	Duplicated	93.70	0	0	0	0	0	0	0	0	0
+1180	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	1180 Alcohol & Other Drug Abuse Treatment & Prevention Fund	Revenue	1180	Designated General Funds		15937.70	0	0	0	0	0	0	0	0	0
+1246	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	1246 Recidivism Reduction Fund	Revenue	1246	Designated General Funds		6800.90	0	0	0	0	0	0	0	0	0
+1254	6	90	Health & Social Svcs	483	3	Behavioral Health	3099	0	BH Treatment and Recovery Grants	1254 Marijuana Education and Treatment Fund	Revenue	1254	Designated General Funds		6300.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	Personal Services	Expenditure	0			2484.20	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	Travel	Expenditure	0			34.40	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	Contractual Services	Expenditure	0			658.60	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	Commodities	Expenditure	0			79.20	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	Grants, Benefits	Expenditure	0			1803.90	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	1002 Federal Receipts	Revenue	1002	Federal Funds		521.10	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		945.00	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		531.20	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1803.80	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		759.20	0	0	0	0	0	0	0	0	0
+1180	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	1180 Alcohol & Other Drug Abuse Treatment & Prevention Fund	Revenue	1180	Designated General Funds		500.00	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	Permanent Full-Time	Position Count	0			23.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	483	3	Behavioral Health	305	2	Alcohol Safety Action Program	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	Personal Services	Expenditure	0			8413.70	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	Travel	Expenditure	0			446.50	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	Contractual Services	Expenditure	0			12632.70	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	Commodities	Expenditure	0			248.70	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	1002 Federal Receipts	Revenue	1002	Federal Funds		7259.70	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1925.70	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1217.80	0	0	0	0	0	0	0	0	0
+1013	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	1013 Alcoholism & Drug Abuse Revolving Loan	Revenue	1013	Federal Funds		2.00	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		8638.80	0	0	0	0	0	0	0	0	0
+1092	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		480.80	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		165.50	0	0	0	0	0	0	0	0	0
+1168	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	1168 Tobacco Use Education and Cessation Fund	Revenue	1168	Designated General Funds		913.00	0	0	0	0	0	0	0	0	0
+1180	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	1180 Alcohol & Other Drug Abuse Treatment & Prevention Fund	Revenue	1180	Designated General Funds		624.80	0	0	0	0	0	0	0	0	0
+1246	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	1246 Recidivism Reduction Fund	Revenue	1246	Designated General Funds		250.00	0	0	0	0	0	0	0	0	0
+1254	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	1254 Marijuana Education and Treatment Fund	Revenue	1254	Designated General Funds		190.00	0	0	0	0	0	0	0	0	0
+1268	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	1268 Mental Health Trust Reserve	Revenue	1268	Designated General Funds		73.50	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	Permanent Full-Time	Position Count	0			65.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	483	3	Behavioral Health	2665	4	Behavioral Health Administration	Non-Permanent	Position Count	0			20.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	483	3	Behavioral Health	3098	5	BH Prev & Early Intervntn Grants	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	483	3	Behavioral Health	3098	5	BH Prev & Early Intervntn Grants	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	483	3	Behavioral Health	3098	5	BH Prev & Early Intervntn Grants	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	483	3	Behavioral Health	3098	5	BH Prev & Early Intervntn Grants	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	483	3	Behavioral Health	3098	5	BH Prev & Early Intervntn Grants	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	483	3	Behavioral Health	3098	5	BH Prev & Early Intervntn Grants	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	483	3	Behavioral Health	3098	5	BH Prev & Early Intervntn Grants	Grants, Benefits	Expenditure	0			8345.30	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	483	3	Behavioral Health	3098	5	BH Prev & Early Intervntn Grants	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	483	3	Behavioral Health	3098	5	BH Prev & Early Intervntn Grants	1002 Federal Receipts	Revenue	1002	Federal Funds		3055.00	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	483	3	Behavioral Health	3098	5	BH Prev & Early Intervntn Grants	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		1728.30	0	0	0	0	0	0	0	0	0
+1180	6	90	Health & Social Svcs	483	3	Behavioral Health	3098	5	BH Prev & Early Intervntn Grants	1180 Alcohol & Other Drug Abuse Treatment & Prevention Fund	Revenue	1180	Designated General Funds		3562.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	483	3	Behavioral Health	1014	10	Designated Eval & Treatment	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	483	3	Behavioral Health	1014	10	Designated Eval & Treatment	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	483	3	Behavioral Health	1014	10	Designated Eval & Treatment	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	483	3	Behavioral Health	1014	10	Designated Eval & Treatment	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	483	3	Behavioral Health	1014	10	Designated Eval & Treatment	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	483	3	Behavioral Health	1014	10	Designated Eval & Treatment	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	483	3	Behavioral Health	1014	10	Designated Eval & Treatment	Grants, Benefits	Expenditure	0			2794.80	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	483	3	Behavioral Health	1014	10	Designated Eval & Treatment	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	483	3	Behavioral Health	1014	10	Designated Eval & Treatment	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	483	3	Behavioral Health	1014	10	Designated Eval & Treatment	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	483	3	Behavioral Health	1014	10	Designated Eval & Treatment	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		2794.80	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	483	3	Behavioral Health	2801	14	AK MH/Alc & Drug Abuse Brds	Personal Services	Expenditure	0			691.10	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	483	3	Behavioral Health	2801	14	AK MH/Alc & Drug Abuse Brds	Travel	Expenditure	0			94.10	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	483	3	Behavioral Health	2801	14	AK MH/Alc & Drug Abuse Brds	Contractual Services	Expenditure	0			126.70	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	483	3	Behavioral Health	2801	14	AK MH/Alc & Drug Abuse Brds	Commodities	Expenditure	0			87.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	483	3	Behavioral Health	2801	14	AK MH/Alc & Drug Abuse Brds	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	483	3	Behavioral Health	2801	14	AK MH/Alc & Drug Abuse Brds	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	483	3	Behavioral Health	2801	14	AK MH/Alc & Drug Abuse Brds	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	483	3	Behavioral Health	2801	14	AK MH/Alc & Drug Abuse Brds	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	483	3	Behavioral Health	2801	14	AK MH/Alc & Drug Abuse Brds	1002 Federal Receipts	Revenue	1002	Federal Funds		37.30	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	483	3	Behavioral Health	2801	14	AK MH/Alc & Drug Abuse Brds	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	30.50	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	483	3	Behavioral Health	2801	14	AK MH/Alc & Drug Abuse Brds	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		437.10	0	0	0	0	0	0	0	0	0
+1092	6	90	Health & Social Svcs	483	3	Behavioral Health	2801	14	AK MH/Alc & Drug Abuse Brds	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		494.00	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	483	3	Behavioral Health	2801	14	AK MH/Alc & Drug Abuse Brds	Permanent Full-Time	Position Count	0			6.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	483	3	Behavioral Health	2651	15	Suicide Prevention Council	Personal Services	Expenditure	0			114.40	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	483	3	Behavioral Health	2651	15	Suicide Prevention Council	Travel	Expenditure	0			24.10	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	483	3	Behavioral Health	2651	15	Suicide Prevention Council	Contractual Services	Expenditure	0			51.30	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	483	3	Behavioral Health	2651	15	Suicide Prevention Council	Commodities	Expenditure	0			3.50	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	483	3	Behavioral Health	2651	15	Suicide Prevention Council	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	483	3	Behavioral Health	2651	15	Suicide Prevention Council	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	483	3	Behavioral Health	2651	15	Suicide Prevention Council	Grants, Benefits	Expenditure	0			400.00	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	483	3	Behavioral Health	2651	15	Suicide Prevention Council	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	483	3	Behavioral Health	2651	15	Suicide Prevention Council	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		593.30	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	483	3	Behavioral Health	2651	15	Suicide Prevention Council	Permanent Full-Time	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	483	3	Behavioral Health	253	16	Residential Child Care	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	483	3	Behavioral Health	253	16	Residential Child Care	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	483	3	Behavioral Health	253	16	Residential Child Care	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	483	3	Behavioral Health	253	16	Residential Child Care	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	483	3	Behavioral Health	253	16	Residential Child Care	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	483	3	Behavioral Health	253	16	Residential Child Care	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	483	3	Behavioral Health	253	16	Residential Child Care	Grants, Benefits	Expenditure	0			3236.00	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	483	3	Behavioral Health	253	16	Residential Child Care	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	483	3	Behavioral Health	253	16	Residential Child Care	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	483	3	Behavioral Health	253	16	Residential Child Care	1002 Federal Receipts	Revenue	1002	Federal Funds		82.90	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	483	3	Behavioral Health	253	16	Residential Child Care	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1064.40	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	483	3	Behavioral Health	253	16	Residential Child Care	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		2088.70	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	Personal Services	Expenditure	0			7148.40	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	Travel	Expenditure	0			63.70	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	Contractual Services	Expenditure	0			2422.80	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	Commodities	Expenditure	0			104.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	Capital Outlay	Expenditure	0			12.00	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	1002 Federal Receipts	Revenue	1002	Federal Funds		3432.00	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		5344.90	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		600.60	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	303.90	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		69.50	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	Permanent Full-Time	Position Count	0			59.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	486	3	Children's Services	2666	2	Children's Services Management	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	486	3	Children's Services	2667	3	Children's Services Training	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	486	3	Children's Services	2667	3	Children's Services Training	Travel	Expenditure	0			114.00	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	486	3	Children's Services	2667	3	Children's Services Training	Contractual Services	Expenditure	0			1447.70	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	486	3	Children's Services	2667	3	Children's Services Training	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	486	3	Children's Services	2667	3	Children's Services Training	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	486	3	Children's Services	2667	3	Children's Services Training	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	486	3	Children's Services	2667	3	Children's Services Training	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	486	3	Children's Services	2667	3	Children's Services Training	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	486	3	Children's Services	2667	3	Children's Services Training	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	486	3	Children's Services	2667	3	Children's Services Training	1002 Federal Receipts	Revenue	1002	Federal Funds		709.60	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	486	3	Children's Services	2667	3	Children's Services Training	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		300.20	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	486	3	Children's Services	2667	3	Children's Services Training	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		551.90	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	Personal Services	Expenditure	0			57189.30	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	Travel	Expenditure	0			2071.30	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	Contractual Services	Expenditure	0			11630.00	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	Commodities	Expenditure	0			244.60	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	Capital Outlay	Expenditure	0			77.50	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	1002 Federal Receipts	Revenue	1002	Federal Funds		27928.10	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		4765.00	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		38341.00	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	30.10	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		148.50	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	Permanent Full-Time	Position Count	0			527.00	0	0	0	0	0	0	0	0	0
+11000	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	Permanent Part-Time	Position Count	0			0	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	486	3	Children's Services	2305	4	Front Line Social Workers	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	Travel	Expenditure	0			52.10	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	Contractual Services	Expenditure	0			6879.10	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	Commodities	Expenditure	0			13.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	Grants, Benefits	Expenditure	0			10142.80	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	1002 Federal Receipts	Revenue	1002	Federal Funds		10364.50	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2000.60	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	3995.90	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	486	3	Children's Services	1628	5	Family Preservation	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		726.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	486	3	Children's Services	2236	6	Foster Care Base Rate	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	486	3	Children's Services	2236	6	Foster Care Base Rate	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	486	3	Children's Services	2236	6	Foster Care Base Rate	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	486	3	Children's Services	2236	6	Foster Care Base Rate	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	486	3	Children's Services	2236	6	Foster Care Base Rate	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	486	3	Children's Services	2236	6	Foster Care Base Rate	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	486	3	Children's Services	2236	6	Foster Care Base Rate	Grants, Benefits	Expenditure	0			21119.90	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	486	3	Children's Services	2236	6	Foster Care Base Rate	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	486	3	Children's Services	2236	6	Foster Care Base Rate	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	486	3	Children's Services	2236	6	Foster Care Base Rate	1002 Federal Receipts	Revenue	1002	Federal Funds		6336.60	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	486	3	Children's Services	2236	6	Foster Care Base Rate	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		5022.30	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	486	3	Children's Services	2236	6	Foster Care Base Rate	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4161.00	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	486	3	Children's Services	2236	6	Foster Care Base Rate	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		5600.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	486	3	Children's Services	2237	7	Foster Care Augmented Rate	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	486	3	Children's Services	2237	7	Foster Care Augmented Rate	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	486	3	Children's Services	2237	7	Foster Care Augmented Rate	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	486	3	Children's Services	2237	7	Foster Care Augmented Rate	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	486	3	Children's Services	2237	7	Foster Care Augmented Rate	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	486	3	Children's Services	2237	7	Foster Care Augmented Rate	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	486	3	Children's Services	2237	7	Foster Care Augmented Rate	Grants, Benefits	Expenditure	0			1502.60	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	486	3	Children's Services	2237	7	Foster Care Augmented Rate	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	486	3	Children's Services	2237	7	Foster Care Augmented Rate	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	486	3	Children's Services	2237	7	Foster Care Augmented Rate	1002 Federal Receipts	Revenue	1002	Federal Funds		250.00	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	486	3	Children's Services	2237	7	Foster Care Augmented Rate	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		752.60	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	486	3	Children's Services	2237	7	Foster Care Augmented Rate	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		500.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	Contractual Services	Expenditure	0			137.50	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	Grants, Benefits	Expenditure	0			11992.70	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	1002 Federal Receipts	Revenue	1002	Federal Funds		1232.10	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1243.60	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5072.40	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	3799.20	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	486	3	Children's Services	2238	8	Foster Care Special Need	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		782.90	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	486	3	Children's Services	1962	9	Subsidized Adoptions/Guardians	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	486	3	Children's Services	1962	9	Subsidized Adoptions/Guardians	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	486	3	Children's Services	1962	9	Subsidized Adoptions/Guardians	Contractual Services	Expenditure	0			105.50	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	486	3	Children's Services	1962	9	Subsidized Adoptions/Guardians	Commodities	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	486	3	Children's Services	1962	9	Subsidized Adoptions/Guardians	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	486	3	Children's Services	1962	9	Subsidized Adoptions/Guardians	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	486	3	Children's Services	1962	9	Subsidized Adoptions/Guardians	Grants, Benefits	Expenditure	0			42510.00	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	486	3	Children's Services	1962	9	Subsidized Adoptions/Guardians	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	486	3	Children's Services	1962	9	Subsidized Adoptions/Guardians	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	486	3	Children's Services	1962	9	Subsidized Adoptions/Guardians	1002 Federal Receipts	Revenue	1002	Federal Funds		20064.30	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	486	3	Children's Services	1962	9	Subsidized Adoptions/Guardians	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		16333.00	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	486	3	Children's Services	1962	9	Subsidized Adoptions/Guardians	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		6228.20	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	Personal Services	Expenditure	0			15814.20	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	Travel	Expenditure	0			3.10	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	Contractual Services	Expenditure	0			1733.10	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	Commodities	Expenditure	0			617.20	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	Grants, Benefits	Expenditure	0			126.40	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	1002 Federal Receipts	Revenue	1002	Federal Funds		20.00	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		16846.20	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	634.30	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		780.80	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		12.70	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	Permanent Full-Time	Position Count	0			151.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	319	4	Juvenile Justice	264	1	McLaughlin Youth Center	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	Personal Services	Expenditure	0			2319.20	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	Travel	Expenditure	0			3.20	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	Contractual Services	Expenditure	0			229.70	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	Commodities	Expenditure	0			104.50	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	Grants, Benefits	Expenditure	0			10.40	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	1002 Federal Receipts	Revenue	1002	Federal Funds		10.00	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2597.00	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	60.00	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	Permanent Full-Time	Position Count	0			20.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	319	4	Juvenile Justice	2339	2	Mat-Su Youth Facility	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	Personal Services	Expenditure	0			1853.30	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	Travel	Expenditure	0			50.00	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	Contractual Services	Expenditure	0			205.00	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	Commodities	Expenditure	0			30.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	1002 Federal Receipts	Revenue	1002	Federal Funds		10.00	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2098.30	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	30.00	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	Permanent Full-Time	Position Count	0			17.00	0	0	0	0	0	0	0	0	0
+11000	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	Permanent Part-Time	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	319	4	Juvenile Justice	2646	3	Kenai Peninsula Youth Facility	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	Personal Services	Expenditure	0			4029.60	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	Travel	Expenditure	0			3.60	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	Contractual Services	Expenditure	0			543.20	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	Commodities	Expenditure	0			243.90	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	Grants, Benefits	Expenditure	0			3.00	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	1002 Federal Receipts	Revenue	1002	Federal Funds		10.00	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4625.30	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	74.80	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		113.20	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	Permanent Full-Time	Position Count	0			39.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	319	4	Juvenile Justice	265	4	Fairbanks Youth Facility	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	Personal Services	Expenditure	0			4963.80	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	Travel	Expenditure	0			3.10	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	Contractual Services	Expenditure	0			497.50	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	Commodities	Expenditure	0			121.70	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	Grants, Benefits	Expenditure	0			6.00	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	1002 Federal Receipts	Revenue	1002	Federal Funds		10.00	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5406.90	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		175.20	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	Permanent Full-Time	Position Count	0			33.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	319	4	Juvenile Justice	268	5	Bethel Youth Facility	Non-Permanent	Position Count	0			3.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	319	4	Juvenile Justice	267	8	Johnson Youth Center	Personal Services	Expenditure	0			4137.30	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	319	4	Juvenile Justice	267	8	Johnson Youth Center	Travel	Expenditure	0			3.40	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	319	4	Juvenile Justice	267	8	Johnson Youth Center	Contractual Services	Expenditure	0			343.40	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	319	4	Juvenile Justice	267	8	Johnson Youth Center	Commodities	Expenditure	0			135.50	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	319	4	Juvenile Justice	267	8	Johnson Youth Center	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	319	4	Juvenile Justice	267	8	Johnson Youth Center	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	319	4	Juvenile Justice	267	8	Johnson Youth Center	Grants, Benefits	Expenditure	0			15.70	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	319	4	Juvenile Justice	267	8	Johnson Youth Center	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	319	4	Juvenile Justice	267	8	Johnson Youth Center	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	319	4	Juvenile Justice	267	8	Johnson Youth Center	1002 Federal Receipts	Revenue	1002	Federal Funds		10.00	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	319	4	Juvenile Justice	267	8	Johnson Youth Center	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4625.30	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	319	4	Juvenile Justice	267	8	Johnson Youth Center	Permanent Full-Time	Position Count	0			38.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	319	4	Juvenile Justice	267	8	Johnson Youth Center	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	Personal Services	Expenditure	0			14706.70	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	Travel	Expenditure	0			231.70	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	Contractual Services	Expenditure	0			1690.80	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	Commodities	Expenditure	0			257.70	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	Grants, Benefits	Expenditure	0			200.00	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	1002 Federal Receipts	Revenue	1002	Federal Funds		307.80	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		16331.60	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	150.70	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		256.20	0	0	0	0	0	0	0	0	0
+1092	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		40.60	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	Permanent Full-Time	Position Count	0			129.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	319	4	Juvenile Justice	2134	10	Probation Services	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	319	4	Juvenile Justice	248	11	Delinquency Prevention	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	319	4	Juvenile Justice	248	11	Delinquency Prevention	Travel	Expenditure	0			290.10	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	319	4	Juvenile Justice	248	11	Delinquency Prevention	Contractual Services	Expenditure	0			388.80	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	319	4	Juvenile Justice	248	11	Delinquency Prevention	Commodities	Expenditure	0			59.80	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	319	4	Juvenile Justice	248	11	Delinquency Prevention	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	319	4	Juvenile Justice	248	11	Delinquency Prevention	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	319	4	Juvenile Justice	248	11	Delinquency Prevention	Grants, Benefits	Expenditure	0			666.30	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	319	4	Juvenile Justice	248	11	Delinquency Prevention	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	319	4	Juvenile Justice	248	11	Delinquency Prevention	1002 Federal Receipts	Revenue	1002	Federal Funds		1155.00	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	319	4	Juvenile Justice	248	11	Delinquency Prevention	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	220.00	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	319	4	Juvenile Justice	248	11	Delinquency Prevention	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		30.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	319	4	Juvenile Justice	2768	12	Youth Courts	Personal Services	Expenditure	0			38.90	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	319	4	Juvenile Justice	2768	12	Youth Courts	Travel	Expenditure	0			22.90	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	319	4	Juvenile Justice	2768	12	Youth Courts	Contractual Services	Expenditure	0			11.30	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	319	4	Juvenile Justice	2768	12	Youth Courts	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	319	4	Juvenile Justice	2768	12	Youth Courts	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	319	4	Juvenile Justice	2768	12	Youth Courts	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	319	4	Juvenile Justice	2768	12	Youth Courts	Grants, Benefits	Expenditure	0			372.30	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	319	4	Juvenile Justice	2768	12	Youth Courts	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	319	4	Juvenile Justice	2768	12	Youth Courts	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	319	4	Juvenile Justice	2768	12	Youth Courts	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		445.40	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	319	4	Juvenile Justice	3070	13	Juvenile Justice Health Care	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	319	4	Juvenile Justice	3070	13	Juvenile Justice Health Care	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	319	4	Juvenile Justice	3070	13	Juvenile Justice Health Care	Contractual Services	Expenditure	0			655.60	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	319	4	Juvenile Justice	3070	13	Juvenile Justice Health Care	Commodities	Expenditure	0			50.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	319	4	Juvenile Justice	3070	13	Juvenile Justice Health Care	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	319	4	Juvenile Justice	3070	13	Juvenile Justice Health Care	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	319	4	Juvenile Justice	3070	13	Juvenile Justice Health Care	Grants, Benefits	Expenditure	0			663.00	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	319	4	Juvenile Justice	3070	13	Juvenile Justice Health Care	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	319	4	Juvenile Justice	3070	13	Juvenile Justice Health Care	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	319	4	Juvenile Justice	3070	13	Juvenile Justice Health Care	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1368.60	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	485	5	Health Care Services	2330	1	Catastrophic & Chronic Illness	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	485	5	Health Care Services	2330	1	Catastrophic & Chronic Illness	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	485	5	Health Care Services	2330	1	Catastrophic & Chronic Illness	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	485	5	Health Care Services	2330	1	Catastrophic & Chronic Illness	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	485	5	Health Care Services	2330	1	Catastrophic & Chronic Illness	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	485	5	Health Care Services	2330	1	Catastrophic & Chronic Illness	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	485	5	Health Care Services	2330	1	Catastrophic & Chronic Illness	Grants, Benefits	Expenditure	0			153.90	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	485	5	Health Care Services	2330	1	Catastrophic & Chronic Illness	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	485	5	Health Care Services	2330	1	Catastrophic & Chronic Illness	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	485	5	Health Care Services	2330	1	Catastrophic & Chronic Illness	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		153.90	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	Personal Services	Expenditure	0			1717.40	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	Travel	Expenditure	0			164.50	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	Contractual Services	Expenditure	0			558.50	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	Commodities	Expenditure	0			14.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	1002 Federal Receipts	Revenue	1002	Federal Funds		1560.30	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		80.90	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		81.80	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		631.40	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		100.00	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	485	5	Health Care Services	2944	2	Health Facilities Licensing & Ce	Permanent Full-Time	Position Count	0			14.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	Personal Services	Expenditure	0			2302.40	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	Travel	Expenditure	0			49.50	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	Contractual Services	Expenditure	0			2178.30	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	Commodities	Expenditure	0			69.60	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	1002 Federal Receipts	Revenue	1002	Federal Funds		1315.50	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		369.80	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		253.30	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		2160.20	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	363.00	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		138.00	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	485	5	Health Care Services	245	3	Residential Licensing	Permanent Full-Time	Position Count	0			23.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	Personal Services	Expenditure	0			9894.70	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	Travel	Expenditure	0			6.00	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	Contractual Services	Expenditure	0			2919.70	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	Commodities	Expenditure	0			160.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	Capital Outlay	Expenditure	0			23.10	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	1002 Federal Receipts	Revenue	1002	Federal Funds		6896.60	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		4780.10	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1148.10	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	102.10	0	0	0	0	0	0	0	0	0
+1061	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	76.60	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	485	5	Health Care Services	242	4	Medical Assistance Admin.	Permanent Full-Time	Position Count	0			79.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	73	7	Public Assistance	220	1	ATAP 	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	73	7	Public Assistance	220	1	ATAP 	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	73	7	Public Assistance	220	1	ATAP 	Contractual Services	Expenditure	0			150.20	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	73	7	Public Assistance	220	1	ATAP 	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	73	7	Public Assistance	220	1	ATAP 	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	73	7	Public Assistance	220	1	ATAP 	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	73	7	Public Assistance	220	1	ATAP 	Grants, Benefits	Expenditure	0			21927.10	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	73	7	Public Assistance	220	1	ATAP 	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	73	7	Public Assistance	220	1	ATAP 	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	73	7	Public Assistance	220	1	ATAP 	1002 Federal Receipts	Revenue	1002	Federal Funds		19096.20	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	73	7	Public Assistance	220	1	ATAP 	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1267.50	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	73	7	Public Assistance	220	1	ATAP 	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1713.60	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	73	7	Public Assistance	222	2	Adult Public Assistance	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	73	7	Public Assistance	222	2	Adult Public Assistance	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	73	7	Public Assistance	222	2	Adult Public Assistance	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	73	7	Public Assistance	222	2	Adult Public Assistance	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	73	7	Public Assistance	222	2	Adult Public Assistance	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	73	7	Public Assistance	222	2	Adult Public Assistance	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	73	7	Public Assistance	222	2	Adult Public Assistance	Grants, Benefits	Expenditure	0			61786.90	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	73	7	Public Assistance	222	2	Adult Public Assistance	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	73	7	Public Assistance	222	2	Adult Public Assistance	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	73	7	Public Assistance	222	2	Adult Public Assistance	1002 Federal Receipts	Revenue	1002	Federal Funds		1730.00	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	73	7	Public Assistance	222	2	Adult Public Assistance	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		55646.10	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	73	7	Public Assistance	222	2	Adult Public Assistance	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	4410.80	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	73	7	Public Assistance	1897	3	Child Care Benefits	Personal Services	Expenditure	0			3277.60	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	73	7	Public Assistance	1897	3	Child Care Benefits	Travel	Expenditure	0			95.50	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	73	7	Public Assistance	1897	3	Child Care Benefits	Contractual Services	Expenditure	0			1514.50	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	73	7	Public Assistance	1897	3	Child Care Benefits	Commodities	Expenditure	0			30.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	73	7	Public Assistance	1897	3	Child Care Benefits	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	73	7	Public Assistance	1897	3	Child Care Benefits	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	73	7	Public Assistance	1897	3	Child Care Benefits	Grants, Benefits	Expenditure	0			34827.00	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	73	7	Public Assistance	1897	3	Child Care Benefits	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	73	7	Public Assistance	1897	3	Child Care Benefits	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	73	7	Public Assistance	1897	3	Child Care Benefits	1002 Federal Receipts	Revenue	1002	Federal Funds		30842.20	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	73	7	Public Assistance	1897	3	Child Care Benefits	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		8402.40	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	73	7	Public Assistance	1897	3	Child Care Benefits	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		500.00	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	73	7	Public Assistance	1897	3	Child Care Benefits	Permanent Full-Time	Position Count	0			31.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	73	7	Public Assistance	221	4	General Relief Assistance	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	73	7	Public Assistance	221	4	General Relief Assistance	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	73	7	Public Assistance	221	4	General Relief Assistance	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	73	7	Public Assistance	221	4	General Relief Assistance	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	73	7	Public Assistance	221	4	General Relief Assistance	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	73	7	Public Assistance	221	4	General Relief Assistance	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	73	7	Public Assistance	221	4	General Relief Assistance	Grants, Benefits	Expenditure	0			605.40	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	73	7	Public Assistance	221	4	General Relief Assistance	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	73	7	Public Assistance	221	4	General Relief Assistance	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	73	7	Public Assistance	221	4	General Relief Assistance	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		605.40	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	73	7	Public Assistance	2336	5	Tribal Assistance Programs	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	73	7	Public Assistance	2336	5	Tribal Assistance Programs	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	73	7	Public Assistance	2336	5	Tribal Assistance Programs	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	73	7	Public Assistance	2336	5	Tribal Assistance Programs	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	73	7	Public Assistance	2336	5	Tribal Assistance Programs	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	73	7	Public Assistance	2336	5	Tribal Assistance Programs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	73	7	Public Assistance	2336	5	Tribal Assistance Programs	Grants, Benefits	Expenditure	0			17042.00	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	73	7	Public Assistance	2336	5	Tribal Assistance Programs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	73	7	Public Assistance	2336	5	Tribal Assistance Programs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	73	7	Public Assistance	2336	5	Tribal Assistance Programs	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		16912.00	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	73	7	Public Assistance	2336	5	Tribal Assistance Programs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	73	7	Public Assistance	2336	5	Tribal Assistance Programs	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	130.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	73	7	Public Assistance	225	7	PFD Hold Harmless	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	73	7	Public Assistance	225	7	PFD Hold Harmless	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	73	7	Public Assistance	225	7	PFD Hold Harmless	Contractual Services	Expenditure	0			2290.00	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	73	7	Public Assistance	225	7	PFD Hold Harmless	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	73	7	Public Assistance	225	7	PFD Hold Harmless	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	73	7	Public Assistance	225	7	PFD Hold Harmless	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	73	7	Public Assistance	225	7	PFD Hold Harmless	Grants, Benefits	Expenditure	0			15434.70	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	73	7	Public Assistance	225	7	PFD Hold Harmless	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1050	6	90	Health & Social Svcs	73	7	Public Assistance	225	7	PFD Hold Harmless	1050 Permanent Fund Dividend Fund	Revenue	1050	Other Funds	Duplicated	17724.70	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	73	7	Public Assistance	226	8	Energy Assistance Program	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	73	7	Public Assistance	226	8	Energy Assistance Program	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	73	7	Public Assistance	226	8	Energy Assistance Program	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	73	7	Public Assistance	226	8	Energy Assistance Program	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	73	7	Public Assistance	226	8	Energy Assistance Program	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	73	7	Public Assistance	226	8	Energy Assistance Program	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	73	7	Public Assistance	226	8	Energy Assistance Program	Grants, Benefits	Expenditure	0			9665.00	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	73	7	Public Assistance	226	8	Energy Assistance Program	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	73	7	Public Assistance	226	8	Energy Assistance Program	1002 Federal Receipts	Revenue	1002	Federal Funds		9665.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	Personal Services	Expenditure	0			4523.10	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	Travel	Expenditure	0			23.20	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	Contractual Services	Expenditure	0			3364.50	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	Commodities	Expenditure	0			80.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	Grants, Benefits	Expenditure	0			104.70	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	1002 Federal Receipts	Revenue	1002	Federal Funds		4949.10	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1979.30	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		318.00	0	0	0	0	0	0	0	0	0
+1061	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	849.10	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	Permanent Full-Time	Position Count	0			35.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	73	7	Public Assistance	233	9	Public Assistance Admin	Non-Permanent	Position Count	0			3.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	Personal Services	Expenditure	0			33099.60	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	Travel	Expenditure	0			5.30	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	Contractual Services	Expenditure	0			14566.60	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	Commodities	Expenditure	0			477.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	Capital Outlay	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	1002 Federal Receipts	Revenue	1002	Federal Funds		28493.60	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		17193.90	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	2320.10	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		145.90	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	Permanent Full-Time	Position Count	0			344.00	0	0	0	0	0	0	0	0	0
+11000	6	90	Health & Social Svcs	73	7	Public Assistance	236	10	Public Assistance Field Svcs	Permanent Part-Time	Position Count	0			0	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	73	7	Public Assistance	237	11	Fraud Investigation	Personal Services	Expenditure	0			1569.60	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	73	7	Public Assistance	237	11	Fraud Investigation	Travel	Expenditure	0			3.20	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	73	7	Public Assistance	237	11	Fraud Investigation	Contractual Services	Expenditure	0			726.80	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	73	7	Public Assistance	237	11	Fraud Investigation	Commodities	Expenditure	0			31.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	73	7	Public Assistance	237	11	Fraud Investigation	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	73	7	Public Assistance	237	11	Fraud Investigation	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	73	7	Public Assistance	237	11	Fraud Investigation	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	73	7	Public Assistance	237	11	Fraud Investigation	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	73	7	Public Assistance	237	11	Fraud Investigation	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	73	7	Public Assistance	237	11	Fraud Investigation	1002 Federal Receipts	Revenue	1002	Federal Funds		1443.30	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	73	7	Public Assistance	237	11	Fraud Investigation	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		887.30	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	73	7	Public Assistance	237	11	Fraud Investigation	Permanent Full-Time	Position Count	0			14.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	73	7	Public Assistance	234	12	Quality Control	Personal Services	Expenditure	0			2035.20	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	73	7	Public Assistance	234	12	Quality Control	Travel	Expenditure	0			27.00	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	73	7	Public Assistance	234	12	Quality Control	Contractual Services	Expenditure	0			322.30	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	73	7	Public Assistance	234	12	Quality Control	Commodities	Expenditure	0			74.60	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	73	7	Public Assistance	234	12	Quality Control	Capital Outlay	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	73	7	Public Assistance	234	12	Quality Control	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	73	7	Public Assistance	234	12	Quality Control	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	73	7	Public Assistance	234	12	Quality Control	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	73	7	Public Assistance	234	12	Quality Control	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	73	7	Public Assistance	234	12	Quality Control	1002 Federal Receipts	Revenue	1002	Federal Funds		1468.80	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	73	7	Public Assistance	234	12	Quality Control	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1000.30	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	73	7	Public Assistance	234	12	Quality Control	Permanent Full-Time	Position Count	0			19.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	73	7	Public Assistance	2337	13	Work Services	Personal Services	Expenditure	0			485.40	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	73	7	Public Assistance	2337	13	Work Services	Travel	Expenditure	0			37.10	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	73	7	Public Assistance	2337	13	Work Services	Contractual Services	Expenditure	0			9352.70	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	73	7	Public Assistance	2337	13	Work Services	Commodities	Expenditure	0			35.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	73	7	Public Assistance	2337	13	Work Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	73	7	Public Assistance	2337	13	Work Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	73	7	Public Assistance	2337	13	Work Services	Grants, Benefits	Expenditure	0			1849.30	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	73	7	Public Assistance	2337	13	Work Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	73	7	Public Assistance	2337	13	Work Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	73	7	Public Assistance	2337	13	Work Services	1002 Federal Receipts	Revenue	1002	Federal Funds		11644.90	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	73	7	Public Assistance	2337	13	Work Services	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		114.60	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	73	7	Public Assistance	2337	13	Work Services	Permanent Full-Time	Position Count	0			4.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	Personal Services	Expenditure	0			1375.40	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	Travel	Expenditure	0			36.60	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	Contractual Services	Expenditure	0			1893.40	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	Commodities	Expenditure	0			14842.10	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	Grants, Benefits	Expenditure	0			6575.60	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	1002 Federal Receipts	Revenue	1002	Federal Funds		20903.60	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		31.70	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		390.10	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		3397.70	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	73	7	Public Assistance	1013	14	Women, Infants and Children	Permanent Full-Time	Position Count	0			11.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	684	8	Senior Benefits Payment Program	2897	6	Senior Benefits Payment Program	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	684	8	Senior Benefits Payment Program	2897	6	Senior Benefits Payment Program	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	684	8	Senior Benefits Payment Program	2897	6	Senior Benefits Payment Program	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	684	8	Senior Benefits Payment Program	2897	6	Senior Benefits Payment Program	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	684	8	Senior Benefits Payment Program	2897	6	Senior Benefits Payment Program	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	684	8	Senior Benefits Payment Program	2897	6	Senior Benefits Payment Program	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	684	8	Senior Benefits Payment Program	2897	6	Senior Benefits Payment Program	Grants, Benefits	Expenditure	0			20786.10	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	684	8	Senior Benefits Payment Program	2897	6	Senior Benefits Payment Program	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	684	8	Senior Benefits Payment Program	2897	6	Senior Benefits Payment Program	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	684	8	Senior Benefits Payment Program	2897	6	Senior Benefits Payment Program	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		20786.10	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	Personal Services	Expenditure	0			20464.60	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	Travel	Expenditure	0			511.30	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	Contractual Services	Expenditure	0			2483.70	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	Commodities	Expenditure	0			574.40	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	Grants, Benefits	Expenditure	0			4689.50	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	1002 Federal Receipts	Revenue	1002	Federal Funds		5872.50	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		21983.60	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		654.20	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	115.00	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		98.20	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	Permanent Full-Time	Position Count	0			157.00	0	0	0	0	0	0	0	0	0
+11000	6	90	Health & Social Svcs	502	9	Public Health	288	2	Nursing	Permanent Part-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	Personal Services	Expenditure	0			5021.00	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	Travel	Expenditure	0			115.70	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	Contractual Services	Expenditure	0			8419.80	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	Commodities	Expenditure	0			146.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	Capital Outlay	Expenditure	0			34.00	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	Grants, Benefits	Expenditure	0			1143.50	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	1002 Federal Receipts	Revenue	1002	Federal Funds		8801.80	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1730.40	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		1758.50	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1515.00	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		811.50	0	0	0	0	0	0	0	0	0
+1092	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		100.00	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		162.80	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	Permanent Full-Time	Position Count	0			41.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	502	9	Public Health	2788	3	Women, Children and Family Healt	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	Personal Services	Expenditure	0			2999.60	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	Travel	Expenditure	0			195.80	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	Contractual Services	Expenditure	0			4115.70	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	Commodities	Expenditure	0			1132.10	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	Grants, Benefits	Expenditure	0			2145.00	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	1002 Federal Receipts	Revenue	1002	Federal Funds		4218.50	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1731.00	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1972.00	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		325.60	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		25.80	0	0	0	0	0	0	0	0	0
+1254	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	1254 Marijuana Education and Treatment Fund	Revenue	1254	Designated General Funds		2315.30	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	Permanent Full-Time	Position Count	0			21.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	502	9	Public Health	292	4	Public Health Admin Svcs	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	Personal Services	Expenditure	0			3041.70	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	Travel	Expenditure	0			172.80	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	Contractual Services	Expenditure	0			7143.60	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	Commodities	Expenditure	0			614.50	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	Capital Outlay	Expenditure	0			307.00	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	Grants, Benefits	Expenditure	0			1751.10	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	1002 Federal Receipts	Revenue	1002	Federal Funds		6855.90	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1596.20	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		751.20	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	148.40	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		592.50	0	0	0	0	0	0	0	0	0
+1061	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	60.50	0	0	0	0	0	0	0	0	0
+1092	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		275.60	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		2675.40	0	0	0	0	0	0	0	0	0
+1268	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	1268 Mental Health Trust Reserve	Revenue	1268	Designated General Funds		75.00	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	Permanent Full-Time	Position Count	0			23.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	502	9	Public Health	2877	5	Emergency Programs	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	Personal Services	Expenditure	0			4118.20	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	Travel	Expenditure	0			69.10	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	Contractual Services	Expenditure	0			9025.50	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	Commodities	Expenditure	0			114.10	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	Grants, Benefits	Expenditure	0			4010.20	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	1002 Federal Receipts	Revenue	1002	Federal Funds		6533.30	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1942.90	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	337.30	0	0	0	0	0	0	0	0	0
+1061	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	39.00	0	0	0	0	0	0	0	0	0
+1092	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		45.00	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		308.60	0	0	0	0	0	0	0	0	0
+1168	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	1168 Tobacco Use Education and Cessation Fund	Revenue	1168	Designated General Funds		8086.00	0	0	0	0	0	0	0	0	0
+1268	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	1268 Mental Health Trust Reserve	Revenue	1268	Designated General Funds		45.00	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	502	9	Public Health	2818	6	Chronic Disease Prev/Hlth Promo	Permanent Full-Time	Position Count	0			34.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	Personal Services	Expenditure	0			7949.90	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	Travel	Expenditure	0			202.90	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	Contractual Services	Expenditure	0			4586.50	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	Commodities	Expenditure	0			1411.70	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	Capital Outlay	Expenditure	0			65.00	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	Grants, Benefits	Expenditure	0			2055.60	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	1002 Federal Receipts	Revenue	1002	Federal Funds		11007.20	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		2046.30	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		250.00	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	292.00	0	0	0	0	0	0	0	0	0
+1061	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	87.90	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		2588.20	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	Permanent Full-Time	Position Count	0			60.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	502	9	Public Health	296	7	Epidemiology	Non-Permanent	Position Count	0			3.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	Personal Services	Expenditure	0			3261.00	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	Travel	Expenditure	0			36.00	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	Contractual Services	Expenditure	0			2289.40	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	Commodities	Expenditure	0			181.50	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	Capital Outlay	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	1002 Federal Receipts	Revenue	1002	Federal Funds		1710.50	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		250.80	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		24.80	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		3410.70	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	340.80	0	0	0	0	0	0	0	0	0
+1061	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	0	0	0	0	0	0	0	0	0	0
+1092	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		40.30	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	Permanent Full-Time	Position Count	0			33.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	502	9	Public Health	961	8	Bureau of Vital Statistics	Non-Permanent	Position Count	0			0	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	502	9	Public Health	2309	9	Emergency Medical Svcs Grants	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	502	9	Public Health	2309	9	Emergency Medical Svcs Grants	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	502	9	Public Health	2309	9	Emergency Medical Svcs Grants	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	502	9	Public Health	2309	9	Emergency Medical Svcs Grants	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	502	9	Public Health	2309	9	Emergency Medical Svcs Grants	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	502	9	Public Health	2309	9	Emergency Medical Svcs Grants	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	502	9	Public Health	2309	9	Emergency Medical Svcs Grants	Grants, Benefits	Expenditure	0			3133.70	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	502	9	Public Health	2309	9	Emergency Medical Svcs Grants	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	502	9	Public Health	2309	9	Emergency Medical Svcs Grants	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	502	9	Public Health	2309	9	Emergency Medical Svcs Grants	1002 Federal Receipts	Revenue	1002	Federal Funds		501.30	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	502	9	Public Health	2309	9	Emergency Medical Svcs Grants	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		2632.40	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	Personal Services	Expenditure	0			2408.60	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	Travel	Expenditure	0			19.00	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	Contractual Services	Expenditure	0			891.40	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	Commodities	Expenditure	0			100.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	1002 Federal Receipts	Revenue	1002	Federal Funds		68.60	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3255.40	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		20.00	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	75.00	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	502	9	Public Health	293	10	State Medical Examiner	Permanent Full-Time	Position Count	0			19.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	Personal Services	Expenditure	0			4478.40	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	Travel	Expenditure	0			108.80	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	Contractual Services	Expenditure	0			2594.10	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	Commodities	Expenditure	0			1510.20	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	Capital Outlay	Expenditure	0			125.00	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	1002 Federal Receipts	Revenue	1002	Federal Funds		2932.60	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		4313.30	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		805.50	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	415.60	0	0	0	0	0	0	0	0	0
+1061	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	349.50	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		0	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	502	9	Public Health	2252	11	Public Health Laboratories	Permanent Full-Time	Position Count	0			39.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	Contractual Services	Expenditure	0			425.00	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	Grants, Benefits	Expenditure	0			19796.50	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	1002 Federal Receipts	Revenue	1002	Federal Funds		7495.40	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		10029.00	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		615.00	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	651.50	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		880.60	0	0	0	0	0	0	0	0	0
+1092	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		300.00	0	0	0	0	0	0	0	0	0
+1268	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3201	0	SDS Community Based Grants	1268 Mental Health Trust Reserve	Revenue	1268	Designated General Funds		250.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3118	1	Early Intervention Learning Prgm	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3118	1	Early Intervention Learning Prgm	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3118	1	Early Intervention Learning Prgm	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3118	1	Early Intervention Learning Prgm	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3118	1	Early Intervention Learning Prgm	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3118	1	Early Intervention Learning Prgm	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3118	1	Early Intervention Learning Prgm	Grants, Benefits	Expenditure	0			9283.60	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3118	1	Early Intervention Learning Prgm	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3118	1	Early Intervention Learning Prgm	1002 Federal Receipts	Revenue	1002	Federal Funds		1859.10	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	3118	1	Early Intervention Learning Prgm	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		7424.50	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	Personal Services	Expenditure	0			19065.00	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	Travel	Expenditure	0			391.20	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	Contractual Services	Expenditure	0			4495.70	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	Commodities	Expenditure	0			186.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	Capital Outlay	Expenditure	0			332.50	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	1002 Federal Receipts	Revenue	1002	Federal Funds		12158.90	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		9540.60	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	881.30	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		1496.20	0	0	0	0	0	0	0	0	0
+1092	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		330.40	0	0	0	0	0	0	0	0	0
+1268	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	1268 Mental Health Trust Reserve	Revenue	1268	Designated General Funds		63.00	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	Permanent Full-Time	Position Count	0			163.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2663	2	Senior/Disabilities Svcs Admin	Non-Permanent	Position Count	0			8.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2875	3	Genl Relief/Temp Assisted Living	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2875	3	Genl Relief/Temp Assisted Living	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2875	3	Genl Relief/Temp Assisted Living	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2875	3	Genl Relief/Temp Assisted Living	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2875	3	Genl Relief/Temp Assisted Living	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2875	3	Genl Relief/Temp Assisted Living	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2875	3	Genl Relief/Temp Assisted Living	Grants, Benefits	Expenditure	0			6976.50	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2875	3	Genl Relief/Temp Assisted Living	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2875	3	Genl Relief/Temp Assisted Living	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2875	3	Genl Relief/Temp Assisted Living	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		6236.20	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2875	3	Genl Relief/Temp Assisted Living	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		740.30	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2674	7	Commission on Aging	Personal Services	Expenditure	0			279.90	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2674	7	Commission on Aging	Travel	Expenditure	0			26.70	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2674	7	Commission on Aging	Contractual Services	Expenditure	0			36.20	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2674	7	Commission on Aging	Commodities	Expenditure	0			14.50	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2674	7	Commission on Aging	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2674	7	Commission on Aging	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2674	7	Commission on Aging	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2674	7	Commission on Aging	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2674	7	Commission on Aging	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	214.70	0	0	0	0	0	0	0	0	0
+1092	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2674	7	Commission on Aging	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		142.60	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2674	7	Commission on Aging	Permanent Full-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2023	8	Governor's Cncl/Disabilities	Personal Services	Expenditure	0			867.80	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2023	8	Governor's Cncl/Disabilities	Travel	Expenditure	0			42.10	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2023	8	Governor's Cncl/Disabilities	Contractual Services	Expenditure	0			836.00	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2023	8	Governor's Cncl/Disabilities	Commodities	Expenditure	0			44.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2023	8	Governor's Cncl/Disabilities	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2023	8	Governor's Cncl/Disabilities	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2023	8	Governor's Cncl/Disabilities	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2023	8	Governor's Cncl/Disabilities	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2023	8	Governor's Cncl/Disabilities	1002 Federal Receipts	Revenue	1002	Federal Funds		917.30	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2023	8	Governor's Cncl/Disabilities	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	467.90	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2023	8	Governor's Cncl/Disabilities	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		25.00	0	0	0	0	0	0	0	0	0
+1092	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2023	8	Governor's Cncl/Disabilities	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		379.70	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	487	10	Senior and Disabilities Svcs	2023	8	Governor's Cncl/Disabilities	Permanent Full-Time	Position Count	0			7.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	Personal Services	Expenditure	0			1518.80	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	Travel	Expenditure	0			3.60	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	Contractual Services	Expenditure	0			209.00	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	Commodities	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	1002 Federal Receipts	Revenue	1002	Federal Funds		66.50	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		156.10	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1518.80	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	Permanent Full-Time	Position Count	0			11.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	106	11	Departmental Support Services	2874	1	Public Affairs	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	106	11	Departmental Support Services	2880	2	Quality Assurance and Audit	Personal Services	Expenditure	0			893.20	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	106	11	Departmental Support Services	2880	2	Quality Assurance and Audit	Travel	Expenditure	0			14.00	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	106	11	Departmental Support Services	2880	2	Quality Assurance and Audit	Contractual Services	Expenditure	0			176.90	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	106	11	Departmental Support Services	2880	2	Quality Assurance and Audit	Commodities	Expenditure	0			6.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	106	11	Departmental Support Services	2880	2	Quality Assurance and Audit	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	106	11	Departmental Support Services	2880	2	Quality Assurance and Audit	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	106	11	Departmental Support Services	2880	2	Quality Assurance and Audit	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	106	11	Departmental Support Services	2880	2	Quality Assurance and Audit	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	106	11	Departmental Support Services	2880	2	Quality Assurance and Audit	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	106	11	Departmental Support Services	2880	2	Quality Assurance and Audit	1002 Federal Receipts	Revenue	1002	Federal Funds		544.90	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	106	11	Departmental Support Services	2880	2	Quality Assurance and Audit	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		545.20	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	106	11	Departmental Support Services	2880	2	Quality Assurance and Audit	Permanent Full-Time	Position Count	0			6.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	Personal Services	Expenditure	0			3388.10	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	Travel	Expenditure	0			107.50	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	Contractual Services	Expenditure	0			1144.30	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	Commodities	Expenditure	0			47.20	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	1002 Federal Receipts	Revenue	1002	Federal Funds		1453.90	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1686.80	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	492.40	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		204.20	0	0	0	0	0	0	0	0	0
+1061	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	474.80	0	0	0	0	0	0	0	0	0
+1092	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		375.00	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	Permanent Full-Time	Position Count	0			19.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	106	11	Departmental Support Services	317	3	Commissioner's Office	Non-Permanent	Position Count	0			9.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	Personal Services	Expenditure	0			8787.20	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	Travel	Expenditure	0			20.60	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	Contractual Services	Expenditure	0			4040.80	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	Commodities	Expenditure	0			111.00	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	1002 Federal Receipts	Revenue	1002	Federal Funds		5351.20	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		5844.50	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1653.20	0	0	0	0	0	0	0	0	0
+1061	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	110.70	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	Permanent Full-Time	Position Count	0			75.00	0	0	0	0	0	0	0	0	0
+12000	6	90	Health & Social Svcs	106	11	Departmental Support Services	320	4	Administrative Support Svcs	Non-Permanent	Position Count	0			0	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	Personal Services	Expenditure	0			263.50	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	Travel	Expenditure	0			8.30	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	Contractual Services	Expenditure	0			317.90	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	Commodities	Expenditure	0			12.10	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	1002 Federal Receipts	Revenue	1002	Federal Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	65.50	0	0	0	0	0	0	0	0	0
+1061	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	536.30	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	106	11	Departmental Support Services	2020	5	Facilities Management	Permanent Full-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	Personal Services	Expenditure	0			13793.10	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	Travel	Expenditure	0			8.90	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	Contractual Services	Expenditure	0			3648.20	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	Commodities	Expenditure	0			277.30	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	1002 Federal Receipts	Revenue	1002	Federal Funds		1594.00	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		980.20	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	14810.40	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1061	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	342.90	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	106	11	Departmental Support Services	2754	6	Information Technology Services	Permanent Full-Time	Position Count	0			105.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	106	11	Departmental Support Services	2478	7	HSS State Facilities Rent	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	106	11	Departmental Support Services	2478	7	HSS State Facilities Rent	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	106	11	Departmental Support Services	2478	7	HSS State Facilities Rent	Contractual Services	Expenditure	0			4700.00	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	106	11	Departmental Support Services	2478	7	HSS State Facilities Rent	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	106	11	Departmental Support Services	2478	7	HSS State Facilities Rent	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	106	11	Departmental Support Services	2478	7	HSS State Facilities Rent	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	106	11	Departmental Support Services	2478	7	HSS State Facilities Rent	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	106	11	Departmental Support Services	2478	7	HSS State Facilities Rent	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	106	11	Departmental Support Services	2478	7	HSS State Facilities Rent	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	106	11	Departmental Support Services	2478	7	HSS State Facilities Rent	1002 Federal Receipts	Revenue	1002	Federal Funds		1175.00	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	106	11	Departmental Support Services	2478	7	HSS State Facilities Rent	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		3175.00	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	106	11	Departmental Support Services	2478	7	HSS State Facilities Rent	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		350.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	Personal Services	Expenditure	0			2154.20	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	Travel	Expenditure	0			7.50	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	Contractual Services	Expenditure	0			531.80	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	Commodities	Expenditure	0			60.80	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	Capital Outlay	Expenditure	0			5.40	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	1002 Federal Receipts	Revenue	1002	Federal Funds		1414.00	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		1303.30	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		42.40	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	0	0	0	0	0	0	0	0	0	0
+10000	6	90	Health & Social Svcs	106	11	Departmental Support Services	2696	8	Rate Review	Permanent Full-Time	Position Count	0			15.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	82	12	Human Svcs Comm Matching Grant	1821	11	Human Svcs Comm Matching Grant	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	82	12	Human Svcs Comm Matching Grant	1821	11	Human Svcs Comm Matching Grant	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	82	12	Human Svcs Comm Matching Grant	1821	11	Human Svcs Comm Matching Grant	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	82	12	Human Svcs Comm Matching Grant	1821	11	Human Svcs Comm Matching Grant	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	82	12	Human Svcs Comm Matching Grant	1821	11	Human Svcs Comm Matching Grant	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	82	12	Human Svcs Comm Matching Grant	1821	11	Human Svcs Comm Matching Grant	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	82	12	Human Svcs Comm Matching Grant	1821	11	Human Svcs Comm Matching Grant	Grants, Benefits	Expenditure	0			1387.00	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	82	12	Human Svcs Comm Matching Grant	1821	11	Human Svcs Comm Matching Grant	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	82	12	Human Svcs Comm Matching Grant	1821	11	Human Svcs Comm Matching Grant	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	82	12	Human Svcs Comm Matching Grant	1821	11	Human Svcs Comm Matching Grant	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1387.00	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	566	13	Community Initiative Grants	2915	0	Community Initiative Grants	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	566	13	Community Initiative Grants	2915	0	Community Initiative Grants	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	566	13	Community Initiative Grants	2915	0	Community Initiative Grants	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	566	13	Community Initiative Grants	2915	0	Community Initiative Grants	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	566	13	Community Initiative Grants	2915	0	Community Initiative Grants	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	566	13	Community Initiative Grants	2915	0	Community Initiative Grants	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	566	13	Community Initiative Grants	2915	0	Community Initiative Grants	Grants, Benefits	Expenditure	0			861.70	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	566	13	Community Initiative Grants	2915	0	Community Initiative Grants	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	566	13	Community Initiative Grants	2915	0	Community Initiative Grants	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	566	13	Community Initiative Grants	2915	0	Community Initiative Grants	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		861.70	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	Contractual Services	Expenditure	0			74009.00	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	Grants, Benefits	Expenditure	0			2281104.40	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	1002 Federal Receipts	Revenue	1002	Federal Funds		1731798.50	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		480888.30	0	0	0	0	0	0	0	0	0
+1004	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		39029.40	0	0	0	0	0	0	0	0	0
+1005	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		210.00	0	0	0	0	0	0	0	0	0
+1007	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	5218.80	0	0	0	0	0	0	0	0	0
+1037	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		81780.80	0	0	0	0	0	0	0	0	0
+1108	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		15495.30	0	0	0	0	0	0	0	0	0
+1168	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	1168 Tobacco Use Education and Cessation Fund	Revenue	1168	Designated General Funds		97.50	0	0	0	0	0	0	0	0	0
+1246	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	1246 Recidivism Reduction Fund	Revenue	1246	Designated General Funds		375.00	0	0	0	0	0	0	0	0	0
+1247	6	90	Health & Social Svcs	595	14	Medicaid Svs	3234	1	Medicaid Services	1247 Medicaid Monetary Recoveries	Revenue	1247	Designated General Funds		219.80	0	0	0	0	0	0	0	0	0
+1	6	90	Health & Social Svcs	595	14	Medicaid Svs	2839	3	Adult Prev Dental Medicaid Svcs	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	6	90	Health & Social Svcs	595	14	Medicaid Svs	2839	3	Adult Prev Dental Medicaid Svcs	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	6	90	Health & Social Svcs	595	14	Medicaid Svs	2839	3	Adult Prev Dental Medicaid Svcs	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	6	90	Health & Social Svcs	595	14	Medicaid Svs	2839	3	Adult Prev Dental Medicaid Svcs	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	6	90	Health & Social Svcs	595	14	Medicaid Svs	2839	3	Adult Prev Dental Medicaid Svcs	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	6	90	Health & Social Svcs	595	14	Medicaid Svs	2839	3	Adult Prev Dental Medicaid Svcs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	6	90	Health & Social Svcs	595	14	Medicaid Svs	2839	3	Adult Prev Dental Medicaid Svcs	Grants, Benefits	Expenditure	0			27004.50	0	0	0	0	0	0	0	0	0
+8	6	90	Health & Social Svcs	595	14	Medicaid Svs	2839	3	Adult Prev Dental Medicaid Svcs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	6	90	Health & Social Svcs	595	14	Medicaid Svs	2839	3	Adult Prev Dental Medicaid Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	6	90	Health & Social Svcs	595	14	Medicaid Svs	2839	3	Adult Prev Dental Medicaid Svcs	1002 Federal Receipts	Revenue	1002	Federal Funds		18730.90	0	0	0	0	0	0	0	0	0
+1003	6	90	Health & Social Svcs	595	14	Medicaid Svs	2839	3	Adult Prev Dental Medicaid Svcs	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		8273.60	0	0	0	0	0	0	0	0	0

@@ -61,7 +61,7 @@ node_color_list[i].push({node_label: "Corrections", node_color: "rgb(0,128,128)"
 node_color_list[i].push({node_label: "Debt Service", node_color: "rgb(0,128,128)" }) 
 node_color_list[i].push({node_label: "Educ & Early Devel", node_color: "rgb(0,128,128)" }) 
 node_color_list[i].push({node_label: "Environ Conservation", node_color: "rgb(0,128,128)" }) 
-node_color_list[i].push({node_label: "Fish and Game", node_color: "rgb(0,128,128)" }) 
+node_color_list[i].push({node_label: "Fish & Game", node_color: "rgb(0,128,128)" }) 
 node_color_list[i].push({node_label: "Fund Capitalization", node_color: "rgb(0,128,128)" }) 
 node_color_list[i].push({node_label: "Fund Transfers", node_color: "rgb(0,128,128)" }) 
 node_color_list[i].push({node_label: "Governor", node_color: "rgb(0,128,128)" }) 

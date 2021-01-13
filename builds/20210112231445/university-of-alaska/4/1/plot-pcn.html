@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>	
+<!-- BUILD_ID: 20210112231445 -->
+<!-- https://github.com/meta-cognition/akbv -->
+<head>
+	<title>FY2022 Governor (17280) Ketchikan Campus (36 positions)</title>
+	<!-- Plotly.js -->
+	<script src="../../../plotly-latest.min.js"></script>
+	<meta charset="UTF-8">
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Expires" content="0" />
+	<link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Tangerine">
+	<style>
+		.node-label-text-path { 
+			/*
+			font-weight: bold; 
+			*/
+			text-shadow: none !important;
+			fill: black !important; 
+			stroke: white; 
+			stroke-width:2px; 
+			paint-order: stroke;
+			stroke-opacity: .5;
+		}
+		
+		g.node-entered path {
+			fill: rgb(0,0,255) !important;
+			fill-opacity: 1 !important;
+		}
+		
+		g.node-label {
+			fill: rgb(0,0,255) !important;
+			fill-opacity: 1 !important;
+		}
+		
+		g.hovertext path{
+			fill-opacity: 1 !important; 
+		}
+		
+		g.hovertext rect{
+			fill-opacity: 1 !important; 
+		}
+		/* Commented the style below to allow javascript assignment of style to nodes with links. */
+		/*
+		rect.node-capture
+		{
+			cursor: pointer; 
+		} 
+		*/
+		.akbv {
+			font-family: 'Tangerine', serif;
+			font-size: 36px;
+			text-shadow: 4px 4px 4px #aaa;
+			margin: auto auto 10px auto;
+			text-align:center;
+		}
+		.disclaimer {
+			width: 1000px;
+			font-size: 12px;
+			margin: 15px auto auto auto;
+			padding-left:10px;
+		}
+		.button-bar {
+			margin: auto auto 10px auto;
+			text-align:center;
+		}
+		#myDiv {
+			box-shadow: 5px 5px 10px;
+		}
+		body {
+			background-color: #F8F8F8;
+			}
+		
+	</style>
+</head>
+<body>
+<div class="akbv">Alaska Budget Visualizer (beta)</div>
+<div class="button-bar"><button onclick="goBack()"><< Go Back</button>&nbsp;|&nbsp;<button onclick="resize_default();">Default Size</button>&nbsp;<button onclick="resize_small();">Make Smaller</button>&nbsp;<button onclick="resize_window();">Fit to Window</button>&nbsp;|&nbsp;<button onclick="resize_text_larger();">Larger Text</button>&nbsp;<button onclick="resize_text_smaller();">Smaller Text</button></div>
+<a name="plot"></a> 
+<div id="myDiv" style="width:1000px; margin: auto; border:1px solid black;"><!-- Plotly chart will be drawn inside this DIV --></div>
+<div class="disclaimer">DISCLAIMER: This is beta software, it's functionality and compatability have not been fully tested. This software tool being piloted internally. It has been made available for public access for convenience and any incidental benefit it may provide. The information shown is not a comprehensive accounting. This software and the information displayed is offered with no guarantees or assurances of accuracy or validity and is provided for demonstration purposes only. For questions please contact Dom Pannone, <a href="mailto:dom.pannone@alaska.gov">dom.pannone@alaska.gov</a>. For comprehensive budget information please visit the State of Alaska Office of Management and Budget website, <a href="https://omb.alaska.gov/">https://omb.alaska.gov/</a>.</div><script>
+	var user_font_size = 11;
+    var data = {
+		type: "sankey",
+		arrangement: "fixed",
+		orientation: "h",
+		valueformat: ",f",
+		node: {
+			pad: 15,
+			thickness: 15,
+			line: {
+				color: "black",	
+				width: 0.5
+			},
+		
+			label : ["Ketchikan Campus, 36", "Permanent Full-Time, 32", "Permanent Part-Time, 4", ],
+			color : ["rgb(0,127,212)", "rgb(120,120,120)", "rgb(120,120,120)", ],
+			meta  : ["0", "1", "2", ],
+					
+			hoverlabel: {
+				opacity: 1,
+				bgcolor: "rgb(153, 204, 255)",
+				bordercolor: "black",
+			},  
+	
+			hovertemplate: "%{label}<extra></extra>",
+			/* for manual custom node location.
+			/* groups : [[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17],[18,19,20,21,22,23,24,25,26,27,28]], */
+			/* x :[.01,.02,.03,.04,.05], */
+			/* y :[.01,.02,.03,.04,.05] */
+			/* akbv margins are at .007 and .993, with center at .5 */
+			x  : [/*Ketchikan Campus*/, /*Permanent Full-Time*/, /*Permanent Part-Time*/, ],
+			y  : [/*Ketchikan Campus*/, /*Permanent Full-Time*/, /*Permanent Part-Time*/, ],
+		},
+
+		link: { 
+ 
+			source : ["1", "2", ],
+			target : ["0", "0", ],
+			value : ["32.000000", "4.000000", ],
+			label : ["32 in Ketchikan Campus<br />Type: Permanent Full-Time", "4 in Ketchikan Campus<br />Type: Permanent Part-Time", ],
+			color : ["rgba(0,0,96,0.2)", "rgba(0,0,96,0.2)", ],
+		
+			hoverlabel: {
+		
+			},
+			hovertemplate: "%{label}<extra></extra>", /* "%{value} to %{target.label}%{label}<extra></extra>" */
+		}
+	};
+	var data = [data];
+	var layout = {
+		title: "FY2022 Governor (17280) Ketchikan Campus (36 positions)",
+		width: 1000,
+		height: 500,
+		showlegend: true,
+		font: {
+			size: 11
+		},
+		legend: {
+			x: 0,
+			y: 0,
+		},
+		margin: {
+			l: 10,
+			r: 10,
+			b: 10,
+			t: 70,
+			pad: 0,
+		}
+	};
+	//  Modebar Buttons names at https://github.com/plotly/plotly.js/blob/master/src/components/modebar/buttons.js
+    //  - sendDataToCloud 
+    //  - (2D): zoom2d, pan2d, select2d, lasso2d, zoomIn2d, zoomOut2d, autoScale2d, resetScale2d
+    //  - (Cartesian): hoverClosestCartesian, hoverCompareCartesian 
+    //  - (3D): zoom3d, pan3d, orbitRotation, tableRotation, handleDrag3d, resetCameraDefault3d, resetCameraLastSave3d, hoverClosest3d
+    //  - (Geo): zoomInGeo, zoomOutGeo, resetGeo, hoverClosestGeo
+    //  - hoverClosestGl2d, hoverClosestPie, toggleHover, resetViews 
+	var defaultPlotlyConfiguration = { displayModeBar: true, modeBarButtonsToRemove: ['sendDataToCloud',  'lasso2d', 'select2d', 'hoverClosestCartesian', 'hoverCompareCartesian'], displaylogo: false, showTips: true }
+	Plotly.react("myDiv", data, layout, defaultPlotlyConfiguration);
+	
+	// Interaction and handling - Dom Pannone. (Generated by AKBV)
+	var myPlot = document.getElementById('myDiv');
+	myPlot.on('plotly_click', function(data){
+		// log the object
+		// ;console.log(data);
+		// https://api.jquery.com/event.target/
+		// ;console.log(data.points[0].originalEvent.target.nodeName);
+		
+		if ( (data.points[0].originalEvent.target.nodeName == "rect") || (data.points[0].originalEvent.target.nodeName == "textPath"))
+		{
+			switch ( data.points[0].pointNumber ) 
+			{
+				
+				/*
+				case [X]:
+					window.location.href = 'node' + data.points[0].index + '.html';
+					break;
+				*/
+				default:
+				// default
+			}
+		}
+		// window.location.href = '...';
+		// alert(data.points[0].label);
+	});
+	myPlot.on('plotly_hover', function(data){
+		// console.log(data.event.originalTarget);
+		// console.log(data);
+		if (data.points[0].dx == null)
+		{
+			//console.log('This is  not a node');
+			//document.body.style.cursor = 'default';
+		} else
+		{
+			// console.log('This IS a node');
+			switch ( data.points[0].pointNumber ) 
+			{
+				
+				/*
+				case [X]:
+					data.event.srcElement.style.cursor = 'pointer';
+					break;
+				*/
+				default:
+				// default
+			}
+		}
+	});
+	function resize_small(){
+		Plotly.relayout('myDiv', {	
+		height: 500
+		})
+	}
+	function resize_default(){
+		Plotly.relayout('myDiv', {	
+		height: 500
+		})
+	}
+	function resize_window(){
+		Plotly.relayout('myDiv', {	
+			height: window.innerHeight - 50
+		})
+		window.location.href = '#plot';
+	}
+	function resize_text_larger(){
+		user_font_size++;
+		Plotly.relayout('myDiv', {	
+			font: {
+				size: user_font_size
+			}
+		})
+	}
+	function resize_text_smaller(){
+		user_font_size--;
+		Plotly.relayout('myDiv', {	
+			font: {
+				size: user_font_size
+			}
+		})
+	}
+	function goBack(){
+		window.history.back();
+	}
+	function increase_text_size(){
+		var current_size = Plotly.relayout('myDiv').font;
+	}
+</script>
+
+</body>
+
+
