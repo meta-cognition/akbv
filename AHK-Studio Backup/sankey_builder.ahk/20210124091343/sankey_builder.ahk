@@ -16,8 +16,7 @@ SetDefaultMouseSpeed, 0
 SetWinDelay, -1
 SetControlDelay, -1
 SendMode Input
-;== OPTIMIZATIONS END ==
-
+		;== OPTIMIZATIONS END ==
 
 SetWorkingDir %A_ScriptDir%                                             ; Ensures a consistent starting directory.
 ;=======================================================================|

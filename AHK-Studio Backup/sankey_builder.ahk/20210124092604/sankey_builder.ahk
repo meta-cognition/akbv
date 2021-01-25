@@ -68,7 +68,9 @@ group_column                := 14    ; e.g. UGF/DFG/FED/OTHER
 value_column                := 16    ; e.g. (value)
 scenario_column             := 11    ;
 scenario_row                := 2     ;
-
+{
+     
+}
 ; FOR FILTERS
 position_labels             := "Permanent Part-Time|Permanent Full-Time|Non-Permanent"
 expenditure_labels          := "Personal Services|Travel|Contractual Services|Commodities|Capital Outlay|Line 76000|Grants, Benefits|Miscellaneous"

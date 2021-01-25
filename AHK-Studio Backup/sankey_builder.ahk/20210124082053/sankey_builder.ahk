@@ -18,7 +18,6 @@ SetControlDelay, -1
 SendMode Input
 ;== OPTIMIZATIONS END ==
 
-
 SetWorkingDir %A_ScriptDir%                                             ; Ensures a consistent starting directory.
 ;=======================================================================|
 #Include includes\csv.ahk                                               ; see file, add byref to csv load to load file once
