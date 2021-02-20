@@ -5,8 +5,8 @@ build_department_sankey(department_abs, department_readable, department_folder)
 	; MANUALLY CHANGE THESE!
 	; CROSSWALK - MUST BE SAME NUMBER AS REFERENCE COLUMN, REFERENCE IS COLUMN WITH VALUES BEING LOOKED UP.
 	node_color_index := []
-	node_color_index[department_column] 	:= department_column	; 
-	node_color_index[rdu_column] 			:= rdu_column			; 
+	node_color_index[department_column] 		:= department_column	; 
+	node_color_index[rdu_column] 				:= rdu_column			; 
 	node_color_index[component_column] 		:= rdu_column 			; 
 	node_color_index[fund_column] 			:= fund_column			; 
 	node_color_index[group_column] 			:= group_column			; 
@@ -41,7 +41,7 @@ build_department_sankey(department_abs, department_readable, department_folder)
 	
 	build_nodes_from_columns(rdu_column, component_column, fund_column)
 	
-	build_links(fund_column, rdu_column, fund_column, value_column, fund_column, 1, false, true)
+	build_links(fund_column, rdu_column, fund_column, value_column, fund_column, 1, true, true, false)
 	build_links(rdu_column, component_column, fund_column, value_column, fund_column, 1, false, true, true)
 	
 	build_json()

@@ -29,7 +29,7 @@ build_rdu_sankey(sub_rdu_name, sub_folder, parent_folder)
 	exclude_filters := {(fund_column): non_fund_labels}
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
 	
-	build_links( fund_column, component_column, fund_column, value_column, fund_column, 1, false, false )
+	build_links( fund_column, component_column, fund_column, value_column, fund_column, 1, true, false, false )
 
 	; MANUALLY CHANGE THESE!
 	include_filters := {(rdu_column): sub_rdu_name, (line_column): "Expenditure" } ; DEFAULT
@@ -82,7 +82,7 @@ build_component_sankey(sub_component_name, sub_folder)
 	exclude_filters := {(fund_column): non_fund_labels }
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
 	
-	build_links( fund_column, component_column, fund_column, value_column, fund_column, 1, false, false )
+	build_links( fund_column, component_column, fund_column, value_column, fund_column, 1, true, false )
 
 	include_filters := {(component_column): sub_component_name, (line_column): "Expenditure" }
 	exclude_filters := "no-filters"

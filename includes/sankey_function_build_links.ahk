@@ -21,7 +21,7 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 			loop, % sankey_object.nodes.columns[grouping_column].rows.length()
 			{
 				current_group_name := sankey_object.nodes.columns[grouping_column].rows[current_grouping_row].node_name 
-			
+				
 				subtext := "Source Node (" . current_source_node_row . "/" . sankey_object.nodes.columns[source_column].rows.length() . ") " . current_source_node . "`r`n"
 				subtext .= "Target Node (" . current_target_node_row . "/" . sankey_object.nodes.columns[target_column].rows.length() . ") " . current_target_node . "`r`n"
 				subtext .= "Grouping ("    . current_grouping_row . "/" . sankey_object.nodes.columns[grouping_column].rows.length() . ") " . current_group_name . "`r`n"
@@ -93,6 +93,7 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 				{
 					sankey_object.hyperlink_ids.push( {id: hyperlink_id, link_identifier_text: this_identifier_text } )
 				}
+				
 			}
 			current_target_node_row++
 		}
@@ -100,6 +101,14 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 		{
 			hyperlink_id := Round(sankey_object.nodes.columns[source_column].rows[current_source_node_row].node_id)
 			this_identifier_text := hyperlink_id
+			
+			this_fund_code := SubStr(sankey_object.nodes.columns[source_column].rows[current_source_node_row].node_name,1,4)
+			;msgbox % this_fund_code
+			if this_fund_code is Integer
+			{
+				this_identifier_text := "https://www.legfin.akleg.gov/ReportsPHP/SelectReport.php?&ReportAbbrev=FUNDSOURCE&LimitFundCodes=" this_fund_code
+			}
+			
 			if ( !HasHyperLinkVal(hyperlink_id, sankey_object.hyperlink_ids) )
 			{
 				sankey_object.hyperlink_ids.push( {id: hyperlink_id, link_identifier_text: this_identifier_text } )

@@ -68,7 +68,7 @@ for key, department_list_object in department_list
 		
 		FileRead, statewide_html_file, % statewide_output_file
 		
-		; Line below works because we neable links in  parameter in the build_links() function call above....this replaces node name with a folder name, link targe assumes same base file name.
+		; Line below works because we readable links in  parameter in the build_links() function call above....this replaces node name with a folder name, link targe assumes same base file name.
 		StringReplace, statewide_html_file, statewide_html_file, % "@@@" department_list_object.abs_name "@@@", % department_list_object.folder_name , All
 		
 		FileDelete, % statewide_output_file

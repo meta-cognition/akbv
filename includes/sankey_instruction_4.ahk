@@ -40,8 +40,8 @@ build_department_overview_sankey(department_abs, department_readable, department
 	
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
 	
-	build_links(fund_column, group_column, fund_column, value_column, group_column, 1, false, false)
-	build_links(group_column, department_column, group_column, value_column, group_column, 1, false, false)
+	build_links(fund_column, group_column, fund_column, value_column, group_column, 1, true, false)
+	build_links(group_column, department_column, group_column, value_column, group_column, 1, false, true, true)
 	
 	include_filters := {(line_column): "Expenditure"}
 	exclude_filters := "no-filters" 
