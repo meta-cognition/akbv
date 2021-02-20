@@ -129,7 +129,7 @@ if ( sankey_csv_source != "" )
     #Include includes\sankey_instruction_1.ahk        ; Fund RDU Component
     #Include includes\sankey_instruction_2.ahk        ; RDU only and Component only
     #Include includes\sankey_instruction_3.ahk        ; PCN Main
-    #Include includes\sankey_instruction_4.ahk        ; Department Overview
+    #Include includes\sankey_instruction_4.ahk       ; Department Overview
 }
 FileAppend, % "Operating Build Time: " FormatSeconds((A_TickCount-StartTime)/1000) rn, % build_directory "\build-time.txt"
 

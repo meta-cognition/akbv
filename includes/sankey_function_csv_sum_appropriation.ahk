@@ -7,8 +7,8 @@ csv_find_and_sum_appropriation(string_find, search_column)
 	Loop, %  CSV_TotalRows("sankey_csv_identifier") 
 	{	
 		current_cell 	:= CSV_ReadCell("sankey_csv_identifier", 	current_csv_row , search_column) 
-		line_type 		:= CSV_ReadCell("sankey_csv_identifier", 	current_csv_row , line_column) 
-		cell_value 		:= CSV_ReadCell("sankey_csv_identifier", 	current_csv_row , value_column) 
+		line_type 	:= CSV_ReadCell("sankey_csv_identifier", 	current_csv_row , line_column) 
+		cell_value 	:= CSV_ReadCell("sankey_csv_identifier", 	current_csv_row , value_column) 
 
 		if (instr(current_cell, string_find , true) )
 		{

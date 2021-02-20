@@ -1,0 +1,3 @@
+Operating Build Time:  0:19:33
+Capital Category Build Time: 0:00:01
+Capital Statewide Build Time: 0:00:29

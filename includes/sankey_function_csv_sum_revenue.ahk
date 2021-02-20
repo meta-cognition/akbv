@@ -4,13 +4,13 @@ csv_find_and_sum_revenue(string_find, search_column)
 	
 	current_csv_row = 1
 	sum = 0
-	Loop, %  CSV_TotalRows("sankey_csv_identifier") 
+	Loop, % CSV_TotalRows("sankey_csv_identifier") 
 	{	
 		current_cell 	:= CSV_ReadCell("sankey_csv_identifier", 	current_csv_row , search_column) 
-		line_type 		:= CSV_ReadCell("sankey_csv_identifier", 	current_csv_row , line_column) 
-		cell_value 		:= CSV_ReadCell("sankey_csv_identifier", 	current_csv_row , value_column) 
+		line_type 	:= CSV_ReadCell("sankey_csv_identifier", 	current_csv_row , line_column) 
+		cell_value 	:= CSV_ReadCell("sankey_csv_identifier", 	current_csv_row , value_column) 
 
-		if (instr(current_cell, string_find , true) )
+		if ( current_cell = string_find ) 
 		{
 			if (line_type = "Revenue")
 			{

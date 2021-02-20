@@ -31,7 +31,7 @@ load_and_apply_filter_to_csv(csv_include_filters = "no-filters", csv_exclude_fil
 			{	
 				;msgbox % filter_column " / " filter_string
 				current_cell := current_row_data[(filter_column)]
-				IfNotInString, filter_string, % current_cell
+				If !InStr("|" filter_string "|", "|" current_cell "|", true)
 				{
 					meets_filter_criteria := false
 					break
