@@ -15,6 +15,7 @@ sankey_object
 				|	.node_rbg_color
 				|	.node_id
 				|	.node_total
+				|	.node_meta
 		|	.all[i] ; array
 			|	.node_name
 			|	.node_rbg_color

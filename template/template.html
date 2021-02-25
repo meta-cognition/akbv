@@ -10,9 +10,9 @@
 	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
 	<meta http-equiv="Pragma" content="no-cache" />
 	<meta http-equiv="Expires" content="0" />
-	<link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Tangerine">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
 	<style>
+		/*------------------------------------------*/
 		.node-label-text-path { 
 			/*
 			font-weight: bold; 
@@ -49,6 +49,7 @@
 			cursor: pointer; 
 		} 
 		*/
+		/*------------------------------------------*/
 		.akbv {
 			font-family: 'Tangerine', serif;
 			font-size: 36px;
@@ -56,33 +57,85 @@
 			margin: auto auto 10px auto;
 			text-align:center;
 		}
-		.disclaimer {
+		#disclaimer {
 			width: 1000px;
 			font-size: 12px;
 			margin: 15px auto auto auto;
 			padding-left:10px;
+			font-family: "Open Sans", verdana, arial, sans-serif; 
 		}
 		.button-bar {
 			margin: auto auto 10px auto;
 			text-align:center;
 		}
-		#myDiv {
+		#myDiv { 
 			box-shadow: 5px 5px 10px;
+			width:@@@WIDTH@@@px; 
+			margin: auto; 
+			border:1px solid black;
 		}
 		body {
 			background-color: #F8F8F8;
 			}
+		/* LEGEND */
 		
+		.plot-legend div {
+			font-family: "Open Sans", verdana, arial, sans-serif; 
+			box-shadow: 5px 5px 10px; 
+			margin: 15px auto 15px auto; 
+			padding:15px 15px 0px 15px; 
+			border:1px solid black; 
+			max-width: 300px !important;
+			}
+		.plot-legend .legend-title {
+			text-align: left;
+			margin-bottom: 5px;
+			font-weight: bold;
+			font-size: 90%;
+			}
+		.plot-legend .legend-scale ul {
+			margin: 0;
+			/* margin-bottom: 5px; */
+			padding: 0;
+			/*float: left;*/
+			list-style: none;
+			}
+		.plot-legend .legend-scale ul li {
+			font-size: 80%;
+			list-style: none;
+			margin-left: 0;
+			line-height: 18px;
+			margin-bottom: 2px;
+			}
+		.plot-legend ul.legend-labels li span {
+			display: block;
+			float: left;
+			height: 16px;
+			width: 16px;
+			margin-right: 5px;
+			margin-left: 0;
+			/* border: 1px solid #999;*/
+			}
+		.plot-legend .legend-source {
+			font-size: 70%;
+			color: #999;
+			clear: both;
+			}
+		.plot-legend a {
+			color: #777;
+			}
+
 	</style>
 </head>
 <body>
 <div class="akbv">Alaska Budget Visualizer (beta)</div>
 <div class="button-bar"><button onclick="goBack()"><< Go Back</button>&nbsp;|&nbsp;<button onclick="resize_default();">Default Size</button>&nbsp;<button onclick="resize_small();">Make Smaller</button>&nbsp;<button onclick="resize_window();">Fit to Window</button>&nbsp;|&nbsp;<button onclick="resize_text_larger();">Larger Text</button>&nbsp;<button onclick="resize_text_smaller();">Smaller Text</button></div>
 <a name="plot"></a> 
-<div id="myDiv" style="width:@@@WIDTH@@@px; margin: auto; border:1px solid black;"><!-- Plotly chart will be drawn inside this DIV --></div>
-<div class="disclaimer">DISCLAIMER: This is beta software, it's functionality and compatability have not been fully tested. This software tool being piloted internally. It has been made available for public access for convenience and any incidental benefit it may provide. The information shown is not a comprehensive accounting. This software and the information displayed is offered with no guarantees or assurances of accuracy or validity and is provided for demonstration purposes only. For questions please contact Dom Pannone, <a href="mailto:dom.pannone@alaska.gov">dom.pannone@alaska.gov</a>. For comprehensive budget information please visit the State of Alaska Office of Management and Budget website, <a href="https://omb.alaska.gov/">https://omb.alaska.gov/</a>.</div><script>
+<div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
+@@@LEGENDHTML@@@
+<div id="disclaimer">DISCLAIMER: This is beta software, it's functionality and compatability have not been fully tested. This software tool being piloted internally. It has been made available for public access for convenience and any incidental benefit it may provide. The information shown is not a comprehensive accounting. This software and the information displayed is offered with no guarantees or assurances of accuracy or validity and is provided for demonstration purposes only. For questions please contact Dom Pannone, <a href="mailto:dom.pannone@alaska.gov">dom.pannone@alaska.gov</a>. For comprehensive budget information please visit the State of Alaska Office of Management and Budget website, <a href="https://omb.alaska.gov/">https://omb.alaska.gov/</a>.</div><script>
 	var user_font_size = 11;
-    var data = {
+	var data = {
 		type: "sankey",
 		arrangement: "fixed",
 		orientation: "h",
@@ -104,7 +157,6 @@
 				bgcolor: "rgb(153, 204, 255)",
 				bordercolor: "black",
 			},  
-	
 			@@@NODEHOVERTEMPLATE@@@
 			/* for manual custom node location.
 			/* groups : [[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17],[18,19,20,21,22,23,24,25,26,27,28]], */
@@ -114,15 +166,12 @@
 			@@@NODEX@@@
 			@@@NODEY@@@
 		},
-
 		link: { 
- 
 			@@@LINKSOURCE@@@
 			@@@LINKTARGET@@@
 			@@@LINKVALUE@@@
 			@@@LINKLABEL@@@
 			@@@LINKCOLOR@@@
-		
 			hoverlabel: {
 		
 			},
@@ -247,7 +296,6 @@
 		var current_size = Plotly.relayout('myDiv').font;
 	}
 </script>
-
 </body>
-
+</html>
 

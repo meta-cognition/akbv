@@ -6,17 +6,19 @@ SetBatchLines, -1				; run as fast as possible
 #SingleInstance, Force			; single instance only
 
 ;=======================================================================|
-#Include includes\csv.ahk												; see file, add byref to csv load to load file once
-#Include includes\obj2str.ahk											; Obj2Str(obj), use https://beautifier.io/ to format output.
+#Include includes\csv.ahk									; see file, add byref to csv load to load file once
+#Include includes\obj2str.ahk									; Obj2Str(obj), use https://beautifier.io/ to format output.
+#Include includes\sankey_function_fund_type.ahk		
 ;=======================================================================|
 
-department_column				:= 6	; e.g. Transportation (category name)
+department_column				:= 6		; e.g. Transportation (category name)
 entry_type_column 				:= 9 	; Appropriation or Allocation
 reference_number_column			:= 4
 parent_reference_number_column	:= 21
 project_title_column			:= 10	; 
-fund_column_min					:= 69	; CHECK THE ABS EXPORT, THESE CHANGE
-fund_column_max					:= 89	; CHECK THE ABS EXPORT, THESE CHANGE
+fund_column_min				:= 69	; CHECK THE ABS EXPORT, THESE CHANGE
+fund_column_max				:= 89	; CHECK THE ABS EXPORT, THESE CHANGE
+group_column               		:= 14    ; e.g. UGF/DFG/FED/OTHER
 
 rn := "`r`n"
 
@@ -48,15 +50,15 @@ loop
 	this_row_entry_type					:= CSV_ReadCell("sankey_csv_identifier", current_row, entry_type_column)
 	if ( InStr(this_row_entry_type, "AP", true) )
 	{
-		this_row_appropriation_name			:= CSV_ReadCell("sankey_csv_identifier", current_row, project_title_column)
+		this_row_appropriation_name		:= CSV_ReadCell("sankey_csv_identifier", current_row, project_title_column)
 		this_row_allocation_name			:= ""
 		this_row_parent_reference_number	:= ""
 	} else
 	{
 		this_row_allocation_name			:= CSV_ReadCell("sankey_csv_identifier", current_row, project_title_column)
 		this_row_parent_reference_number	:= CSV_ReadCell("sankey_csv_identifier", current_row, parent_reference_number_column)
-		parent_row							:= CSV_SearchColumn("sankey_csv_identifier", this_row_parent_reference_number, reference_number_column)
-		this_row_appropriation_name			:= CSV_ReadCell("sankey_csv_identifier", parent_row, project_title_column)
+		parent_row					:= CSV_SearchColumn("sankey_csv_identifier", this_row_parent_reference_number, reference_number_column)
+		this_row_appropriation_name		:= CSV_ReadCell("sankey_csv_identifier", parent_row, project_title_column)
 	}
 	this_fund_column := fund_column_min
 	loop
@@ -70,7 +72,7 @@ loop
 		*/
 		if ( this_value > 0 )
 		{
-			new_data .= "" A_Tab "" A_Tab "" A_Tab this_row_department A_Tab "" A_Tab "" A_Tab this_row_appropriation_name  A_Tab "" A_Tab "" A_Tab this_row_allocation_name A_Tab this_fund A_Tab this_row_entry_type A_Tab A_Tab A_Tab A_Tab this_value A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab  rn
+			new_data .= "" A_Tab "" A_Tab "" A_Tab this_row_department A_Tab "" A_Tab "" A_Tab this_row_appropriation_name  A_Tab "" A_Tab "" A_Tab this_row_allocation_name A_Tab this_fund A_Tab this_row_entry_type A_Tab "" A_Tab fund_type(this_fund) A_Tab A_Tab this_value A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab A_Tab  rn
 		}
 		if (this_fund_column = fund_column_max)
 		{

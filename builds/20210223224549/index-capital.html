@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>FY2022 Governor Amend (4557) Judiciary (Fund / Appropriation / Allocation) ($2,300.0)</title>
+	<!-- Plotly.js --><!-- 20210223224549 -->
+	<script src="plotly-latest.min.js"></script>
+	<meta charset="UTF-8">
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Expires" content="0" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<style>
+		.node-label-text-path { 
+			/*
+			font-weight: bold; 
+			*/
+			text-shadow: none !important;
+			fill: black !important; 
+			stroke: white; 
+			stroke-width:2px; 
+			paint-order: stroke;
+			stroke-opacity: .5;
+		}
+		
+		g.node-entered path {
+			fill: rgb(0,0,255) !important;
+			fill-opacity: 1 !important;
+		}
+		
+		g.node-label {
+			fill: rgb(0,0,255) !important;
+			fill-opacity: 1 !important;
+		}
+		
+		g.hovertext path{
+			fill-opacity: 1 !important; 
+		}
+		
+		g.hovertext rect{
+			fill-opacity: 1 !important; 
+		}
+		/* Removed below to allow javascript assignment of style to nodes with links. */
+		/*
+		rect.node-capture
+		{
+			cursor: pointer; 
+		} 
+		*/
+		.akbv {
+			font-family: 'Tangerine', serif;
+			font-size: 36px;
+			text-shadow: 4px 4px 4px #aaa;
+			margin: auto auto 10px auto;
+			text-align:center;
+		}
+        .abs-scenario {
+			font-family: Verdana;;
+			margin-bottom: 15px;
+		}
+		.disclaimer {
+			width: 1000px;
+			font-size: 12px;
+			margin: 15px auto auto auto;
+			padding-left:10px;
+		}
+		.button-bar {
+			margin: auto auto 10px auto;
+			text-align:center;
+		}
+		#myDiv {
+			box-shadow: 5px 5px 10px;
+		}
+		body {
+			background-color: #F8F8F8;
+			}
+		
+	</style>
+</head>
+<body>
+<div class="akbv">Alaska Budget Visualizer (beta)</div>
+<div style="margin:auto; width:600px; text-align: center;">
+<div class="abs-scenario"><h2>FY2022 Governor Amend (4557)</h2></div>
+<div class="accordion" id="accordionDepartments">
+<div class="card">
+<div class="card-header" id="heading_1">
+<h2 class="mb-0">
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="true" aria-controls="collapse_1">
+Statewide Fund Group Overview
+</button>
+</h2>
+</div>
+<div id="collapse_1" class="collapse" aria-labelledby="heading_1" data-parent="#accordionDepartments">
+<div class="card-body">
+<div><a href="plot-capital.html">Statewide Capital Budget</a></div>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading_2">
+<h2 class="mb-0">
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="true" aria-controls="collapse_2">
+Office of the Governor
+</button>
+</h2>
+</div>
+<div id="collapse_2" class="collapse" aria-labelledby="heading_2" data-parent="#accordionDepartments">
+<div class="card-body">
+<a href="governor/plot-capital.html">Capital Budget</a>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading_5">
+<h2 class="mb-0">
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="true" aria-controls="collapse_5">
+Department of Revenue
+</button>
+</h2>
+</div>
+<div id="collapse_5" class="collapse" aria-labelledby="heading_5" data-parent="#accordionDepartments">
+<div class="card-body">
+<a href="revenue/plot-capital.html">Capital Budget</a>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading_7">
+<h2 class="mb-0">
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_7" aria-expanded="true" aria-controls="collapse_7">
+Department of Health
+</button>
+</h2>
+</div>
+<div id="collapse_7" class="collapse" aria-labelledby="heading_7" data-parent="#accordionDepartments">
+<div class="card-body">
+<a href="health/plot-capital.html">Capital Budget</a>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading_10">
+<h2 class="mb-0">
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_10" aria-expanded="true" aria-controls="collapse_10">
+Department of Commerce, Community, and Economic Development
+</button>
+</h2>
+</div>
+<div id="collapse_10" class="collapse" aria-labelledby="heading_10" data-parent="#accordionDepartments">
+<div class="card-body">
+<a href="commerce/plot-capital.html">Capital Budget</a>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading_11">
+<h2 class="mb-0">
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_11" aria-expanded="true" aria-controls="collapse_11">
+Department of Military & Veterans Affairs
+</button>
+</h2>
+</div>
+<div id="collapse_11" class="collapse" aria-labelledby="heading_11" data-parent="#accordionDepartments">
+<div class="card-body">
+<a href="military-and-veterans-affairs/plot-capital.html">Capital Budget</a>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading_12">
+<h2 class="mb-0">
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_12" aria-expanded="true" aria-controls="collapse_12">
+Department of Natural Resources
+</button>
+</h2>
+</div>
+<div id="collapse_12" class="collapse" aria-labelledby="heading_12" data-parent="#accordionDepartments">
+<div class="card-body">
+<a href="natural-resources/plot-capital.html">Capital Budget</a>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading_13">
+<h2 class="mb-0">
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_13" aria-expanded="true" aria-controls="collapse_13">
+Department of Fish & Game
+</button>
+</h2>
+</div>
+<div id="collapse_13" class="collapse" aria-labelledby="heading_13" data-parent="#accordionDepartments">
+<div class="card-body">
+<a href="fish-and-game/plot-capital.html">Capital Budget</a>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading_14">
+<h2 class="mb-0">
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_14" aria-expanded="true" aria-controls="collapse_14">
+Department of Public Safety
+</button>
+</h2>
+</div>
+<div id="collapse_14" class="collapse" aria-labelledby="heading_14" data-parent="#accordionDepartments">
+<div class="card-body">
+<a href="public-safety/plot-capital.html">Capital Budget</a>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading_15">
+<h2 class="mb-0">
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_15" aria-expanded="true" aria-controls="collapse_15">
+Department of Environmental Conservation
+</button>
+</h2>
+</div>
+<div id="collapse_15" class="collapse" aria-labelledby="heading_15" data-parent="#accordionDepartments">
+<div class="card-body">
+<a href="environ-conservation/plot-capital.html">Capital Budget</a>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading_16">
+<h2 class="mb-0">
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_16" aria-expanded="true" aria-controls="collapse_16">
+Department of Corrections
+</button>
+</h2>
+</div>
+<div id="collapse_16" class="collapse" aria-labelledby="heading_16" data-parent="#accordionDepartments">
+<div class="card-body">
+<a href="corrections/plot-capital.html">Capital Budget</a>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading_17">
+<h2 class="mb-0">
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_17" aria-expanded="true" aria-controls="collapse_17">
+Department of Transportation & Public Facilities
+</button>
+</h2>
+</div>
+<div id="collapse_17" class="collapse" aria-labelledby="heading_17" data-parent="#accordionDepartments">
+<div class="card-body">
+<a href="transportation/plot-capital.html">Capital Budget</a>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading_20">
+<h2 class="mb-0">
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_20" aria-expanded="true" aria-controls="collapse_20">
+Judiciary
+</button>
+</h2>
+</div>
+<div id="collapse_20" class="collapse" aria-labelledby="heading_20" data-parent="#accordionDepartments">
+<div class="card-body">
+<a href="judiciary/plot-capital.html">Capital Budget</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="disclaimer">DISCLAIMER: This is beta software, it's functionality and compatability have not been fully tested. This software tool being piloted internally. It has been made available for public access for convenience and any incidental benefit it may provide. The information shown is not a comprehensive accounting. This software and the information displayed is offered with no guarantees or assurances of accuracy or validity and is provided for demonstration purposes only. For questions please contact Dom Pannone, <a href="mailto:dom.pannone@alaska.gov">dom.pannone@alaska.gov</a>. For comprehensive budget information please visit the State of Alaska Office of Management and Budget website, <a href="https://omb.alaska.gov/">https://omb.alaska.gov/</a>.</div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+
+

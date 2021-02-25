@@ -28,12 +28,11 @@ build_rdu_sankey(sub_rdu_name, sub_folder, parent_folder)
 	include_filters := {(rdu_column): sub_rdu_name, (line_column): "Revenue" } ; DEFAULT
 	exclude_filters := {(fund_column): non_fund_labels}
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
-	
-	build_links( fund_column, component_column, fund_column, value_column, fund_column, 1, true, false, false )
+	build_links( fund_column, component_column, fund_column, value_column, group_column, 1, true, false, false )
 
 	; MANUALLY CHANGE THESE!
-	include_filters := {(rdu_column): sub_rdu_name, (line_column): "Expenditure" } ; DEFAULT
 	;include_filters := {(rdu_column): sub_rdu_name,  (component_column): "Northern Highways & Aviation, Central Highways and Aviation, Southcoast Highways & Aviation", (line_column): "Expenditure" } ; FOR H&A ONLY
+	include_filters := {(rdu_column): sub_rdu_name, (line_column): "Expenditure" } ; DEFAULT
 	exclude_filters := "no-filters"
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
 	
@@ -61,13 +60,13 @@ build_component_sankey(sub_component_name, sub_folder)
 {
 	global
 	
-	format_mode := "dollars"
-	show_values_in_labels := true
+	format_mode 			:= "dollars"
+	show_values_in_labels 	:= true
 	
-	this_width := "1000"
-	this_height := "400"
-	this_small_height := "400"
-	this_output_file := % build_directory "\" sub_folder "\" this_plot_name ".html"
+	this_width 			:= "1000"
+	this_height 			:= "400"
+	this_small_height 		:= "400"
+	this_output_file 		:= % build_directory "\" sub_folder "\" this_plot_name ".html"
 	
 	FileCreateDir, % build_directory "\" sub_folder
 	parent_levels := 3
@@ -82,7 +81,7 @@ build_component_sankey(sub_component_name, sub_folder)
 	exclude_filters := {(fund_column): non_fund_labels }
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
 	
-	build_links( fund_column, component_column, fund_column, value_column, fund_column, 1, true, false )
+	build_links( fund_column, component_column, fund_column, value_column, group_column, 1, true, false )
 
 	include_filters := {(component_column): sub_component_name, (line_column): "Expenditure" }
 	exclude_filters := "no-filters"

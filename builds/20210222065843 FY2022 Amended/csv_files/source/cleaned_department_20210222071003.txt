@@ -1,0 +1,732 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	Personal Services	Expenditure	0			16723.50	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	Travel	Expenditure	0			383.80	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	Contractual Services	Expenditure	0			26844.40	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	Commodities	Expenditure	0			1958.80	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	Capital Outlay	Expenditure	0			275.00	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		109.90	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	41648.60	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	4427.00	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	Permanent Full-Time	Position Count	0			142.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	Permanent Part-Time	Position Count	0			5.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	714	0	Facilities Services	3195	0	Facilities Services	Non-Permanent	Position Count	0			3.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	714	0	Facilities Services	3294	0	Leases	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	714	0	Facilities Services	3294	0	Leases	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	714	0	Facilities Services	3294	0	Leases	Contractual Services	Expenditure	0			44844.20	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	714	0	Facilities Services	3294	0	Leases	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	714	0	Facilities Services	3294	0	Leases	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	714	0	Facilities Services	3294	0	Leases	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	714	0	Facilities Services	3294	0	Leases	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	714	0	Facilities Services	3294	0	Leases	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	714	0	Facilities Services	3294	0	Leases	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	44844.20	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	714	0	Facilities Services	3295	0	Lease Administration	Personal Services	Expenditure	0			885.00	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	714	0	Facilities Services	3295	0	Lease Administration	Travel	Expenditure	0			3.80	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	714	0	Facilities Services	3295	0	Lease Administration	Contractual Services	Expenditure	0			214.00	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	714	0	Facilities Services	3295	0	Lease Administration	Commodities	Expenditure	0			4.70	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	714	0	Facilities Services	3295	0	Lease Administration	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	714	0	Facilities Services	3295	0	Lease Administration	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	714	0	Facilities Services	3295	0	Lease Administration	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	714	0	Facilities Services	3295	0	Lease Administration	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	714	0	Facilities Services	3295	0	Lease Administration	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1107.50	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	714	0	Facilities Services	3295	0	Lease Administration	Permanent Full-Time	Position Count	0			7.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	714	0	Facilities Services	3296	0	Facilities	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	714	0	Facilities Services	3296	0	Facilities	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	714	0	Facilities Services	3296	0	Facilities	Contractual Services	Expenditure	0			15445.50	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	714	0	Facilities Services	3296	0	Facilities	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	714	0	Facilities Services	3296	0	Facilities	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	714	0	Facilities Services	3296	0	Facilities	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	714	0	Facilities Services	3296	0	Facilities	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	714	0	Facilities Services	3296	0	Facilities	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1005	25	160	Transportation	714	0	Facilities Services	3296	0	Facilities	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		280.10	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	714	0	Facilities Services	3296	0	Facilities	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	601.50	0	0	0	0	0	0	0	0	0
+1147	25	160	Transportation	714	0	Facilities Services	3296	0	Facilities	1147 Public Building Fund	Revenue	1147	Other Funds	Duplicated	14563.90	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	714	0	Facilities Services	3297	0	Facilities Administration	Personal Services	Expenditure	0			264.10	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	714	0	Facilities Services	3297	0	Facilities Administration	Travel	Expenditure	0			1.00	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	714	0	Facilities Services	3297	0	Facilities Administration	Contractual Services	Expenditure	0			1334.10	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	714	0	Facilities Services	3297	0	Facilities Administration	Commodities	Expenditure	0			27.50	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	714	0	Facilities Services	3297	0	Facilities Administration	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	714	0	Facilities Services	3297	0	Facilities Administration	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	714	0	Facilities Services	3297	0	Facilities Administration	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	714	0	Facilities Services	3297	0	Facilities Administration	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	714	0	Facilities Services	3297	0	Facilities Administration	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	754.50	0	0	0	0	0	0	0	0	0
+1147	25	160	Transportation	714	0	Facilities Services	3297	0	Facilities Administration	1147 Public Building Fund	Revenue	1147	Other Funds	Duplicated	872.20	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	714	0	Facilities Services	3297	0	Facilities Administration	Permanent Full-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	714	0	Facilities Services	3298	0	Non-Public Building Fund Facilit	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	714	0	Facilities Services	3298	0	Non-Public Building Fund Facilit	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	714	0	Facilities Services	3298	0	Non-Public Building Fund Facilit	Contractual Services	Expenditure	0			801.30	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	714	0	Facilities Services	3298	0	Non-Public Building Fund Facilit	Commodities	Expenditure	0			23.30	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	714	0	Facilities Services	3298	0	Non-Public Building Fund Facilit	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	714	0	Facilities Services	3298	0	Non-Public Building Fund Facilit	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	714	0	Facilities Services	3298	0	Non-Public Building Fund Facilit	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	714	0	Facilities Services	3298	0	Non-Public Building Fund Facilit	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	714	0	Facilities Services	3298	0	Non-Public Building Fund Facilit	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		481.70	0	0	0	0	0	0	0	0	0
+1005	25	160	Transportation	714	0	Facilities Services	3298	0	Non-Public Building Fund Facilit	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		62.00	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	714	0	Facilities Services	3298	0	Non-Public Building Fund Facilit	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	280.90	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	Personal Services	Expenditure	0			1493.30	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	Travel	Expenditure	0			65.60	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	Contractual Services	Expenditure	0			338.70	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	Commodities	Expenditure	0			8.80	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		734.00	0	0	0	0	0	0	0	0	0
+1026	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	1026 Highways/Equipment Working Capital Fund	Revenue	1026	Other Funds	Duplicated	67.60	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		152.20	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	646.90	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		257.50	0	0	0	0	0	0	0	0	0
+1244	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	1244 Rural Airport Receipts	Revenue	1244	Other Funds		48.20	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	Permanent Full-Time	Position Count	0			8.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	333	1	Administration and Support	530	1	Commissioner's Office	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	Personal Services	Expenditure	0			339.50	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	Travel	Expenditure	0			3.10	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	Contractual Services	Expenditure	0			26.50	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	Commodities	Expenditure	0			2.00	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		39.00	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	7.00	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	314.00	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		11.10	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	333	1	Administration and Support	2355	2	Contracting and Appeals	Permanent Full-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	Personal Services	Expenditure	0			1020.80	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	Travel	Expenditure	0			31.00	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	Contractual Services	Expenditure	0			202.10	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	Commodities	Expenditure	0			18.90	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		287.10	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	960.70	0	0	0	0	0	0	0	0	0
+1108	25	160	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		25.00	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	333	1	Administration and Support	2331	3	EE/Civil Rights	Permanent Full-Time	Position Count	0			10.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	2356	4	Internal Review	Personal Services	Expenditure	0			650.50	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	2356	4	Internal Review	Travel	Expenditure	0			3.30	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	2356	4	Internal Review	Contractual Services	Expenditure	0			75.40	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	2356	4	Internal Review	Commodities	Expenditure	0			12.10	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	2356	4	Internal Review	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	2356	4	Internal Review	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	2356	4	Internal Review	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	2356	4	Internal Review	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	2356	4	Internal Review	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		8.20	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	333	1	Administration and Support	2356	4	Internal Review	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		109.30	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	2356	4	Internal Review	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	623.80	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	333	1	Administration and Support	2356	4	Internal Review	Permanent Full-Time	Position Count	0			4.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	Personal Services	Expenditure	0			5745.70	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	Travel	Expenditure	0			28.00	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	Contractual Services	Expenditure	0			2838.10	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	Commodities	Expenditure	0			58.60	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1301.80	0	0	0	0	0	0	0	0	0
+1005	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		0	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	336.20	0	0	0	0	0	0	0	0	0
+1026	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	1026 Highways/Equipment Working Capital Fund	Revenue	1026	Other Funds	Duplicated	611.40	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		72.80	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	5612.20	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		709.90	0	0	0	0	0	0	0	0	0
+1244	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	1244 Rural Airport Receipts	Revenue	1244	Other Funds		26.10	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	333	1	Administration and Support	537	6	Statewide Admin Services	Permanent Full-Time	Position Count	0			54.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	Contractual Services	Expenditure	0			1638.30	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	Commodities	Expenditure	0			127.90	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		438.70	0	0	0	0	0	0	0	0	0
+1026	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	1026 Highways/Equipment Working Capital Fund	Revenue	1026	Other Funds	Duplicated	13.30	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		8.70	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	1113.50	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	333	1	Administration and Support	540	7	Information Systems and Services	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		192.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	2892	8	Leased Facilities	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	2892	8	Leased Facilities	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	2892	8	Leased Facilities	Contractual Services	Expenditure	0			2937.50	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	2892	8	Leased Facilities	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	2892	8	Leased Facilities	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	2892	8	Leased Facilities	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	2892	8	Leased Facilities	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	2892	8	Leased Facilities	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	2892	8	Leased Facilities	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	2937.50	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1026	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	1026 Highways/Equipment Working Capital Fund	Revenue	1026	Other Funds	Duplicated	0	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		0	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	0	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	333	1	Administration and Support	2757	9	Human Resources	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		0	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	Personal Services	Expenditure	0			1808.80	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	Travel	Expenditure	0			3.50	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	Contractual Services	Expenditure	0			621.40	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	Commodities	Expenditure	0			6.00	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		632.10	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	305.00	0	0	0	0	0	0	0	0	0
+1026	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	1026 Highways/Equipment Working Capital Fund	Revenue	1026	Other Funds	Duplicated	71.70	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		310.40	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	753.20	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		367.30	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	333	1	Administration and Support	2851	10	Statewide Procurement	Permanent Full-Time	Position Count	0			17.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	Personal Services	Expenditure	0			1129.70	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	Travel	Expenditure	0			8.50	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	Contractual Services	Expenditure	0			75.20	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	Commodities	Expenditure	0			15.00	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	Capital Outlay	Expenditure	0			1.50	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		147.20	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	1082.70	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	333	1	Administration and Support	2292	11	Central Support Svcs	Permanent Full-Time	Position Count	0			8.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	Personal Services	Expenditure	0			999.50	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	Travel	Expenditure	0			6.10	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	Contractual Services	Expenditure	0			288.60	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	Commodities	Expenditure	0			21.20	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		503.70	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		97.70	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	714.00	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	333	1	Administration and Support	2294	12	Northern Support Services	Permanent Full-Time	Position Count	0			9.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	Personal Services	Expenditure	0			3015.10	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	Travel	Expenditure	0			36.20	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	Contractual Services	Expenditure	0			225.50	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	Commodities	Expenditure	0			38.10	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1074.40	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	2194.90	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		45.60	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	333	1	Administration and Support	2296	13	Southcoast Support Services	Permanent Full-Time	Position Count	0			26.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	Personal Services	Expenditure	0			4107.00	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	Travel	Expenditure	0			159.10	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	Contractual Services	Expenditure	0			538.60	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	Commodities	Expenditure	0			39.30	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		189.90	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		12.90	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	510.80	0	0	0	0	0	0	0	0	0
+1244	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	1244 Rural Airport Receipts	Revenue	1244	Other Funds		3869.60	0	0	0	0	0	0	0	0	0
+1245	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	1245 Rural Airport Receipts I/A	Revenue	1245	Other Funds	Duplicated	260.80	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	333	1	Administration and Support	1811	14	Statewide Aviation	Permanent Full-Time	Position Count	0			33.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	Personal Services	Expenditure	0			7780.90	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	Travel	Expenditure	0			64.40	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	Contractual Services	Expenditure	0			578.10	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	Commodities	Expenditure	0			80.80	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	Capital Outlay	Expenditure	0			1.50	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		414.30	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		28.90	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	7370.50	0	0	0	0	0	0	0	0	0
+1244	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	1244 Rural Airport Receipts	Revenue	1244	Other Funds		692.00	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	Permanent Full-Time	Position Count	0			59.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	333	1	Administration and Support	2762	15	Program Development	Non-Permanent	Position Count	0			8.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	Personal Services	Expenditure	0			5663.70	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	Travel	Expenditure	0			158.60	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	Contractual Services	Expenditure	0			1233.80	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	Commodities	Expenditure	0			105.00	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	Capital Outlay	Expenditure	0			39.40	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1281.50	0	0	0	0	0	0	0	0	0
+1005	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		3082.80	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	15.00	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	2143.30	0	0	0	0	0	0	0	0	0
+1215	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	1215 Uniform Commercial Registration fees	Revenue	1215	Other Funds		677.90	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	333	1	Administration and Support	2332	19	Measurement Standards	Permanent Full-Time	Position Count	0			60.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	Personal Services	Expenditure	0			14780.20	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	Travel	Expenditure	0			31.00	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	Contractual Services	Expenditure	0			1183.80	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	Commodities	Expenditure	0			290.40	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		927.40	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	14.60	0	0	0	0	0	0	0	0	0
+1026	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	1026 Highways/Equipment Working Capital Fund	Revenue	1026	Other Funds	Duplicated	67.80	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		107.30	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	14851.60	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		316.70	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	Permanent Full-Time	Position Count	0			100.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	Permanent Part-Time	Position Count	0			0	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	526	7	Design, Engineering and Construction	2357	2	SW Design & Engineering Svcs	Non-Permanent	Position Count	0			9.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	Personal Services	Expenditure	0			23098.80	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	Travel	Expenditure	0			22.40	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	Contractual Services	Expenditure	0			994.70	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	Commodities	Expenditure	0			159.90	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	Capital Outlay	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		106.80	0	0	0	0	0	0	0	0	0
+1005	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		575.40	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	40.00	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	23558.60	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	Permanent Full-Time	Position Count	0			164.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	Permanent Part-Time	Position Count	0			15.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	526	7	Design, Engineering and Construction	2298	4	Central Design & Eng Svcs	Non-Permanent	Position Count	0			7.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	Personal Services	Expenditure	0			17519.60	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	Travel	Expenditure	0			8.70	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	Contractual Services	Expenditure	0			757.50	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	Commodities	Expenditure	0			104.20	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		124.60	0	0	0	0	0	0	0	0	0
+1005	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		136.30	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	164.90	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	17934.30	0	0	0	0	0	0	0	0	0
+1232	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	1232 In-state Pipeline Fund Interagency	Revenue	1232	Other Funds	Duplicated	29.90	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	Permanent Full-Time	Position Count	0			112.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	Permanent Part-Time	Position Count	0			13.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	526	7	Design, Engineering and Construction	2299	5	Northern Design & Eng Svcs	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	Personal Services	Expenditure	0			10496.80	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	Travel	Expenditure	0			40.00	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	Contractual Services	Expenditure	0			394.60	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	Commodities	Expenditure	0			107.40	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		127.60	0	0	0	0	0	0	0	0	0
+1005	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		208.20	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	0	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	10703.00	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	Permanent Full-Time	Position Count	0			68.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	Permanent Part-Time	Position Count	0			5.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	526	7	Design, Engineering and Construction	2300	6	Southcoast Design & Eng Svcs	Non-Permanent	Position Count	0			3.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	Personal Services	Expenditure	0			20896.20	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	Travel	Expenditure	0			25.00	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	Contractual Services	Expenditure	0			1215.60	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	Commodities	Expenditure	0			206.00	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	Capital Outlay	Expenditure	0			126.60	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		97.70	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	48.80	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	22322.90	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	Permanent Full-Time	Position Count	0			113.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	Permanent Part-Time	Position Count	0			41.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	526	7	Design, Engineering and Construction	2293	7	Central Construction & CIP	Non-Permanent	Position Count	0			19.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	Personal Services	Expenditure	0			17666.20	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	Travel	Expenditure	0			36.70	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	Contractual Services	Expenditure	0			524.90	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	Commodities	Expenditure	0			133.20	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		160.30	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	18200.70	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	Permanent Full-Time	Position Count	0			89.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	Permanent Part-Time	Position Count	0			58.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	526	7	Design, Engineering and Construction	2295	8	Northern Construction & CIP	Non-Permanent	Position Count	0			5.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	Personal Services	Expenditure	0			7008.20	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	Travel	Expenditure	0			74.80	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	Contractual Services	Expenditure	0			406.00	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	Commodities	Expenditure	0			144.40	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		55.80	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	7577.60	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	Permanent Full-Time	Position Count	0			36.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	526	7	Design, Engineering and Construction	2297	9	Southcoast Region Construction	Permanent Part-Time	Position Count	0			14.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	369	9	State Equipment Fleet	2791	5	State Equipment Fleet	Personal Services	Expenditure	0			17800.60	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	369	9	State Equipment Fleet	2791	5	State Equipment Fleet	Travel	Expenditure	0			530.00	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	369	9	State Equipment Fleet	2791	5	State Equipment Fleet	Contractual Services	Expenditure	0			2767.90	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	369	9	State Equipment Fleet	2791	5	State Equipment Fleet	Commodities	Expenditure	0			13557.30	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	369	9	State Equipment Fleet	2791	5	State Equipment Fleet	Capital Outlay	Expenditure	0			96.50	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	369	9	State Equipment Fleet	2791	5	State Equipment Fleet	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	369	9	State Equipment Fleet	2791	5	State Equipment Fleet	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	369	9	State Equipment Fleet	2791	5	State Equipment Fleet	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1026	25	160	Transportation	369	9	State Equipment Fleet	2791	5	State Equipment Fleet	1026 Highways/Equipment Working Capital Fund	Revenue	1026	Other Funds	Duplicated	34752.30	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	369	9	State Equipment Fleet	2791	5	State Equipment Fleet	Permanent Full-Time	Position Count	0			158.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	Contractual Services	Expenditure	0			7087.80	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	1002 Federal Receipts	Revenue	1002	Federal Funds		1122.80	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4616.60	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	649.90	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	685.80	0	0	0	0	0	0	0	0	0
+1244	25	160	Transportation	408	12	Highways, Aviation and Facilities	566	12	Central Region Facilities	1244 Rural Airport Receipts	Revenue	1244	Other Funds		12.70	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	Contractual Services	Expenditure	0			10494.50	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	25	160	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	1002 Federal Receipts	Revenue	1002	Federal Funds		2781.10	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		7411.30	0	0	0	0	0	0	0	0	0
+1005	25	160	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		136.10	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	408	12	Highways, Aviation and Facilities	2069	13	Northern Region Facilities	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	166.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	Contractual Services	Expenditure	0			2753.30	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	1002 Federal Receipts	Revenue	1002	Federal Funds		1569.20	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		987.70	0	0	0	0	0	0	0	0	0
+1005	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		41.40	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	110.00	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	408	12	Highways, Aviation and Facilities	604	14	Southcoast Region Facilities	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		45.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	408	12	Highways, Aviation and Facilities	565	15	Traffic Signal Management	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	408	12	Highways, Aviation and Facilities	565	15	Traffic Signal Management	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	408	12	Highways, Aviation and Facilities	565	15	Traffic Signal Management	Contractual Services	Expenditure	0			1770.40	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	408	12	Highways, Aviation and Facilities	565	15	Traffic Signal Management	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	408	12	Highways, Aviation and Facilities	565	15	Traffic Signal Management	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	408	12	Highways, Aviation and Facilities	565	15	Traffic Signal Management	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	408	12	Highways, Aviation and Facilities	565	15	Traffic Signal Management	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	408	12	Highways, Aviation and Facilities	565	15	Traffic Signal Management	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	408	12	Highways, Aviation and Facilities	565	15	Traffic Signal Management	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	408	12	Highways, Aviation and Facilities	565	15	Traffic Signal Management	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1759.30	0	0	0	0	0	0	0	0	0
+1108	25	160	Transportation	408	12	Highways, Aviation and Facilities	565	15	Traffic Signal Management	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		11.10	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	Personal Services	Expenditure	0			20627.30	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	Travel	Expenditure	0			90.00	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	Contractual Services	Expenditure	0			13043.10	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	Commodities	Expenditure	0			9030.10	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	Capital Outlay	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1002 Federal Receipts	Revenue	1002	Federal Funds		3082.00	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		17837.20	0	0	0	0	0	0	0	0	0
+1005	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		607.10	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	236.80	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	4451.00	0	0	0	0	0	0	0	0	0
+1108	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		138.10	0	0	0	0	0	0	0	0	0
+1200	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1200 Vehicle Rental Tax Receipts	Revenue	1200	Designated General Funds		4999.20	0	0	0	0	0	0	0	0	0
+1214	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1214 Whittier Tunnel Toll Receipts	Revenue	1214	Other Funds		55.00	0	0	0	0	0	0	0	0	0
+1239	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1239 Aviation Fuel Tax Revenue	Revenue	1239	Other Funds		1404.40	0	0	0	0	0	0	0	0	0
+1244	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1244 Rural Airport Receipts	Revenue	1244	Other Funds		821.60	0	0	0	0	0	0	0	0	0
+1249	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	1249 Motor Fuel Tax Receipts	Revenue	1249	Designated General Funds		9163.10	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	Permanent Full-Time	Position Count	0			163.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	Permanent Part-Time	Position Count	0			4.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	408	12	Highways, Aviation and Facilities	564	16	Central Highways and Aviation	Non-Permanent	Position Count	0			14.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	Personal Services	Expenditure	0			35501.40	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	Travel	Expenditure	0			1300.00	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	Contractual Services	Expenditure	0			20406.60	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	Commodities	Expenditure	0			9475.70	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1002 Federal Receipts	Revenue	1002	Federal Funds		7221.90	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		30324.60	0	0	0	0	0	0	0	0	0
+1005	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		401.50	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	152.70	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		52.20	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	7646.60	0	0	0	0	0	0	0	0	0
+1108	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		63.60	0	0	0	0	0	0	0	0	0
+1200	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1200 Vehicle Rental Tax Receipts	Revenue	1200	Designated General Funds		501.00	0	0	0	0	0	0	0	0	0
+1239	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1239 Aviation Fuel Tax Revenue	Revenue	1239	Other Funds		2279.60	0	0	0	0	0	0	0	0	0
+1244	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1244 Rural Airport Receipts	Revenue	1244	Other Funds		1162.00	0	0	0	0	0	0	0	0	0
+1249	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	1249 Motor Fuel Tax Receipts	Revenue	1249	Designated General Funds		16878.00	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	Permanent Full-Time	Position Count	0			249.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	Permanent Part-Time	Position Count	0			51.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	408	12	Highways, Aviation and Facilities	2068	17	Northern Highways & Aviation	Non-Permanent	Position Count	0			20.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	Personal Services	Expenditure	0			10444.10	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	Travel	Expenditure	0			130.90	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	Contractual Services	Expenditure	0			9133.50	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	Commodities	Expenditure	0			4701.20	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1002	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	1002 Federal Receipts	Revenue	1002	Federal Funds		4925.90	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		8352.40	0	0	0	0	0	0	0	0	0
+1005	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		59.30	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		1349.60	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	1733.00	0	0	0	0	0	0	0	0	0
+1108	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		108.40	0	0	0	0	0	0	0	0	0
+1200	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	1200 Vehicle Rental Tax Receipts	Revenue	1200	Designated General Funds		833.50	0	0	0	0	0	0	0	0	0
+1239	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	1239 Aviation Fuel Tax Revenue	Revenue	1239	Other Funds		781.20	0	0	0	0	0	0	0	0	0
+1244	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	1244 Rural Airport Receipts	Revenue	1244	Other Funds		618.30	0	0	0	0	0	0	0	0	0
+1249	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	1249 Motor Fuel Tax Receipts	Revenue	1249	Designated General Funds		5648.10	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	Permanent Full-Time	Position Count	0			82.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	Permanent Part-Time	Position Count	0			8.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	408	12	Highways, Aviation and Facilities	603	18	Southcoast Highways & Aviation	Non-Permanent	Position Count	0			2.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	408	12	Highways, Aviation and Facilities	2510	19	Whittier Access and Tunnel	Personal Services	Expenditure	0			166.60	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	408	12	Highways, Aviation and Facilities	2510	19	Whittier Access and Tunnel	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	408	12	Highways, Aviation and Facilities	2510	19	Whittier Access and Tunnel	Contractual Services	Expenditure	0			5625.40	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	408	12	Highways, Aviation and Facilities	2510	19	Whittier Access and Tunnel	Commodities	Expenditure	0			62.20	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	408	12	Highways, Aviation and Facilities	2510	19	Whittier Access and Tunnel	Capital Outlay	Expenditure	0			207.50	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	408	12	Highways, Aviation and Facilities	2510	19	Whittier Access and Tunnel	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	408	12	Highways, Aviation and Facilities	2510	19	Whittier Access and Tunnel	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	408	12	Highways, Aviation and Facilities	2510	19	Whittier Access and Tunnel	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	408	12	Highways, Aviation and Facilities	2510	19	Whittier Access and Tunnel	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	4331.30	0	0	0	0	0	0	0	0	0
+1214	25	160	Transportation	408	12	Highways, Aviation and Facilities	2510	19	Whittier Access and Tunnel	1214 Whittier Tunnel Toll Receipts	Revenue	1214	Other Funds		1730.40	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	408	12	Highways, Aviation and Facilities	2510	19	Whittier Access and Tunnel	Permanent Full-Time	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	189	13	International Airports	1649	1	International Airport Systems	Personal Services	Expenditure	0			1028.10	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	189	13	International Airports	1649	1	International Airport Systems	Travel	Expenditure	0			13.40	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	189	13	International Airports	1649	1	International Airport Systems	Contractual Services	Expenditure	0			1248.20	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	189	13	International Airports	1649	1	International Airport Systems	Commodities	Expenditure	0			6.60	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	189	13	International Airports	1649	1	International Airport Systems	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	189	13	International Airports	1649	1	International Airport Systems	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	189	13	International Airports	1649	1	International Airport Systems	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	189	13	International Airports	1649	1	International Airport Systems	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	189	13	International Airports	1649	1	International Airport Systems	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		2296.30	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	189	13	International Airports	1649	1	International Airport Systems	Permanent Full-Time	Position Count	0			9.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	189	13	International Airports	613	2	AIA Administration	Personal Services	Expenditure	0			4133.10	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	189	13	International Airports	613	2	AIA Administration	Travel	Expenditure	0			111.80	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	189	13	International Airports	613	2	AIA Administration	Contractual Services	Expenditure	0			2753.10	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	189	13	International Airports	613	2	AIA Administration	Commodities	Expenditure	0			197.00	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	189	13	International Airports	613	2	AIA Administration	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	189	13	International Airports	613	2	AIA Administration	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	189	13	International Airports	613	2	AIA Administration	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	189	13	International Airports	613	2	AIA Administration	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	189	13	International Airports	613	2	AIA Administration	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		7195.00	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	189	13	International Airports	613	2	AIA Administration	Permanent Full-Time	Position Count	0			31.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	189	13	International Airports	2467	3	AIA Facilities	Personal Services	Expenditure	0			13184.60	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	189	13	International Airports	2467	3	AIA Facilities	Travel	Expenditure	0			27.00	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	189	13	International Airports	2467	3	AIA Facilities	Contractual Services	Expenditure	0			12201.90	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	189	13	International Airports	2467	3	AIA Facilities	Commodities	Expenditure	0			1484.00	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	189	13	International Airports	2467	3	AIA Facilities	Capital Outlay	Expenditure	0			163.00	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	189	13	International Airports	2467	3	AIA Facilities	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	189	13	International Airports	2467	3	AIA Facilities	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	189	13	International Airports	2467	3	AIA Facilities	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	189	13	International Airports	2467	3	AIA Facilities	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		27060.50	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	189	13	International Airports	2467	3	AIA Facilities	Permanent Full-Time	Position Count	0			137.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	189	13	International Airports	2470	4	AIA Field & Equipment Maint	Personal Services	Expenditure	0			9771.00	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	189	13	International Airports	2470	4	AIA Field & Equipment Maint	Travel	Expenditure	0			6.00	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	189	13	International Airports	2470	4	AIA Field & Equipment Maint	Contractual Services	Expenditure	0			1297.30	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	189	13	International Airports	2470	4	AIA Field & Equipment Maint	Commodities	Expenditure	0			6325.30	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	189	13	International Airports	2470	4	AIA Field & Equipment Maint	Capital Outlay	Expenditure	0			18.00	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	189	13	International Airports	2470	4	AIA Field & Equipment Maint	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	189	13	International Airports	2470	4	AIA Field & Equipment Maint	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	189	13	International Airports	2470	4	AIA Field & Equipment Maint	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	189	13	International Airports	2470	4	AIA Field & Equipment Maint	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		17417.60	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	189	13	International Airports	2470	4	AIA Field & Equipment Maint	Permanent Full-Time	Position Count	0			88.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	189	13	International Airports	2470	4	AIA Field & Equipment Maint	Permanent Part-Time	Position Count	0			19.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	189	13	International Airports	1812	5	AIA Operations	Personal Services	Expenditure	0			2434.20	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	189	13	International Airports	1812	5	AIA Operations	Travel	Expenditure	0			6.30	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	189	13	International Airports	1812	5	AIA Operations	Contractual Services	Expenditure	0			4563.50	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	189	13	International Airports	1812	5	AIA Operations	Commodities	Expenditure	0			81.00	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	189	13	International Airports	1812	5	AIA Operations	Capital Outlay	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	189	13	International Airports	1812	5	AIA Operations	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	189	13	International Airports	1812	5	AIA Operations	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	189	13	International Airports	1812	5	AIA Operations	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	189	13	International Airports	1812	5	AIA Operations	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		7095.00	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	189	13	International Airports	1812	5	AIA Operations	Permanent Full-Time	Position Count	0			21.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	189	13	International Airports	610	6	AIA Safety	Personal Services	Expenditure	0			11511.10	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	189	13	International Airports	610	6	AIA Safety	Travel	Expenditure	0			275.00	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	189	13	International Airports	610	6	AIA Safety	Contractual Services	Expenditure	0			917.60	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	189	13	International Airports	610	6	AIA Safety	Commodities	Expenditure	0			420.50	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	189	13	International Airports	610	6	AIA Safety	Capital Outlay	Expenditure	0			58.00	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	189	13	International Airports	610	6	AIA Safety	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	189	13	International Airports	610	6	AIA Safety	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	189	13	International Airports	610	6	AIA Safety	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	25	160	Transportation	189	13	International Airports	610	6	AIA Safety	1002 Federal Receipts	Revenue	1002	Federal Funds		595.10	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	189	13	International Airports	610	6	AIA Safety	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		12587.10	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	189	13	International Airports	610	6	AIA Safety	Permanent Full-Time	Position Count	0			81.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	189	13	International Airports	619	7	FIA Administration	Personal Services	Expenditure	0			1704.00	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	189	13	International Airports	619	7	FIA Administration	Travel	Expenditure	0			60.30	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	189	13	International Airports	619	7	FIA Administration	Contractual Services	Expenditure	0			494.10	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	189	13	International Airports	619	7	FIA Administration	Commodities	Expenditure	0			12.80	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	189	13	International Airports	619	7	FIA Administration	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	189	13	International Airports	619	7	FIA Administration	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	189	13	International Airports	619	7	FIA Administration	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	189	13	International Airports	619	7	FIA Administration	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	189	13	International Airports	619	7	FIA Administration	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		2182.50	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	189	13	International Airports	619	7	FIA Administration	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	88.70	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	189	13	International Airports	619	7	FIA Administration	Permanent Full-Time	Position Count	0			13.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	189	13	International Airports	2468	8	FIA Facilities	Personal Services	Expenditure	0			2331.80	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	189	13	International Airports	2468	8	FIA Facilities	Travel	Expenditure	0			7.80	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	189	13	International Airports	2468	8	FIA Facilities	Contractual Services	Expenditure	0			2071.20	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	189	13	International Airports	2468	8	FIA Facilities	Commodities	Expenditure	0			327.40	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	189	13	International Airports	2468	8	FIA Facilities	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	189	13	International Airports	2468	8	FIA Facilities	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	189	13	International Airports	2468	8	FIA Facilities	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	189	13	International Airports	2468	8	FIA Facilities	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	189	13	International Airports	2468	8	FIA Facilities	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		4738.20	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	189	13	International Airports	2468	8	FIA Facilities	Permanent Full-Time	Position Count	0			22.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	189	13	International Airports	615	9	FIA Field & Equipment Maint	Personal Services	Expenditure	0			3052.70	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	189	13	International Airports	615	9	FIA Field & Equipment Maint	Travel	Expenditure	0			6.70	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	189	13	International Airports	615	9	FIA Field & Equipment Maint	Contractual Services	Expenditure	0			106.00	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	189	13	International Airports	615	9	FIA Field & Equipment Maint	Commodities	Expenditure	0			1451.10	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	189	13	International Airports	615	9	FIA Field & Equipment Maint	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	189	13	International Airports	615	9	FIA Field & Equipment Maint	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	189	13	International Airports	615	9	FIA Field & Equipment Maint	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	189	13	International Airports	615	9	FIA Field & Equipment Maint	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	189	13	International Airports	615	9	FIA Field & Equipment Maint	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		4616.50	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	189	13	International Airports	615	9	FIA Field & Equipment Maint	Permanent Full-Time	Position Count	0			22.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	189	13	International Airports	615	9	FIA Field & Equipment Maint	Permanent Part-Time	Position Count	0			5.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	189	13	International Airports	1813	10	FIA Operations	Personal Services	Expenditure	0			984.20	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	189	13	International Airports	1813	10	FIA Operations	Travel	Expenditure	0			9.70	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	189	13	International Airports	1813	10	FIA Operations	Contractual Services	Expenditure	0			160.60	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	189	13	International Airports	1813	10	FIA Operations	Commodities	Expenditure	0			29.60	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	189	13	International Airports	1813	10	FIA Operations	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	189	13	International Airports	1813	10	FIA Operations	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	189	13	International Airports	1813	10	FIA Operations	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	189	13	International Airports	1813	10	FIA Operations	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	189	13	International Airports	1813	10	FIA Operations	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		1184.10	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	189	13	International Airports	1813	10	FIA Operations	Permanent Full-Time	Position Count	0			8.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	189	13	International Airports	617	11	FIA Safety	Personal Services	Expenditure	0			4961.90	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	189	13	International Airports	617	11	FIA Safety	Travel	Expenditure	0			22.40	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	189	13	International Airports	617	11	FIA Safety	Contractual Services	Expenditure	0			224.40	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	189	13	International Airports	617	11	FIA Safety	Commodities	Expenditure	0			281.80	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	189	13	International Airports	617	11	FIA Safety	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	189	13	International Airports	617	11	FIA Safety	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	189	13	International Airports	617	11	FIA Safety	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	189	13	International Airports	617	11	FIA Safety	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1002	25	160	Transportation	189	13	International Airports	617	11	FIA Safety	1002 Federal Receipts	Revenue	1002	Federal Funds		213.30	0	0	0	0	0	0	0	0	0
+1007	25	160	Transportation	189	13	International Airports	617	11	FIA Safety	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	5.00	0	0	0	0	0	0	0	0	0
+1027	25	160	Transportation	189	13	International Airports	617	11	FIA Safety	1027 International Airport Revenue Fund	Revenue	1027	Other Funds		5257.20	0	0	0	0	0	0	0	0	0
+1108	25	160	Transportation	189	13	International Airports	617	11	FIA Safety	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		15.00	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	189	13	International Airports	617	11	FIA Safety	Permanent Full-Time	Position Count	0			33.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	Personal Services	Expenditure	0			59328.10	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	Travel	Expenditure	0			1922.80	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	Contractual Services	Expenditure	0			8722.30	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	Commodities	Expenditure	0			2633.50	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		43523.60	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		25466.00	0	0	0	0	0	0	0	0	0
+1249	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	1249 Motor Fuel Tax Receipts	Revenue	1249	Designated General Funds		3617.10	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	Permanent Full-Time	Position Count	0			598.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	Permanent Part-Time	Position Count	0			23.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	334	16	Marine Highway System	2604	1	Marine Vessel Operations	Non-Permanent	Position Count	0			45.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	334	16	Marine Highway System	2979	2	Marine Vessel Fuel	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	334	16	Marine Highway System	2979	2	Marine Vessel Fuel	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	334	16	Marine Highway System	2979	2	Marine Vessel Fuel	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	334	16	Marine Highway System	2979	2	Marine Vessel Fuel	Commodities	Expenditure	0			12702.20	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	334	16	Marine Highway System	2979	2	Marine Vessel Fuel	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	334	16	Marine Highway System	2979	2	Marine Vessel Fuel	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	334	16	Marine Highway System	2979	2	Marine Vessel Fuel	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	334	16	Marine Highway System	2979	2	Marine Vessel Fuel	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	334	16	Marine Highway System	2979	2	Marine Vessel Fuel	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	334	16	Marine Highway System	2979	2	Marine Vessel Fuel	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		7796.30	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	334	16	Marine Highway System	2979	2	Marine Vessel Fuel	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		4905.90	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	Personal Services	Expenditure	0			2007.80	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	Travel	Expenditure	0			15.00	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	Contractual Services	Expenditure	0			314.60	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	Commodities	Expenditure	0			130.00	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		58.10	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	705.60	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		1703.70	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	Permanent Full-Time	Position Count	0			14.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	334	16	Marine Highway System	2359	3	Marine Engineering	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	334	16	Marine Highway System	1212	4	Overhaul	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	334	16	Marine Highway System	1212	4	Overhaul	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	334	16	Marine Highway System	1212	4	Overhaul	Contractual Services	Expenditure	0			199.40	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	334	16	Marine Highway System	1212	4	Overhaul	Commodities	Expenditure	0			403.70	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	334	16	Marine Highway System	1212	4	Overhaul	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	334	16	Marine Highway System	1212	4	Overhaul	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	334	16	Marine Highway System	1212	4	Overhaul	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	334	16	Marine Highway System	1212	4	Overhaul	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	334	16	Marine Highway System	1212	4	Overhaul	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		603.10	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	Personal Services	Expenditure	0			1170.10	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	Travel	Expenditure	0			2.90	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	Contractual Services	Expenditure	0			189.90	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	Commodities	Expenditure	0			22.70	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		56.30	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		1329.30	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	334	16	Marine Highway System	625	5	Reservations and Marketing	Permanent Full-Time	Position Count	0			11.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	Personal Services	Expenditure	0			4691.90	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	Travel	Expenditure	0			49.80	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	Contractual Services	Expenditure	0			2757.80	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	Commodities	Expenditure	0			211.50	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1001	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	1001 Constitutional Budget Reserve Fund	Revenue	1001	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		162.30	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		7548.70	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	Permanent Full-Time	Position Count	0			30.00	0	0	0	0	0	0	0	0	0
+11000	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	Permanent Part-Time	Position Count	0			20.00	0	0	0	0	0	0	0	0	0
+12000	25	160	Transportation	334	16	Marine Highway System	2789	6	Marine Shore Operations	Non-Permanent	Position Count	0			5.00	0	0	0	0	0	0	0	0	0
+1	25	160	Transportation	334	16	Marine Highway System	629	7	Vessel Operations Management	Personal Services	Expenditure	0			3440.40	0	0	0	0	0	0	0	0	0
+2	25	160	Transportation	334	16	Marine Highway System	629	7	Vessel Operations Management	Travel	Expenditure	0			40.90	0	0	0	0	0	0	0	0	0
+3	25	160	Transportation	334	16	Marine Highway System	629	7	Vessel Operations Management	Contractual Services	Expenditure	0			200.70	0	0	0	0	0	0	0	0	0
+4	25	160	Transportation	334	16	Marine Highway System	629	7	Vessel Operations Management	Commodities	Expenditure	0			120.80	0	0	0	0	0	0	0	0	0
+5	25	160	Transportation	334	16	Marine Highway System	629	7	Vessel Operations Management	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	25	160	Transportation	334	16	Marine Highway System	629	7	Vessel Operations Management	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	25	160	Transportation	334	16	Marine Highway System	629	7	Vessel Operations Management	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	25	160	Transportation	334	16	Marine Highway System	629	7	Vessel Operations Management	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+1004	25	160	Transportation	334	16	Marine Highway System	629	7	Vessel Operations Management	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		21.70	0	0	0	0	0	0	0	0	0
+1061	25	160	Transportation	334	16	Marine Highway System	629	7	Vessel Operations Management	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	147.10	0	0	0	0	0	0	0	0	0
+1076	25	160	Transportation	334	16	Marine Highway System	629	7	Vessel Operations Management	1076 Marine Highway System Fund	Revenue	1076	Designated General Funds		3634.00	0	0	0	0	0	0	0	0	0
+10000	25	160	Transportation	334	16	Marine Highway System	629	7	Vessel Operations Management	Permanent Full-Time	Position Count	0			28.00	0	0	0	0	0	0	0	0	0

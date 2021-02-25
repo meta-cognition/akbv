@@ -54,10 +54,34 @@ LinkColor(needle, haystack) {
 }
 
 NodeColor(needle, haystack) {
+	global abs_department_name, this_plot_name
+	
 	if !(IsObject(haystack)) || (haystack.Length() = 0)
 		return false
+	
+	if (instr(this_plot_name, "overview"))
+	{
+		for index, value in haystack
+		{
+			if (value.node_label = needle)
+				return value.node_color
+		}
+	}
+	
 	for index, value in haystack
+	{
+		if (value.node_label = needle AND value.node_department = abs_department_name)
+			return value.node_color
+	}
+		
+	for index, value in haystack
+	{
 		if (value.node_label = needle)
 			return value.node_color
+	}
+		
+	if (instr(this_plot_name, "capital"))
+		return "rgb(160,0,0)"
+	
 	return "rgb(120,120,120)"
 }

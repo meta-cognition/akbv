@@ -1,0 +1,118 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT
+			Commerce								Revenue		Unrestricted General Funds		60.0								
+			Commerce								Revenue		Federal Funds		6000.0								
+			Commerce								Revenue		Federal Funds		9100.0								
+			Commerce								Revenue		Unrestricted General Funds		100.0								
+			Commerce								Revenue		Designated General Funds		100.0								
+			Commerce								Revenue		Federal Funds		21000.0								
+			Commerce								Revenue		Federal Funds		5000.0								
+			Commerce								Revenue		Designated General Funds		5500.0								
+			Commerce								Revenue		Federal Funds		7500.0								
+			Commerce								Revenue		Designated General Funds		5000.0								
+			Commerce								Revenue		Federal Funds		12500.0								
+			Commerce								Revenue		Designated General Funds		5000.0								
+			Commerce								Revenue		Unrestricted General Funds		250.0								
+			Corrections								Revenue		Unrestricted General Funds		1500.0								
+			Corrections								Revenue		Unrestricted General Funds		1500.0								
+			Judiciary								Revenue		Unrestricted General Funds		2300.0								
+			Environ Conservation								Revenue		Other Funds		2000.0								
+			Environ Conservation								Revenue		Other Funds		5800.0								
+			Environ Conservation								Revenue		Other Funds		9638.0								
+			Environ Conservation								Revenue		Federal Funds		20900.0								
+			Environ Conservation								Revenue		Other Funds		6592.0								
+			Environ Conservation								Revenue		Federal Funds		31350.0								
+			Fish & Game								Revenue		Federal Funds		7700.0								
+			Fish & Game								Revenue		Federal Funds		2000.0								
+			Fish & Game								Revenue		Unrestricted General Funds		1000.0								
+			Fish & Game								Revenue		Federal Funds		3000.0								
+			Fish & Game								Revenue		Federal Funds		1000.0								
+			Fish & Game								Revenue		Other Funds		165.0								
+			Fish & Game								Revenue		Designated General Funds		500.0								
+			Fish & Game								Revenue		Federal Funds		4400.0								
+			Fish & Game								Revenue		Other Funds		750.0								
+			Fish & Game								Revenue		Federal Funds		2250.0								
+			Fish & Game								Revenue		Other Funds		3750.0								
+			Fish & Game								Revenue		Federal Funds		11250.0								
+			Governor								Revenue		Designated General Funds		49250.0								
+			Health & Social Svcs								Revenue		Unrestricted General Funds		76.5								
+			Health & Social Svcs								Revenue		Unrestricted General Funds		61.2								
+			Health & Social Svcs								Revenue		Unrestricted General Funds		480.1								
+			Health & Social Svcs								Revenue		Federal Funds		3600.8								
+			Health & Social Svcs								Revenue		Unrestricted General Funds		424.0								
+			Health & Social Svcs								Revenue		Unrestricted General Funds		500.0								
+			Health & Social Svcs								Revenue		Designated General Funds		500.0								
+			Health & Social Svcs								Revenue		Designated General Funds		900.0								
+			Health & Social Svcs								Revenue		Other Funds		250.0								
+			Health & Social Svcs								Revenue		Designated General Funds		250.0								
+			Health & Social Svcs								Revenue		Other Funds		250.0								
+			Military & Veterans Affairs								Revenue		Federal Funds		7500.0								
+			Military & Veterans Affairs								Revenue		Unrestricted General Funds		2500.0								
+			Military & Veterans Affairs								Revenue		Federal Funds		2500.0								
+			Military & Veterans Affairs								Revenue		Unrestricted General Funds		3812.5								
+			Military & Veterans Affairs								Revenue		Federal Funds		4037.5								
+			Military & Veterans Affairs								Revenue		Unrestricted General Funds		4812.5								
+			Military & Veterans Affairs								Revenue		Federal Funds		387.5								
+			Natural Resources								Revenue		Federal Funds		4500.0								
+			Natural Resources								Revenue		Unrestricted General Funds		500.0								
+			Natural Resources								Revenue		Other Funds		200.0								
+			Natural Resources								Revenue		Federal Funds		1500.0								
+			Natural Resources								Revenue		Federal Funds		3200.0								
+			Natural Resources								Revenue		Unrestricted General Funds		300.0								
+			Natural Resources								Revenue		Federal Funds		600.0								
+			Natural Resources								Revenue		Other Funds		300.0								
+			Natural Resources								Revenue		Federal Funds		7000.0								
+			Natural Resources								Revenue		Designated General Funds		500.0								
+			Natural Resources								Revenue		Unrestricted General Funds		2152.7								
+			Natural Resources								Revenue		Federal Funds		3500.0								
+			Natural Resources								Revenue		Other Funds		200.0								
+			Natural Resources								Revenue		Federal Funds		600.0								
+			Natural Resources								Revenue		Designated General Funds		100.0								
+			Natural Resources								Revenue		Federal Funds		1500.0								
+			Natural Resources								Revenue		Designated General Funds		220.0								
+			Public Safety								Revenue		Federal Funds		1100.0								
+			Public Safety								Revenue		Unrestricted General Funds		150.0								
+			Public Safety								Revenue		Unrestricted General Funds		300.0								
+			Public Safety								Revenue		Unrestricted General Funds		240.0								
+			Public Safety								Revenue		Unrestricted General Funds		750.0								
+			Public Safety								Revenue		Unrestricted General Funds		500.0								
+			Public Safety								Revenue		Unrestricted General Funds		1233.6								
+			Revenue								Revenue		Unrestricted General Funds		1500.0								
+			Revenue								Revenue		Unrestricted General Funds		1750.0								
+			Revenue								Revenue		Other Funds		500.0								
+			Revenue								Revenue		Unrestricted General Funds		500.0								
+			Revenue								Revenue		Unrestricted General Funds		1750.0								
+			Revenue								Revenue		Unrestricted General Funds		750.0								
+			Revenue								Revenue		Federal Funds		4000.0								
+			Revenue								Revenue		Federal Funds		3200.0								
+			Revenue								Revenue		Unrestricted General Funds		1500.0								
+			Revenue								Revenue		Federal Funds		6000.0								
+			Revenue								Revenue		Unrestricted General Funds		350.0								
+			Revenue								Revenue		Federal Funds		750.0								
+			Revenue								Revenue		Unrestricted General Funds		1500.0								
+			Revenue								Revenue		Federal Funds		3000.0								
+			Revenue								Revenue		Unrestricted General Funds		3600.0								
+			Revenue								Revenue		Other Funds		950.0								
+			Revenue								Revenue		Designated General Funds		1500.0								
+			Revenue								Revenue		Other Funds		200.0								
+			Transportation								Revenue		Unrestricted General Funds		1509.5								
+			Transportation								Revenue		Unrestricted General Funds		1000.0								
+			Transportation								Revenue		Unrestricted General Funds		15000.0								
+			Transportation								Revenue		Other Funds		22000.0								
+			Transportation								Revenue		Other Funds		21522.1								
+			Transportation								Revenue		Federal Funds		47200.0								
+			Transportation								Revenue		Federal Funds		190000.0								
+			Transportation								Revenue		Other Funds		5000.0								
+			Transportation								Revenue		Federal Funds		5000.0								
+			Transportation								Revenue		Federal Funds		680000.0								
+			Transportation								Revenue		Other Funds		14700.0								
+			Transportation								Revenue		Other Funds		71200.0								
+			Transportation								Revenue		Unrestricted General Funds		1300.0								
+			Transportation								Revenue		Other Funds		10000.0								
+			Transportation								Revenue		Federal Funds		5000.0								
+			Transportation								Revenue		Federal Funds		10000.0								
+			Transportation								Revenue		Federal Funds		10000.0								
+			Transportation								Revenue		Unrestricted General Funds		33.9								
+			Transportation								Revenue		Federal Funds		8000.0								
+			Transportation								Revenue		Designated General Funds		1000.0								
+			Transportation								Revenue		Unrestricted General Funds		1000.0								
+			Transportation								Revenue		Other Funds		300.0								

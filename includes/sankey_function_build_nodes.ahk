@@ -11,9 +11,9 @@ build_nodes_from_columns(columns*)
 	; loop through requested columns
 	for index, current_column in columns
 	{
-		progress_title := "function: build_nodes_from_columns()"
-		progress_subtext := "Building nodes... "  node_id " nodes created..."
-		Progress, , % progress_subtext, , % progress_title
+		;progress_title := "function: build_nodes_from_columns()"
+		;progress_subtext := "Building nodes... "  node_id " nodes created..."
+		;Progress, , % progress_subtext, , % progress_title
 		
 		; initialize variables for this column
 		current_column_list := "|"
@@ -37,7 +37,7 @@ build_nodes_from_columns(columns*)
 				current_row++
 				continue
 			}
-						
+			
 			;msgbox % "current_cell: " current_cell " label_value: " label_value
 			; add what we've found to the list
 			current_column_list .= current_cell 
@@ -63,6 +63,7 @@ build_nodes_from_columns(columns*)
 			}
 			this_node_name := ""
 			this_node_total := 0
+			this_node_meta := ""
 			
 			if (show_values_in_labels = true)
 			{
@@ -75,7 +76,7 @@ build_nodes_from_columns(columns*)
 				else if ( format_mode = "dollars" )
 				{					
 					
-					if ( sum_appropriation_values = true )
+					if ( sum_appropriation_values = true ) ; Capital Only
 					{
 						this_node_total := csv_find_and_sum_appropriation(this_node_name, current_column)
 					}
@@ -86,6 +87,11 @@ build_nodes_from_columns(columns*)
 					else 
 					{
 						this_node_total := csv_find_and_sum_revenue(this_node_name, current_column)
+						if (current_column = fund_column)
+						{
+							first_occurence_row := CSV_SearchColumn("sankey_csv_identifier", this_node_name, fund_column)
+							this_node_meta := "<br />Fund Type: " CSV_ReadCell("sankey_csv_identifier", first_occurence_row, group_column)
+						}
 					}
 				}
 			}
@@ -94,8 +100,8 @@ build_nodes_from_columns(columns*)
 				this_node_name := A_LoopField
 			}
 			; assign name to node
-			this_node_object := {node_name: this_node_name, node_rgb_color: "", node_id: node_id, node_total: this_node_total}
-		
+			this_node_object := {node_name: this_node_name, node_rgb_color: "", node_id: node_id, node_total: this_node_total, node_meta: this_node_meta}
+			
 			; add this row object to columns array
 			sankey_object.nodes.columns[current_column].rows.push(this_node_object)
 			
@@ -109,14 +115,14 @@ build_nodes_from_columns(columns*)
 			current_cell := CSV_ReadCell("sankey_csv_identifier", current_row, node_color_index[current_column])
 			
 			/*
-			msgbox current column: %current_column%
-			msgbox % "index: " . node_color_index[current_column]
-			msgbox % "index: " . node_color_index[1]
-			msgbox % "noderownumber : " . NodeRowNumber(current_cell, sankey_object.nodes.columns[(node_color_index[current_column])].rows)
+				msgbox current column: %current_column%
+				msgbox % "index: " . node_color_index[current_column]
+				msgbox % "index: " . node_color_index[1]
+				msgbox % "noderownumber : " . NodeRowNumber(current_cell, sankey_object.nodes.columns[(node_color_index[current_column])].rows)
 			*/
 			; lookup color 
 			current_color := NodeColor(current_cell, node_color_list[1])
-
+			
 			;  msgbox % current_color
 			
 			; store color in this rows object
@@ -128,14 +134,14 @@ build_nodes_from_columns(columns*)
 			; increment node id
 			node_id++
 		}
-	
+		
 	}
 	
 	; initialize .all array
 	sankey_object.nodes.all := []
-
-	progress_subtext := "Assembling node array..."
-	Progress, , % progress_subtext, , % progress_title
+	
+	;progress_subtext := "Assembling node array..."
+	;Progress, , % progress_subtext, , % progress_title
 	
 	; start on column 1
 	
@@ -152,15 +158,15 @@ build_nodes_from_columns(columns*)
 		}
 	}
 	
-	progress_subtext := "Building node json data..."
-	Progress, , % progress_subtext, , % progress_title
+	;progress_subtext := "Building node json data..."
+	;Progress, , % progress_subtext, , % progress_title
 	
 	; build the json data
 	json_node_label 		:= "label : ["
 	json_node_color 		:= "color : ["
 	json_node_meta			:= "meta  : ["
-	json_node_x				:= "x  : ["
-	json_node_y				:= "y  : ["
+	json_node_x			:= "x  : ["
+	json_node_y			:= "y  : ["
 	
 	for index, node in sankey_object.nodes.all
 	{
@@ -184,6 +190,6 @@ build_nodes_from_columns(columns*)
 	json_node_x .= "],"
 	json_node_y .= "],"
 	
-	progress_subtext := "Building nodes: COMPLETE!"
-	Progress, , % progress_subtext, , % progress_title
+	;progress_subtext := "Building nodes: COMPLETE!"
+	;Progress, , % progress_subtext, , % progress_title
 }

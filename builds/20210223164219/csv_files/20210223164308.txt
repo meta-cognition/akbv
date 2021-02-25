@@ -1,0 +1,9 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+1	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+2	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+3	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Contractual Services	Expenditure	0			596.20	0	0	0	0	0	0	0	0	0
+4	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+5	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+6	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+7	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0
+8	1	80	Governor	407	3	Gov State Facilities Rent	2461	0	Gov Office Facilities Rent	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0
