@@ -1,3 +1,6 @@
+4_tabs := A_Tab . A_Tab . A_Tab . A_Tab 
+5_tabs := A_Tab . A_Tab . A_Tab . A_Tab . A_Tab 
+
 build_javascript()
 {
 	global
@@ -13,9 +16,6 @@ build_javascript()
 	{
 		directory_specifier := "./"
 	}
-	
-	4_tabs := A_Tab . A_Tab . A_Tab . A_Tab 
-	5_tabs := A_Tab . A_Tab . A_Tab . A_Tab . A_Tab 
 	
 	for key, linkable_node in sankey_object.hyperlink_ids
 	{

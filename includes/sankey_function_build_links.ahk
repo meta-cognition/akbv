@@ -22,7 +22,6 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 			{
 				rdu_component_check_row := CSV_SearchColumn("sankey_csv_identifier", current_target_node, component_column)
 				
-				
 				if ( current_source_node != CSV_ReadCell("sankey_csv_identifier", rdu_component_check_row, rdu_column) )
 				{
 					current_target_node_row++
