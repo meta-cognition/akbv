@@ -40,8 +40,8 @@
 			}
 			If ( meets_filter_criteria = false)
 			{	
-				current_filtering_row++
-				deleted_rows++
+				;current_filtering_row++
+				;deleted_rows++
 				continue
 			}
 		}
@@ -60,8 +60,8 @@
 			}
 			if ( meets_filter_criteria = false)
 			{
-				current_filtering_row++
-				deleted_rows++
+				;current_filtering_row++
+				;deleted_rows++
 				continue
 			}
 		}
