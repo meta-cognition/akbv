@@ -1,4 +1,4 @@
-menu_html := ""
+ï»¿menu_html := ""
 menu_html .= "<div style=""margin:auto; width:600px; text-align: center;"">" rn
 menu_html .= "<div class=""abs-scenario""><h2>" this_scenario_name "</h2></div>" rn
 menu_html .= "<div class=""accordion"" id=""accordionDepartments"">" rn
@@ -35,7 +35,7 @@ for key, department_list_object in department_list
 	FileAppend, % statewide_capital_html_file,  % statewide_capital_output_file
 	
 	FileRead, filter_csv_ramfile, % cleaned_csv_file
-	filter_csv_ramfile := StrReplace(filter_csv_ramfile, rn, "§")
+	filter_csv_ramfile := StrReplace(filter_csv_ramfile, rn, "Â§")
 	;filter_csv_file := cleaned_csv_file 
 	
 	include_filters := {(department_column): department_list_object.abs_name } ; DEFAULT
@@ -50,7 +50,7 @@ for key, department_list_object in department_list
 	FileAppend, % sankey_csv_ramfile, % department_csv_file
 	
 	FileRead, filter_csv_ramfile, % department_csv_file
-	filter_csv_ramfile := StrReplace(filter_csv_ramfile, rn, "§")
+	filter_csv_ramfile := StrReplace(filter_csv_ramfile, rn, "Â§")
 	;filter_csv_file := department_csv_file
 	
 	;departmental 

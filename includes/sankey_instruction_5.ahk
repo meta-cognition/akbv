@@ -1,4 +1,4 @@
-parent_levels := 0
+﻿parent_levels := 0
 
 format_mode := "dollars"
 show_values_in_labels := true
@@ -8,7 +8,7 @@ include_filters := "no-filters"
 exclude_filters := "no-filters" ;{(fund_column): non_fund_labels}
 
 FileRead, filter_csv_ramfile, % cleaned_csv_file
-filter_csv_ramfile := StrReplace(filter_csv_ramfile, rn, "�")
+filter_csv_ramfile := StrReplace(filter_csv_ramfile, rn, "§")
 ;filter_csv_file := cleaned_csv_file 
 
 load_and_apply_filter_to_csv(include_filters, exclude_filters)

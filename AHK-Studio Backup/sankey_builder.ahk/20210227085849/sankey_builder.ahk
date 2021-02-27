@@ -1,6 +1,6 @@
 ﻿; The Sankey Builder (aka Alaska Budget Visualizer)
 ;   by Dom Pannone, THBP, 2020-2021
-;=======================================================================|
+
 ;OPTIMIZATIONS START
 #NoEnv
 #MaxHotkeysPerInterval 99000000

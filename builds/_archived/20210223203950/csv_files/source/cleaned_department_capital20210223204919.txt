@@ -1,3 +1,0 @@
-REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNTÂ
-			Corrections			Seven New Facility Body Scanners				1004 General Fund Receipts	AP		Unrestricted General Funds		1500.0								Â
-			Corrections			Point Mackenzie Correctional Farm Produce Processing Plant 				1004 General Fund Receipts	AP		Unrestricted General Funds		1500.0								Â

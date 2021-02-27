@@ -1,6 +1,6 @@
 ﻿; The Sankey Builder (aka Alaska Budget Visualizer)
 ;   by Dom Pannone, THBP, 2020-2021
-;=======================================================================|
+
 ;OPTIMIZATIONS START
 #NoEnv
 #MaxHotkeysPerInterval 99000000
@@ -16,7 +16,8 @@ SetWinDelay, -1
 SetControlDelay, -1
 SendMode Input
 ;OPTIMIZATIONS END
-;=======================================================================|
+
+
 SetWorkingDir %A_ScriptDir%                                             ; Ensures a consistent starting directory.
 ;=======================================================================|
 #Include includes\csv.ahk                                               ; see file, add byref to csv load to load file once
@@ -82,11 +83,13 @@ rn                          := "`r`n"
 MsgBox, 4, Use same source data from last run?, Click YES to attempt to use same source data you used last time`, click NO to select new budget scenario files.
 IfMsgBox, No
 {
-	select_new_files()	
+
 }
 IfMsgBox, Yes
 {
-	use_files_from_last_time()
+	FileReadLine, sankey_csv_source, % previous_input_files, 1
+	FileReadLine, input_file_1, % previous_input_files, 2
+	FileReadLine, input_file_2,	% previous_input_files, 3
 }
 
 
@@ -110,7 +113,7 @@ FileCreateDir, % csv_directory "\source"
 plotly_source := "plotly-latest.min.js"
 FileCopy, % A_ScriptDir "\resources\js\plotly\plotly-latest.min.js", % build_directory "\plotly-latest.min.js"
 
-; Progress, A M T ZH0 Y0 FS10 W800 H80 C00,
+;Progress, A M T ZH0 Y0 FS10 W800 H80 C00,
 Run, explore %build_directory%
 WinWait, % this_build_uid, , 60
 WinMove, % this_build_uid, , % A_ScreenWidth/2 - 500*(A_ScreenDPI/96), 150*(A_ScreenDPI/96), 1000*(A_ScreenDPI/96), 600*(A_ScreenDPI/96)
@@ -140,6 +143,7 @@ if ( sankey_csv_source != "" )
 	#Include includes\sankey_instruction_4.ahk        ; Department Overview
 }
 FileAppend, % "Operating Build Time: " FormatSeconds((A_TickCount-StartTime)/1000) rn, % build_directory "\build-time.txt"
+
 ;=========================================================================
 StartTime := A_TickCount
 if ( input_file_1 != "" )
@@ -153,6 +157,7 @@ if ( input_file_1 != "" )
 	#Include includes\sankey_instruction_5.ahk        ; Statewide All Dept Capital fund category
 }
 FileAppend, % "Capital Category Build Time: " FormatSeconds((A_TickCount-StartTime)/1000) rn, % build_directory "\build-time.txt"
+
 ;=========================================================================
 StartTime := A_TickCount
 if ( input_file_2 != "" )
@@ -173,7 +178,7 @@ ExitApp
 
 ;=========================================================================
 ;=========================================================================
-; MISC FUNCTIONS - Not worthy of a seperate INCLUDE
+; MISC FUNCTIONS
 FormatSeconds(NumberOfSeconds)  ; Convert the specified number of seconds to hh:mm:ss format.
 {
 	time = 19990101  ; *Midnight* of an arbitrary date.
@@ -198,7 +203,6 @@ DoGui()
 	Gui, Add, Text, x40 y155 w180 h30 , akbv is running
 	Gui, Add, Button, x62 y199 w100 h30 gDoQuit, abort
 	Gui, Show, w225 h250, akbv
-	Winset, Alwaysontop,
 }
 
 GuiClose:
