@@ -1,2 +1,2 @@
-builds -linguist-detectable
 builds/* -linguist-detectable
+references/* -linguist-detectable
