@@ -52,9 +52,6 @@ SetWorkingDir %A_ScriptDir%                                             ; Ensure
 ;=======================================================================|
 #Include includes\sankey_reference.ahk                                  ; human readable reference file for object structures
 
-; SHOW CUPCAKE, SING HAPPY BIRTHDAY
-DoGui()
-
 ; STATIC COLUMNS FOR OPERATING BUDGET SOURCE DATA
 department_column           := 4     ; e.g. Transportation
 rdu_column                  := 7     ; e.g. Marine Highway System
@@ -89,7 +86,6 @@ IfMsgBox, Yes
 	use_files_from_last_time()
 }
 
-
 ; SO DOM COBB CAN KNOW IF HE'S IN SANKEY WITHIN A SANKEY... WITHIN A SANKEY.
 parent_levels := 0          ; DO NOT CHANGE - how many '../' to find plotly.js, starts at 0
 
@@ -104,16 +100,20 @@ build_directory := A_ScriptDir "\builds\" this_build_uid
 csv_directory := build_directory "\csv_files"
 
 FileCreateDir, % build_directory
-FileCreateDir, % csv_directory
-FileCreateDir, % csv_directory "\source"
 
-plotly_source := "plotly-latest.min.js"
-FileCopy, % A_ScriptDir "\resources\js\plotly\plotly-latest.min.js", % build_directory "\plotly-latest.min.js"
+; SHOW CUPCAKE, SING HAPPY BIRTHDAY
+DoGui()
 
 ; Progress, A M T ZH0 Y0 FS10 W800 H80 C00,
 Run, explore %build_directory%
 WinWait, % this_build_uid, , 60
 WinMove, % this_build_uid, , % A_ScreenWidth/2 - 500*(A_ScreenDPI/96), 150*(A_ScreenDPI/96), 1000*(A_ScreenDPI/96), 600*(A_ScreenDPI/96)
+
+FileCreateDir, % csv_directory
+FileCreateDir, % csv_directory "\source"
+
+plotly_source := "plotly-latest.min.js"
+FileCopy, % A_ScriptDir "\resources\js\plotly\plotly-latest.min.js", % build_directory "\plotly-latest.min.js"
 
 InitializeColors()
 InitializeDepartments()
@@ -166,7 +166,10 @@ if ( input_file_2 != "" )
 	#Include includes\sankey_instruction_6.ahk        ; Capital Budget
 }
 FileAppend, % "Capital Statewide Build Time: " FormatSeconds((A_TickCount-StartTime)/1000) rn, % build_directory "\build-time.txt"
-Run, % build_directory "\build-time.txt"
+;Run, % build_directory "\build-time.txt"
+FileRead, goodbye_msg, % build_directory "\build-time.txt"
+Gui, Hide
+msgbox, 0x40000, Goodbye., % goodbye_msg
 ExitApp
 ;=========================================================================
 
@@ -193,12 +196,12 @@ DoGui()
 	Menu, Tray, Icon, resources\ico\icon.ico
 	menu, tray, NoStandard
 	Menu, Tray, Add, Quit, DoQuit 
-	Gui, Add, Picture, x52 y10 w120 h120 , C:\Users\dompa\Documents\GitHub\akbv\resources\png\cupcake.png
+	Gui, Add, Picture, x52 y10 w120 h120 , % A_ScriptDir "\resources\png\cupcake.png"
 	Gui, Font, S14 CDefault, Verdana
 	Gui, Add, Text, x40 y155 w180 h30 , akbv is running
 	Gui, Add, Button, x62 y199 w100 h30 gDoQuit, abort
 	Gui, Show, w225 h250, akbv
-	Winset, Alwaysontop,
+	Winset, Alwaysontop, , akbv
 }
 
 GuiClose:
