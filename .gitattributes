@@ -1,1 +1,2 @@
 builds -linguist-detectable
+builds/* -linguist-detectable
