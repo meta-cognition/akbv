@@ -1,4 +1,4 @@
-FileRead, menu_html_ramfile, %A_ScriptDir%/template/menu-template.html
+FileRead, menu_html_ramfile, %A_ScriptDir%/resources/html_template/menu-template.html
 
 build_html_menu()
 {

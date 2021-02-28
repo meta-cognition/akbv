@@ -1,4 +1,4 @@
-FileRead, html_ramfile, %A_ScriptDir%/template/template.html
+FileRead, html_ramfile, %A_ScriptDir%/resources/html_templates/template.html
 
 build_html()
 {
