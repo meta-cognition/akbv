@@ -81,20 +81,20 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 					this_link_object.link_source := sankey_object.nodes.columns[source_column].rows[current_source_node_row].node_id
 					this_link_object.link_target := sankey_object.nodes.columns[target_column].rows[current_target_node_row].node_id
 					this_link_object.link_value := this_link_value
-					IfInString, position_labels, % sankey_object.nodes.columns[grouping_column].rows[current_grouping_row].node_name
+					IfInString, position_labels, % current_group_name
 					{
 						format_mode := "positions"
-						this_link_object.link_label := format_to_readable(this_link_value) . " in " .  sankey_object.nodes.columns[target_column].rows[current_target_node_row].node_name . "<br />Type: " . sankey_object.nodes.columns[grouping_column].rows[current_grouping_row].node_name
+						this_link_object.link_label := format_to_readable(this_link_value) . " in " .  current_target_node . "<br />Type: " . current_group_name
 					}
-					else if ( sankey_object.nodes.columns[grouping_column].rows[current_grouping_row].node_name = "Expenditure" )
+					else if ( current_group_name = "Expenditure" )
 					{
 						format_mode := "dollars"
-						this_link_object.link_label := format_to_readable(this_link_value) . " in " .  sankey_object.nodes.columns[target_column].rows[current_target_node_row].node_name . "<br />Expenditure: " . sankey_object.nodes.columns[target_column].rows[current_target_node_row].node_name
+						this_link_object.link_label := format_to_readable(this_link_value) . " in " .  current_target_node . "<br />Expenditure: " . current_target_node
 					}
 					else 
 					{
 						format_mode := "dollars"
-						this_link_object.link_label := format_to_readable(this_link_value) . " to " .  sankey_object.nodes.columns[target_column].rows[current_target_node_row].node_name . "<br />Fund Source: " . sankey_object.nodes.columns[grouping_column].rows[current_grouping_row].node_name
+						this_link_object.link_label := format_to_readable(this_link_value) . " to " .  current_target_node . "<br />Fund Source: " . current_group_name
 						if (grouping_column = fund_column)
 						{
 							;this_link_object.link_label .= " " fund_type_short(sankey_object.nodes.columns[grouping_column].rows[current_grouping_row].node_name)
@@ -120,7 +120,7 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 				
 				if ( is_child = true )
 				{
-					this_identifier_text := "@@@" . sankey_object.nodes.columns[target_column].rows[current_target_node_row].node_name . "@@@" 
+					this_identifier_text := "@@@" . current_target_node . "@@@" 
 				}	
 				
 				if ( !HasHyperLinkVal(hyperlink_id, sankey_object.hyperlink_ids) )
@@ -138,7 +138,7 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 			
 			if (source_column = fund_column)
 			{
-				this_fund_code := SubStr(sankey_object.nodes.columns[source_column].rows[current_source_node_row].node_name,1,4)
+				this_fund_code := SubStr(current_source_node,1,4)
 				;msgbox % this_fund_code
 				if this_fund_code is Integer
 				{
