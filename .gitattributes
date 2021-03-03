@@ -1,5 +1,3 @@
 builds/* linguist-generated
-builds/ linguist-generated
-references/ linguist-documentation
 references/* linguist-documentation
 
