@@ -1,0 +1,463 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT	scenario_webfolder1	scenario_webfolder2	scenario_webfolder3	scenario_webfolder4	scenario_webfolder5	scenario_webfolder6	scenario_webfolder7	scenario_webfolder8	scenario_webfolder9	scenario_webfolder10
+1	20	30	Corrections	690	1	Facility-Cap Improvement Unit	696	2	Fac-Capital Improvement Unit	Personal Services	Expenditure	0			548.90	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	690	1	Facility-Cap Improvement Unit	696	2	Fac-Capital Improvement Unit	Travel	Expenditure	0			15.00	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	690	1	Facility-Cap Improvement Unit	696	2	Fac-Capital Improvement Unit	Contractual Services	Expenditure	0			31.10	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	690	1	Facility-Cap Improvement Unit	696	2	Fac-Capital Improvement Unit	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	690	1	Facility-Cap Improvement Unit	696	2	Fac-Capital Improvement Unit	Capital Outlay	Expenditure	0			1000.00	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	690	1	Facility-Cap Improvement Unit	696	2	Fac-Capital Improvement Unit	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	690	1	Facility-Cap Improvement Unit	696	2	Fac-Capital Improvement Unit	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	690	1	Facility-Cap Improvement Unit	696	2	Fac-Capital Improvement Unit	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	690	1	Facility-Cap Improvement Unit	696	2	Fac-Capital Improvement Unit	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1595.00	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	690	1	Facility-Cap Improvement Unit	696	2	Fac-Capital Improvement Unit	Permanent Full-Time	Position Count	0			4.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	271	2	Administration and Support	694	1	Office of the Commissioner	Personal Services	Expenditure	0			964.40	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	271	2	Administration and Support	694	1	Office of the Commissioner	Travel	Expenditure	0			61.30	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	271	2	Administration and Support	694	1	Office of the Commissioner	Contractual Services	Expenditure	0			15.00	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	271	2	Administration and Support	694	1	Office of the Commissioner	Commodities	Expenditure	0			1.40	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	271	2	Administration and Support	694	1	Office of the Commissioner	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	271	2	Administration and Support	694	1	Office of the Commissioner	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	271	2	Administration and Support	694	1	Office of the Commissioner	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	271	2	Administration and Support	694	1	Office of the Commissioner	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	271	2	Administration and Support	694	1	Office of the Commissioner	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1042.10	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	271	2	Administration and Support	694	1	Office of the Commissioner	Permanent Full-Time	Position Count	0			8.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	271	2	Administration and Support	3279	2	Recruitment and Retention	Personal Services	Expenditure	0			661.20	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	271	2	Administration and Support	3279	2	Recruitment and Retention	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	271	2	Administration and Support	3279	2	Recruitment and Retention	Contractual Services	Expenditure	0			260.00	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	271	2	Administration and Support	3279	2	Recruitment and Retention	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	271	2	Administration and Support	3279	2	Recruitment and Retention	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	271	2	Administration and Support	3279	2	Recruitment and Retention	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	271	2	Administration and Support	3279	2	Recruitment and Retention	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	271	2	Administration and Support	3279	2	Recruitment and Retention	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	271	2	Administration and Support	3279	2	Recruitment and Retention	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		921.20	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	271	2	Administration and Support	3279	2	Recruitment and Retention	Permanent Full-Time	Position Count	0			6.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	271	2	Administration and Support	697	3	Administrative Services	Personal Services	Expenditure	0			3279.80	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	271	2	Administration and Support	697	3	Administrative Services	Travel	Expenditure	0			19.80	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	271	2	Administration and Support	697	3	Administrative Services	Contractual Services	Expenditure	0			1581.70	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	271	2	Administration and Support	697	3	Administrative Services	Commodities	Expenditure	0			78.00	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	271	2	Administration and Support	697	3	Administrative Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	271	2	Administration and Support	697	3	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	271	2	Administration and Support	697	3	Administrative Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	271	2	Administration and Support	697	3	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	20	30	Corrections	271	2	Administration and Support	697	3	Administrative Services	1002 Federal Receipts	Revenue	1002	Federal Funds		156.50	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	271	2	Administration and Support	697	3	Administrative Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4492.40	0	0	0	0	0	0	0	0	0										
+1007	20	30	Corrections	271	2	Administration and Support	697	3	Administrative Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	310.40	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	271	2	Administration and Support	697	3	Administrative Services	Permanent Full-Time	Position Count	0			30.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	271	2	Administration and Support	698	4	Information Technology MIS	Personal Services	Expenditure	0			1392.50	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	271	2	Administration and Support	698	4	Information Technology MIS	Travel	Expenditure	0			2.80	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	271	2	Administration and Support	698	4	Information Technology MIS	Contractual Services	Expenditure	0			942.80	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	271	2	Administration and Support	698	4	Information Technology MIS	Commodities	Expenditure	0			70.00	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	271	2	Administration and Support	698	4	Information Technology MIS	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	271	2	Administration and Support	698	4	Information Technology MIS	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	271	2	Administration and Support	698	4	Information Technology MIS	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	271	2	Administration and Support	698	4	Information Technology MIS	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	271	2	Administration and Support	698	4	Information Technology MIS	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2408.10	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	271	2	Administration and Support	698	4	Information Technology MIS	Permanent Full-Time	Position Count	0			11.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	271	2	Administration and Support	2758	5	Research and Records	Personal Services	Expenditure	0			873.60	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	271	2	Administration and Support	2758	5	Research and Records	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	271	2	Administration and Support	2758	5	Research and Records	Contractual Services	Expenditure	0			75.80	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	271	2	Administration and Support	2758	5	Research and Records	Commodities	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	271	2	Administration and Support	2758	5	Research and Records	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	271	2	Administration and Support	2758	5	Research and Records	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	271	2	Administration and Support	2758	5	Research and Records	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	271	2	Administration and Support	2758	5	Research and Records	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	271	2	Administration and Support	2758	5	Research and Records	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		954.40	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	271	2	Administration and Support	2758	5	Research and Records	Permanent Full-Time	Position Count	0			7.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	271	2	Administration and Support	2464	6	DOC State Facilities Rent	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	271	2	Administration and Support	2464	6	DOC State Facilities Rent	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	271	2	Administration and Support	2464	6	DOC State Facilities Rent	Contractual Services	Expenditure	0			289.90	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	271	2	Administration and Support	2464	6	DOC State Facilities Rent	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	271	2	Administration and Support	2464	6	DOC State Facilities Rent	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	271	2	Administration and Support	2464	6	DOC State Facilities Rent	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	271	2	Administration and Support	2464	6	DOC State Facilities Rent	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	271	2	Administration and Support	2464	6	DOC State Facilities Rent	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	271	2	Administration and Support	2464	6	DOC State Facilities Rent	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		289.90	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	703	1	Correctional Academy	Personal Services	Expenditure	0			1005.50	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	703	1	Correctional Academy	Travel	Expenditure	0			111.40	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	703	1	Correctional Academy	Contractual Services	Expenditure	0			337.00	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	703	1	Correctional Academy	Commodities	Expenditure	0			69.70	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	703	1	Correctional Academy	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	703	1	Correctional Academy	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	703	1	Correctional Academy	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	703	1	Correctional Academy	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	703	1	Correctional Academy	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1523.60	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	703	1	Correctional Academy	Permanent Full-Time	Position Count	0			8.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	1381	2	Institution Director's Office	Personal Services	Expenditure	0			1265.30	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	1381	2	Institution Director's Office	Travel	Expenditure	0			21.20	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	1381	2	Institution Director's Office	Contractual Services	Expenditure	0			881.90	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	1381	2	Institution Director's Office	Commodities	Expenditure	0			27.70	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	1381	2	Institution Director's Office	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	1381	2	Institution Director's Office	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	1381	2	Institution Director's Office	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	1381	2	Institution Director's Office	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	20	30	Corrections	550	3	Population Management	1381	2	Institution Director's Office	1002 Federal Receipts	Revenue	1002	Federal Funds		143.40	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	1381	2	Institution Director's Office	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2052.70	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	1381	2	Institution Director's Office	Permanent Full-Time	Position Count	0			9.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	2650	3	Classification and Furlough	Personal Services	Expenditure	0			1150.30	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	2650	3	Classification and Furlough	Travel	Expenditure	0			1.90	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	2650	3	Classification and Furlough	Contractual Services	Expenditure	0			85.10	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	2650	3	Classification and Furlough	Commodities	Expenditure	0			10.90	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	2650	3	Classification and Furlough	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	2650	3	Classification and Furlough	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	2650	3	Classification and Furlough	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	2650	3	Classification and Furlough	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	2650	3	Classification and Furlough	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1248.20	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	2650	3	Classification and Furlough	Permanent Full-Time	Position Count	0			9.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	704	4	Out-of-State Contractual	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	704	4	Out-of-State Contractual	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	704	4	Out-of-State Contractual	Contractual Services	Expenditure	0			300.00	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	704	4	Out-of-State Contractual	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	704	4	Out-of-State Contractual	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	704	4	Out-of-State Contractual	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	704	4	Out-of-State Contractual	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	704	4	Out-of-State Contractual	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	704	4	Out-of-State Contractual	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		300.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	1015	5	Inmate Transportation	Personal Services	Expenditure	0			2342.50	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	1015	5	Inmate Transportation	Travel	Expenditure	0			336.20	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	1015	5	Inmate Transportation	Contractual Services	Expenditure	0			913.90	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	1015	5	Inmate Transportation	Commodities	Expenditure	0			163.10	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	1015	5	Inmate Transportation	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	1015	5	Inmate Transportation	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	1015	5	Inmate Transportation	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	1015	5	Inmate Transportation	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	1015	5	Inmate Transportation	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3615.70	0	0	0	0	0	0	0	0	0										
+1007	20	30	Corrections	550	3	Population Management	1015	5	Inmate Transportation	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	140.00	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	1015	5	Inmate Transportation	Permanent Full-Time	Position Count	0			13.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	2739	6	Point of Arrest	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	2739	6	Point of Arrest	Travel	Expenditure	0			628.70	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	2739	6	Point of Arrest	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	2739	6	Point of Arrest	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	2739	6	Point of Arrest	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	2739	6	Point of Arrest	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	2739	6	Point of Arrest	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	2739	6	Point of Arrest	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	2739	6	Point of Arrest	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		628.70	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	2713	7	Anchorage Correctional Complex	Personal Services	Expenditure	0			30021.10	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	2713	7	Anchorage Correctional Complex	Travel	Expenditure	0			3.00	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	2713	7	Anchorage Correctional Complex	Contractual Services	Expenditure	0			2077.90	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	2713	7	Anchorage Correctional Complex	Commodities	Expenditure	0			2308.70	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	2713	7	Anchorage Correctional Complex	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	2713	7	Anchorage Correctional Complex	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	2713	7	Anchorage Correctional Complex	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	2713	7	Anchorage Correctional Complex	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	20	30	Corrections	550	3	Population Management	2713	7	Anchorage Correctional Complex	1002 Federal Receipts	Revenue	1002	Federal Funds		15212.70	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	2713	7	Anchorage Correctional Complex	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		15191.10	0	0	0	0	0	0	0	0	0										
+1005	20	30	Corrections	550	3	Population Management	2713	7	Anchorage Correctional Complex	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		4006.90	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	2713	7	Anchorage Correctional Complex	Permanent Full-Time	Position Count	0			250.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	708	8	Anvil Mtn Correctional Center	Personal Services	Expenditure	0			6762.80	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	708	8	Anvil Mtn Correctional Center	Travel	Expenditure	0			19.00	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	708	8	Anvil Mtn Correctional Center	Contractual Services	Expenditure	0			216.60	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	708	8	Anvil Mtn Correctional Center	Commodities	Expenditure	0			199.40	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	708	8	Anvil Mtn Correctional Center	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	708	8	Anvil Mtn Correctional Center	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	708	8	Anvil Mtn Correctional Center	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	708	8	Anvil Mtn Correctional Center	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	708	8	Anvil Mtn Correctional Center	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		7172.90	0	0	0	0	0	0	0	0	0										
+1007	20	30	Corrections	550	3	Population Management	708	8	Anvil Mtn Correctional Center	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	24.90	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	708	8	Anvil Mtn Correctional Center	Permanent Full-Time	Position Count	0			40.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	714	9	Combined Hiland Mtn Corr Ctr	Personal Services	Expenditure	0			13119.50	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	714	9	Combined Hiland Mtn Corr Ctr	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	714	9	Combined Hiland Mtn Corr Ctr	Contractual Services	Expenditure	0			877.80	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	714	9	Combined Hiland Mtn Corr Ctr	Commodities	Expenditure	0			687.10	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	714	9	Combined Hiland Mtn Corr Ctr	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	714	9	Combined Hiland Mtn Corr Ctr	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	714	9	Combined Hiland Mtn Corr Ctr	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	714	9	Combined Hiland Mtn Corr Ctr	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	714	9	Combined Hiland Mtn Corr Ctr	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		14684.40	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	714	9	Combined Hiland Mtn Corr Ctr	Permanent Full-Time	Position Count	0			102.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	707	10	Fairbanks Correctional Center	Personal Services	Expenditure	0			11335.20	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	707	10	Fairbanks Correctional Center	Travel	Expenditure	0			31.50	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	707	10	Fairbanks Correctional Center	Contractual Services	Expenditure	0			652.60	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	707	10	Fairbanks Correctional Center	Commodities	Expenditure	0			610.20	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	707	10	Fairbanks Correctional Center	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	707	10	Fairbanks Correctional Center	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	707	10	Fairbanks Correctional Center	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	707	10	Fairbanks Correctional Center	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	707	10	Fairbanks Correctional Center	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		12629.50	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	707	10	Fairbanks Correctional Center	Permanent Full-Time	Position Count	0			89.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	2935	11	Goose Creek Correctional Center	Personal Services	Expenditure	0			38254.80	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	2935	11	Goose Creek Correctional Center	Travel	Expenditure	0			3.00	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	2935	11	Goose Creek Correctional Center	Contractual Services	Expenditure	0			2786.50	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	2935	11	Goose Creek Correctional Center	Commodities	Expenditure	0			2598.20	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	2935	11	Goose Creek Correctional Center	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	2935	11	Goose Creek Correctional Center	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	2935	11	Goose Creek Correctional Center	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	2935	11	Goose Creek Correctional Center	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	2935	11	Goose Creek Correctional Center	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		18642.50	0	0	0	0	0	0	0	0	0										
+1271	20	30	Corrections	550	3	Population Management	2935	11	Goose Creek Correctional Center	1271 ARPA Revenue Replacement UGF	Revenue	1271	Unrestricted General Funds		25000.00	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	2935	11	Goose Creek Correctional Center	Permanent Full-Time	Position Count	0			330.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	726	12	Ketchikan Correctional Center	Personal Services	Expenditure	0			4589.90	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	726	12	Ketchikan Correctional Center	Travel	Expenditure	0			27.50	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	726	12	Ketchikan Correctional Center	Contractual Services	Expenditure	0			162.90	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	726	12	Ketchikan Correctional Center	Commodities	Expenditure	0			204.70	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	726	12	Ketchikan Correctional Center	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	726	12	Ketchikan Correctional Center	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	726	12	Ketchikan Correctional Center	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	726	12	Ketchikan Correctional Center	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	726	12	Ketchikan Correctional Center	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4985.00	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	726	12	Ketchikan Correctional Center	Permanent Full-Time	Position Count	0			36.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	725	13	Lemon Creek Correctional Ctr	Personal Services	Expenditure	0			9807.40	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	725	13	Lemon Creek Correctional Ctr	Travel	Expenditure	0			15.50	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	725	13	Lemon Creek Correctional Ctr	Contractual Services	Expenditure	0			807.60	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	725	13	Lemon Creek Correctional Ctr	Commodities	Expenditure	0			771.20	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	725	13	Lemon Creek Correctional Ctr	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	725	13	Lemon Creek Correctional Ctr	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	725	13	Lemon Creek Correctional Ctr	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	725	13	Lemon Creek Correctional Ctr	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	725	13	Lemon Creek Correctional Ctr	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		10898.50	0	0	0	0	0	0	0	0	0										
+1007	20	30	Corrections	550	3	Population Management	725	13	Lemon Creek Correctional Ctr	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	503.20	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	725	13	Lemon Creek Correctional Ctr	Permanent Full-Time	Position Count	0			77.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	713	14	Mat-Su Correctional Center	Personal Services	Expenditure	0			6620.70	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	713	14	Mat-Su Correctional Center	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	713	14	Mat-Su Correctional Center	Contractual Services	Expenditure	0			143.80	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	713	14	Mat-Su Correctional Center	Commodities	Expenditure	0			248.80	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	713	14	Mat-Su Correctional Center	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	713	14	Mat-Su Correctional Center	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	713	14	Mat-Su Correctional Center	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	713	14	Mat-Su Correctional Center	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	713	14	Mat-Su Correctional Center	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		7013.30	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	713	14	Mat-Su Correctional Center	Permanent Full-Time	Position Count	0			48.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	712	15	Palmer Correctional Center	Personal Services	Expenditure	0			11526.60	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	712	15	Palmer Correctional Center	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	712	15	Palmer Correctional Center	Contractual Services	Expenditure	0			1098.70	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	712	15	Palmer Correctional Center	Commodities	Expenditure	0			3634.70	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	712	15	Palmer Correctional Center	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	712	15	Palmer Correctional Center	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	712	15	Palmer Correctional Center	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	712	15	Palmer Correctional Center	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	712	15	Palmer Correctional Center	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		16260.00	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	712	15	Palmer Correctional Center	Permanent Full-Time	Position Count	0			106.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	722	16	Spring Creek Correctional Ctr	Personal Services	Expenditure	0			20693.50	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	722	16	Spring Creek Correctional Ctr	Travel	Expenditure	0			62.50	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	722	16	Spring Creek Correctional Ctr	Contractual Services	Expenditure	0			2668.10	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	722	16	Spring Creek Correctional Ctr	Commodities	Expenditure	0			1539.70	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	722	16	Spring Creek Correctional Ctr	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	722	16	Spring Creek Correctional Ctr	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	722	16	Spring Creek Correctional Ctr	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	722	16	Spring Creek Correctional Ctr	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	722	16	Spring Creek Correctional Ctr	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		24963.80	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	722	16	Spring Creek Correctional Ctr	Permanent Full-Time	Position Count	0			169.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	720	17	Wildwood Correctional Center	Personal Services	Expenditure	0			14791.30	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	720	17	Wildwood Correctional Center	Travel	Expenditure	0			17.70	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	720	17	Wildwood Correctional Center	Contractual Services	Expenditure	0			737.10	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	720	17	Wildwood Correctional Center	Commodities	Expenditure	0			885.10	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	720	17	Wildwood Correctional Center	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	720	17	Wildwood Correctional Center	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	720	17	Wildwood Correctional Center	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	720	17	Wildwood Correctional Center	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	720	17	Wildwood Correctional Center	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		16417.60	0	0	0	0	0	0	0	0	0										
+1007	20	30	Corrections	550	3	Population Management	720	17	Wildwood Correctional Center	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	13.60	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	720	17	Wildwood Correctional Center	Permanent Full-Time	Position Count	0			118.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	709	18	Yukon-Kuskokwim Corr Center	Personal Services	Expenditure	0			8763.30	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	709	18	Yukon-Kuskokwim Corr Center	Travel	Expenditure	0			44.10	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	709	18	Yukon-Kuskokwim Corr Center	Contractual Services	Expenditure	0			371.40	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	709	18	Yukon-Kuskokwim Corr Center	Commodities	Expenditure	0			856.80	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	709	18	Yukon-Kuskokwim Corr Center	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	709	18	Yukon-Kuskokwim Corr Center	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	709	18	Yukon-Kuskokwim Corr Center	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	709	18	Yukon-Kuskokwim Corr Center	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	709	18	Yukon-Kuskokwim Corr Center	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		9975.60	0	0	0	0	0	0	0	0	0										
+1007	20	30	Corrections	550	3	Population Management	709	18	Yukon-Kuskokwim Corr Center	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	60.00	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	709	18	Yukon-Kuskokwim Corr Center	Permanent Full-Time	Position Count	0			49.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	1884	19	Pt.MacKenzie Correctional Farm	Personal Services	Expenditure	0			3953.40	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	1884	19	Pt.MacKenzie Correctional Farm	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	1884	19	Pt.MacKenzie Correctional Farm	Contractual Services	Expenditure	0			211.70	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	1884	19	Pt.MacKenzie Correctional Farm	Commodities	Expenditure	0			400.30	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	1884	19	Pt.MacKenzie Correctional Farm	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	1884	19	Pt.MacKenzie Correctional Farm	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	1884	19	Pt.MacKenzie Correctional Farm	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	1884	19	Pt.MacKenzie Correctional Farm	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	1884	19	Pt.MacKenzie Correctional Farm	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4565.40	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	1884	19	Pt.MacKenzie Correctional Farm	Permanent Full-Time	Position Count	0			29.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	2684	21	Probat &Parole Dir Office	Personal Services	Expenditure	0			805.20	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	2684	21	Probat &Parole Dir Office	Travel	Expenditure	0			76.00	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	2684	21	Probat &Parole Dir Office	Contractual Services	Expenditure	0			125.50	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	2684	21	Probat &Parole Dir Office	Commodities	Expenditure	0			43.00	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	2684	21	Probat &Parole Dir Office	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	2684	21	Probat &Parole Dir Office	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	2684	21	Probat &Parole Dir Office	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	2684	21	Probat &Parole Dir Office	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	20	30	Corrections	550	3	Population Management	2684	21	Probat &Parole Dir Office	1002 Federal Receipts	Revenue	1002	Federal Funds		50.00	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	2684	21	Probat &Parole Dir Office	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		999.70	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	2684	21	Probat &Parole Dir Office	Permanent Full-Time	Position Count	0			6.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	3131	22	Pre-Trial Services	Personal Services	Expenditure	0			8875.50	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	3131	22	Pre-Trial Services	Travel	Expenditure	0			134.90	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	3131	22	Pre-Trial Services	Contractual Services	Expenditure	0			1018.50	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	3131	22	Pre-Trial Services	Commodities	Expenditure	0			1079.80	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	3131	22	Pre-Trial Services	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	3131	22	Pre-Trial Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	3131	22	Pre-Trial Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	3131	22	Pre-Trial Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	3131	22	Pre-Trial Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		11108.70	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	3131	22	Pre-Trial Services	Permanent Full-Time	Position Count	0			89.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	2826	23	Statewide Probation and Parole	Personal Services	Expenditure	0			16347.10	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	2826	23	Statewide Probation and Parole	Travel	Expenditure	0			267.80	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	2826	23	Statewide Probation and Parole	Contractual Services	Expenditure	0			1554.00	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	2826	23	Statewide Probation and Parole	Commodities	Expenditure	0			345.20	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	2826	23	Statewide Probation and Parole	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	2826	23	Statewide Probation and Parole	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	2826	23	Statewide Probation and Parole	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	2826	23	Statewide Probation and Parole	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	2826	23	Statewide Probation and Parole	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		18514.10	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	2826	23	Statewide Probation and Parole	Permanent Full-Time	Position Count	0			153.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	2035	26	Regional and Community Jails	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	2035	26	Regional and Community Jails	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	2035	26	Regional and Community Jails	Contractual Services	Expenditure	0			7000.00	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	2035	26	Regional and Community Jails	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	2035	26	Regional and Community Jails	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	2035	26	Regional and Community Jails	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	2035	26	Regional and Community Jails	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	2035	26	Regional and Community Jails	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	2035	26	Regional and Community Jails	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		7000.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	550	3	Population Management	695	27	Parole Board	Personal Services	Expenditure	0			1584.20	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	550	3	Population Management	695	27	Parole Board	Travel	Expenditure	0			70.90	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	550	3	Population Management	695	27	Parole Board	Contractual Services	Expenditure	0			283.60	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	550	3	Population Management	695	27	Parole Board	Commodities	Expenditure	0			33.20	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	550	3	Population Management	695	27	Parole Board	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	550	3	Population Management	695	27	Parole Board	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	550	3	Population Management	695	27	Parole Board	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	550	3	Population Management	695	27	Parole Board	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	550	3	Population Management	695	27	Parole Board	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1971.90	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	550	3	Population Management	695	27	Parole Board	Permanent Full-Time	Position Count	0			11.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	638	4	Health and Rehab Services	3097	1	Health and Rehab Director's Ofc	Personal Services	Expenditure	0			919.00	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	638	4	Health and Rehab Services	3097	1	Health and Rehab Director's Ofc	Travel	Expenditure	0			10.70	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	638	4	Health and Rehab Services	3097	1	Health and Rehab Director's Ofc	Contractual Services	Expenditure	0			132.70	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	638	4	Health and Rehab Services	3097	1	Health and Rehab Director's Ofc	Commodities	Expenditure	0			13.20	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	638	4	Health and Rehab Services	3097	1	Health and Rehab Director's Ofc	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	638	4	Health and Rehab Services	3097	1	Health and Rehab Director's Ofc	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	638	4	Health and Rehab Services	3097	1	Health and Rehab Director's Ofc	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	638	4	Health and Rehab Services	3097	1	Health and Rehab Director's Ofc	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	638	4	Health and Rehab Services	3097	1	Health and Rehab Director's Ofc	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1075.60	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	638	4	Health and Rehab Services	3097	1	Health and Rehab Director's Ofc	Permanent Full-Time	Position Count	0			8.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	Personal Services	Expenditure	0			27490.30	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	Travel	Expenditure	0			303.00	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	Contractual Services	Expenditure	0			27669.70	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	Commodities	Expenditure	0			13613.50	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		31775.50	0	0	0	0	0	0	0	0	0										
+1005	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		85.00	0	0	0	0	0	0	0	0	0										
+1171	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	1171 Restorative Justice	Revenue	1171	Other Funds	Duplicated	7871.10	0	0	0	0	0	0	0	0	0										
+1246	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	1246 Recidivism Reduction Fund	Revenue	1246	Designated General Funds		4344.90	0	0	0	0	0	0	0	0	0										
+1271	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	1271 ARPA Revenue Replacement UGF	Revenue	1271	Unrestricted General Funds		25000.00	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	638	4	Health and Rehab Services	2952	2	Physical Health Care	Permanent Full-Time	Position Count	0			168.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	638	4	Health and Rehab Services	2951	3	Behavioral Health Care	Personal Services	Expenditure	0			7760.50	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	638	4	Health and Rehab Services	2951	3	Behavioral Health Care	Travel	Expenditure	0			25.00	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	638	4	Health and Rehab Services	2951	3	Behavioral Health Care	Contractual Services	Expenditure	0			2170.50	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	638	4	Health and Rehab Services	2951	3	Behavioral Health Care	Commodities	Expenditure	0			743.00	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	638	4	Health and Rehab Services	2951	3	Behavioral Health Care	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	638	4	Health and Rehab Services	2951	3	Behavioral Health Care	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	638	4	Health and Rehab Services	2951	3	Behavioral Health Care	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	638	4	Health and Rehab Services	2951	3	Behavioral Health Care	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	638	4	Health and Rehab Services	2951	3	Behavioral Health Care	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3284.40	0	0	0	0	0	0	0	0	0										
+1007	20	30	Corrections	638	4	Health and Rehab Services	2951	3	Behavioral Health Care	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	193.60	0	0	0	0	0	0	0	0	0										
+1037	20	30	Corrections	638	4	Health and Rehab Services	2951	3	Behavioral Health Care	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		6906.00	0	0	0	0	0	0	0	0	0										
+1092	20	30	Corrections	638	4	Health and Rehab Services	2951	3	Behavioral Health Care	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		315.00	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	638	4	Health and Rehab Services	2951	3	Behavioral Health Care	Permanent Full-Time	Position Count	0			54.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	Personal Services	Expenditure	0			354.90	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	Travel	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	Contractual Services	Expenditure	0			5323.40	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	Commodities	Expenditure	0			9.50	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	1002 Federal Receipts	Revenue	1002	Federal Funds		150.00	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1729.50	0	0	0	0	0	0	0	0	0										
+1007	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	70.80	0	0	0	0	0	0	0	0	0										
+1037	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		1643.90	0	0	0	0	0	0	0	0	0										
+1246	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	1246 Recidivism Reduction Fund	Revenue	1246	Designated General Funds		2103.60	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	638	4	Health and Rehab Services	2974	4	Substance Abuse Treatment Pgm	Permanent Full-Time	Position Count	0			3.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	638	4	Health and Rehab Services	2975	5	Sex Offender Management Program	Personal Services	Expenditure	0			623.00	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	638	4	Health and Rehab Services	2975	5	Sex Offender Management Program	Travel	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	638	4	Health and Rehab Services	2975	5	Sex Offender Management Program	Contractual Services	Expenditure	0			2391.40	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	638	4	Health and Rehab Services	2975	5	Sex Offender Management Program	Commodities	Expenditure	0			12.00	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	638	4	Health and Rehab Services	2975	5	Sex Offender Management Program	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	638	4	Health and Rehab Services	2975	5	Sex Offender Management Program	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	638	4	Health and Rehab Services	2975	5	Sex Offender Management Program	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	638	4	Health and Rehab Services	2975	5	Sex Offender Management Program	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	638	4	Health and Rehab Services	2975	5	Sex Offender Management Program	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1036.40	0	0	0	0	0	0	0	0	0										
+1246	20	30	Corrections	638	4	Health and Rehab Services	2975	5	Sex Offender Management Program	1246 Recidivism Reduction Fund	Revenue	1246	Designated General Funds		2000.00	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	638	4	Health and Rehab Services	2975	5	Sex Offender Management Program	Permanent Full-Time	Position Count	0			4.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	638	4	Health and Rehab Services	2973	6	Domestic Violence Program	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	638	4	Health and Rehab Services	2973	6	Domestic Violence Program	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	638	4	Health and Rehab Services	2973	6	Domestic Violence Program	Contractual Services	Expenditure	0			175.00	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	638	4	Health and Rehab Services	2973	6	Domestic Violence Program	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	638	4	Health and Rehab Services	2973	6	Domestic Violence Program	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	638	4	Health and Rehab Services	2973	6	Domestic Violence Program	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	638	4	Health and Rehab Services	2973	6	Domestic Violence Program	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	638	4	Health and Rehab Services	2973	6	Domestic Violence Program	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1246	20	30	Corrections	638	4	Health and Rehab Services	2973	6	Domestic Violence Program	1246 Recidivism Reduction Fund	Revenue	1246	Designated General Funds		175.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	638	4	Health and Rehab Services	3271	7	Reentry Unit	Personal Services	Expenditure	0			584.80	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	638	4	Health and Rehab Services	3271	7	Reentry Unit	Travel	Expenditure	0			20.00	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	638	4	Health and Rehab Services	3271	7	Reentry Unit	Contractual Services	Expenditure	0			149.90	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	638	4	Health and Rehab Services	3271	7	Reentry Unit	Commodities	Expenditure	0			30.00	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	638	4	Health and Rehab Services	3271	7	Reentry Unit	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	638	4	Health and Rehab Services	3271	7	Reentry Unit	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	638	4	Health and Rehab Services	3271	7	Reentry Unit	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	638	4	Health and Rehab Services	3271	7	Reentry Unit	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	638	4	Health and Rehab Services	3271	7	Reentry Unit	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		784.70	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	638	4	Health and Rehab Services	3271	7	Reentry Unit	Permanent Full-Time	Position Count	0			6.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	592	5	Offender Habilitation	2971	0	Education Programs	Personal Services	Expenditure	0			311.20	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	592	5	Offender Habilitation	2971	0	Education Programs	Travel	Expenditure	0			25.00	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	592	5	Offender Habilitation	2971	0	Education Programs	Contractual Services	Expenditure	0			507.10	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	592	5	Offender Habilitation	2971	0	Education Programs	Commodities	Expenditure	0			148.20	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	592	5	Offender Habilitation	2971	0	Education Programs	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	592	5	Offender Habilitation	2971	0	Education Programs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	592	5	Offender Habilitation	2971	0	Education Programs	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	592	5	Offender Habilitation	2971	0	Education Programs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	592	5	Offender Habilitation	2971	0	Education Programs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		20.00	0	0	0	0	0	0	0	0	0										
+1007	20	30	Corrections	592	5	Offender Habilitation	2971	0	Education Programs	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	156.30	0	0	0	0	0	0	0	0	0										
+1246	20	30	Corrections	592	5	Offender Habilitation	2971	0	Education Programs	1246 Recidivism Reduction Fund	Revenue	1246	Designated General Funds		815.20	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	592	5	Offender Habilitation	2971	0	Education Programs	Permanent Full-Time	Position Count	0			3.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	592	5	Offender Habilitation	2972	0	Vocational Education Programs	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	592	5	Offender Habilitation	2972	0	Vocational Education Programs	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	592	5	Offender Habilitation	2972	0	Vocational Education Programs	Contractual Services	Expenditure	0			606.00	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	592	5	Offender Habilitation	2972	0	Vocational Education Programs	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	592	5	Offender Habilitation	2972	0	Vocational Education Programs	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	592	5	Offender Habilitation	2972	0	Vocational Education Programs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	592	5	Offender Habilitation	2972	0	Vocational Education Programs	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	592	5	Offender Habilitation	2972	0	Vocational Education Programs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1246	20	30	Corrections	592	5	Offender Habilitation	2972	0	Vocational Education Programs	1246 Recidivism Reduction Fund	Revenue	1246	Designated General Funds		606.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	633	6	Recidivism Reduction Grants	3080	0	Recidivism Reduction Grants	Personal Services	Expenditure	0			75.90	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	633	6	Recidivism Reduction Grants	3080	0	Recidivism Reduction Grants	Travel	Expenditure	0			58.00	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	633	6	Recidivism Reduction Grants	3080	0	Recidivism Reduction Grants	Contractual Services	Expenditure	0			1361.00	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	633	6	Recidivism Reduction Grants	3080	0	Recidivism Reduction Grants	Commodities	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	633	6	Recidivism Reduction Grants	3080	0	Recidivism Reduction Grants	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	633	6	Recidivism Reduction Grants	3080	0	Recidivism Reduction Grants	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	633	6	Recidivism Reduction Grants	3080	0	Recidivism Reduction Grants	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	633	6	Recidivism Reduction Grants	3080	0	Recidivism Reduction Grants	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	20	30	Corrections	633	6	Recidivism Reduction Grants	3080	0	Recidivism Reduction Grants	1002 Federal Receipts	Revenue	1002	Federal Funds		1000.00	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	633	6	Recidivism Reduction Grants	3080	0	Recidivism Reduction Grants	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3.60	0	0	0	0	0	0	0	0	0										
+1246	20	30	Corrections	633	6	Recidivism Reduction Grants	3080	0	Recidivism Reduction Grants	1246 Recidivism Reduction Fund	Revenue	1246	Designated General Funds		501.30	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	593	7	24 Hr Inst Utilities	2976	0	24 Hr Institutional Utilities	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	593	7	24 Hr Inst Utilities	2976	0	24 Hr Institutional Utilities	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	593	7	24 Hr Inst Utilities	2976	0	24 Hr Institutional Utilities	Contractual Services	Expenditure	0			11662.60	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	593	7	24 Hr Inst Utilities	2976	0	24 Hr Institutional Utilities	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	593	7	24 Hr Inst Utilities	2976	0	24 Hr Institutional Utilities	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	593	7	24 Hr Inst Utilities	2976	0	24 Hr Institutional Utilities	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	593	7	24 Hr Inst Utilities	2976	0	24 Hr Institutional Utilities	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	593	7	24 Hr Inst Utilities	2976	0	24 Hr Institutional Utilities	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	593	7	24 Hr Inst Utilities	2976	0	24 Hr Institutional Utilities	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		11662.60	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	390	8	Community Residential Centers	2244	25	Community Residential Centers	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	390	8	Community Residential Centers	2244	25	Community Residential Centers	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	390	8	Community Residential Centers	2244	25	Community Residential Centers	Contractual Services	Expenditure	0			17987.40	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	390	8	Community Residential Centers	2244	25	Community Residential Centers	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	390	8	Community Residential Centers	2244	25	Community Residential Centers	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	390	8	Community Residential Centers	2244	25	Community Residential Centers	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	390	8	Community Residential Centers	2244	25	Community Residential Centers	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	390	8	Community Residential Centers	2244	25	Community Residential Centers	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	390	8	Community Residential Centers	2244	25	Community Residential Centers	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		15648.30	0	0	0	0	0	0	0	0	0										
+1005	20	30	Corrections	390	8	Community Residential Centers	2244	25	Community Residential Centers	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		1339.10	0	0	0	0	0	0	0	0	0										
+1246	20	30	Corrections	390	8	Community Residential Centers	2244	25	Community Residential Centers	1246 Recidivism Reduction Fund	Revenue	1246	Designated General Funds		1000.00	0	0	0	0	0	0	0	0	0										
+1	20	30	Corrections	696	9	Electronic Monitoring	2431	24	Electronic Monitoring	Personal Services	Expenditure	0			1524.60	0	0	0	0	0	0	0	0	0										
+2	20	30	Corrections	696	9	Electronic Monitoring	2431	24	Electronic Monitoring	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	20	30	Corrections	696	9	Electronic Monitoring	2431	24	Electronic Monitoring	Contractual Services	Expenditure	0			627.20	0	0	0	0	0	0	0	0	0										
+4	20	30	Corrections	696	9	Electronic Monitoring	2431	24	Electronic Monitoring	Commodities	Expenditure	0			151.10	0	0	0	0	0	0	0	0	0										
+5	20	30	Corrections	696	9	Electronic Monitoring	2431	24	Electronic Monitoring	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	20	30	Corrections	696	9	Electronic Monitoring	2431	24	Electronic Monitoring	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	20	30	Corrections	696	9	Electronic Monitoring	2431	24	Electronic Monitoring	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	20	30	Corrections	696	9	Electronic Monitoring	2431	24	Electronic Monitoring	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	20	30	Corrections	696	9	Electronic Monitoring	2431	24	Electronic Monitoring	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2035.00	0	0	0	0	0	0	0	0	0										
+1005	20	30	Corrections	696	9	Electronic Monitoring	2431	24	Electronic Monitoring	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		267.90	0	0	0	0	0	0	0	0	0										
+10000	20	30	Corrections	696	9	Electronic Monitoring	2431	24	Electronic Monitoring	Permanent Full-Time	Position Count	0			15.00	0	0	0	0	0	0	0	0	0										

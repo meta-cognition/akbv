@@ -1,0 +1,323 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT	scenario_webfolder1	scenario_webfolder2	scenario_webfolder3	scenario_webfolder4	scenario_webfolder5	scenario_webfolder6	scenario_webfolder7	scenario_webfolder8	scenario_webfolder9	scenario_webfolder10
+1	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	Contractual Services	Expenditure	0			1.10	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	1002 Federal Receipts	Revenue	1002	Federal Funds		0	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	0	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		0	0	0	0	0	0	0	0	0	0										
+1061	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	0	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		0.10	0	0	0	0	0	0	0	0	0										
+1234	45	170	University of Alaska	233	1	Budget Reductions/Additions	1296	1	Systemwide Reduction/Additions	1234 License Plates	Revenue	1234	Designated General Funds		1.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	Personal Services	Expenditure	0			17388.60	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	Travel	Expenditure	0			559.10	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	Contractual Services	Expenditure	0			10873.80	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	Commodities	Expenditure	0			310.80	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	Capital Outlay	Expenditure	0			27.00	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	Grants, Benefits	Expenditure	0			170.00	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	Miscellaneous	Expenditure	0			223.50	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	1002 Federal Receipts	Revenue	1002	Federal Funds		300.00	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		5974.70	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	100.00	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		12184.10	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		942.90	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	10051.10	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	234	2	UA System Office	730	2	Systemwide Services	Permanent Full-Time	Position Count	0			156.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	234	2	UA System Office	734	3	Office of Information Technology	Personal Services	Expenditure	0			6776.40	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	234	2	UA System Office	734	3	Office of Information Technology	Travel	Expenditure	0			164.80	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	234	2	UA System Office	734	3	Office of Information Technology	Contractual Services	Expenditure	0			7899.30	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	234	2	UA System Office	734	3	Office of Information Technology	Commodities	Expenditure	0			305.90	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	234	2	UA System Office	734	3	Office of Information Technology	Capital Outlay	Expenditure	0			105.50	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	234	2	UA System Office	734	3	Office of Information Technology	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	234	2	UA System Office	734	3	Office of Information Technology	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	234	2	UA System Office	734	3	Office of Information Technology	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	234	2	UA System Office	734	3	Office of Information Technology	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		3770.30	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	234	2	UA System Office	734	3	Office of Information Technology	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		7902.80	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	234	2	UA System Office	734	3	Office of Information Technology	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	3578.80	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	234	2	UA System Office	734	3	Office of Information Technology	Permanent Full-Time	Position Count	0			53.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	Personal Services	Expenditure	0			133780.70	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	Travel	Expenditure	0			2674.30	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	Contractual Services	Expenditure	0			67850.00	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	Commodities	Expenditure	0			8532.80	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	Capital Outlay	Expenditure	0			5832.00	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	Grants, Benefits	Expenditure	0			16045.60	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	Miscellaneous	Expenditure	0			4226.70	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	1002 Federal Receipts	Revenue	1002	Federal Funds		29795.20	0	0	0	0	0	0	0	0	0										
+1003	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		19.80	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		82993.10	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	5826.20	0	0	0	0	0	0	0	0	0										
+1037	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		755.80	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		106711.70	0	0	0	0	0	0	0	0	0										
+1061	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	400.00	0	0	0	0	0	0	0	0	0										
+1092	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	1092 Mental Health Trust Authority Authorized Receipts	Revenue	1092	Other Funds		1698.10	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		1857.40	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	8884.80	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	Permanent Full-Time	Position Count	0			1191.00	0	0	0	0	0	0	0	0	0										
+11000	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	753	4	Anchorage Campus	Permanent Part-Time	Position Count	0			37.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	2911	5	Small Business Dev Center	Personal Services	Expenditure	0			2436.20	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	2911	5	Small Business Dev Center	Travel	Expenditure	0			32.00	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	2911	5	Small Business Dev Center	Contractual Services	Expenditure	0			1091.40	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	2911	5	Small Business Dev Center	Commodities	Expenditure	0			125.00	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	2911	5	Small Business Dev Center	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	2911	5	Small Business Dev Center	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	2911	5	Small Business Dev Center	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	2911	5	Small Business Dev Center	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	2911	5	Small Business Dev Center	1002 Federal Receipts	Revenue	1002	Federal Funds		1200.00	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	2911	5	Small Business Dev Center	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		959.60	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	2911	5	Small Business Dev Center	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	250.00	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	2911	5	Small Business Dev Center	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		550.00	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	235	3	Univ of Alaska Anchorage	2911	5	Small Business Dev Center	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	725.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	Personal Services	Expenditure	0			205114.30	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	Travel	Expenditure	0			8988.40	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	Contractual Services	Expenditure	0			71194.20	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	Commodities	Expenditure	0			35664.70	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	Capital Outlay	Expenditure	0			7839.80	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	Grants, Benefits	Expenditure	0			12311.90	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	Miscellaneous	Expenditure	0			19275.70	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	1002 Federal Receipts	Revenue	1002	Federal Funds		88810.00	0	0	0	0	0	0	0	0	0										
+1003	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		4739.30	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		116049.00	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1443.10	0	0	0	0	0	0	0	0	0										
+1037	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		50.00	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		112549.00	0	0	0	0	0	0	0	0	0										
+1061	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	3349.40	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		443.00	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	32956.20	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	Permanent Full-Time	Position Count	0			1636.00	0	0	0	0	0	0	0	0	0										
+11000	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	741	6	Fairbanks Campus	Permanent Part-Time	Position Count	0			108.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	Personal Services	Expenditure	0			8188.10	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	Travel	Expenditure	0			30.50	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	Contractual Services	Expenditure	0			3087.70	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	Commodities	Expenditure	0			899.30	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	Grants, Benefits	Expenditure	0			203.30	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	1002 Federal Receipts	Revenue	1002	Federal Funds		160.10	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4884.30	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	49.40	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		6711.20	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		359.20	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	244.70	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	Permanent Full-Time	Position Count	0			58.00	0	0	0	0	0	0	0	0	0										
+11000	45	170	University of Alaska	236	4	Univ of Alaska Fairbanks	2992	20	UAF Community and Tech College	Permanent Part-Time	Position Count	0			7.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	678	5	Enterprise Entities	3198	9	Education Trust of Alaska	Personal Services	Expenditure	0			728.00	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	678	5	Enterprise Entities	3198	9	Education Trust of Alaska	Travel	Expenditure	0			45.00	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	678	5	Enterprise Entities	3198	9	Education Trust of Alaska	Contractual Services	Expenditure	0			3430.80	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	678	5	Enterprise Entities	3198	9	Education Trust of Alaska	Commodities	Expenditure	0			36.00	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	678	5	Enterprise Entities	3198	9	Education Trust of Alaska	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	678	5	Enterprise Entities	3198	9	Education Trust of Alaska	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	678	5	Enterprise Entities	3198	9	Education Trust of Alaska	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	678	5	Enterprise Entities	3198	9	Education Trust of Alaska	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	678	5	Enterprise Entities	3198	9	Education Trust of Alaska	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		4239.80	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	678	5	Enterprise Entities	3198	9	Education Trust of Alaska	Permanent Full-Time	Position Count	0			7.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	Personal Services	Expenditure	0			10256.40	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	Travel	Expenditure	0			132.50	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	Contractual Services	Expenditure	0			3466.40	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	Commodities	Expenditure	0			1871.70	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	Capital Outlay	Expenditure	0			109.00	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	Grants, Benefits	Expenditure	0			361.40	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	Miscellaneous	Expenditure	0			7.00	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	1002 Federal Receipts	Revenue	1002	Federal Funds		1000.80	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		6289.10	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	489.30	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		8186.70	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		170.30	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	68.20	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	Permanent Full-Time	Position Count	0			85.00	0	0	0	0	0	0	0	0	0										
+11000	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	756	10	Kenai Peninsula College	Permanent Part-Time	Position Count	0			5.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	Personal Services	Expenditure	0			3624.70	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	Travel	Expenditure	0			59.60	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	Contractual Services	Expenditure	0			1209.60	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	Commodities	Expenditure	0			542.70	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	Capital Outlay	Expenditure	0			36.00	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	Grants, Benefits	Expenditure	0			85.00	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	Miscellaneous	Expenditure	0			1.10	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	1002 Federal Receipts	Revenue	1002	Federal Funds		367.70	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2303.30	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	323.50	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		2489.40	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		66.50	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	8.30	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	Permanent Full-Time	Position Count	0			25.00	0	0	0	0	0	0	0	0	0										
+11000	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	757	11	Kodiak College	Permanent Part-Time	Position Count	0			5.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	Personal Services	Expenditure	0			7389.20	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	Travel	Expenditure	0			35.10	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	Contractual Services	Expenditure	0			5017.00	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	Commodities	Expenditure	0			649.70	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	Capital Outlay	Expenditure	0			85.00	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	Grants, Benefits	Expenditure	0			150.00	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	Miscellaneous	Expenditure	0			21.60	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	1002 Federal Receipts	Revenue	1002	Federal Funds		245.00	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4568.70	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	122.30	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		8172.10	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		189.50	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	50.00	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	Permanent Full-Time	Position Count	0			62.00	0	0	0	0	0	0	0	0	0										
+11000	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	758	12	Matanuska-Susitna College	Permanent Part-Time	Position Count	0			1.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	Personal Services	Expenditure	0			4656.80	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	Travel	Expenditure	0			34.50	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	Contractual Services	Expenditure	0			1239.90	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	Commodities	Expenditure	0			251.80	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	Capital Outlay	Expenditure	0			36.40	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	Grants, Benefits	Expenditure	0			27.50	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	Miscellaneous	Expenditure	0			5.50	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	1002 Federal Receipts	Revenue	1002	Federal Funds		800.00	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2666.70	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	177.30	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		2508.90	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		89.50	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	10.00	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	699	6	Univ of Alaska Anchorage CC	759	13	Prince Wm Sound College	Permanent Full-Time	Position Count	0			39.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	Personal Services	Expenditure	0			2262.20	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	Travel	Expenditure	0			213.70	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	Contractual Services	Expenditure	0			1299.50	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	Commodities	Expenditure	0			73.90	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	Grants, Benefits	Expenditure	0			118.30	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	1002 Federal Receipts	Revenue	1002	Federal Funds		1401.20	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1100.30	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	266.60	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		1149.50	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		0	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	50.00	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	Permanent Full-Time	Position Count	0			22.00	0	0	0	0	0	0	0	0	0										
+11000	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1417	14	Bristol Bay Campus	Permanent Part-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	744	15	Chukchi Campus	Personal Services	Expenditure	0			970.00	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	744	15	Chukchi Campus	Travel	Expenditure	0			10.80	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	744	15	Chukchi Campus	Contractual Services	Expenditure	0			1128.80	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	744	15	Chukchi Campus	Commodities	Expenditure	0			62.60	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	744	15	Chukchi Campus	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	744	15	Chukchi Campus	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	744	15	Chukchi Campus	Grants, Benefits	Expenditure	0			13.20	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	744	15	Chukchi Campus	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	744	15	Chukchi Campus	1002 Federal Receipts	Revenue	1002	Federal Funds		984.90	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	744	15	Chukchi Campus	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		607.80	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	744	15	Chukchi Campus	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		592.70	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	744	15	Chukchi Campus	Permanent Full-Time	Position Count	0			8.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	Personal Services	Expenditure	0			4476.00	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	Travel	Expenditure	0			149.00	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	Contractual Services	Expenditure	0			4206.90	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	Commodities	Expenditure	0			114.30	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	Grants, Benefits	Expenditure	0			265.00	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	1002 Federal Receipts	Revenue	1002	Federal Funds		442.30	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4786.30	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	360.60	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		3389.10	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	232.90	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	Permanent Full-Time	Position Count	0			43.00	0	0	0	0	0	0	0	0	0										
+11000	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	956	16	College of Rural and Comm Dev	Permanent Part-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	Personal Services	Expenditure	0			2688.20	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	Travel	Expenditure	0			199.60	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	Contractual Services	Expenditure	0			2082.20	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	Commodities	Expenditure	0			89.50	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	Grants, Benefits	Expenditure	0			141.70	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	1002 Federal Receipts	Revenue	1002	Federal Funds		1594.70	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1294.50	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	342.50	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		1797.30	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		47.20	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	125.00	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	1418	17	Interior Alaska Campus	Permanent Full-Time	Position Count	0			28.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	Personal Services	Expenditure	0			3674.50	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	Travel	Expenditure	0			123.20	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	Contractual Services	Expenditure	0			2125.70	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	Commodities	Expenditure	0			171.60	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	Grants, Benefits	Expenditure	0			128.20	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	1002 Federal Receipts	Revenue	1002	Federal Funds		826.10	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		2324.60	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	258.80	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		2385.00	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		374.00	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	54.70	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	Permanent Full-Time	Position Count	0			33.00	0	0	0	0	0	0	0	0	0										
+11000	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	746	18	Kuskokwim Campus	Permanent Part-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	Personal Services	Expenditure	0			1723.10	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	Travel	Expenditure	0			111.30	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	Contractual Services	Expenditure	0			2954.60	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	Commodities	Expenditure	0			71.00	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	Grants, Benefits	Expenditure	0			62.00	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	1002 Federal Receipts	Revenue	1002	Federal Funds		2920.70	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1161.70	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	11.10	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		642.90	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		80.60	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	105.00	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	700	7	Univ of Alaska Fairbanks CC	747	19	Northwest Campus	Permanent Full-Time	Position Count	0			15.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	Personal Services	Expenditure	0			23758.10	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	Travel	Expenditure	0			471.60	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	Contractual Services	Expenditure	0			12656.10	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	Commodities	Expenditure	0			5097.70	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	Capital Outlay	Expenditure	0			156.60	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	Grants, Benefits	Expenditure	0			2367.20	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	Miscellaneous	Expenditure	0			555.30	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	1002 Federal Receipts	Revenue	1002	Federal Funds		4047.10	0	0	0	0	0	0	0	0	0										
+1003	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		18.20	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		21878.20	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	749.10	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		16786.50	0	0	0	0	0	0	0	0	0										
+1061	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	431.60	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		228.20	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	923.70	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	Permanent Full-Time	Position Count	0			231.00	0	0	0	0	0	0	0	0	0										
+11000	45	170	University of Alaska	237	8	Univ of Alaska Southeast	762	21	Juneau Campus	Permanent Part-Time	Position Count	0			9.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	Personal Services	Expenditure	0			3293.50	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	Travel	Expenditure	0			32.40	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	Contractual Services	Expenditure	0			529.30	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	Commodities	Expenditure	0			821.10	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	Capital Outlay	Expenditure	0			96.50	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	Grants, Benefits	Expenditure	0			149.20	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	1002 Federal Receipts	Revenue	1002	Federal Funds		850.00	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1602.90	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	166.60	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		1997.10	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		300.30	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	5.10	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	Permanent Full-Time	Position Count	0			32.00	0	0	0	0	0	0	0	0	0										
+11000	45	170	University of Alaska	237	8	Univ of Alaska Southeast	765	22	Ketchikan Campus	Permanent Part-Time	Position Count	0			4.00	0	0	0	0	0	0	0	0	0										
+1	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	Personal Services	Expenditure	0			3569.40	0	0	0	0	0	0	0	0	0										
+2	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	Travel	Expenditure	0			105.00	0	0	0	0	0	0	0	0	0										
+3	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	Contractual Services	Expenditure	0			2233.40	0	0	0	0	0	0	0	0	0										
+4	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	Commodities	Expenditure	0			993.70	0	0	0	0	0	0	0	0	0										
+5	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	Grants, Benefits	Expenditure	0			63.50	0	0	0	0	0	0	0	0	0										
+8	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	1002 Federal Receipts	Revenue	1002	Federal Funds		1480.10	0	0	0	0	0	0	0	0	0										
+1004	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		1935.30	0	0	0	0	0	0	0	0	0										
+1007	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	179.60	0	0	0	0	0	0	0	0	0										
+1048	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	1048 University Restricted Receipts	Revenue	1048	Designated General Funds		3258.00	0	0	0	0	0	0	0	0	0										
+1151	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	1151 Technical Vocational Education Program Account	Revenue	1151	Designated General Funds		64.50	0	0	0	0	0	0	0	0	0										
+1174	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	1174 UA Intra-Agency Transfers	Revenue	1174	Other Funds	Duplicated	47.50	0	0	0	0	0	0	0	0	0										
+10000	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	Permanent Full-Time	Position Count	0			35.00	0	0	0	0	0	0	0	0	0										
+11000	45	170	University of Alaska	237	8	Univ of Alaska Southeast	764	23	Sitka Campus	Permanent Part-Time	Position Count	0			3.00	0	0	0	0	0	0	0	0	0										

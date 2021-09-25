@@ -53,15 +53,16 @@ SetWorkingDir %A_ScriptDir%                                             ; Ensure
 #Include includes\sankey_reference.ahk                                  ; human readable reference file for object structures
 
 ; STATIC COLUMNS FOR OPERATING BUDGET SOURCE DATA
-department_column           := 4     ; e.g. Transportation
-rdu_column                  := 7     ; e.g. Marine Highway System
-component_column            := 10    ; e.g. Vessel Operations
-fund_column                 := 11    ; e.g. 1004 GF
-line_column                 := 12    ; e.g. Expenditure/Revenue
-group_column                := 14    ; e.g. UGF/DFG/FED/OTHER
-value_column                := 16    ; e.g. (value)
-scenario_column             := 11    ;
-scenario_row                := 2     ;
+department_column	:= 4     ; e.g. Transportation
+rdu_column		:= 7     ; e.g. Marine Highway System
+component_column	:= 10    ; e.g. Vessel Operations
+fund_column		:= 11    ; e.g. 1004 GF
+line_column		:= 12    ; e.g. Expenditure/Revenue
+group_column 		:= 14    ; e.g. UGF/DFG/FED/OTHER
+value_column 		:= 16    ; e.g. (value)
+scenario_column	:= 11    ;
+scenario_row		:= 2     ;
+web_column		:= 17	
 
 ; FOR FILTERS
 position_labels             := "Permanent Part-Time|Permanent Full-Time|Non-Permanent"
@@ -157,15 +158,31 @@ FileAppend, % "Capital Category Build Time: " FormatSeconds((A_TickCount-StartTi
 StartTime := A_TickCount
 if ( input_file_2 != "" )
 {
+	project_links := {}
 	output_file_2 := csv_directory "\capital_statewide_conditioned_" A_Now ".txt"
-	cmd := "interpreter\autohotkey .\capital_etl_by_department.ahk """ input_file_2 """ """ output_file_2 """"
+	output_file_3 := csv_directory "\links_" A_Now ".txt"
+	cmd := "interpreter\autohotkey .\capital_etl_by_department.ahk """ input_file_2 """ """ output_file_2 """ """ output_file_3 """"
 	runwait, % cmd
+	loop, read, % output_file_3
+	{
+		link_content := StrSplit(A_LoopReadLine, "^")
+		link_project_name := link_content[1]
+		link_project_link := link_content[2]
+		project_links[link_project_name] := link_project_link 
+	}
 	sankey_csv_source_capital_statewide := output_file_2
 	FileRead, sankey_csv_ramfile, % sankey_csv_source_capital_statewide                ; stores source data in memory
 	cleanup_data(true)
 	#Include includes\sankey_instruction_6.ahk        ; Capital Budget
 }
 FileAppend, % "Capital Statewide Build Time: " FormatSeconds((A_TickCount-StartTime)/1000) rn, % build_directory "\build-time.txt"
+
+
+find_replace_in_file( "width: 1200," 	, "width: 1600," 	, build_directory "\transportation\plot-capital.html")
+find_replace_in_file( "height: 800," 	, "height: 4000," 	, build_directory "\transportation\plot-capital.html")
+find_replace_in_file( "width:1200px;" 	, "width:1600px;" 	, build_directory "\transportation\plot-capital.html")
+
+
 ;Run, % build_directory "\build-time.txt"
 FileRead, goodbye_msg, % build_directory "\build-time.txt"
 Gui, Hide
@@ -177,13 +194,13 @@ ExitApp
 ;=========================================================================
 ;=========================================================================
 ; MISC FUNCTIONS - Not worthy of a seperate INCLUDE
-FormatSeconds(NumberOfSeconds)  ; Convert the specified number of seconds to hh:mm:ss format.
+FormatSeconds(v_seconds)  ; Convert the specified number of seconds to hh:mm:ss format.
 {
-	time = 19990101  ; *Midnight* of an arbitrary date.
-	time += %NumberOfSeconds%, seconds
-	FormatTime, mmss, %time%, mm:ss
-	SetFormat, float, 2.0
-	return NumberOfSeconds//3600 ":" mmss  ; This method is used to support more than 24 hours worth of sections.
+	fminutes := v_seconds//60 ; calculate minutes
+	fseconds := v_seconds-(fminutes*60) ; calculate (formatted) seconds
+	if (strLen(round(fseconds)) < 2 ) ; 0-pad seconds
+		fseconds := "0" . round(fseconds)
+	return round(fminutes) . ":" . round(fseconds)
 }
 
 DoQuit() {
@@ -204,6 +221,14 @@ DoGui()
 	Winset, Alwaysontop, , akbv
 }
 
+
+find_replace_in_file(find, replace, file)
+{
+	FileRead, file_contents, % file
+	FileDelete, % file
+	FileAppend, % StrReplace(file_contents, find, replace, , 1), % file
+}
+
 GuiClose:
-	Gui, Show
+Gui, Show
 return

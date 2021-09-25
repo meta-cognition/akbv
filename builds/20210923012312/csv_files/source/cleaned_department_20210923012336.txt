@@ -1,0 +1,286 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT	scenario_webfolder1	scenario_webfolder2	scenario_webfolder3	scenario_webfolder4	scenario_webfolder5	scenario_webfolder6	scenario_webfolder7	scenario_webfolder8	scenario_webfolder9	scenario_webfolder10
+1	8	20	Commerce	119	1	Executive Admin and Dev	1027	1	Commissioner's Office	Personal Services	Expenditure	0			989.30	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	119	1	Executive Admin and Dev	1027	1	Commissioner's Office	Travel	Expenditure	0			47.60	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	119	1	Executive Admin and Dev	1027	1	Commissioner's Office	Contractual Services	Expenditure	0			236.00	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	119	1	Executive Admin and Dev	1027	1	Commissioner's Office	Commodities	Expenditure	0			28.20	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	119	1	Executive Admin and Dev	1027	1	Commissioner's Office	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	119	1	Executive Admin and Dev	1027	1	Commissioner's Office	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	119	1	Executive Admin and Dev	1027	1	Commissioner's Office	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	119	1	Executive Admin and Dev	1027	1	Commissioner's Office	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	8	20	Commerce	119	1	Executive Admin and Dev	1027	1	Commissioner's Office	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		161.50	0	0	0	0	0	0	0	0	0										
+1007	8	20	Commerce	119	1	Executive Admin and Dev	1027	1	Commissioner's Office	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1139.60	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	119	1	Executive Admin and Dev	1027	1	Commissioner's Office	Permanent Full-Time	Position Count	0			5.00	0	0	0	0	0	0	0	0	0										
+12000	8	20	Commerce	119	1	Executive Admin and Dev	1027	1	Commissioner's Office	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Personal Services	Expenditure	0			3787.30	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Travel	Expenditure	0			13.50	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Contractual Services	Expenditure	0			746.00	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Commodities	Expenditure	0			41.10	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Capital Outlay	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	8	20	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		667.30	0	0	0	0	0	0	0	0	0										
+1007	8	20	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	3902.40	0	0	0	0	0	0	0	0	0										
+1061	8	20	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	23.20	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	119	1	Executive Admin and Dev	1028	2	Administrative Services	Permanent Full-Time	Position Count	0			29.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	536	2	Banking and Securities	2808	0	Banking and Securities	Personal Services	Expenditure	0			3210.40	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	536	2	Banking and Securities	2808	0	Banking and Securities	Travel	Expenditure	0			109.20	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	536	2	Banking and Securities	2808	0	Banking and Securities	Contractual Services	Expenditure	0			977.10	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	536	2	Banking and Securities	2808	0	Banking and Securities	Commodities	Expenditure	0			45.00	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	536	2	Banking and Securities	2808	0	Banking and Securities	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	536	2	Banking and Securities	2808	0	Banking and Securities	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	536	2	Banking and Securities	2808	0	Banking and Securities	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	536	2	Banking and Securities	2808	0	Banking and Securities	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1005	8	20	Commerce	536	2	Banking and Securities	2808	0	Banking and Securities	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		4341.70	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	536	2	Banking and Securities	2808	0	Banking and Securities	Permanent Full-Time	Position Count	0			26.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	Personal Services	Expenditure	0			5199.70	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	Travel	Expenditure	0			176.90	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	Contractual Services	Expenditure	0			2573.00	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	Commodities	Expenditure	0			76.50	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	Grants, Benefits	Expenditure	0			186679.20	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	1002 Federal Receipts	Revenue	1002	Federal Funds		2016.20	0	0	0	0	0	0	0	0	0										
+1003	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		844.60	0	0	0	0	0	0	0	0	0										
+1004	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		4874.80	0	0	0	0	0	0	0	0	0										
+1005	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		10.00	0	0	0	0	0	0	0	0	0										
+1007	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	100.10	0	0	0	0	0	0	0	0	0										
+1037	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	1037 General Fund / Mental Health	Revenue	1037	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0										
+1061	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	747.00	0	0	0	0	0	0	0	0	0										
+1108	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		128.40	0	0	0	0	0	0	0	0	0										
+1202	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	1202 Anatomical Gift Awareness Fund	Revenue	1202	Designated General Funds		80.00	0	0	0	0	0	0	0	0	0										
+1216	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	1216 Boat Registration Fees	Revenue	1216	Designated General Funds		196.90	0	0	0	0	0	0	0	0	0										
+1221	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	1221 Civil Legal Services Fund	Revenue	1221	Designated General Funds		311.60	0	0	0	0	0	0	0	0	0										
+1265	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	1265 Non-specific COVID Fed	Revenue	1265	Federal Funds		185395.70	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	405	3	Community and Regional Affairs	2879	0	Community & Regional Affairs	Permanent Full-Time	Position Count	0			43.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	405	3	Community and Regional Affairs	2946	1	Serve Alaska	Personal Services	Expenditure	0			382.60	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	405	3	Community and Regional Affairs	2946	1	Serve Alaska	Travel	Expenditure	0			15.60	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	405	3	Community and Regional Affairs	2946	1	Serve Alaska	Contractual Services	Expenditure	0			203.90	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	405	3	Community and Regional Affairs	2946	1	Serve Alaska	Commodities	Expenditure	0			46.40	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	405	3	Community and Regional Affairs	2946	1	Serve Alaska	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	405	3	Community and Regional Affairs	2946	1	Serve Alaska	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	405	3	Community and Regional Affairs	2946	1	Serve Alaska	Grants, Benefits	Expenditure	0			1497.30	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	405	3	Community and Regional Affairs	2946	1	Serve Alaska	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	8	20	Commerce	405	3	Community and Regional Affairs	2946	1	Serve Alaska	1002 Federal Receipts	Revenue	1002	Federal Funds		1890.10	0	0	0	0	0	0	0	0	0										
+1003	8	20	Commerce	405	3	Community and Regional Affairs	2946	1	Serve Alaska	1003 General Fund Match	Revenue	1003	Unrestricted General Funds		201.70	0	0	0	0	0	0	0	0	0										
+1004	8	20	Commerce	405	3	Community and Regional Affairs	2946	1	Serve Alaska	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		34.00	0	0	0	0	0	0	0	0	0										
+1108	8	20	Commerce	405	3	Community and Regional Affairs	2946	1	Serve Alaska	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		20.00	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	405	3	Community and Regional Affairs	2946	1	Serve Alaska	Permanent Full-Time	Position Count	0			2.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	217	4	Revenue Sharing	2829	1	Payment in Lieu of Taxes	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	217	4	Revenue Sharing	2829	1	Payment in Lieu of Taxes	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	217	4	Revenue Sharing	2829	1	Payment in Lieu of Taxes	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	217	4	Revenue Sharing	2829	1	Payment in Lieu of Taxes	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	217	4	Revenue Sharing	2829	1	Payment in Lieu of Taxes	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	217	4	Revenue Sharing	2829	1	Payment in Lieu of Taxes	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	217	4	Revenue Sharing	2829	1	Payment in Lieu of Taxes	Grants, Benefits	Expenditure	0			10428.20	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	217	4	Revenue Sharing	2829	1	Payment in Lieu of Taxes	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	8	20	Commerce	217	4	Revenue Sharing	2829	1	Payment in Lieu of Taxes	1002 Federal Receipts	Revenue	1002	Federal Funds		10428.20	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	217	4	Revenue Sharing	2830	2	National Forest Receipts	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	217	4	Revenue Sharing	2830	2	National Forest Receipts	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	217	4	Revenue Sharing	2830	2	National Forest Receipts	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	217	4	Revenue Sharing	2830	2	National Forest Receipts	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	217	4	Revenue Sharing	2830	2	National Forest Receipts	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	217	4	Revenue Sharing	2830	2	National Forest Receipts	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	217	4	Revenue Sharing	2830	2	National Forest Receipts	Grants, Benefits	Expenditure	0			600.00	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	217	4	Revenue Sharing	2830	2	National Forest Receipts	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	8	20	Commerce	217	4	Revenue Sharing	2830	2	National Forest Receipts	1002 Federal Receipts	Revenue	1002	Federal Funds		600.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	217	4	Revenue Sharing	2482	3	Fisheries Taxes	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	217	4	Revenue Sharing	2482	3	Fisheries Taxes	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	217	4	Revenue Sharing	2482	3	Fisheries Taxes	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	217	4	Revenue Sharing	2482	3	Fisheries Taxes	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	217	4	Revenue Sharing	2482	3	Fisheries Taxes	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	217	4	Revenue Sharing	2482	3	Fisheries Taxes	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	217	4	Revenue Sharing	2482	3	Fisheries Taxes	Grants, Benefits	Expenditure	0			3100.00	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	217	4	Revenue Sharing	2482	3	Fisheries Taxes	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1007	8	20	Commerce	217	4	Revenue Sharing	2482	3	Fisheries Taxes	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	3100.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	Personal Services	Expenditure	0			10458.80	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	Travel	Expenditure	0			269.50	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	Contractual Services	Expenditure	0			5287.50	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	Commodities	Expenditure	0			143.90	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	Capital Outlay	Expenditure	0			7.40	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		434.60	0	0	0	0	0	0	0	0	0										
+1005	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		1614.50	0	0	0	0	0	0	0	0	0										
+1007	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	1022.80	0	0	0	0	0	0	0	0	0										
+1040	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	1040 Real Estate Surety Fund	Revenue	1040	Designated General Funds		297.40	0	0	0	0	0	0	0	0	0										
+1108	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		32.60	0	0	0	0	0	0	0	0	0										
+1156	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	1156 Receipt Supported Services	Revenue	1156	Designated General Funds		12765.20	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	117	5	Corp, Bus & Prof Licenses	2360	0	Corp, Bus & Prof Licensing	Permanent Full-Time	Position Count	0			100.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	598	6	Economic Development	2743	3	Economic Development	Personal Services	Expenditure	0			137.40	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	598	6	Economic Development	2743	3	Economic Development	Travel	Expenditure	0			16.30	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	598	6	Economic Development	2743	3	Economic Development	Contractual Services	Expenditure	0			62.90	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	598	6	Economic Development	2743	3	Economic Development	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	598	6	Economic Development	2743	3	Economic Development	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	598	6	Economic Development	2743	3	Economic Development	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	598	6	Economic Development	2743	3	Economic Development	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	598	6	Economic Development	2743	3	Economic Development	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	8	20	Commerce	598	6	Economic Development	2743	3	Economic Development	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		216.60	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	598	6	Economic Development	2743	3	Economic Development	Permanent Full-Time	Position Count	0			0	0	0	0	0	0	0	0	0	0										
+12000	8	20	Commerce	598	6	Economic Development	2743	3	Economic Development	Non-Permanent	Position Count	0			1.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	122	7	Investments	383	1	Investments	Personal Services	Expenditure	0			4176.10	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	122	7	Investments	383	1	Investments	Travel	Expenditure	0			41.10	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	122	7	Investments	383	1	Investments	Contractual Services	Expenditure	0			1217.80	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	122	7	Investments	383	1	Investments	Commodities	Expenditure	0			105.00	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	122	7	Investments	383	1	Investments	Capital Outlay	Expenditure	0			14.20	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	122	7	Investments	383	1	Investments	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	122	7	Investments	383	1	Investments	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	122	7	Investments	383	1	Investments	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1036	8	20	Commerce	122	7	Investments	383	1	Investments	1036 Commercial Fishing Loan Fund	Revenue	1036	Designated General Funds		4662.00	0	0	0	0	0	0	0	0	0										
+1070	8	20	Commerce	122	7	Investments	383	1	Investments	1070 Fisheries Enhancement Revolving Loan Fund	Revenue	1070	Designated General Funds		659.00	0	0	0	0	0	0	0	0	0										
+1074	8	20	Commerce	122	7	Investments	383	1	Investments	1074 Bulk Fuel Revolving Loan Fund	Revenue	1074	Designated General Funds		59.70	0	0	0	0	0	0	0	0	0										
+1164	8	20	Commerce	122	7	Investments	383	1	Investments	1164 Rural Development Initiative Fund	Revenue	1164	Designated General Funds		62.80	0	0	0	0	0	0	0	0	0										
+1170	8	20	Commerce	122	7	Investments	383	1	Investments	1170 Small Business Economic Development Revolving Loan Fund	Revenue	1170	Designated General Funds		59.40	0	0	0	0	0	0	0	0	0										
+1223	8	20	Commerce	122	7	Investments	383	1	Investments	1223 Commercial Charter Fisheries RLF	Revenue	1223	Designated General Funds		20.40	0	0	0	0	0	0	0	0	0										
+1224	8	20	Commerce	122	7	Investments	383	1	Investments	1224 Mariculture Revolving Loan Fund	Revenue	1224	Designated General Funds		20.70	0	0	0	0	0	0	0	0	0										
+1227	8	20	Commerce	122	7	Investments	383	1	Investments	1227 Alaska Microloan Revolving Loan Fund	Revenue	1227	Designated General Funds		10.20	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	122	7	Investments	383	1	Investments	Permanent Full-Time	Position Count	0			37.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	116	8	Insurance	354	1	Insurance Operations	Personal Services	Expenditure	0			5577.50	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	116	8	Insurance	354	1	Insurance Operations	Travel	Expenditure	0			191.80	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	116	8	Insurance	354	1	Insurance Operations	Contractual Services	Expenditure	0			2312.70	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	116	8	Insurance	354	1	Insurance Operations	Commodities	Expenditure	0			59.20	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	116	8	Insurance	354	1	Insurance Operations	Capital Outlay	Expenditure	0			35.30	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	116	8	Insurance	354	1	Insurance Operations	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	116	8	Insurance	354	1	Insurance Operations	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	116	8	Insurance	354	1	Insurance Operations	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	8	20	Commerce	116	8	Insurance	354	1	Insurance Operations	1002 Federal Receipts	Revenue	1002	Federal Funds		277.70	0	0	0	0	0	0	0	0	0										
+1061	8	20	Commerce	116	8	Insurance	354	1	Insurance Operations	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	239.20	0	0	0	0	0	0	0	0	0										
+1108	8	20	Commerce	116	8	Insurance	354	1	Insurance Operations	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		55.00	0	0	0	0	0	0	0	0	0										
+1156	8	20	Commerce	116	8	Insurance	354	1	Insurance Operations	1156 Receipt Supported Services	Revenue	1156	Designated General Funds		7604.60	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	116	8	Insurance	354	1	Insurance Operations	Permanent Full-Time	Position Count	0			46.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	21	9	AK Oil & Gas Conservation Comm	3269	0	AK Oil & Gas Conservation Comm	Personal Services	Expenditure	0			5990.50	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	21	9	AK Oil & Gas Conservation Comm	3269	0	AK Oil & Gas Conservation Comm	Travel	Expenditure	0			215.00	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	21	9	AK Oil & Gas Conservation Comm	3269	0	AK Oil & Gas Conservation Comm	Contractual Services	Expenditure	0			2051.70	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	21	9	AK Oil & Gas Conservation Comm	3269	0	AK Oil & Gas Conservation Comm	Commodities	Expenditure	0			90.70	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	21	9	AK Oil & Gas Conservation Comm	3269	0	AK Oil & Gas Conservation Comm	Capital Outlay	Expenditure	0			12.70	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	21	9	AK Oil & Gas Conservation Comm	3269	0	AK Oil & Gas Conservation Comm	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	21	9	AK Oil & Gas Conservation Comm	3269	0	AK Oil & Gas Conservation Comm	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	21	9	AK Oil & Gas Conservation Comm	3269	0	AK Oil & Gas Conservation Comm	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	8	20	Commerce	21	9	AK Oil & Gas Conservation Comm	3269	0	AK Oil & Gas Conservation Comm	1002 Federal Receipts	Revenue	1002	Federal Funds		170.00	0	0	0	0	0	0	0	0	0										
+1004	8	20	Commerce	21	9	AK Oil & Gas Conservation Comm	3269	0	AK Oil & Gas Conservation Comm	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		310.50	0	0	0	0	0	0	0	0	0										
+1108	8	20	Commerce	21	9	AK Oil & Gas Conservation Comm	3269	0	AK Oil & Gas Conservation Comm	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		150.00	0	0	0	0	0	0	0	0	0										
+1162	8	20	Commerce	21	9	AK Oil & Gas Conservation Comm	3269	0	AK Oil & Gas Conservation Comm	1162 Alaska Oil & Gas Conservation Commission Rcpts	Revenue	1162	Designated General Funds		7730.10	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	21	9	AK Oil & Gas Conservation Comm	3269	0	AK Oil & Gas Conservation Comm	Permanent Full-Time	Position Count	0			32.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	647	10	Alcohol and Marijuana Control	3119	0	Alcohol and Marijuana Control	Personal Services	Expenditure	0			2470.90	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	647	10	Alcohol and Marijuana Control	3119	0	Alcohol and Marijuana Control	Travel	Expenditure	0			135.00	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	647	10	Alcohol and Marijuana Control	3119	0	Alcohol and Marijuana Control	Contractual Services	Expenditure	0			1286.80	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	647	10	Alcohol and Marijuana Control	3119	0	Alcohol and Marijuana Control	Commodities	Expenditure	0			115.70	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	647	10	Alcohol and Marijuana Control	3119	0	Alcohol and Marijuana Control	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	647	10	Alcohol and Marijuana Control	3119	0	Alcohol and Marijuana Control	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	647	10	Alcohol and Marijuana Control	3119	0	Alcohol and Marijuana Control	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	647	10	Alcohol and Marijuana Control	3119	0	Alcohol and Marijuana Control	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	8	20	Commerce	647	10	Alcohol and Marijuana Control	3119	0	Alcohol and Marijuana Control	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		117.70	0	0	0	0	0	0	0	0	0										
+1005	8	20	Commerce	647	10	Alcohol and Marijuana Control	3119	0	Alcohol and Marijuana Control	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		3890.70	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	647	10	Alcohol and Marijuana Control	3119	0	Alcohol and Marijuana Control	Permanent Full-Time	Position Count	0			22.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	618	11	Ak Gasline Development	2986	2	AK Gasline Development Corp	Personal Services	Expenditure	0			1891.50	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	618	11	Ak Gasline Development	2986	2	AK Gasline Development Corp	Travel	Expenditure	0			20.00	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	618	11	Ak Gasline Development	2986	2	AK Gasline Development Corp	Contractual Services	Expenditure	0			1221.00	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	618	11	Ak Gasline Development	2986	2	AK Gasline Development Corp	Commodities	Expenditure	0			40.00	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	618	11	Ak Gasline Development	2986	2	AK Gasline Development Corp	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	618	11	Ak Gasline Development	2986	2	AK Gasline Development Corp	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	618	11	Ak Gasline Development	2986	2	AK Gasline Development Corp	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	618	11	Ak Gasline Development	2986	2	AK Gasline Development Corp	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1235	8	20	Commerce	618	11	Ak Gasline Development	2986	2	AK Gasline Development Corp	1235 Alaska Liquefied Natural Gas Project Fund (AGDC-LNG)	Revenue	1235	Other Funds	Duplicated	3172.50	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	618	11	Ak Gasline Development	2986	2	AK Gasline Development Corp	Permanent Full-Time	Position Count	0			12.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	453	12	Alaska Energy Authority	2599	0	AEA Owned Facilities	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	453	12	Alaska Energy Authority	2599	0	AEA Owned Facilities	Travel	Expenditure	0			30.00	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	453	12	Alaska Energy Authority	2599	0	AEA Owned Facilities	Contractual Services	Expenditure	0			737.70	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	453	12	Alaska Energy Authority	2599	0	AEA Owned Facilities	Commodities	Expenditure	0			8.00	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	453	12	Alaska Energy Authority	2599	0	AEA Owned Facilities	Capital Outlay	Expenditure	0			5.00	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	453	12	Alaska Energy Authority	2599	0	AEA Owned Facilities	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	453	12	Alaska Energy Authority	2599	0	AEA Owned Facilities	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	453	12	Alaska Energy Authority	2599	0	AEA Owned Facilities	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1107	8	20	Commerce	453	12	Alaska Energy Authority	2599	0	AEA Owned Facilities	1107 Alaska Energy Authority Corporate Receipts	Revenue	1107	Other Funds		780.70	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	Travel	Expenditure	0			104.80	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	Contractual Services	Expenditure	0			5255.50	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	Commodities	Expenditure	0			48.00	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	Capital Outlay	Expenditure	0			10.00	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	Grants, Benefits	Expenditure	0			100.00	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	1002 Federal Receipts	Revenue	1002	Federal Funds		1202.00	0	0	0	0	0	0	0	0	0										
+1004	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		847.30	0	0	0	0	0	0	0	0	0										
+1005	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	1005 General Fund/Program Receipts	Revenue	1005	Designated General Funds		50.00	0	0	0	0	0	0	0	0	0										
+1007	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	123.90	0	0	0	0	0	0	0	0	0										
+1061	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	1767.80	0	0	0	0	0	0	0	0	0										
+1062	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	1062 Power Project Loan Fund	Revenue	1062	Designated General Funds		995.50	0	0	0	0	0	0	0	0	0										
+1108	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		150.00	0	0	0	0	0	0	0	0	0										
+1169	8	20	Commerce	453	12	Alaska Energy Authority	2600	0	AEA Rural Energy Assistance	1169 PCE Endowment Fund	Revenue	1169	Designated General Funds		381.80	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	453	12	Alaska Energy Authority	2602	0	AEA Power Cost Equalization	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	453	12	Alaska Energy Authority	2602	0	AEA Power Cost Equalization	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	453	12	Alaska Energy Authority	2602	0	AEA Power Cost Equalization	Contractual Services	Expenditure	0			355.00	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	453	12	Alaska Energy Authority	2602	0	AEA Power Cost Equalization	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	453	12	Alaska Energy Authority	2602	0	AEA Power Cost Equalization	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	453	12	Alaska Energy Authority	2602	0	AEA Power Cost Equalization	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	453	12	Alaska Energy Authority	2602	0	AEA Power Cost Equalization	Grants, Benefits	Expenditure	0			32000.00	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	453	12	Alaska Energy Authority	2602	0	AEA Power Cost Equalization	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1169	8	20	Commerce	453	12	Alaska Energy Authority	2602	0	AEA Power Cost Equalization	1169 PCE Endowment Fund	Revenue	1169	Designated General Funds		32355.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	453	12	Alaska Energy Authority	2888	0	Alternative Energy & Efficiency	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	453	12	Alaska Energy Authority	2888	0	Alternative Energy & Efficiency	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	453	12	Alaska Energy Authority	2888	0	Alternative Energy & Efficiency	Contractual Services	Expenditure	0			2200.00	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	453	12	Alaska Energy Authority	2888	0	Alternative Energy & Efficiency	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	453	12	Alaska Energy Authority	2888	0	Alternative Energy & Efficiency	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	453	12	Alaska Energy Authority	2888	0	Alternative Energy & Efficiency	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	453	12	Alaska Energy Authority	2888	0	Alternative Energy & Efficiency	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	453	12	Alaska Energy Authority	2888	0	Alternative Energy & Efficiency	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1061	8	20	Commerce	453	12	Alaska Energy Authority	2888	0	Alternative Energy & Efficiency	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	800.00	0	0	0	0	0	0	0	0	0										
+1210	8	20	Commerce	453	12	Alaska Energy Authority	2888	0	Alternative Energy & Efficiency	1210 Renewable Energy Grant Fund	Revenue	1210	Designated General Funds		1400.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	125	13	AIDEA	1234	1	AIDEA	Personal Services	Expenditure	0			12573.50	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	125	13	AIDEA	1234	1	AIDEA	Travel	Expenditure	0			143.30	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	125	13	AIDEA	1234	1	AIDEA	Contractual Services	Expenditure	0			2676.20	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	125	13	AIDEA	1234	1	AIDEA	Commodities	Expenditure	0			68.90	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	125	13	AIDEA	1234	1	AIDEA	Capital Outlay	Expenditure	0			35.50	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	125	13	AIDEA	1234	1	AIDEA	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	125	13	AIDEA	1234	1	AIDEA	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	125	13	AIDEA	1234	1	AIDEA	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1007	8	20	Commerce	125	13	AIDEA	1234	1	AIDEA	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	6655.90	0	0	0	0	0	0	0	0	0										
+1061	8	20	Commerce	125	13	AIDEA	1234	1	AIDEA	1061 Capital Improvement Project Receipts	Revenue	1061	Other Funds	Duplicated	245.60	0	0	0	0	0	0	0	0	0										
+1102	8	20	Commerce	125	13	AIDEA	1234	1	AIDEA	1102 Alaska Industrial Development & Export Authority Receipts	Revenue	1102	Other Funds		8595.90	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	125	13	AIDEA	1234	1	AIDEA	Permanent Full-Time	Position Count	0			82.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	125	13	AIDEA	2361	2	AIDEA Facilities Maintenance	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	125	13	AIDEA	2361	2	AIDEA Facilities Maintenance	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	125	13	AIDEA	2361	2	AIDEA Facilities Maintenance	Contractual Services	Expenditure	0			337.00	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	125	13	AIDEA	2361	2	AIDEA Facilities Maintenance	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	125	13	AIDEA	2361	2	AIDEA Facilities Maintenance	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	125	13	AIDEA	2361	2	AIDEA Facilities Maintenance	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	125	13	AIDEA	2361	2	AIDEA Facilities Maintenance	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	125	13	AIDEA	2361	2	AIDEA Facilities Maintenance	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1102	8	20	Commerce	125	13	AIDEA	2361	2	AIDEA Facilities Maintenance	1102 Alaska Industrial Development & Export Authority Receipts	Revenue	1102	Other Funds		337.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	126	14	Alaska Seafood Marketing Inst	393	1	Alaska Seafood Marketing Inst	Personal Services	Expenditure	0			2946.80	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	126	14	Alaska Seafood Marketing Inst	393	1	Alaska Seafood Marketing Inst	Travel	Expenditure	0			829.70	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	126	14	Alaska Seafood Marketing Inst	393	1	Alaska Seafood Marketing Inst	Contractual Services	Expenditure	0			29224.20	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	126	14	Alaska Seafood Marketing Inst	393	1	Alaska Seafood Marketing Inst	Commodities	Expenditure	0			378.40	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	126	14	Alaska Seafood Marketing Inst	393	1	Alaska Seafood Marketing Inst	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	126	14	Alaska Seafood Marketing Inst	393	1	Alaska Seafood Marketing Inst	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	126	14	Alaska Seafood Marketing Inst	393	1	Alaska Seafood Marketing Inst	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	126	14	Alaska Seafood Marketing Inst	393	1	Alaska Seafood Marketing Inst	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1002	8	20	Commerce	126	14	Alaska Seafood Marketing Inst	393	1	Alaska Seafood Marketing Inst	1002 Federal Receipts	Revenue	1002	Federal Funds		10383.80	0	0	0	0	0	0	0	0	0										
+1108	8	20	Commerce	126	14	Alaska Seafood Marketing Inst	393	1	Alaska Seafood Marketing Inst	1108 Statutory Designated Program Receipts	Revenue	1108	Other Funds		15995.30	0	0	0	0	0	0	0	0	0										
+1269	8	20	Commerce	126	14	Alaska Seafood Marketing Inst	393	1	Alaska Seafood Marketing Inst	1269 CSLFRF (Fed) Flexible ARP Funding	Revenue	1269	Federal Funds		7000.00	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	126	14	Alaska Seafood Marketing Inst	393	1	Alaska Seafood Marketing Inst	Permanent Full-Time	Position Count	0			20.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	399	15	Reg Comm of Ak	2417	0	Reg Comm of AK	Personal Services	Expenditure	0			7877.90	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	399	15	Reg Comm of Ak	2417	0	Reg Comm of AK	Travel	Expenditure	0			30.40	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	399	15	Reg Comm of Ak	2417	0	Reg Comm of AK	Contractual Services	Expenditure	0			1864.60	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	399	15	Reg Comm of Ak	2417	0	Reg Comm of AK	Commodities	Expenditure	0			156.90	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	399	15	Reg Comm of Ak	2417	0	Reg Comm of AK	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	399	15	Reg Comm of Ak	2417	0	Reg Comm of AK	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	399	15	Reg Comm of Ak	2417	0	Reg Comm of AK	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	399	15	Reg Comm of Ak	2417	0	Reg Comm of AK	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	8	20	Commerce	399	15	Reg Comm of Ak	2417	0	Reg Comm of AK	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		371.70	0	0	0	0	0	0	0	0	0										
+1007	8	20	Commerce	399	15	Reg Comm of Ak	2417	0	Reg Comm of AK	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	139.90	0	0	0	0	0	0	0	0	0										
+1141	8	20	Commerce	399	15	Reg Comm of Ak	2417	0	Reg Comm of AK	1141 RCA Receipts	Revenue	1141	Designated General Funds		9418.20	0	0	0	0	0	0	0	0	0										
+10000	8	20	Commerce	399	15	Reg Comm of Ak	2417	0	Reg Comm of AK	Permanent Full-Time	Position Count	0			58.00	0	0	0	0	0	0	0	0	0										
+12000	8	20	Commerce	399	15	Reg Comm of Ak	2417	0	Reg Comm of AK	Non-Permanent	Position Count	0			3.00	0	0	0	0	0	0	0	0	0										
+1	8	20	Commerce	411	16	DCCED State Facilities Rent	2472	0	DCCED State Facilities Rent	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	8	20	Commerce	411	16	DCCED State Facilities Rent	2472	0	DCCED State Facilities Rent	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	8	20	Commerce	411	16	DCCED State Facilities Rent	2472	0	DCCED State Facilities Rent	Contractual Services	Expenditure	0			1359.40	0	0	0	0	0	0	0	0	0										
+4	8	20	Commerce	411	16	DCCED State Facilities Rent	2472	0	DCCED State Facilities Rent	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	8	20	Commerce	411	16	DCCED State Facilities Rent	2472	0	DCCED State Facilities Rent	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	8	20	Commerce	411	16	DCCED State Facilities Rent	2472	0	DCCED State Facilities Rent	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	8	20	Commerce	411	16	DCCED State Facilities Rent	2472	0	DCCED State Facilities Rent	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	8	20	Commerce	411	16	DCCED State Facilities Rent	2472	0	DCCED State Facilities Rent	Miscellaneous	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+1004	8	20	Commerce	411	16	DCCED State Facilities Rent	2472	0	DCCED State Facilities Rent	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		599.20	0	0	0	0	0	0	0	0	0										
+1007	8	20	Commerce	411	16	DCCED State Facilities Rent	2472	0	DCCED State Facilities Rent	1007 Interagency Receipts	Revenue	1007	Other Funds	Duplicated	760.20	0	0	0	0	0	0	0	0	0										

@@ -20,7 +20,7 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 			
 			if ((source_column = rdu_column) AND (target_column = component_column))
 			{
-				rdu_component_check_row := CSV_SearchColumn("sankey_csv_identifier", current_target_node, component_column)
+				rdu_component_check_row := CSV_MatchCellColumn("sankey_csv_identifier", current_target_node, component_column)
 				
 				if ( current_source_node != CSV_ReadCell("sankey_csv_identifier", rdu_component_check_row, rdu_column) )
 				{
@@ -117,7 +117,10 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 			{
 				hyperlink_id := Round(sankey_object.nodes.columns[target_column].rows[current_target_node_row].node_id)
 				this_identifier_text := hyperlink_id
-				
+				if ( add_project_links = true )
+				{
+					this_identifier_text := "https://omb.alaska.gov/ombfiles/" sankey_object.nodes.columns[target_column].rows[current_target_node_row].node_project_link
+				}
 				if ( is_child = true )
 				{
 					this_identifier_text := "@@@" . current_target_node . "@@@" 

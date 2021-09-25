@@ -1,0 +1,30 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT	scenario_webfolder1	scenario_webfolder2	scenario_webfolder3	scenario_webfolder4	scenario_webfolder5	scenario_webfolder6	scenario_webfolder7	scenario_webfolder8	scenario_webfolder9	scenario_webfolder10
+1	83	270	Permanent Fund	661	0	Permanent Fund	2616	1	Permanent Fund Dividend Fund	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	83	270	Permanent Fund	661	0	Permanent Fund	2616	1	Permanent Fund Dividend Fund	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	83	270	Permanent Fund	661	0	Permanent Fund	2616	1	Permanent Fund Dividend Fund	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+4	83	270	Permanent Fund	661	0	Permanent Fund	2616	1	Permanent Fund Dividend Fund	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	83	270	Permanent Fund	661	0	Permanent Fund	2616	1	Permanent Fund Dividend Fund	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	83	270	Permanent Fund	661	0	Permanent Fund	2616	1	Permanent Fund Dividend Fund	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	83	270	Permanent Fund	661	0	Permanent Fund	2616	1	Permanent Fund Dividend Fund	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	83	270	Permanent Fund	661	0	Permanent Fund	2616	1	Permanent Fund Dividend Fund	Miscellaneous	Expenditure	0			8538.50	0	0	0	0	0	0	0	0	0										
+1004	83	270	Permanent Fund	661	0	Permanent Fund	2616	1	Permanent Fund Dividend Fund	1004 General Fund Receipts	Revenue	1004	Unrestricted General Funds		8538.50	0	0	0	0	0	0	0	0	0										
+1243	83	270	Permanent Fund	661	0	Permanent Fund	2616	1	Permanent Fund Dividend Fund	1243 Statutory Budget Reserve Fund	Revenue	1243	Unrestricted General Funds		0	0	0	0	0	0	0	0	0	0										
+1	83	270	Permanent Fund	688	0	Permanent Fund Corpus	3287	0	Additional Approps to Principal	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	83	270	Permanent Fund	688	0	Permanent Fund Corpus	3287	0	Additional Approps to Principal	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	83	270	Permanent Fund	688	0	Permanent Fund Corpus	3287	0	Additional Approps to Principal	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+4	83	270	Permanent Fund	688	0	Permanent Fund Corpus	3287	0	Additional Approps to Principal	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	83	270	Permanent Fund	688	0	Permanent Fund Corpus	3287	0	Additional Approps to Principal	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	83	270	Permanent Fund	688	0	Permanent Fund Corpus	3287	0	Additional Approps to Principal	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	83	270	Permanent Fund	688	0	Permanent Fund Corpus	3287	0	Additional Approps to Principal	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	83	270	Permanent Fund	688	0	Permanent Fund Corpus	3287	0	Additional Approps to Principal	Miscellaneous	Expenditure	0			4041400.00	0	0	0	0	0	0	0	0	0										
+1041	83	270	Permanent Fund	688	0	Permanent Fund Corpus	3287	0	Additional Approps to Principal	1041 Permanent Fund Earnings Reserve Account	Revenue	1041	Unrestricted General Funds		4000000.00	0	0	0	0	0	0	0	0	0										
+1262	83	270	Permanent Fund	688	0	Permanent Fund Corpus	3287	0	Additional Approps to Principal	1262 Non-mandatory Royalty Deposits to the Permanent Fund	Revenue	1262	Designated General Funds		41400.00	0	0	0	0	0	0	0	0	0										
+1	83	270	Permanent Fund	689	0	PF Inflation Proofing	3266	0	Deposits Other than IP	Personal Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+2	83	270	Permanent Fund	689	0	PF Inflation Proofing	3266	0	Deposits Other than IP	Travel	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+3	83	270	Permanent Fund	689	0	PF Inflation Proofing	3266	0	Deposits Other than IP	Contractual Services	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+4	83	270	Permanent Fund	689	0	PF Inflation Proofing	3266	0	Deposits Other than IP	Commodities	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+5	83	270	Permanent Fund	689	0	PF Inflation Proofing	3266	0	Deposits Other than IP	Capital Outlay	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+6	83	270	Permanent Fund	689	0	PF Inflation Proofing	3266	0	Deposits Other than IP	Line 7600	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+7	83	270	Permanent Fund	689	0	PF Inflation Proofing	3266	0	Deposits Other than IP	Grants, Benefits	Expenditure	0			0	0	0	0	0	0	0	0	0	0										
+8	83	270	Permanent Fund	689	0	PF Inflation Proofing	3266	0	Deposits Other than IP	Miscellaneous	Expenditure	0			-4000000.00	0	0	0	0	0	0	0	0	0										
+1041	83	270	Permanent Fund	689	0	PF Inflation Proofing	3266	0	Deposits Other than IP	1041 Permanent Fund Earnings Reserve Account	Revenue	1041	Unrestricted General Funds		-4000000.00	0	0	0	0	0	0	0	0	0										

@@ -1,0 +1,10 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT
+			Public Safety			Marine Fisheries Patrol Improvements				1002 Federal Receipts	AP		Federal Funds		1100.000000								
+			Public Safety			Alaska Wildlife Troopers Marine Enforcement Repair and Replacement				1243 Statutory Budget Reserve Fund	AP		Unrestricted General Funds		1400.000000								
+			Public Safety			Boating Upgrades, Haul Outs, and Vessel Replacement				1243 Statutory Budget Reserve Fund	AP		Unrestricted General Funds		500.000000								
+			Public Safety			Fire & Life Safety Vehicles				1004 General Fund Receipts	AP		Unrestricted General Funds		150.000000								
+			Public Safety			Crime Laboratory Equipment Replacement				1004 General Fund Receipts	AP		Unrestricted General Funds		300.000000								
+			Public Safety			Replace Training Video Simulator				1004 General Fund Receipts	AP		Unrestricted General Funds		240.000000								
+			Public Safety			AWT Law Enforcement Equipment and Off-Highway Vehicle Replacement				1004 General Fund Receipts	AP		Unrestricted General Funds		750.000000								
+			Public Safety			AST Law Enforcement Equipment Replacement				1004 General Fund Receipts	AP		Unrestricted General Funds		500.000000								
+			Public Safety			Vehicle Replacement				1004 General Fund Receipts	AP		Unrestricted General Funds		1233.600000								

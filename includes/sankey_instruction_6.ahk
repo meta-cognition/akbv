@@ -58,6 +58,7 @@ for key, department_list_object in department_list
 	show_values_in_labels 	:= true
 	sum_appropriation_values := true
 	this_plot_name 		:= "plot-capital"
+	add_project_links		:= true
 	
 	include_filters := "no-filters"
 	exclude_filters := "no-filters" 
@@ -101,12 +102,12 @@ for key, department_list_object in department_list
 	include_filters := "no-filters"
 	exclude_filters := {(line_column): "AL"}
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
-	build_links(fund_column, rdu_column, fund_column, value_column, group_column, 1, true, false)
+	build_links(fund_column, rdu_column, fund_column, value_column, group_column, 1, true, true)
 	
 	include_filters := "no-filters"
 	exclude_filters := {(line_column): "AP"}
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
-	build_links(rdu_column, component_column, fund_column, value_column, group_column, 1, false, false)
+	build_links(rdu_column, component_column, fund_column, value_column, group_column, 1, false, true)
 	
 	build_json()
 	build_javascript()

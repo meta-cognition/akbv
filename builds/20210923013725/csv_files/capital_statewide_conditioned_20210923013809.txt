@@ -1,0 +1,345 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT	SCEN10_AMOUNT
+										SCEN1_AMOUNT=Final FY2022 HB69 / HB71 (4616)														
+			Department of Revenue			AHFC Supplemental Housing Development Program				1139 AHFC Div	AP		Unrestricted General Funds		3000.000000								
+			Department of Revenue			AHFC Senior Citizens Housing Development Program				1139 AHFC Div	AP		Unrestricted General Funds		1750.000000								
+			Department of Revenue			AHFC Housing and Urban Development Capital Fund Program				1002 Fed Rcpts	AP		Federal Funds		3200.000000								
+			Department of Revenue			AHFC Housing and Urban Development Federal HOME Grant				1002 Fed Rcpts	AP		Federal Funds		4000.000000								
+			Department of Revenue			AHFC Housing and Urban Development Federal HOME Grant				1139 AHFC Div	AP		Unrestricted General Funds		750.000000								
+			Department of Revenue			AHFC Federal and Other Competitive Grants				1002 Fed Rcpts	AP		Federal Funds		6000.000000								
+			Department of Revenue			AHFC Federal and Other Competitive Grants				1139 AHFC Div	AP		Unrestricted General Funds		1500.000000								
+			Department of Revenue			AHFC Competitive Grants for Public Housing				1002 Fed Rcpts	AP		Federal Funds		750.000000								
+			Department of Revenue			AHFC Competitive Grants for Public Housing				1139 AHFC Div	AP		Unrestricted General Funds		350.000000								
+			Department of Revenue			AHFC Energy Efficiency Research				1139 AHFC Div	AP		Unrestricted General Funds		500.000000								
+			Department of Revenue			MH: AHFC Beneficiary and Special Needs Housing				1092 MHTAAR	AP		Other Funds		200.000000								
+			Department of Transportation/Public Facilities			Statewide Federal Programs				1002 Fed Rcpts	AP*		Federal Funds		58260.012000								
+			Department of Transportation/Public Facilities			Statewide Federal Programs				1004 Gen Fund	AP*		Unrestricted General Funds		33.858000								
+			Department of Transportation/Public Facilities			Statewide Federal Programs				1108 Stat Desig	AP*		Other Funds		10000.000000								
+			Department of Natural Resources			National Recreational Trails Federal Grant Program				1002 Fed Rcpts	AP		Federal Funds		1500.000000								
+			Department of Natural Resources			National Recreational Trails Federal Grant Program				1005 GF/Prgm	AP		Designated General Funds		100.000000								
+			Department of Natural Resources			Abandoned Mine Lands Reclamation Federal Program				1002 Fed Rcpts	AP		Federal Funds		3200.000000								
+			Department of Natural Resources			National Historic Preservation Fund				1002 Fed Rcpts	AP		Federal Funds		600.000000								
+			Department of Transportation/Public Facilities			Federal Program Match			Federal-Aid Aviation State Match	1003 G/F Match	AL		Unrestricted General Funds		5200.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program				1002 Fed Rcpts	AP*		Federal Funds		446875.529000								
+			Department of Transportation/Public Facilities			Airport Improvement Program				1027 Int Airprt	AP*		Other Funds		27582.823000								
+			Department of Transportation/Public Facilities			Airport Improvement Program				1112 IntAptCons	AP*		Other Funds		722.059000								
+			Department of Fish and Game			Sport Fish Recreational Boating and Angler Access				1002 Fed Rcpts	AP		Federal Funds		2250.000000								
+			Department of Fish and Game			Sport Fish Recreational Boating and Angler Access				1024 Fish/Game	AP		Other Funds		750.000000								
+			Department of Transportation/Public Facilities			Alaska Marine Highway System Vessel Overhaul, Annual Certification and Shoreside Facilities Rehabilitation				1270 FHWA CRRSA	AP		Federal Funds		15000.000000								
+			Department of Transportation/Public Facilities			State Equipment Fleet Replacement				1026 Hwy Capitl	AP		Other Funds		25000.000000								
+			Department of Transportation/Public Facilities			MH: Coordinated Transportation and Vehicles				1037 GF/MH	AP		Unrestricted General Funds		1000.000000								
+			Department of Transportation/Public Facilities			MH: Coordinated Transportation and Vehicles				1092 MHTAAR	AP		Other Funds		300.000000								
+			Department of Transportation/Public Facilities			Statewide Federal Programs			Cooperative Reimbursable Projects	1002 Fed Rcpts	AL		Federal Funds		5000.000000								
+			Department of Transportation/Public Facilities			Statewide Federal Programs			Cooperative Reimbursable Projects	1108 Stat Desig	AL		Other Funds		10000.000000								
+			Department of Natural Resources			PARKS Land and Water Conservation Fund Federal Grant Program				1002 Fed Rcpts	AP		Federal Funds		3500.000000								
+			Department of Natural Resources			PARKS Land and Water Conservation Fund Federal Grant Program				1003 G/F Match	AP		Unrestricted General Funds		2152.655000								
+			Department of Transportation/Public Facilities			Federal Program Match			Federal-Aid Highway State Match	1003 G/F Match	AL		Unrestricted General Funds		63221.000000								
+			Department of Transportation/Public Facilities			Federal Program Match			Federal-Aid Highway State Match	1139 AHFC Div	AL		Unrestricted General Funds		7979.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program				1002 Fed Rcpts	AP*		Federal Funds		862972.298000								
+			Department of Transportation/Public Facilities			Statewide Federal Programs			Highway Safety Grants Program	1002 Fed Rcpts	AL		Federal Funds		8000.000000								
+			Department of Transportation/Public Facilities			Statewide Federal Programs			Highway Safety Grants Program	1004 Gen Fund	AL		Unrestricted General Funds		33.858000								
+			Department of Fish and Game			Pacific Coastal Salmon Recovery Fund				1002 Fed Rcpts	AP		Federal Funds		4400.000000								
+			Department of Health & Social Services			MH: Deferred Maintenance and Accessibility Improvements				1092 MHTAAR	AP		Other Funds		250.000000								
+			Department of Health & Social Services			MH: Home Modification and Upgrades to Retain Housing				1092 MHTAAR	AP		Other Funds		250.000000								
+			Department of Natural Resources			Snowmobile Trail Development Program and Grants				1195 SnoMachReg	AP		Designated General Funds		250.000000								
+			Department of Natural Resources			Wildland Fire Engine Replacement				1004 Gen Fund	AP		Unrestricted General Funds		250.000000								
+			Department of Public Safety			Marine Fisheries Patrol Improvements				1002 Fed Rcpts	AP		Federal Funds		1100.000000								
+			Department of Natural Resources			Cooperative Water Resource Program Pass-through to USGS for Stream Gaging Projects				1108 Stat Desig	AP		Other Funds		300.000000								
+			Department of Natural Resources			Federal and Local Government Funded Forest Resource and Fire Program				1002 Fed Rcpts	AP		Federal Funds		7000.000000								
+			Department of Transportation/Public Facilities			Statewide Federal Programs			Federal Emergency Projects	1002 Fed Rcpts	AL		Federal Funds		10000.000000								
+			Department of Commerce, Community, and Economic Development			Community Block Grants				1002 Fed Rcpts	AP		Federal Funds		6000.000000								
+			Department of Commerce, Community, and Economic Development			Community Block Grants				1003 G/F Match	AP		Unrestricted General Funds		60.000000								
+			Department of Commerce, Community, and Economic Development			National Petroleum Reserve - Alaska Impact Grant Program				1063 NPR Fund	AP		Federal Funds		9100.000000								
+			Department of Environmental Conservation			Village Safe Water and Wastewater Infrastructure Projects				1002 Fed Rcpts	AP*		Federal Funds		52250.000000								
+			Department of Environmental Conservation			Village Safe Water and Wastewater Infrastructure Projects				1004 Gen Fund	AP*		Unrestricted General Funds		18062.000000								
+			Department of Environmental Conservation			Village Safe Water and Wastewater Infrastructure Projects				1108 Stat Desig	AP*		Other Funds		500.000000								
+			Department of Transportation/Public Facilities			Federal Program Match			Other Federal Program Match	1003 G/F Match	AL		Unrestricted General Funds		1300.000000								
+			Department of Commerce, Community, and Economic Development			Matanuska-Susitna Borough - Arctic Winter Games				1004 Gen Fund	AP		Unrestricted General Funds		1000.000000								
+			Department of Health & Social Services			Emergency Medical Services Match for Code Blue Project 				1003 G/F Match	AP		Unrestricted General Funds		500.000000								
+			Department of Natural Resources			Statewide Park Sanitation and Facility Upgrades				1243 SBR	AP		Unrestricted General Funds		2029.000000								
+			Department of Fish and Game			Facilities, Vessels and Aircraft Maintenance, Repair and Upgrades				1197 AK Cap Inc	AP		Designated General Funds		500.000000								
+			Department of Fish and Game			Endangered Species Act - Legal and Research Needs to Protect State Right to Manage				1002 Fed Rcpts	AP		Federal Funds		3000.000000								
+			Department of Fish and Game			Endangered Species Act - Legal and Research Needs to Protect State Right to Manage				1003 G/F Match	AP		Unrestricted General Funds		250.000000								
+			Department of Fish and Game			Endangered Species Act - Legal and Research Needs to Protect State Right to Manage				1243 SBR	AP		Unrestricted General Funds		2000.000000								
+			Department of Revenue			MH: AHFC Homeless Assistance Program				1092 MHTAAR	AP		Other Funds		950.000000								
+			Department of Revenue			MH: AHFC Homeless Assistance Program				1139 AHFC Div	AP		Unrestricted General Funds		6250.000000								
+			Department of Commerce, Community, and Economic Development			Inter-Island Ferry Authority				1004 Gen Fund	AP		Unrestricted General Funds		250.000000								
+			Department of Revenue			AHFC Teacher, Health and Public Safety Professionals Housing				1108 Stat Desig	AP		Other Funds		500.000000								
+			Department of Revenue			AHFC Teacher, Health and Public Safety Professionals Housing				1139 AHFC Div	AP		Unrestricted General Funds		1750.000000								
+			Department of Environmental Conservation			Drinking Water Capitalization Grant Subsidy				1100 ADWF	AP		Other Funds		5800.000000								
+			Department of Environmental Conservation			Clean Water Capitalization Grant Subsidy				1075 Clean Wtr	AP		Other Funds		2000.000000								
+			Department of Commerce, Community, and Economic Development			Alaska Energy Authority - Bulk Fuel Upgrades				1002 Fed Rcpts	AP		Federal Funds		7500.000000								
+			Department of Commerce, Community, and Economic Development			Alaska Energy Authority - Bulk Fuel Upgrades				1140 AIDEA Div	AP		Unrestricted General Funds		5500.000000								
+			Department of Commerce, Community, and Economic Development			Alaska Energy Authority - Alternative Energy and Energy Efficiency Programs				1002 Fed Rcpts	AP		Federal Funds		5000.000000								
+			Department of Environmental Conservation			Village Safe Water and Wastewater Infrastructure Projects			Village Safe Water and Wastewater Infrastructure Projects:  First Time Service Projects	1002 Fed Rcpts	AL		Federal Funds		31350.000000								
+			Department of Environmental Conservation			Village Safe Water and Wastewater Infrastructure Projects			Village Safe Water and Wastewater Infrastructure Projects:  First Time Service Projects	1004 Gen Fund	AL		Unrestricted General Funds		10837.200000								
+			Department of Environmental Conservation			Village Safe Water and Wastewater Infrastructure Projects			Village Safe Water and Wastewater Infrastructure Projects:  First Time Service Projects	1108 Stat Desig	AL		Other Funds		300.000000								
+			Department of Environmental Conservation			Village Safe Water and Wastewater Infrastructure Projects			Village Safe Water and Wastewater Infrastructure Projects:  Expansion, Upgrade, and Replacement of Existing Service	1002 Fed Rcpts	AL		Federal Funds		20900.000000								
+			Department of Environmental Conservation			Village Safe Water and Wastewater Infrastructure Projects			Village Safe Water and Wastewater Infrastructure Projects:  Expansion, Upgrade, and Replacement of Existing Service	1004 Gen Fund	AL		Unrestricted General Funds		7224.800000								
+			Department of Environmental Conservation			Village Safe Water and Wastewater Infrastructure Projects			Village Safe Water and Wastewater Infrastructure Projects:  Expansion, Upgrade, and Replacement of Existing Service	1108 Stat Desig	AL		Other Funds		200.000000								
+			Department of Transportation/Public Facilities			Municipal Harbor Facility Grant Fund				1004 Gen Fund	AP		Unrestricted General Funds		6729.988000								
+			Department of Revenue			AHFC Energy Programs Weatherization				1002 Fed Rcpts	AP		Federal Funds		3000.000000								
+			Department of Revenue			AHFC Energy Programs Weatherization				1139 AHFC Div	AP		Unrestricted General Funds		2000.000000								
+			Department of Commerce, Community, and Economic Development			Alaska Energy Authority - Rural Power Systems Upgrades				1002 Fed Rcpts	AP		Federal Funds		12500.000000								
+			Department of Commerce, Community, and Economic Development			Alaska Energy Authority - Rural Power Systems Upgrades				1140 AIDEA Div	AP		Unrestricted General Funds		5000.000000								
+			Department of Natural Resources			Dam Safety Industry Projects Application Review				1108 Stat Desig	AP		Other Funds		400.000000								
+			Department of Natural Resources			Wildland Firefighting Aircraft Replacement				1004 Gen Fund	AP		Unrestricted General Funds		650.000000								
+			Department of Commerce, Community, and Economic Development			West Susitna Road Access				1243 SBR	AP		Unrestricted General Funds		8500.000000								
+			Department of Transportation/Public Facilities			Federal Program Match				1003 G/F Match	AP*		Unrestricted General Funds		69721.000000								
+			Department of Transportation/Public Facilities			Federal Program Match				1139 AHFC Div	AP*		Unrestricted General Funds		7979.000000								
+			Department of Revenue			AHFC Rental Assistance for Persons Displaced Due to Domestic Violence - Empowering Choice Housing Program (ECHP)				1139 AHFC Div	AP		Unrestricted General Funds		1500.000000								
+			Department of Natural Resources			Geological Mapping for Energy Development (USGS STATEMAP)				1002 Fed Rcpts	AP		Federal Funds		600.000000								
+			Department of Natural Resources			Geological Mapping for Energy Development (USGS STATEMAP)				1003 G/F Match	AP		Unrestricted General Funds		300.000000								
+			Department of Natural Resources			Critical Minerals Mapping - Earth MRI (3DEEP)				1002 Fed Rcpts	AP		Federal Funds		1500.000000								
+			Department of Natural Resources			Critical Minerals Mapping - Earth MRI (3DEEP)				1003 G/F Match	AP		Unrestricted General Funds		500.000000								
+			Department of Natural Resources			Critical Minerals Mapping - Earth MRI (3DEEP)				1108 Stat Desig	AP		Other Funds		200.000000								
+			Department of Natural Resources			State Park Electronic Fee Stations				1005 GF/Prgm	AP		Designated General Funds		220.000000								
+			Department of Military and Veterans Affairs			State Homeland Security Grant Programs				1002 Fed Rcpts	AP		Federal Funds		7500.000000								
+			Department of Transportation/Public Facilities			Federal-Aid Highway Project Match Credits				1005 GF/Prgm	AP		Designated General Funds		1000.000000								
+			Judiciary			Courts Statewide Deferred Maintenance				1004 Gen Fund	AP		Unrestricted General Funds		2300.000000								
+			Department of Natural Resources			Arctic Strategic Transportation and Resource Project 				1243 SBR	AP		Unrestricted General Funds		5000.000000								
+			Department of Transportation/Public Facilities			Computerized Maintenance Management System (CMMS) Year 3				1004 Gen Fund	AP		Unrestricted General Funds		1509.486000								
+			Office of the Governor			Statewide Deferred Maintenance, Renovation, and Repair				1197 AK Cap Inc	AP		Designated General Funds		49000.000000								
+			Department of Military and Veterans Affairs			Mass Notification System - Joint Base Elmendorf Richardson (JBER)				1002 Fed Rcpts	AP		Federal Funds		2500.000000								
+			Department of Military and Veterans Affairs			Mass Notification System - Joint Base Elmendorf Richardson (JBER)				1003 G/F Match	AP		Unrestricted General Funds		2500.000000								
+			Department of Fish and Game			Copper River Boat Launch Facilities Improvements				1024 Fish/Game	AP		Other Funds		165.000000								
+			Department of Natural Resources			Land Sales - New Subdivision Development				1153 State Land	AP		Designated General Funds		500.000000								
+			Department of Natural Resources			EVOS Kenai River Bookey Parcel Purchase				1018 EVOSS	AP		Other Funds		2300.000000								
+			Department of Natural Resources			Statewide Firebreak Construction Program				1243 SBR	AP		Unrestricted General Funds		10000.000000								
+			Department of Transportation/Public Facilities			Weigh Station Scale Repairs				1004 Gen Fund	AP		Unrestricted General Funds		1000.000000								
+			Department of Commerce, Community, and Economic Development			Alaska Energy Authority -  Alaska Cargo and Cold Storage				1002 Fed Rcpts	AP		Federal Funds		21000.000000								
+			Department of Commerce, Community, and Economic Development			AMCO Enforcement Case Management and Investigations Report Writing System				1004 Gen Fund	AP		Unrestricted General Funds		100.000000								
+			Department of Commerce, Community, and Economic Development			AMCO Enforcement Case Management and Investigations Report Writing System				1005 GF/Prgm	AP		Designated General Funds		100.000000								
+			Department of Natural Resources			EVOS Eagle Rock (Bookey Parcel) Improvements				1018 EVOSS	AP		Other Funds		6419.010000								
+			Department of Natural Resources			Agriculture Specialty Crop Block Grant				1002 Fed Rcpts	AP		Federal Funds		4500.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Alaska International Airport System Reimbursable Projects	1002 Fed Rcpts	AL		Federal Funds		5000.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Alaska International Airport System Reimbursable Projects	1027 Int Airprt	AL		Other Funds		5000.000000								
+			Department of Public Safety			Alaska Wildlife Troopers Marine Enforcement Repair and Replacement				1243 SBR	AP		Unrestricted General Funds		1400.000000								
+			Department of Public Safety			Boating Upgrades, Haul Outs, and Vessel Replacement				1243 SBR	AP		Unrestricted General Funds		500.000000								
+			Department of Public Safety			Fire & Life Safety Vehicles				1004 Gen Fund	AP		Unrestricted General Funds		150.000000								
+			Department of Public Safety			Crime Laboratory Equipment Replacement				1004 Gen Fund	AP		Unrestricted General Funds		300.000000								
+			Department of Health & Social Services			Pioneer Homes Facility Improvements			Juneau Pioneer Home ADA-Compliant Courtyard	1004 Gen Fund	AL		Unrestricted General Funds		424.000000								
+			Department of Health & Social Services			Pioneer Homes Facility Improvements			Ketchikan Pioneer Home HVAC Intake Damper Assembly	1004 Gen Fund	AL		Unrestricted General Funds		76.500000								
+			Department of Health & Social Services			Pioneer Homes Facility Improvements			Palmer Alaska Veterans and Pioneer Home Safety Fencing	1004 Gen Fund	AL		Unrestricted General Funds		61.200000								
+			Department of Health & Social Services			Fairbanks Youth Facility				1167 NTSC Bond	AP		Other Funds		18986.720000								
+			Department of Health & Social Services			Health Information Exchange				1002 Fed Rcpts	AP		Federal Funds		3600.801000								
+			Department of Health & Social Services			Health Information Exchange				1004 Gen Fund	AP		Unrestricted General Funds		480.107000								
+			Department of Corrections			Point Mackenzie Correctional Farm Produce Processing Plant 				1243 SBR	AP		Unrestricted General Funds		1500.000000								
+			Department of Military and Veterans Affairs			Joint Base Elmendorf Richardson (JBER) Digital Control, Generator, and Preventative Maintenance				1002 Fed Rcpts	AP		Federal Funds		4037.500000								
+			Department of Military and Veterans Affairs			Joint Base Elmendorf Richardson (JBER) Digital Control, Generator, and Preventative Maintenance				1243 SBR	AP		Unrestricted General Funds		3812.500000								
+			Department of Military and Veterans Affairs			Kotzebue Tarmac Repair and Maintenance 				1002 Fed Rcpts	AP		Federal Funds		387.500000								
+			Department of Military and Veterans Affairs			Kotzebue Tarmac Repair and Maintenance 				1004 Gen Fund	AP		Unrestricted General Funds		4812.500000								
+			Department of Fish and Game			2018 Sockeye Salmon Disaster - Chignik Area				1002 Fed Rcpts	AP		Federal Funds		2000.000000								
+			Department of Fish and Game			Pacific Cod Disaster Funding - 2018 Gulf of Alaska				1002 Fed Rcpts	AP		Federal Funds		1000.000000								
+			Department of Health & Social Services			Pioneer Homes Facility Improvements				1002 Fed Rcpts	AP*		Federal Funds		3250.000000								
+			Department of Health & Social Services			Pioneer Homes Facility Improvements				1004 Gen Fund	AP*		Unrestricted General Funds		561.700000								
+			Department of Health & Social Services			Pioneer Homes Facility Improvements				1243 SBR	AP*		Unrestricted General Funds		2268.000000								
+			Department of Public Safety			Replace Training Video Simulator				1004 Gen Fund	AP		Unrestricted General Funds		240.000000								
+			Department of Public Safety			AWT Law Enforcement Equipment and Off-Highway Vehicle Replacement				1004 Gen Fund	AP		Unrestricted General Funds		750.000000								
+			Department of Public Safety			AST Law Enforcement Equipment Replacement				1004 Gen Fund	AP		Unrestricted General Funds		500.000000								
+			Department of Public Safety			Vehicle Replacement				1004 Gen Fund	AP		Unrestricted General Funds		1233.600000								
+			Department of Health & Social Services			Pioneer Homes Facility Improvements			Palmer Alaska Veterans' and Pioneers Home Roof Replacement	1002 Fed Rcpts	AL		Federal Funds		3250.000000								
+			Department of Health & Social Services			Pioneer Homes Facility Improvements			Palmer Alaska Veterans' and Pioneers Home Roof Replacement	1243 SBR	AL		Unrestricted General Funds		2268.000000								
+			Department of Law			Prosecutor Recruitment and Housing to Address Sexual Assault and Sexual Abuse of a Minor Case Backlog				1004 Gen Fund	AP		Unrestricted General Funds		1000.000000								
+			Department of Law			Prosecutor Recruitment and Housing to Address Sexual Assault and Sexual Abuse of a Minor Case Backlog				1139 AHFC Div	AP		Unrestricted General Funds		3000.000000								
+			Department of Education and Early Development			Houston Middle School Replacement				1243 SBR	AP		Unrestricted General Funds		9000.000000								
+			Office of the Governor			2020 Ballot Measure Number 2 Implementation				1004 Gen Fund	AP		Unrestricted General Funds		803.600000								
+			Department of Natural Resources			Critical Information Database and Dashboard				1002 Fed Rcpts	AP		Federal Funds		600.000000								
+			Department of Natural Resources			Critical Information Database and Dashboard				1004 Gen Fund	AP		Unrestricted General Funds		200.000000								
+			Department of Transportation/Public Facilities			Anton Anderson Memorial and Portage Lake Tunnel Capital Improvements				1214 WhitTunnel	AP		Other Funds		175.600000								
+			Department of Transportation/Public Facilities			Statewide Federal Programs			Federal Transit Administration Grants	1002 Fed Rcpts	AL		Federal Funds		35260.012000								
+			Department of Transportation/Public Facilities			Anchorage Metropolitan Area Transportation Solutions - FHWA CRRSAA				1270 FHWA CRRSA	AP		Federal Funds		11294.342000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Denali Commission Infrastructure	1002 Fed Rcpts	AL		Federal Funds		15000.000000								
+			Department of Natural Resources			RS2477 Access Development - Advancing State's Rights in Navigability and Revised Statute 2477				1243 SBR	AP		Unrestricted General Funds		2500.000000								
+			Department of Natural Resources			Alaska Real-Time Global Navigations Satellite System Network 				1243 SBR	AP		Unrestricted General Funds		5000.000000								
+			Department of Commerce, Community, and Economic Development			Matanuska-Susitna Borough - Pavement Rehab Through Mat Su Population Corridor				1243 SBR	AP		Unrestricted General Funds		10000.000000								
+			Department of Commerce, Community, and Economic Development			Voice of the Arctic Inupiat				1243 SBR	AP		Unrestricted General Funds		1000.000000								
+			Department of Commerce, Community, and Economic Development			Chevak School Fire Remediation				1004 Gen Fund	AP		Unrestricted General Funds		2500.000000								
+			Department of Natural Resources			Land Development for Nenana-Totchaket				1243 SBR	AP		Unrestricted General Funds		5000.000000								
+			Department of Natural Resources			Advance Surveys for all State Lands Including Agriculture and Mariculture				1243 SBR	AP		Unrestricted General Funds		3500.000000								
+			Department of Natural Resources			Permit Backlog Reduction				1243 SBR	AP		Unrestricted General Funds		3500.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Aviation Systems Plan Update (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		2000.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Brevig Mission Lighting & Resurfacing (HD 39)	1002 Fed Rcpts	AL		Federal Funds		6400.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Homer Airport Rehab - - Stage 1 (HD 31)	1002 Fed Rcpts	AL		Federal Funds		21600.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			King Salmon Airport Fencing and Gate Security Improvements (HD 37)	1002 Fed Rcpts	AL		Federal Funds		20600.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Kipnuk Airport Surfacing and Lighting Replacement (HD 38)	1002 Fed Rcpts	AL		Federal Funds		5000.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Kongiganak Airport Rehabilitation & SREB Construction (HD 38)	1002 Fed Rcpts	AL		Federal Funds		25800.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Mekoryuk Airport & Access Rd Rehab (HD 38)	1002 Fed Rcpts	AL		Federal Funds		17100.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Mekoryuk SRE Building Replacement (HD 38)	1002 Fed Rcpts	AL		Federal Funds		6100.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Napakiak Airport Reconnaissance Study (HD 38)	1002 Fed Rcpts	AL		Federal Funds		703.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Northern Electrical Equipment Buildings (Tok & Eagle) (HD 6)	1002 Fed Rcpts	AL		Federal Funds		1012.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Saint Mary's Airport Reconstruction (HD 39)	1002 Fed Rcpts	AL		Federal Funds		20400.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Seward Airport Reconstruction	1002 Fed Rcpts	AL		Federal Funds		31400.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Statewide Various Airports -- Airport Equipment Acquisition (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		10000.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Statewide Various Airports Minor Surface Improvements and Obstruction Removal (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		8000.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Unalaska Apron & TWY Pavement Rehabilitation (HD 37)	1002 Fed Rcpts	AL		Federal Funds		8300.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			TSAIA: Airfield Pavement Reconstruction & Maintenance (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		28237.623000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			TSAIA: Advanced Project Design and Planning (HD 1-40)	1112 IntAptCons	AL		Other Funds		722.059000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			TSAIA: Annual Improvements (HD 1-40)	1027 Int Airprt	AL		Other Funds		912.074000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			TSAIA: Environmental Projects (HD 1-40)	1027 Int Airprt	AL		Other Funds		126.677000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			TSAIA: Equipment (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		4127.462000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			TSAIA: Facility Improvements, Renovations, & Upgrades (HD 1-40)	1027 Int Airprt	AL		Other Funds		1393.447000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			TSAIA: Information Technology Improvements (HD 1-40)	1027 Int Airprt	AL		Other Funds		1216.099000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			ANC Taxilanes E1, E3, and E&G Intersection & TW R South Spot Rehab Ph 2 (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		12207.679000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			TW R South Surface Seal (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		263.280000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			North Terminal Northside Aprons & Taxilane (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		14304.880000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Parking Garage Repairs (HD 1-40)	1027 Int Airprt	AL		Other Funds		8000.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Underground Storage Tank Replacement for Generators at NT, ST & ARFF Buildings (HD 1-40)	1027 Int Airprt	AL		Other Funds		900.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			ANC Water Main Improvements (HD 1-40)	1027 Int Airprt	AL		Other Funds		5000.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Joint Repairs R3 and R4 (Deferred from 2021) (HD 1-40)	1027 Int Airprt	AL		Other Funds		700.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Quick Turnaround Facility Renewal (HD 1-40)	1027 Int Airprt	AL		Other Funds		1500.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Reconfigure NT CBP Operation (HD 1-40)	1027 Int Airprt	AL		Other Funds		1000.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Airport Facility Roof Replacement 2022 (HD 1-40)	1027 Int Airprt	AL		Other Funds		1000.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			ANC B Gate 4 & Gates 6-9 Rehabilitation (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		2194.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			ANC Taxilane U, P & Taxiway R Surface Seal (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		666.976000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			ANC RW 7R/25L Lighting (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		2018.480000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			ANC Terminal Road Improvements (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		10092.400000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			ANC Conc C Cooling Upgrades (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		8909.395000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			FIA: Advanced Project Design and Planning (HD 1-40)	1027 Int Airprt	AL		Other Funds		31.669000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			FIA: Annual Improvements (HD 1-40)	1027 Int Airprt	AL		Other Funds		348.362000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			FIA: Environmental (HD 1-40)	1027 Int Airprt	AL		Other Funds		218.545000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			FIA: Equipment (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		1218.750000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			FIA: Facility Improvements, Renovations, & Upgrades (HD 1-40)	1027 Int Airprt	AL		Other Funds		126.677000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			FIA: Information Technology Improvements (HD 1-40)	1027 Int Airprt	AL		Other Funds		109.273000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			FIA: General Aviation Apron Rehabilitation (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		14062.500000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Alaska International Airport System Reimbursable Authority (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		5000.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Lake Hood Access Road Improvements (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		1755.200000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			ANC Taxiway Zulu West Phase I (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		26801.904000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Alaska International Airport System Acceleration Projects (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		5000.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Project Acceleration (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		40200.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Pre-Grant Project Development (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		40200.000000								
+			Department of Transportation/Public Facilities			Airport Improvement Program			Contingency (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		40200.000000								
+			Department of Transportation/Public Facilities			Fox Springs Improvements				1269 CSLFRF	AP		Federal Funds		248.310000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Haines Highway Reconstruction, MP 3.5-25.3	1002 Fed Rcpts	AL		Federal Funds		32385.320000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Sterling Hwy Mile Point 8-25 (Milepost 45-60) Sunrise Inn to Skilak Lake Road Construction	1002 Fed Rcpts	AL		Federal Funds		1819.400000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Airport Way / South Cushman Intersection Reconstruction	1002 Fed Rcpts	AL		Federal Funds		1091.640000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Airport Way (West) Improvements	1002 Fed Rcpts	AL		Federal Funds		10916.400000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Ketchikan - S. Tongass Hwy Improvements Deermount to Saxman	1002 Fed Rcpts	AL		Federal Funds		27291.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Alaska Highway Passing Lanes Mile Point 0-198 (Milepost 1221-1422) (Canadian Border to Delta Jct)	1002 Fed Rcpts	AL		Federal Funds		5455.800000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Dalton Hwy Mile Point 109-145 (Milepost 109-144) Reconstruction (Old Man Camp to Jim River Bridge #3)	1002 Fed Rcpts	AL		Federal Funds		9.097000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Ketchikan - S Tongass Hwy Improvements Saxman to Surf St	1002 Fed Rcpts	AL		Federal Funds		12008.040000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Selawik Barge Landing Access Road and Boardwalk Improvements	1002 Fed Rcpts	AL		Federal Funds		6877.332000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Aurora Drive-Noyes Slough Bridge Replacement	1002 Fed Rcpts	AL		Federal Funds		272.910000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Nome Seppala Drive Rehabilitation	1002 Fed Rcpts	AL		Federal Funds		10916.400000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Gold Creek Bridge and Tatalina Bridge Replacement	1002 Fed Rcpts	AL		Federal Funds		4321.075000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Nome Center Creek Road Rehabilitation	1002 Fed Rcpts	AL		Federal Funds		154.649000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Parks Highway Mile Point 195-196 (Milepost 231) Enhancements	1002 Fed Rcpts	AL		Federal Funds		11826.100000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Whitshed Road and Pedestrian Improvements	1002 Fed Rcpts	AL		Federal Funds		682.275000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Ketchikan - So. Tongass Highway - Tongass Ave Improvements	1002 Fed Rcpts	AL		Federal Funds		5458.200000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Richardson Highway Mile Point 360-361 (Milepost 359) Railroad Grade Separated Facility	1002 Fed Rcpts	AL		Federal Funds		3638.800000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Ketchikan - Sayles/Gorge St. Viaduct (#1841) Improvement	1002 Fed Rcpts	AL		Federal Funds		2365.220000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Steese Expressway / Johansen Expressway Interchange	1002 Fed Rcpts	AL		Federal Funds		2729.100000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Vine Road Improvements Knik-Goosebay Road to Hollywood Blvd.	1002 Fed Rcpts	AL		Federal Funds		1364.550000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Alaska Highway Mile Point 12-29 (Milepost 1235-1251) Rehabilitation	1002 Fed Rcpts	AL		Federal Funds		25471.600000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Kenai Spur Road Rehabilitation Stage 2	1002 Fed Rcpts	AL		Federal Funds		28200.700000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Elliott Highway Milepost 51-63 Rehabilitation	1002 Fed Rcpts	AL		Federal Funds		90.970000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Skagway-Klondike Highway Rehabilitation: Skagway River Bridge to Canadian Border (HD 33)	1002 Fed Rcpts	AL		Federal Funds		18.194000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Glenn Highway: Parks Highway to South Inner Springer Loop (Cienna Avenue) (HD 10)	1002 Fed Rcpts	AL		Federal Funds		43938.510000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Ketchikan - S. Tongass Hwy - Replace Hoadley Creek Bridge (HD 36)	1002 Fed Rcpts	AL		Federal Funds		2729.100000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Ketchikan - S. Tongass Hwy - Water Street Viaduct Improvements (HD 36)	1002 Fed Rcpts	AL		Federal Funds		10461.550000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Knik Goose Bay Road Reconstruction Centaur Avenue to Vine Road Stage 1 (HD 8)	1002 Fed Rcpts	AL		Federal Funds		53672.300000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Takotna River Bridge Replacement (HD 37)	1002 Fed Rcpts	AL		Federal Funds		8187.300000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Sterling Hwy Mile Point 8-25 (Milepost 45-60) Sunrise Inn to Skilak Lake Road Construction Stage 1 (HD 29)	1002 Fed Rcpts	AL		Federal Funds		40936.500000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Kodiak - Chiniak Hwy Rehabilitate Stage 1 (HD 32)	1002 Fed Rcpts	AL		Federal Funds		14555.200000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Sterling Hwy Mile Point 8-25 (Milepost 45-60) Sunrise Inn to Skilak Lake Road Construction Stage 3 (HD 29)	1002 Fed Rcpts	AL		Federal Funds		20013.400000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Snow River Bridges Nonmotorized Pathway as Environmental Mitigation for Sterling Highway MP 45-60 Co (HD 29)	1002 Fed Rcpts	AL		Federal Funds		1819.400000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Kenai Bridge Access Road Pedestrian Pathway (HD 29)	1002 Fed Rcpts	AL		Federal Funds		2499.275000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Kenai River Flats Facility Improvements (HD 30)	1002 Fed Rcpts	AL		Federal Funds		2551.606000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Soldotna Community Connections and ADA Improvements (HD 30)	1002 Fed Rcpts	AL		Federal Funds		1211.579000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Brotherhood Bridge / Kax Trail Improvements (HD 34)	1002 Fed Rcpts	AL		Federal Funds		1974.049000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Hoonah Harbor Way Pedestrian Improvements and Pitt Island Cemetery Walkway (HD 35)	1002 Fed Rcpts	AL		Federal Funds		4284.687000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Sterling Hwy Mile Point 8-25 (Milepost 45-60) Sunrise Inn to Skilak Lake Rd JNU Creek Bridge Con (HD 30)	1002 Fed Rcpts	AL		Federal Funds		93502.605000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Shishmaref Sanitation Road Erosion Control (HD 39)	1002 Fed Rcpts	AL		Federal Funds		4431.340000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Bethel Tundra Ridge Road (HD 38)	1002 Fed Rcpts	AL		Federal Funds		6904.623000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Glenn Highway Mile Point 45-49 (Milepost 53-56) Reconstruction Moose Creek Canyon (HD 9)	1002 Fed Rcpts	AL		Federal Funds		272.910000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Kodiak - Otmeloi Way Reconstruction (HD 32)	1002 Fed Rcpts	AL		Federal Funds		587.760000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Seward Highway Mile Point 104-108.5 (Milepost 105-109.5) Windy Corner to Rainbow Point (HD 27)	1002 Fed Rcpts	AL		Federal Funds		1364.550000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Old Steese Highway Reconstruction (HD 1-5)	1002 Fed Rcpts	AL		Federal Funds		909.700000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Glenn Highway Mile Point 59 - 85 (Milepost 66.5 to 92) Rehabilitation (HD 9)	1002 Fed Rcpts	AL		Federal Funds		1819.400000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Kodiak - Chiniak Hwy Rehabilitate: Mile Point 5 to 21 (Milepost 15 to 31) (HD 32)	1002 Fed Rcpts	AL		Federal Funds		4366.560000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Sterling Safety Corridor Improvements Mile Point 45 - 58 (Milepost 82.5 to 94) (HD 30)	1002 Fed Rcpts	AL		Federal Funds		5913.050000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Sitka Sea Walk (HD 35)	1002 Fed Rcpts	AL		Federal Funds		1880.534000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Bethel Chief Eddie Hoffman Highway Reconstruction (HD 38)	1002 Fed Rcpts	AL		Federal Funds		932.443000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Ruby Slough Road (HD 39)	1002 Fed Rcpts	AL		Federal Funds		272.910000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Richardson Highway MP 233 Bear Creek Bridge #0593 Replacement (HD 6)	1002 Fed Rcpts	AL		Federal Funds		398.449000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Hemmer Road Upgrade and Extension (HD 7-12)	1002 Fed Rcpts	AL		Federal Funds		288.659000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Hermon Road Upgrade and Extension (HD 7-12)	1002 Fed Rcpts	AL		Federal Funds		1984.522000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Redoubt Avenue and Smith Way Rehabilitation (HD 30)	1002 Fed Rcpts	AL		Federal Funds		678.636000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Trunk Road (Nelson Road) Upgrade Trunk Road (Nelson Road) Upgrade (HD 11)	1002 Fed Rcpts	AL		Federal Funds		28.577000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Akakeek, Ptarmigan, and DeLapp Streets - (HD 38)	1002 Fed Rcpts	AL		Federal Funds		477.593000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Seward Highway MP 14 Railroad Crossing Reconstruction (HD 29)	1002 Fed Rcpts	AL		Federal Funds		45.150000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Highway Safety Improvement Program (HSIP) (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		56080.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Pavement and Bridge Preservation (HD 37)	1002 Fed Rcpts	AL		Federal Funds		51852.900000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Pavement and Bridge Preservation (HD 7-31)	1002 Fed Rcpts	AL		Federal Funds		50943.200000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			AMATS CTP Program Allocation (HD 12-28)	1002 Fed Rcpts	AL		Federal Funds		28153.418000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Ferry Refurbishment (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		13500.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Pavement and Bridge Preservation (HD 33-36)	1002 Fed Rcpts	AL		Federal Funds		13190.650000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			FAST CTP Program Allocation (HD 1-5)	1002 Fed Rcpts	AL		Federal Funds		7716.256000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Annual Planning Work Program (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		7003.961000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Bridge and Tunnel Inventory, Inspection, Monitoring, Preservation, Rehab and Replacement Program (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		6997.900000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Northern Region Signal Interconnect (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		4548.500000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Whittier Tunnel: Maintenance and Operations (HD 9)	1002 Fed Rcpts	AL		Federal Funds		3775.255000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Statewide Congestion and Mitigation Air Quality (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		3211.200000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Central Region Drainage Improvements and Erosion (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		2365.220000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Recreational Trails Program (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		2261.379000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			AMATS CMAQ Allocation for Qualifying Air Quality Projects (HD 12-28)	1002 Fed Rcpts	AL		Federal Funds		2143.768000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Statewide Research Program (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		2055.831000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Northern Region ADA Reconnaissance and Improvements (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		2001.340000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Urban Planning Program (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		1929.082000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Transportation Asset Management Program (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		1819.400000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Southcoast Areawide ADA Improvements (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		1819.400000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Central Region ADA Compliance Project (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		1819.400000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Committed Measures for the Fairbanks SIP (HD 1-5)	1002 Fed Rcpts	AL		Federal Funds		1728.430000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			AASHTOware Implementation (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		1128.028000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Roadway Data Collection (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		1091.640000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Culvert Repair or Replace Project (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		909.700000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Bridge Scour Monitoring and Retrofit Program (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		864.216000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Seismic Bridge Retrofit Program (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		864.215000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			AMATS TA Allocation (HD 12-28)	1002 Fed Rcpts	AL		Federal Funds		836.594000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			511 Phone and Web Maintenance & Operations (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		785.071000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Winter Trail Marking (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		773.245000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Portage Station Improvements (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		730.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			FAST CMAQ Allocation (HD 1-5)	1002 Fed Rcpts	AL		Federal Funds		727.760000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Road Weather Information System (RWIS) (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		727.440000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Central Region ITS Repair and Upgrade Project (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		682.275000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Design Construct Lease Purchase Ferryboats and Terminals (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		640.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Highway Safety Improvement Program/Safety Management (HD 7-31)	1002 Fed Rcpts	AL		Federal Funds		607.500000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			USGS Flood Frequency and Analysis (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		591.304000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Technology Infrastructure (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		575.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Statewide: Highway Safety Improvement Program Safety Management (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		477.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Bridge Management System (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		454.850000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Weigh-In-Motion Maintenance & Operations (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		454.850000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Statewide Transportation Alternatives Program (TAP) (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		454.850000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Napakiak Multi-Modal Study (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		454.850000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Fleet Condition Survey Update (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		400.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Prince William Sound Area Transportation Plan Update (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		400.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Highway Safety Improvement Program/Safety Management (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		324.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			National Highway Institute Training (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		318.395000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Statewide Highway Data Equipment Acquisition and Installation (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		318.395000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			OHA AHRS/IBS Development (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		241.070000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Geographic Information System Development (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		227.425000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Northern Region ITS (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		227.425000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Civil Rights Program (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		225.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			AASHTO Technical Programs Support (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		220.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Inter-Island Ferry Authority (IFA) Vessel Refurbishments (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		215.860000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Air Quality Public Education (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		181.940000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Air Quality Mobile Source Modeling (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		181.940000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Cultural Resources Liaison (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		154.649000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Highway Performance Monitoring System (HPMS) Reporting (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		136.455000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			eWORX Federal Aid System Regulatory Implementation (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		136.455000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Statewide Functional Class Update (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		136.455000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Traffic Data Management and Reporting System (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		113.713000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Highway Fuel Tax Evasion (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		100.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Strategic Highway Safety Plan (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		100.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Small Hydrologic Investigations (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		90.972000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			RWIS Air Quality Sensor Operations & Maintenance (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		90.970000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			ADA Implementation and Compliance Monitoring (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		77.325000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Fairbanks Air Quality Planning Project (HD 1-5)	1002 Fed Rcpts	AL		Federal Funds		72.776000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Alaska CARE - Crash Data Analysis & Reporting System (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		68.228000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			511 Phone and Web Enhancements (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		68.228000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Signal and Detector System (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		50.000000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Traveler Information Systems Marketing (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		22.743000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Connected - Autonomous Vehicle Planning (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		22.743000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			IWAYS Architecture Update (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		22.742000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			Highway Safety Improvement Program/Safety Management (HD 33-36)	1002 Fed Rcpts	AL		Federal Funds		20.317000								
+			Department of Transportation/Public Facilities			Surface Transportation Program			STP Contingency (HD 1-40)	1002 Fed Rcpts	AL		Federal Funds		30000.000000								
+			Department of Commerce, Community, and Economic Development			Anchorage - Energy Burden Mapping				1004 Gen Fund	AP		Unrestricted General Funds		25.000000								

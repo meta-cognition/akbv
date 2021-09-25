@@ -9,15 +9,16 @@ csv_find_and_sum_revenue(string_find, search_column)
 		current_cell 	:= CSV_ReadCell("sankey_csv_identifier", 	current_csv_row , search_column) 
 		line_type 	:= CSV_ReadCell("sankey_csv_identifier", 	current_csv_row , line_column) 
 		cell_value 	:= CSV_ReadCell("sankey_csv_identifier", 	current_csv_row , value_column) 
-
+		
 		if ( current_cell = string_find ) 
 		{
 			if (line_type = "Revenue")
 			{
-				sum+=cell_value                             
+				sum += cell_value                             
 			}
 		}
 		current_csv_row++
 	}
+	;FileAppend, % "revenue sum: " sum ", readable: " format_to_readable(sum) "`r`n", dump_sankey.txt
 	return format_to_readable(sum)
 }

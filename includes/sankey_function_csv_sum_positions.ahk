@@ -14,7 +14,7 @@ csv_find_and_sum_positions(string_find, search_column)
 		{
 			if (line_type = "Position Count")
 			{
-				sum+=cell_value                             
+				sum += cell_value                             
 			}
 		}
 		

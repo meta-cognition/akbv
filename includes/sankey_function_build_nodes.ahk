@@ -64,6 +64,7 @@ build_nodes_from_columns(columns*)
 			this_node_name := ""
 			this_node_total := 0
 			this_node_meta := ""
+			this_node_project_link := ""
 			
 			if (show_values_in_labels = true)
 			{
@@ -78,7 +79,9 @@ build_nodes_from_columns(columns*)
 					
 					if ( sum_appropriation_values = true ) ; Capital Only
 					{
-						this_node_total := csv_find_and_sum_appropriation(this_node_name, current_column)
+						this_node_total 		:= csv_find_and_sum_appropriation(this_node_name, current_column)
+						
+						this_node_project_link 	:= project_links[this_node_name]
 					}
 					else If (InStr(expenditure_labels, this_node_name ) )
 					{
@@ -90,7 +93,7 @@ build_nodes_from_columns(columns*)
 						if (current_column = fund_column)
 						{
 							first_occurence_row := CSV_SearchColumn("sankey_csv_identifier", this_node_name, fund_column)
-							this_node_meta := "<br />Fund Type: " CSV_ReadCell("sankey_csv_identifier", first_occurence_row, group_column)
+							this_node_meta 	:= "<br />Fund Type: " CSV_ReadCell("sankey_csv_identifier", first_occurence_row, group_column)
 						}
 					}
 				}
@@ -100,7 +103,7 @@ build_nodes_from_columns(columns*)
 				this_node_name := A_LoopField
 			}
 			; assign name to node
-			this_node_object := {node_name: this_node_name, node_rgb_color: "", node_id: node_id, node_total: this_node_total, node_meta: this_node_meta}
+			this_node_object := {node_name: this_node_name, node_rgb_color: "", node_id: node_id, node_total: this_node_total, node_meta: this_node_meta, node_project_link: this_node_project_link}
 			
 			; add this row object to columns array
 			sankey_object.nodes.columns[current_column].rows.push(this_node_object)
@@ -178,17 +181,17 @@ build_nodes_from_columns(columns*)
 		{
 			json_node_label .= """" . sankey_object.nodes.all[index].node_name . """, " 
 		}
-		json_node_color .= """" . sankey_object.nodes.all[index].node_rgb_color . """, " 
-		json_node_meta .= """" . sankey_object.nodes.all[index].node_id . """, " 
-		json_node_x .= "/*" . sankey_object.nodes.all[index].node_name . "*/, "  
-		json_node_y .= "/*" . sankey_object.nodes.all[index].node_name . "*/, "  
+		json_node_color 	.= """" . sankey_object.nodes.all[index].node_rgb_color . """, " 
+		json_node_meta 	.= """" . sankey_object.nodes.all[index].node_id . """, " 
+		json_node_x 		.= "/*" . sankey_object.nodes.all[index].node_name . "*/, "  
+		json_node_y 		.= "/*" . sankey_object.nodes.all[index].node_name . "*/, "  
 	}
 	
-	json_node_label .= "],"
-	json_node_color .= "],"
-	json_node_meta .= "],"
-	json_node_x .= "],"
-	json_node_y .= "],"
+	json_node_label	.= "],"
+	json_node_color 	.= "],"
+	json_node_meta 	.= "],"
+	json_node_x 		.= "],"
+	json_node_y 		.= "],"
 	
 	;progress_subtext := "Building nodes: COMPLETE!"
 	;Progress, , % progress_subtext, , % progress_title

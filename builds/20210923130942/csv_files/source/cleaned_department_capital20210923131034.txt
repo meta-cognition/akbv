@@ -1,0 +1,19 @@
+REPORT_SORT	DEPT_NUM	DEPT_SORT	DEPT_NAME	RDU_NUM	RDU_SORT	RDU_NAME	COMP_NUM	COMP_SORT	COMP_NAME	REPORT_LINE	LINE_TYPE	FUND_CODE	FUND_GROUP	DUPLICATED_INDICATOR	SCEN1_AMOUNT	SCEN2_AMOUNT	SCEN3_AMOUNT	SCEN4_AMOUNT	SCEN5_AMOUNT	SCEN6_AMOUNT	SCEN7_AMOUNT	SCEN8_AMOUNT	SCEN9_AMOUNT
+			Commerce			Community Block Grants				1002 Federal Receipts	AP		Federal Funds	22_budget/DCCED/Enacted/2022proj38946.pdf	6000.000000								
+			Commerce			Community Block Grants				1003 General Fund Match	AP		Unrestricted General Funds	22_budget/DCCED/Enacted/2022proj38946.pdf	60.000000								
+			Commerce			National Petroleum Reserve - Alaska Impact Grant Program				1063 National Petroleum Reserve Fund	AP		Federal Funds	22_budget/DCCED/Enacted/2022proj38948.pdf	9100.000000								
+			Commerce			Matanuska-Susitna Borough - Arctic Winter Games				1004 General Fund Receipts	AP		Unrestricted General Funds	22_budget/DCCED/Enacted/2022proj41959.pdf	1000.000000								
+			Commerce			Inter-Island Ferry Authority				1004 General Fund Receipts	AP		Unrestricted General Funds	22_budget/DCCED/Enacted/2022proj45874.pdf	250.000000								
+			Commerce			Alaska Energy Authority - Bulk Fuel Upgrades				1002 Federal Receipts	AP		Federal Funds	22_budget/DCCED/Enacted/2022proj49734.pdf	7500.000000								
+			Commerce			Alaska Energy Authority - Bulk Fuel Upgrades				1140 AIDEA Dividend	AP		Unrestricted General Funds	22_budget/DCCED/Enacted/2022proj49734.pdf	5500.000000								
+			Commerce			Alaska Energy Authority - Alternative Energy and Energy Efficiency Programs				1002 Federal Receipts	AP		Federal Funds	22_budget/DCCED/Enacted/2022proj49735.pdf	5000.000000								
+			Commerce			Alaska Energy Authority - Rural Power Systems Upgrades				1002 Federal Receipts	AP		Federal Funds	22_budget/DCCED/Enacted/2022proj52498.pdf	12500.000000								
+			Commerce			Alaska Energy Authority - Rural Power Systems Upgrades				1140 AIDEA Dividend	AP		Unrestricted General Funds	22_budget/DCCED/Enacted/2022proj52498.pdf	5000.000000								
+			Commerce			West Susitna Road Access				1243 Statutory Budget Reserve Fund	AP		Unrestricted General Funds	22_budget/DCCED/Enacted/2022proj56220.pdf	8500.000000								
+			Commerce			Alaska Energy Authority -  Alaska Cargo and Cold Storage				1002 Federal Receipts	AP		Federal Funds	22_budget/DCCED/Enacted/2022proj63126.pdf	21000.000000								
+			Commerce			AMCO Enforcement Case Management and Investigations Report Writing System				1004 General Fund Receipts	AP		Unrestricted General Funds	22_budget/DCCED/Enacted/2022proj63131.pdf	100.000000								
+			Commerce			AMCO Enforcement Case Management and Investigations Report Writing System				1005 General Fund/Program Receipts	AP		Designated General Funds	22_budget/DCCED/Enacted/2022proj63131.pdf	100.000000								
+			Commerce			Matanuska-Susitna Borough - Pavement Rehab Through Mat Su Population Corridor				1243 Statutory Budget Reserve Fund	AP		Unrestricted General Funds	22_budget/DCCED/Enacted/2022proj63440.pdf	10000.000000								
+			Commerce			Voice of the Arctic Inupiat				1243 Statutory Budget Reserve Fund	AP		Unrestricted General Funds	22_budget/DCCED/Enacted/2022proj63461.pdf	1000.000000								
+			Commerce			Chevak School Fire Remediation				1004 General Fund Receipts	AP		Unrestricted General Funds	22_budget/DCCED/Enacted/2022proj63467.pdf	2500.000000								
+			Commerce			Anchorage - Energy Burden Mapping				1004 General Fund Receipts	AP		Unrestricted General Funds	22_budget/DCCED/Enacted/2022proj63746.pdf	25.000000								
