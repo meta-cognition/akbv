@@ -13,7 +13,8 @@
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
 	<style>
 		/*------------------------------------------*/
-		.node-label-text-path { 
+		/*.node-label-text-path {*/
+		.node-label { 
 			/*
 			font-weight: bold; 
 			*/
@@ -290,7 +291,8 @@
 		})
 	}
 	function goBack(){
-		window.history.back();
+		// window.history.back();
+		window.location.href = '@@@BACKLINK@@@';
 	}
 	function increase_text_size(){
 		var current_size = Plotly.relayout('myDiv').font;

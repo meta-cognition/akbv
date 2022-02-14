@@ -1,0 +1,323 @@
+FUND_CODE	SHORT_NAME	LONG_NAME	AKSAS_ACCT_NUM	CLASS	MH_FLAG	COMMENTS	AKSAS_ACCT_ALT	ACTIVE	STAT_REF	AKSAS_FUNDS	CREATE_BY	CREATE_TIME	CHANGE_BY	CHANGE_TIME	RETAINS_INTEREST
+1230	AKCW Ad Fu	Alaska Clean Water Administrative Fund	51508	O	N	Can appropriate from Inc Acct to Admin Acct within CW Admin Fund (fund transfer language). Will be RR account 51508.	68515	Y	46.03.034	11168                         	CKOSULLIVAN	12/7/2013 16:34:56.602	CKOSULLIVAN	6/11/2014 15:06:51.344	N
+1231	AKDW Ad Fu	Alaska Drinking Water Administrative Fund	51509	O	N	Can appropriated from Inc Acct to Admin Acct within DW Admin Fund (fund transfer language). Will be RR acct code 51509.	68515	Y	46.03.038	11171                         	CKOSULLIVAN	12/7/2013 16:37:21.383	CKOSULLIVAN	6/11/2014 15:06:59.485	N
+1232	ISPF-I/A	In-state Pipeline Fund Interagency	51511	O	N	"3/14: repurposed this fund code from AKCW Income fund (not needed) to ISPF-I/A KM
+Can appropriated from Inc Acct to Admin Acct within CW Admin Fund. Need to verify AKSAS accounts. 12-7-13. cko"	51511	Y		                              	CKOSULLIVAN	12/7/2013 16:52:45.368	BALARSON	5/27/2014 10:06:49.826	N
+1233	Muni Bonds	Municipal Bond Bank Bonds	68515	O	N	Need AKSAS and Statutory Ref Info	0    	Y	 	0                             	CKOSULLIVAN	12/7/2013 16:55:31.727	CKOSULLIVAN	4/9/2014 16:12:26.466	N
+1235	AGDC-LNG	Alaska Liquefied Natural Gas Project Fund (AGDC-LNG)	68515	O	N	Established under SLA2014 SB 138 	68515	Y	AS 31.25.110	34078                         	TNARVAEZ1	4/19/2014 11:14:53.473	TNARVAEZ1	7/17/2014 12:14:38.646	N
+1236	AK LNG I/A	Alaska Liquefied Natural Gas Project Fund I/A (AK LNG I/A)	51512	O	N	Established in SLA 2014 SB 138	51512	Y	AS 31.25.110		TNARVAEZ1	4/19/2014 11:21:40.645	TNARVAEZ1	7/17/2014 12:14:07.287	N
+1238	VaccAssess	Vaccine Assessment Account	0    	D	N	The Vaccine Assessment Account funding may be used to purchase vaccines for the benefit of state residents.  The legislature may appropriate to the account program receipts attributable to vaccine assessments under AS 18.09.220, money from other sources, and interest earned on money in the account. 	0    	Y			WCBELKNAP	4/24/2014 11:11:50.244	AMBRYAN	5/12/2014 15:47:08.666	N
+1237	VocSmBus	Vocational Rehabilitation Small Bus. Enterprise Revolving Fd	51122	D	N	9/2014 - this fund code is for Revenue from facilities on state property will. 1117 will be used for Randolf-Sheppard receipts only categorized as other dedicated receipts from vendors.  KM per LFD	68515	Y	AS 23.15.130	11116                         	KEMAUSETH	12/3/2014 14:56:11.574	KEMAUSETH	12/8/2014 15:41:09.718	N
+1241	GF/LNG	General Fund/Liquefied Natural Gas	68515	U	N	Created in FY2015 Third Special Session on Gasline for better budgetary tracking of LNG appropriations.  	51005	Y		11100                         	BWFECHTER	11/3/2015 08:46:58.6	WCBELKNAP	11/5/2015 08:56:42.277	N
+1243	SBR	Statutory Budget Reserve Fund	68515	U	N	1/2016 added by LFD to track SBR transfers	51005	Y			KEMAUSETH	2/26/2016 14:56:18.615	WCBELKNAP	7/28/2017 13:08:11.95	N
+1249	Motor Fuel	Motor Fuel Tax Receipts	0    	D	N	HB 60 SLA17 (pending).	0    	Y			WCBELKNAP	10/27/2016 13:29:56.56	KEMAUSETH	6/29/2017 15:14:32.443	N
+1250	Maint Cap	Maintenance and Capital Fund	0    	U	N		61405	Y	xxx		KEMAUSETH	12/11/2017 10:17:03.95	KEMAUSETH	12/11/2017 10:24:41.4	N
+1253	STA Bonds	Subject to Appropriation Bonds	0    	O	N	create by HB331 SLA2018 oil and gas tax credit bonds Brian Fechter	61405	Y	AS 37.18.030		BWFECHTER	5/11/2018 10:01:05.063	JRSTERN1	9/19/2018 15:29:22.726	N
+1254	MET Fund	Marijuana Education and Treatment Fund	0    	D	Y	Created by SB28 SLA2018. 25% excise tax on marijuana sales to be used by DHSS for the marijuana treatment and education program.	61405	Y	AS 43.61.010(f)		BWFECHTER	5/13/2018 11:37:15.472	WCBELKNAP	5/31/2019 16:05:28.928	N
+1255	Invest	Securities Investor Education and Training Fund	0    	D	N		61405	Y	AS 45.56.625		BWFECHTER	6/20/2018 13:23:41.195	WCBELKNAP	5/31/2019 16:05:24.902	N
+1256	Ed Endow	Education Endowment Fund	0    	O	N	Created by HB213 SLA2018. Allows 25% of the proceeds from money donated under the PFD raffle program plus earnings to be appropriated to this fund.	61405	Y	AS 43.23.063		JRSTERN1	9/19/2018 15:31:13.628	BWFECHTER	12/20/2019 11:12:21.001	N
+1257	Div Raffle	Dividend Raffle Fund	0    	O	N	Dividend Raffle fund no appropriations out	61405	Y			JRSTERN1	9/19/2018 15:33:36.227	WCBELKNAP	5/31/2019 16:05:04.079	N
+1261	Shared Tax	Shared Taxes	0    	D	N	Tracking code for shared taxes appropriations created by LFD 3/29/2019	61405	Y			NASTEININGER	4/1/2019 08:47:04.015	NASTEININGER	4/1/2019 08:48:10.894	N
+1262	StatPFRoy	Non-mandatory Royalty Deposits to the Permanent Fund	0    	D	N		61405	Y			SRWILLHOITE	12/9/2019 20:31:01.535	BWFECHTER	12/20/2019 09:53:08.796	Y
+1251	Non-UGF	Non-UGF (Leg Fiscal Note System Only)	0    	O	N	Created for import of fiscal note data into change records, not to be used outside of that.	61405	Y			WCBELKNAP	2/25/2020 11:43:11.917	WCBELKNAP	2/25/2020 11:44:07.096	N
+1252	DGF Temp	DGF Temp (Leg Fiscal Note System)	0    	D	N	Added to import Leg Finance fiscal note system data. wcb 3/10/20	61405	Y			WCBELKNAP	3/10/2020 10:52:34.231	WCBELKNAP	3/10/2020 10:52:49.595	N
+1264	MET Alt	MET Alt	0    	D	N	Added during FY21 CC import from Legfin wcb	61405	Y			WCBELKNAP	4/2/2020 09:34:17.974	WCBELKNAP	4/2/2020 09:37:16.051	N
+1265	COVID Fed	Non-specific COVID Fed	0    	F	N		61405	Y			WCBELKNAP	9/30/2020 11:48:50.333	SRWILLHOITE	5/13/2021 16:02:19.438	N
+1268	MH Tr Res	Mental Health Trust Reserve	0    	D	Y	Added 11/30/2020	61405	Y			SRWILLHOITE	11/30/2020 16:21:50.616	SRWILLHOITE	12/6/2020 12:41:52.823	N
+1267	FTA CRRSAA	FTA CRRSAA Grant Funding	0    	F	N		61405	Y			SRWILLHOITE	4/24/2021 11:01:03.187	SRWILLHOITE	4/24/2021 11:01:27.453	N
+1269	CSLFRF	CSLFRF (Fed) Flexible ARP Funding	0    	F	N		61405	Y			SRWILLHOITE	4/24/2021 11:07:00.072	SRWILLHOITE	5/13/2021 16:02:42.048	N
+1266	COVID UGF	COVID UGF	0    	U	N		61405	Y			SRWILLHOITE	4/24/2021 11:08:53.293	SRWILLHOITE	4/24/2021 11:09:12.903	N
+1270	FHWA CRRSA	FHWA CRRSAA Fed	0    	F	N		61405	Y			JQUARSTAD	5/13/2021 12:24:02.522	JQUARSTAD	5/13/2021 12:34:07.567	N
+1271	ARPA Rev R	ARPA Revenue Replacement UGF	0    	U	N	Only in ABS - not setup in IRIS	61405	Y			SRWILLHOITE	6/14/2021 10:18:01.64	SRWILLHOITE	6/14/2021 10:19:03.438	N
+1246	Recid Redu	Recidivism Reduction Fund	0    	D	Y	flagged as MH. This fund is similar to the Alcohol fund (1180). AS 43.61.010 - Marijuana Tax Cultivators. 50% to Recidivism Reduction Fund	68515	Y			KEMAUSETH	4/25/2016 16:26:14.183	WCBELKNAP	6/6/2018 10:49:37.145	N
+1247	Med Recov	Medicaid Monetary Recoveries	0    	D	N	SB 74 SLA16. See FN 63. Not used - inactivated 8/19/2021	68515	Y	47.05.200		KEMAUSETH	4/25/2016 16:30:48.651	SRWILLHOITE	8/19/2021 12:30:31.516	N
+1248	ACHI Fund	Alaska Comprehensive Health Insurance Fund	68515	D	N	Added per HB 374. SLA2016	68515	Y	AS 21.55.430		KEMAUSETH	5/31/2016 11:47:34.86	WCBELKNAP	5/30/2018 11:25:48.929	N
+1000	Restrtd GF	Restricted General Fund	51005	D	N		68515	N		11100                         		7/9/2006 20:06:59.242001	KEMAUSETH	9/6/2012 15:03:37.755	N
+1002	Fed Rcpts	Federal Receipts	51010	F	N		51010	Y				7/9/2006 20:06:59.242001			N
+1003	G/F Match	General Fund Match	68510	U	N		51005	Y				7/9/2006 20:06:59.242001			N
+1004	Gen Fund	General Fund Receipts	68515	U	N		51005	Y		11100                         		7/9/2006 20:06:59.242001	WCBELKNAP	6/24/2015 10:02:18.832	N
+1005	GF/Prgm	General Fund/Program Receipts	51060	D	N		51060	Y				7/9/2006 20:06:59.242001	SHILDEBRAND	6/7/2010 10:21:47.684	N
+1007	I/A Rcpts	Interagency Receipts	51015	O	N		51015	Y				7/9/2006 20:06:59.242001	WCBELKNAP	6/2/2016 11:20:18.019	N
+1010	UA/INT INC	University of Alaska Interest Income	51030	D	N		51030	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 09:59:04.02	N
+1012	Rail Enrgy	Railbelt Energy Fund	51265	U	N		68515	Y	37.05.520	11123                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 09:42:13.225	N
+1013	Alchl/Drug	Alcoholism & Drug Abuse Revolving Loan	51377	F	N		68515	Y	44.29.210	21642                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 09:42:32.663	N
+1014	Donat Comm	Donated Commodity/Handling Fee Account	51120	F	N		68515	Y		11120                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 09:30:17.584	N
+1015	UA/DFA SVC	U/A Dormitory/Food/Auxiliary Service	51290	D	N		51290	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:01:38.739	N
+1016	Fed Incent	CSSD Federal Incentive Payments	51378	F	N		51378	Y				7/9/2006 20:06:59.242001			N
+1019	Reforest	Reforestation Fund	51397	O	N	LFD has classified as Other instead of DGF 1/2017. KM	68515	N	41.17.300	12130                         		7/9/2006 20:06:59.242001	KEMAUSETH	1/26/2017 14:13:48.317	N
+1021	Agric Loan	Agricultural Loan Fund	51035	D	N		68515	Y	03.10.040	21606                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 09:43:46.522	N
+1024	Fish/Game	Fish and Game Fund	68535	O	N	"Fish and Game AKSAS fund 12124 used for Sport Fish/Wildlife and 12147 Civil Fines and Penalties used for Comm Fish. F&G has requested a separate fund code for Civil Fines and Penalties in Nov13 and May14. Discussing with DLF 5-13-14 cko.
+"	51045	Y	16.05.100	12124/12147                   		7/9/2006 20:06:59.242001	CKOSULLIVAN	5/13/2014 10:41:01.615	N
+1026	Hwy Capitl	Highways/Equipment Working Capital Fund	51050	O	N		68515	Y	44.68.210	22652                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 09:45:57.131	N
+1027	Int Airprt	International Airport Revenue Fund	51055	O	N		68515	Y	37.15.430	21600                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 09:46:11.288	N
+1031	Sec Injury	Second Injury Fund Reserve Account	51075	D	N		68515	Y	23.30.040	11117                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 09:47:21.85	N
+1034	Teach Ret	Teachers Retirement System Fund	51090	O	N		68515	Y	14.25.010	35020                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 09:51:22.163	N
+1036	Cm Fish Ln	Commercial Fishing Loan Fund	51100	D	N		68515	Y	16.10.340	21608                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:21:47.675	N
+1195	SnoMachReg	Snow Machine Registration Receipts	51073	D	N	"Changed name from Special Vehicle Registration Receipts to Snow Machine Registration Receipts per LFD change. 10/25/2016 KM
+Revenues from DMV's boat registration receipts until FY2011 - when assigned it own code of 1216."	51073	Y	28.39.010-250			7/9/2006 20:06:59.242001	KEMAUSETH	10/25/2016 11:17:38.925	N
+1037	GF/MH	General Fund / Mental Health	68520	U	Y	previously Children's Trust Fund - O Fund Group - never used. AKSAS fund #34042	68520	Y				7/9/2006 20:06:59.242001			N
+1038	UA/STF SVC	U/A Student Tuition/Fees/Services	51110	D	N		51110	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:12:17.02	N
+1039	UA/ICR	U/A Indirect Cost Recovery	51024	D	N		51024	Y				7/9/2006 20:06:59.242001	CKOSULLIVAN	12/5/2011 09:15:59.487	N
+1040	Surety Fnd	Real Estate Surety Fund	51360	D	N	Changed from Other to DGF to match LFD. Kym	68515	Y	08.88.450	11121                         		7/9/2006 20:06:59.242001	KEMAUSETH	1/13/2015 14:33:24.144	N
+1192	Mine Trust	Mine Reclamation Trust Fund	51211	O	N	added per ch. 137, SLA 2004 (Governor bill)	68515	Y	37.14.800	12140                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 16:10:59.644	N
+1042	Jud Retire	Judicial Retirement System	51125	O	N		68515	Y	22.25.048	35025                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:29:28.003	N
+1044	Debt Ret	AK Debt Retirement Fund	51391	O	N	SLA1991, Ch87, Sec2	68515	Y	37.15.011	11138                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:30:32.269	N
+1046	Stdnt Loan	Student Revolving Loan Fund	51140	O	N	5/2012 DOF said this was not an active fund. DOR fund source to be changed in FY16 to 1106. This is now inactive in both OMB and DLF budget systems - cko 10-20-14.	68515	Y				7/9/2006 20:06:59.242001	BALARSON	6/19/2015 14:53:09.541	N
+1048	Univ Rcpt	University Restricted Receipts	51150	D	N		51150	Y				7/9/2006 20:06:59.242001			N
+1050	PFD Fund	Permanent Fund Dividend Fund	51160	O	N	LFD changed from DGF to Other 1/2017.	68515	Y	43.23.045	33020                         		7/9/2006 20:06:59.242001	KEMAUSETH	1/26/2017 14:12:40.563	N
+1057	Small Bus	Small Business Loan Fund	51180	D	N		68515	N	45.95.060	21607                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:39:55.394	N
+1058	Trsm Loan	Tourism Revolving Loan Fund	51185	D	N	AKSAS Fund # 21609.  Div of Finance inactivated  Nov 1996.	68515	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:17:52.692	N
+1059	Corr. Ind.	Correctional Industries Fund	51190	D	N		68515	N		22654                         		7/9/2006 20:06:59.242001	KEMAUSETH	9/6/2012 15:06:04.368	N
+1060	OF(Pre'84)	Other Funds (Pre-FY '84 Only)	0    	O	N	per DOA/finance, flag as inactive, use zero only. 6/19/00 jm	0    	N				7/9/2006 20:06:59.242001			N
+1061	CIP Rcpts	Capital Improvement Project Receipts	51200	O	N		51200	Y				7/9/2006 20:06:59.242001			N
+1063	NPR Fund	National Petroleum Reserve Fund	51210	F	N		68515	Y	37.05.530	12131                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:44:19.519	N
+9003	Unkn DGF	Unknown DGF Fund Source	0    	D	N		0    	Y			LENA	10/5/2010 14:57:21.785	LENA	10/5/2010 15:21:29.035	N
+1067	Mining RLF	Mining Revolving Loan Fund	51230	D	N	Reactivated 2/10/18 to appropriate unexpended balance.	68515	Y	27.09.010	21625                         		7/9/2006 20:06:59.242001	NASTEININGER	2/10/2018 16:05:30.525	N
+1068	Child Care	Child Care Revolving Loan Fund	51235	D	N	AKSAS Fund # 21612	68515	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:18:56.317	N
+1069	Hist Dist	Historical District Revolving Loan Fund	51240	D	N		68515	N	45.98.010	21614                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:48:26.862	N
+1070	Fish En Ln	Fisheries Enhancement Revolving Loan Fund	51245	D	N		68515	Y	16.10.505	21615                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:48:44.191	N
+1071	Alt Energy	Alternative Energy Revolving Loan Fund	51250	D	N	Reactivated 2/10/18 to appropriate unexpended balance.	68515	Y	45.88.010	21619                         		7/9/2006 20:06:59.242001	NASTEININGER	2/10/2018 16:13:25.308	N
+1072	Res Energy	Residential Energy Conservation Loan Fund	51255	D	N		68515	N	45.89.010	21623                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:49:26.128	N
+1074	Bulk Fuel	Bulk Fuel Revolving Loan Fund	51270	D	N	Ch46 SLA12 (HB196) amends the Bulk Fuel Revolving Loan Fund to include the bulk fuel loan account and the bulk fuel bridge loan account to administer the bulk fuel loan and bulk fuel bridge loan programs. (AS 42.45.460 & 42.45.470). AKSAS fund 21626 & 21627.	68515	Y	42.45.250	21626                         		7/9/2006 20:06:59.242001	CKOSULLIVAN	4/14/2014 12:40:52.847	N
+1076	Marine Hwy	Marine Highway System Fund	51380	D	N		68515	Y	19.65.060	12135                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:52:21.722	N
+1078	Sr Housing	Senior Housing Loan Fund	51382	D	N	AKSAS Fund # 13506. Finance inactivated fund 2/92.	68515	N				7/9/2006 20:06:59.242001			N
+1081	Info Svc	Information Services Fund	51385	O	N		68515	Y	44.21.045	22500                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:56:24.112	N
+1082	Vessel Rep	Vessel Replacement Fund	51386	D	N	AKSAS Fund # 11137. Changed from UGF to DGF to match LFD 4/13/13. KM	68515	Y	AS 37.05.550	11137                         		7/9/2006 20:06:59.242001	KEMAUSETH	4/13/2013 11:29:46.669	N
+1086	SE Energy	Southeast Energy Fund	51401	D	N		68515	Y	42.45.040	11148                         		7/9/2006 20:06:59.242001	BWFECHTER	11/10/2017 11:33:44.416	N
+1088	UnInc Mtch	Unincorporated Matching Grant Fund	68515	D	N	Default and Alternate codes reversed by Joan Brown on 7-2-01 per request of DCED and Finance.	51403	Y	37.06.020	11147                         		7/9/2006 20:06:59.242001	BWFECHTER	11/10/2017 11:29:14.414	N
+1089	Power Cost	Power Cost Equalization Fund	51404	D	N		68515	Y	42.45.100	11150                         		7/9/2006 20:06:59.242001	BALARSON	6/20/2013 15:48:02.146	N
+1090	4 Dam Pool	Four Dam Pool Transfer Fund	51405	D	N	AKSAS Fund # 11149.	68515	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:21:36.614	N
+1091	GF/Desig	General Funds - Designated	51062	O	N	LFD has classified as Other, not DGF 1/2017. KM OMB-previous yrs-Other Program Receipts-O Fnd Group.  Only used in FY1997.	51062	N				7/9/2006 20:06:59.242001	KEMAUSETH	1/26/2017 14:14:37.022	N
+1094	MHT Admin	Mental Health Trust Administration	51425	O	Y	OMB created. 	68515	Y	37.14.036	34046                         		7/9/2006 20:06:59.242001	BALARSON	6/20/2013 15:50:52.255	N
+1097	AETNA Res	Group Health and Life Benefits Fund (AS 39.30.095)	51424	O	N	Created for SB1005C (2nd special session) - Rev acct only setup if needed.  	68515	Y	39.30.095	11135                         		7/9/2006 20:06:59.242001	BALARSON	6/20/2013 15:51:54.036	N
+1098	ChildTrErn	Children's Trust Earnings	51414	D	N	By WCB 11/8/96; was 1095 by error. 'Earnings' added 12-10-96.	68515	Y	37.14.240	34052                         		7/9/2006 20:06:59.242001	BALARSON	6/20/2013 15:52:15.911	N
+1099	ChildTrPrn	Children's Trust Principal	51000	D	N	Added by Dan Spencer 12-10-96 - Rev acct only setup if needed	68515	Y	37.14.200	34051                         		7/9/2006 20:06:59.242001	BALARSON	6/20/2013 15:52:28.88	N
+1100	ADWF	Alaska Drinking Water Fund	51415	O	N		68515	Y	46.03.036	21652                         		7/9/2006 20:06:59.242001	BALARSON	6/20/2013 15:52:58.193	N
+1103	AHFC Rcpts	Alaska Housing Finance Corporation Receipts	51407	O	N	Transferred from Leg. Fin. 5/28/97	51407	Y				7/9/2006 20:06:59.242001			N
+-1	Unknown GF	Unknown GF	0    	O	N		0    	N				7/9/2006 20:06:59.242001	WCBELKNAP	11/4/2014 15:24:08.762	N
+1102	AIDEA Rcpt	Alaska Industrial Development & Export Authority Receipts	51406	O	N	Transferred from Leg. Fin. 5/28/97	51406	Y				7/9/2006 20:06:59.242001			N
+1104	MBB Rcpts	Alaska Municipal Bond Bank Receipts	51417	O	N	Transferred from Leg. Fin. 5/28/97	51417	Y				7/9/2006 20:06:59.242001	WBELKNAP	7/12/2010 14:54:08.081	N
+1105	PFund Rcpt	Alaska Permanent Fund Corporation Receipts	51373	O	N	Transferred from Leg. Fin. 5/28/97; update by OMB, 6/19/00 jm.  AKSAS Fund # 34030 for CAFR reporting only.	51373	Y				7/9/2006 20:06:59.242001			N
+1107	AEA Rcpts	Alaska Energy Authority Corporate Receipts	51418	O	N	Transferred from Leg. Fin. 5/28/97	51418	Y				7/9/2006 20:06:59.242001			N
+1108	Stat Desig	Statutory Designated Program Receipts	51063	O	N	Transferred from Leg. Fin. 5/28/97	51063	Y				7/9/2006 20:06:59.242001			N
+1110	APUC Rcpts	Alaska Public Utility Commission	51066	D	N	Transferred from Leg. Fin. 5/28/97; update by OMB, edit to account alt. number 6/19/00 jm	51066	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:23:04.457	N
+1092	MHTAAR	Mental Health Trust Authority Authorized Receipts	51410	O	Y	OMB-short name-MHTrust In; Mental Health Trust Settlement In. 	68515	Y	37.14.036	34046                         		7/9/2006 20:06:59.242001	BALARSON	6/20/2013 15:49:05.63	N
+9999	No specif.	No specific fund source	0    	O	N	ABS setup to load conference committee change records due to fund source / line item format.	0    	Y				7/9/2006 20:06:59.242001			N
+1114	EVOS Rest	Exxon Valdez Oil Spill Restoration Fund	51413	O	N	updated 6/17/98 by OMB, JM.	68515	Y		11140                         		7/9/2006 20:06:59.242001	KEMAUSETH	9/6/2012 15:09:22.233	N
+1115	InT/BuEnIn	International Trade and Business Endowment Income	51422	D	N	"Updated by OMB, RW, 8/19/98; implement AS 37.17.440 and 
+SLA98, Chapter 139, Sec. 10. AKSAS Fund # 34065.  Inactivated FY05."	51422	N		                              		7/9/2006 20:06:59.242001	TNARVAEZ1	9/25/2012 14:12:45.856	N
+1119	Tobac Setl	Tobacco Settlement	65045	U	N	"Alaska's share of the multi-state settlement with tobacco companies
+Changed to UGF 11-28-11. cko."	65045	Y				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/28/2011 18:54:57.433	N
+1121	MultiFunds	Multiple Funds pre FY94	0    	O	N	Leg, Finance use only. Entered by JM 1/7/99; 6/19/00 per DOA/finance, flag as zero AKSAS #s. jm	0    	N				7/9/2006 20:06:59.242001			N
+1122	LIC/PER/CT	License/Permits/Certification Pre 89	0    	D	N	"Leg. Finance use only
+Entered by JM 1/7/99; 6/19/00 per DOA/finance, flag as zero AKSAS #s. jm"	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:29:37.629	N
+1123	Care/Trmnt	Care and Treatment - FY88	0    	D	N	"Leg. Finance use only
+entered by JM 1/7/99; 6/19/00 per DOA/finance, flag as zero AKSAS #s. jm"	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:30:49.051	N
+1125	APA Plant	APA Plant Maintenance & Operation - FY88	0    	D	N	"Leg. Finance use only
+Entered by JM 1/7/99; 6/19/00 per DOA/finance, flag as zero AKSAS #s. jm"	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:31:43.817	N
+1129	Legal Recp	Legal Settlement Receipts - FY88	0    	U	N	"Leg. Finance use only
+Entered by JM 1/7/99; 6/19/00 per DOA/finance, flag as zero AKSAS #s. jm"	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:32:57.489	N
+1130	Handcap Fn	Handicapped Vendor Facility Fund - FY88	0    	F	N	"Leg. Finance use only
+Entered by JM 1/7/99; 6/19/00 per DOA/finance, flag as zero AKSAS #s. jm"	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:33:13.614	N
+1049	Trng Bldg	Training and Building Fund	51155	D	N	Dedicated fund since 1955.	68515	Y	23.20.130	12121                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:31:59.519	N
+1174	UA I/A	UA Intra-Agency Transfers	59470	O	N	Added 4-5-02 for UA.	59470	Y				7/9/2006 20:06:59.242001			N
+1132	Publ/Other	Publications and Other Services - FY88	0    	D	N	"Leg. Finance use only
+Entered by JM 1/7/99; 6/19/00 per DOA/finance, flag as zero AKSAS #s. jm"	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:33:52.957	N
+1096	ILT Fund	Investment Loss Trust Fund (DO NOT USE)	0    	U	N	do not use; update AKSAS field to 'none' 1/7/99 JM; changed to zero; use #1053. 6/29/2000	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:21:55.52	N
+1017	Ben Sys	Benefits Systems Receipts	51390	O	N		68515	Y				7/9/2006 20:06:59.242001			N
+1035	Vet Loan	Veterans Revolving Loan Fund	51095	D	N		68515	Y	26.15.090	21605                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:21:31.409	N
+1045	Nat Guard	National Guard & Naval Militia Retirement System	51135	O	N		68515	Y	26.05.222	35030                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:31:23.347	N
+1055	IA/OIL HAZ	Interagency/Oil & Hazardous Waste	51395	O	N		51395	Y				7/9/2006 20:06:59.242001	KEMAUSETH	9/25/2012 10:33:47.495	N
+1064	House Loan	Housing Assistance Loan Fund	51215	D	N	AKSAS Fund # 21635. Finance inactivated 6/95.	68515	N				7/9/2006 20:06:59.242001			N
+1073	Pwr Dv RLF	Power Development Revolving Loan Fund	51260	D	N	AKSAS Fund # 21626. Finance inactivated fund 6/95.	68515	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:19:28.551	N
+1084	Alyeska	Alyeska Settlement Fund	51399	O	N		68515	Y		33080                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:58:39.112	N
+1095	Med Facil	Medical Facilities Authority Fund	0    	O	N	probably a one time - Rev acct only setup if needed	0    	N				7/9/2006 20:06:59.242001			N
+1113	AHFC Bonds	Alaska Housing Finance Corporation Bonds	51419	O	N	updated 6/17/98 by OMB, JM. rec'd from DOA the AKSAS#.	51419	Y				7/9/2006 20:06:59.242001			N
+1118	Pioneers' 	Pioneers' Homes Receipts	51123	D	N	"New fund source to reflect legislative proposal.
+rec'd account code from DOA Finance 6/9/99."	51123	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:23:27.348	N
+1224	MariculRLF	Mariculture Revolving Loan Fund	51507	D	N	SLA2012 HB121 - AKSAS 51507	68515	Y	16.10.900	21634                         	KEELLIOTT	5/4/2012 08:36:43.636	KEELLIOTT	5/8/2012 14:25:50.335	N
+1135	AMHS Dup	Marine Highway Duplicated Expenditures	51380	D	N	To match Leg Finance code added for recasting by Joan Brown 11/10/99.  AKSAS Fund # 12135.	68515	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:37:33.832	N
+1137	DComp IA	Inactive-Deferred Compensation Inter Agency Receipts	0    	O	N	"To match Leg Finance code added for recasting by Joan Brown 11/10/99
+Leg Finance and OMB agreed not to use during 2000 session."	0    	N				7/9/2006 20:06:59.242001			N
+1229	AGDC-ISP	AK Gasline Development Corporation In-state Pipeline Fund	68515	O	N	"3/14: change name from In-State Natural Gas Pipleline Fund to AGDC In-state Pipleline Fund to match LFD KM
+HB4 SLA2013
+6/20/13 added unrestricted as default 68515 per DOF
+subfund of AK Gasline Development Corp"	68515	Y	AS 31.25.100	34077                         	KEELLIOTT	5/7/2013 10:16:21.205	KEMAUSETH	9/12/2014 11:08:36.804	N
+1138	Hlth I/A	Inactive-Health Inter-Agency Receipts	0    	O	N	"To match Leg Finance code added for recasting by Joan Brown 11/10/99
+Leg Finance and OMB agreed not to use during 2000 session."	0    	N				7/9/2006 20:06:59.242001			N
+1141	RCA Rcpts	RCA Receipts	51066	D	N	To reflect the statutory change in SB 133, CH 25, SLA 1999	51066	Y				7/9/2006 20:06:59.242001			N
+1142	RHIF/MM   	Retiree Health Ins Fund/Major Medical	51428	O	N	Added per Dept of Revenue's request of 11/4/99 on 11/10/99 by Joan Brown.  Renamed to Defined Benefits Major Medical 06-2009.	68515	Y		11156                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 11:47:20.438	N
+1143	RHIF/LTC	Retiree Health Ins Fund/Long-Term Care Fund	51429	O	N	Added per Dept of Revenue's 11/4/99 request on 11/10/99 by Joan Brown.  Renamed Defined Benefits Long Term Care 06/2009.	68515	Y		11158                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 11:47:53.032	N
+1144	CWF Bond	Clean Water Fund Bond Receipts	51430	O	N	Added 11/22/99 by Joan Brown to reflect change in DEC's ability to match federal funds for fund capitalization with proceeds from bonds from the clean water fund.  	51430	Y	37.15.565	21661                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 11:49:02.375	N
+1145	AIPP Fund	Art in Public Places Fund	51427	O	N	"Change per DLF 2/26/16. KM 
+DLF changed back to Other/duplicated in July 2016. KM"	68515	Y	AS 44.27.060	11124                         		7/9/2006 20:06:59.242001	KEMAUSETH	11/7/2016 15:37:35.354	N
+1023	FICA Acct	FICA Administration Fund Account	51040	O	N		68515	Y	39.30.050	11110                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 09:44:12.334	N
+1109	Test Fish	Test Fisheries Receipts	51064	D	N	"Transferred from Leg. Fin. 5/28/97
+AKSAS fund 11100"	51064	Y	37.05.146(c)21			7/9/2006 20:06:59.242001	BALARSON	6/21/2013 11:28:25.75	N
+-2	UnknwnOthr	Unknown Other	0    	O	N		0    	N				7/9/2006 20:06:59.242001	BALARSON	6/19/2013 09:26:26.819	N
+1150	ASLC Div	ASLC Dividend	55520	U	N	Deactivated 3/7/17. The ASLC dividend will be spent as 1004 UGF. Added to match Leg Finance on 3-14-00.;6/19/00 updated by OMB per DOA/finance. jm Change per ACPE request to ASLC on 11-21-02 jb	55520	N				7/9/2006 20:06:59.242001	KEMAUSETH	3/7/2017 16:15:08.642	N
+1184	GOB DSFund	General Obligation Bond Debt Service Fund	51476	D	N	6/27/13 - DLF is now classifying this as DGF. Added 4-16-03 to account for the GO bond premium that will be used to pay debt on the bonds. 	51476	Y		14110/14112                   		7/9/2006 20:06:59.242001	CKOSULLIVAN	2/13/2014 14:28:36.918	N
+1186	ASLC Bonds	Alaska Student Loan Corporation Bond Proceeds	51510	O	N	added 11-24-03	51510	Y				7/9/2006 20:06:59.242001			N
+2000	Bond Funds	Bond Proceeds	51000	O	N	added 12-7-04	61405	Y				7/9/2006 20:06:59.242001			N
+2001	Bonds MH	Bond Proceeds Mental Health	51000	O	N	Added to track the use of bond proceeds in the mental health bill in FY06.	61405	Y				7/9/2006 20:06:59.242001	NASTEININGER	2/3/2019 09:18:12.977	N
+1218	146(c)code	146(c)code	51073	D	N	Added just for FY11 Auto AB process.	51073	N			WBELKNAP	5/17/2010 15:07:14.212	CKOSULLIVAN	11/29/2011 09:15:06.77	N
+1146	Fee Supp 	Inactive-Fee Supported Increase	0    	D	N	Added 12/1/99 by Joan Brown for use in FY2001 budget presentation to highlight increments fully supported by increased fees or increments in programs with statutory requirements to be fully fee-supported. Ultimately not used in final approved budget.	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:37:51.207	N
+1147	PublicBldg	Public Building Fund	51432	O	N	Established 12/1/99 by Joan Brown for implementation of the FY2001 facilities rent structure. 	68515	Y	37.05.570	11165                         		7/9/2006 20:06:59.242001	TNARVAEZ1	9/16/2013 10:34:08.482	N
+1053	Invst Loss	Investment Loss Trust Fund	51393	U	N	When bill is run, if the only use of this fund source is in Revenue, then it is a non-gf fund source-then switch back to GF.  If used for COLA, then it needs to be kept as a GF fund code.   AKSA Fund # 33060	51393	Y	37.14.300	33060                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:37:39.472	N
+1139	AHFC Div	AHFC Dividend	51407	U	N	To match Leg Finance code added for recasting by Joan Brown 11/10/99.  4-10-00 Recast grp changed from general purpose to other(recast) to match leg finance.	51407	Y				7/9/2006 20:06:59.242001			N
+1156	Rcpt Svcs	Receipt Supported Services	51073	D	N	HB 418, Ch 101 SLA 2000 and HB 262, Ch 96 SLA 2002	51073	Y				7/9/2006 20:06:59.242001			N
+1152	AFSC Rcpts	AK Fire Standards Council Receipts	51077	O	N		51077	Y	AS 21.96.075 and AS 37.05.146(b)			7/9/2006 20:06:59.242001	BALARSON	6/21/2013 11:59:18.11	N
+1153	State Land	State Land Disposal Income Fund	51434	D	N		68515	Y	AS 38.04.022(a) and AS 37.05.146(b)	11164                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 15:49:10.066	N
+1157	Wrkrs Safe	Workers Safety and Compensation Administration Account	51078	D	N	"HB378, SLA 00, Chap 89.
+AKSAS Alternate code changed to 68515 6/15/01 as requested by Lisa Pusich in the Division of Finance."	68515	Y	23.05.067/37.05.146(b)	11173                         		7/9/2006 20:06:59.242001	AMBRYAN	9/12/2016 17:01:54.579	N
+1158	Emp Pay	Inactive Don't Use Employee Pay	0    	O	N	Added during 2000 session to match Leg Finance. Ultimately not used.	0    	N				7/9/2006 20:06:59.242001			N
+1154	Shore Fish	Shore Fisheries Development Lease Program	51074	D	N		51074	Y	AS 38.05.082 and AS 37.05.146(b)			7/9/2006 20:06:59.242001			N
+1159	DWF Bond	Drinking Water Fund Bond Receipts	51431	O	N	HB304.  	51431	Y	37.15.565	21662                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 15:51:49.378	N
+1136	SBS IA	Inactive-SBS Inter Agency Receipts	0    	O	N	"To match Leg Finance code added for recasting by Joan Brown 11/10/99
+Leg Finance & OMB agreed not to use during 2000 session."	0    	N				7/9/2006 20:06:59.242001			N
+1028	Pre90 PRGM	Pre-FY90 Program Receipts	0    	D	N	per DOA/finance, flag as inactive. Use zero only. 6/19/00 jm	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:11:56.285	N
+1106	ASLC Rcpts	Alaska Student Loan Corporation Receipts	55520	O	N	Transferred from Leg. Fin. 5/28/97; update by OMB, edit to AKSAS #s. 6/19/00 jm; edited the alt. code back to 68515 from 55520. 6/20/00 jm. Changed name from AK Post-Secondary Educ Commission Receipts to ASLC Receipts to match DLF. 2-24-15 cko. 	68515	Y				7/9/2006 20:06:59.242001	CKOSULLIVAN	2/24/2015 15:21:07.988	N
+1025	Sci/Tech	Science & Technology Endowment Income	51375	D	N	AKSA Fund # 34060 Inactivated in FY05	51375	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:02:42.879	N
+1205	Ocn Rngr	Berth Fees for the Ocean Ranger Program	51492	O	N	Deposited into Fund 11174 by DEC	68515	Y	AS 46.03.480(d)	11174                         	SHILDEBRAND	3/19/2008 14:16:21.437	KEMAUSETH	10/2/2017 12:19:14.907	N
+1124	Res Receip	Resource Assessment Receipts - FY88	0    	D	N	"Leg. Finance use only
+Entered by JM 1/7/99; 6/19/00 per DOA/finance, flag as zero AKSAS #s. jm"	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:31:31.332	N
+1197	AK Cap Inc	Alaska Capital Income Fund	51490	D	N	"LFD classifies this as Other, not DGF 1/2017. 5/9/17 LFD changes this to UGF (no designation), if bill passes to use ACIF to fund deferred maintenance, then it will be changed to DGF. KM added 5-3-05
+This fund is subject to the CBR sweep. 
+Changed to DGF to match LF 11-28-11. cko."	68515	Y	AS 37.05.565	11185                         		7/9/2006 20:06:59.242001	NASTEININGER	11/29/2018 15:08:51.199	N
+1203	WCBG Fund	Workers' Compensation Benefits Guaranty Fund	51491	D	N		68515	Y	23.30.082	11186                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 16:18:44.987	N
+1127	User Fees	User Fees - FY88	0    	D	N	"Leg. Finance use only
+Entered by JM 1/7/99; 6/19/00 per DOA/finance, flag as zero AKSAS #s. jm"	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:31:57.582	N
+1128	Child Sup	Child Support Enforcement - FY88	0    	D	N	"Leg. Finance use only
+Entered by JM 1/7/99; 6/19/00 per DOA/finance, flag as zero AKSAS #s. jm"	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:32:19.567	N
+1999	No ID Fund	Other Fund Source	68515	O	N		61405	Y				7/9/2006 20:06:59.242001			N
+1131	RR Fund	Alaska Railroad Revenue Fund - FY85, FY86, FY87	0    	D	N	"Leg. Finance use only
+Entered by JM 1/7/99; 6/19/00 per DOA/finance, flag as zero AKSAS #s. jm"	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:33:36.379	N
+1006	GF/MHTIA	General Fund/Mental Health Trust	0    	O	Y	inactive fund code, use 1037, update by OMB. 6/20/00 jm	0    	N				7/9/2006 20:06:59.242001			N
+1151	VoTech Ed	Technical Vocational Education Program Account	51433	D	N	Updated per Leg. Finance and DOA/Finance, use 'account' instead of 'receipts' for title. 6/23/00 jm.	68515	Y	23.15.830	11166                         		7/9/2006 20:06:59.242001	TNARVAEZ1	7/3/2013 15:39:29.701	N
+1160	M/C Protec	Marine/Coastal Protection-Inactive	0    	F	N	Added by Joan Brown 9-5-00 to match Leg Finance.  This historical fund source was first used in 1976 and repealed in 1980, per Leg Finance.	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:40:06.379	N
+1162	AOGCC Rcpt	Alaska Oil & Gas Conservation Commission Rcpts	51079	D	N	Added 8-1-00 by Joan Brown per AS 37.05.146(b)(4)(w), sec. 3,  ch. 34, SLA 1999.	51079	Y				7/9/2006 20:06:59.242001			N
+1161	RRD Fund	Renewable Resources Development Fund-Inactive	0    	D	N	Added by Joan Brown 9-5-00 to match Leg Finance's addition of historical fund source codes.  Per Leg Finance, this was used initially in 1974 and repealed in 1984.	0    	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:40:26.129	N
+1051	RuralEcDev	Rural Economic Development Initiative Fund	51387	D	N	Name chg from Rural Dev Initiative Fund due to SB 248, Ch 117, SLA2000. Inactivated in 01 after AIDEA Board on 2-8-01 met & authorized capitalization of new fund (new Rural Dev Initiative Fund - F#1164)& purchase of REDIF assets.  AKSAS Fund # 21644.	68515	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:16:37.645	N
+1222	REAA Fund	Regional Educational Attendance Area School Fund	51530	O	N	LFD has classified as Other, not DGF 1/2017. KM	68515	Y	14.11.030	11190                         		11/28/2011 10:29:36.257	KEMAUSETH	1/26/2017 14:18:16.033	N
+1033	Surpl Prop	Surplus Property Revolving Fund	51085	F	N		68515	Y	37.05.500/44.68.110-130	11112                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 09:50:51.022	N
+1164	RDIF	Rural Development Initiative Fund	51435	D	N	Created by passage of SB 248, Ch 117, SLA 2000.  Supercedes former RDIF which was renamed Rural Economic Dev Loan Fund by same bill (fund source 1051). 	51435	Y	44.88.600	21663                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 15:53:38.878	N
+1165	CBR/MH	CBR/Mental Health	51005	O	Y	LFD has classified as Other, not UGF 1/2017. KM Added to match Leg Finance 5-1-01 (used by Senate Finance)	61405	N				7/9/2006 20:06:59.242001	KEMAUSETH	1/26/2017 14:15:41.729	N
+1167	NTSC Bond	Northern Tobacco Securitization Corporation Bonds	51437	O	N	Added 5-1-01 re passage of HB 234, Tobacco Bond bill, SLA 2001. AKSAS Fund 11176 per DOF 5/2012	51437	Y		11176                         		7/9/2006 20:06:59.242001	KEELLIOTT	5/31/2012 14:09:51.626	N
+1148	AATP Fund 	Accelerated Alaska Transportation Projects Fund	51487	O	N	Added 1/21/2000 as a fund source for Gov's legislation relating to issuance of state guaranteed transportation revenue anticipation bonds. Ultimately not used then. HB525 Ch 114 SLA 2002 passed and was approved by voters Nov 2002.  AKSAS Fund # 13110	51487	Y		13110                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 11:51:59.86	N
+1043	Impact Aid	Impact Aid for K-12 Schools	51130	F	N	Modified 7-30-01 to match Leg Finance.  Title changed from P/L 81-874 to Impact Aid.  Federal program was reauthorized.	51130	Y				7/9/2006 20:06:59.242001			N
+1193	MaintGrant	Major Maintenance Grant Fund	51361	D	N	AS 14.11.007  (created in SLA 1993, but not used again until 2004)	51361	N		11144                         		7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:45:34.285	N
+1093	Clean Air	Clean Air Protection Fund	51207	O	N	OMB created.	68515	Y	46.14.260	12133                         		7/9/2006 20:06:59.242001	BALARSON	6/20/2013 15:49:27.927	N
+1194	F&G Nonded	Fish and Game Nondedicated Receipts	68540	D	N	No longer being used - see 1024. cko 5-13-14. Acct 68540 is also inactive. 51045 is used for fund code 1024.	51045	N	16.05.100	12124/12147                   		7/9/2006 20:06:59.242001	CKOSULLIVAN	5/13/2014 11:18:50.818	N
+1170	SmBusEDRLF	Small Business Economic Development Revolving Loan Fund	51467	D	N	Added per request of DCED on Nov 15, 2001 for use in the FY03 budget.  	51467	Y	44.88.400	21620 (rollup)                		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 15:57:58.784	N
+1179	PFC 	Passenger Facility Charges	51474	O	N	5-11-02  Per S CSHB 262(RLS).  Changed alternate acct 6/11/02 at DoF request. 	68515	Y	AS 37.05.146(b)(4)(BBB)/37.15.430	21603/21604                   		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 16:03:20.253	N
+1126	Cont Reimb	Contract Services Reimbursement - FY88	0    	O	N	"Leg. Finance use only
+Entered by JM 1/7/99; 6/19/00 per DOA/finance, flag as zero AKSAS #s. jm  Was fund code 1019 in FY88."	0    	N				7/9/2006 20:06:59.242001			N
+1185	ElectionFd	Election Fund (HAVA)	51482	O	N	Added per the federal Help America Vote Act of 2002(H.R. 3295), otherwise known as HAVA. Duplicated fund source.	68515	Y		11179                         		7/9/2006 20:06:59.242001	CKOSULLIVAN	12/6/2013 12:33:26.652	N
+1022	Corp Rcpts	State Corporation Receipts	51320	O	N	This fund code was used pre-FY98 for state corporation appropriations.  This code was broken into separate fund codes for each state corporation in FY99 and is no longer used.	68515	N				7/9/2006 20:06:59.242001			N
+1077	Gifts/Grnt	Gifts/Grants/Bequests	51381	O	N	This fund code was eliminated in SLA 1997 with the enactment of the statutory designated program receipts fund code 1108.	51381	N				7/9/2006 20:06:59.242001			N
+1149	TAPL Fund	Trans-Alaska Pipeline Liability Fund	0    	F	N	Added 2/15/00 by Joan Brown. 11163 = TAPS AK Rebate Fund. KM	0    	N		11163                         		7/9/2006 20:06:59.242001	KEMAUSETH	9/6/2012 14:35:51.259	N
+1163	COPs	Certificates of Participation	51291	O	N	re passage of HB 76 and sec 26, SB 29 (capital budget bill), SLA 2001. Updated 4-8-03 to match Leg Finance: deleted "Lease Purchase" from Certificates of Participation Lease Purchase. Changed short name from LeaseBonds to COPs.	51291	Y				7/9/2006 20:06:59.242001			N
+1032	Fish Fund	Fishermen's Fund	51080	D	N	Updated 4-8-02 to match enabling statute AS 23.35.060. Former short and long names were Dis Fisher and Disabled Fishermans Reserve Account.  AKSAS fund # 11119	68515	Y	AS 23.35.060	11119                         		7/9/2006 20:06:59.242001	TNARVAEZ1	9/25/2012 13:55:33.993	N
+1177	ITB Endow	International Trade and Business Endowment	51468	O	N	added 4-26-02 to match Leg Finance's use in HB 403 for FY2003 operating budget. Endowment created by Ch 55, SLA 1997.  AKSAS Fund # 34060.  Finance will inactivate fund in FY05.	51468	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	2/13/2014 14:29:23.965	N
+1181	Vets Endow	Alaska Veterans' Memorial Endowment Fund	68515	O	N		51486	Y	AS 37.14.700	36010                         		7/9/2006 20:06:59.242001	CKOSULLIVAN	8/8/2013 14:21:11.336	N
+1196	Master LOC	Master Lease Line of Credit	51292	O	N	Added as Alaska Senior Care Fund 1-7-05 in order for HSS to write fiscal note for successor to 1189 Senior Care Fund.  That one was later changed to 1198 and this one to Master Lease Line of Credit to sync up with Leg. Fin.	51292	Y				7/9/2006 20:06:59.242001	AMBRYAN	2/24/2015 10:21:03.371	N
+1182	Ed Cn/Mnt	Educational and Museum Facility Design/Const/MajorMaint Fund	51485	O	N	Proceeds of General Obligation Bonds authorized by HB 2002 (SLA 2002)--received voter approval in November 2002. 	51485	Y		13112                         		7/9/2006 20:06:59.242001	BWFECHTER	12/20/2019 11:10:52.251	N
+1183	Trans Proj	Transportation Project Fund	51483	O	N	Proceeds of General Obligation Bonds authorized in HB 525 (SLA 2002)--received voter approval in November 2002. 	51483	Y		13111                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 16:07:53.237	N
+1029	P/E Retire	Public Employees Retirement System Fund	51065	O	N		68515	Y	39.35.010	35010                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 09:46:42.491	N
+1166	Vessel Com	Commercial Passenger Vessel Environmental Compliance Fund	51436	O	N	"Added to match Leg Finance re HB 260 Cruise Ship bill, subject of June 2001 special session.  
+Short Title modified 6/11 to match Leg Fin
+Changed alternate acct to 68515 6/11/02"	68515	Y	AS 46.03.482(b)(1) and (2), and (d)	11174                         		7/9/2006 20:06:59.242001	KEMAUSETH	10/2/2017 12:19:41.096	N
+1169	PCE Endow	PCE Endowment Fund	51465	D	N	"Per passage of HB 446 in SLA 2000. 
+
+modified alternate to 68515 due to DoF request 6/11/02"	68515	Y	42.45.070(c)	33065                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 15:56:33.753	N
+1173	Misc Earn	Miscellaneous Earnings	51475	U	N	Added 3-7-02 as a multi-purpose fund source.  Used in FY03 for 1) earnings on cash held by AHFC as a result of the sale of the tobacco settlement stream to NTSC and 2) Muni Bond Bank misc earnings.  	51475	Y				7/9/2006 20:06:59.242001			N
+1225	CQuota RLF	Community Quota Entity Revolving Loan Fund	51506	D	N	SLA HB121 sec. 9 amends sec. 16.10 - AKSAS 51506	68515	Y	16.10.345	21633                         	KEELLIOTT	5/4/2012 08:49:30.433	KEELLIOTT	5/8/2012 14:26:24.913	N
+1178	tracking	tracking code	0    	U	N	This code is used as a temporary tracking code for potential new fund codes.  It should never appear in a final bill because all new fund codes should be established before a bill is run.  Added to match Leg Finance. Changed to UGF to ensure that potential UGF spending is not understated. 1/2015.	61405	Y				7/9/2006 20:06:59.242001	KEMAUSETH	1/13/2015 14:34:35.299	N
+1112	IntAptCons	International Airports Construction Fund	51220	O	N	updated 6/17/98 by OMB, JM. rec'd from DOA, the AKSAS #. Updated again 8-13-03 by JoanB per Cristine Sullivan in Finance.  	68515	Y	AS 37.15.420	13409 (rollup)                		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 11:34:03.297	N
+1188	Fed Unrstr	Federal Unrestricted Receipts	51010	F	N	Added to track the $50 million in unrestricted federal tax relief funds appropriated in FY04/05.  	51010	Y				7/9/2006 20:06:59.242001			N
+1187	Fed MH	Federal Mental Health	51010	F	Y	Added to match Leg Fin on 1-20-04	51010	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:45:02.942	N
+1190	Adak Ops	Adak Airport Operations 	51484	F	N	Established for new 5-yr DOT and Fed contract for ops and maint of Adak airport. Contract with Dept of Navy requires these funds & interest earnings be segregated from other state funds & only used for ops & maint of Adak airport. AKSAS Fund # 11181.	51484	Y		11181                         		7/9/2006 20:06:59.242001	JBROWN	11/10/2008 11:45:07.218	N
+1191	DEED CIP	DEED CIP Fund Equity Account	68521	D	N	added 4-19-04 to match Leg Finance	51005	N				7/9/2006 20:06:59.242001	BALARSON	5/22/2014 10:46:12.719	N
+1041	PF Earn Rs	Permanent Fund Earnings Reserve Account	51373	U	N	Reclassified from DGF to UGF per LFD 1/2017. AKSAS Fund # 34030 used for CAFR reporting only. Reclassified from UGF to DGF Teal 10-25-11 email. 	51373	Y	37.13.145			7/9/2006 20:06:59.242001	KEMAUSETH	1/26/2017 14:13:01.002	N
+1054	Empl Trng	State Employment & Training Program	51394	D	N	"AS 23.15.625 provides for an account in the general fund.
+
+AKSAS Fund # 11134"	68515	Y	AS 23.15.625	11134                         		7/9/2006 20:06:59.242001	TNARVAEZ1	9/25/2012 14:01:55.031	N
+1198	F&GRevBond	Alaska Fish and Game Revenue Bond Redemption Fund	51477	O	N	Set up  in 2005 per SB 147 (ch 94 SLA 2005) sportfish hatchery bond legislation that passed.	68515	Y	AS 37.15.770	14122                         		7/9/2006 20:06:59.242001			N
+1062	Power Proj	Power Project Loan Fund	51350	D	N	Transferred to AEA 7/99. AKSAS Fund # 21645. Finance inactivated fund 7/99.	51350	Y	AS 42.45.010			7/9/2006 20:06:59.242001	JBROWN	6/14/2007 11:51:49.062	N
+1065	Rural Elec	Rural Electrification Revolving Loan Fund	51355	D	N	AKSAS Fund # 21624. Finance inactivated fund 6/95.	68515	Y				7/9/2006 20:06:59.242001			N
+1056	Elect Svc	Electrical Service Extension Fund	51396	D	N	AKSAS Fund #21940.  Finance inactivated fund 6/95.  Still in  budgets since then as of FY05.	68515	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:17:18.364	N
+1075	Clean Wtr	Alaska Clean Water Loan Fund	51205	O	N		68515	Y	46.03.032	21640                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:52:01.581	N
+1079	Storg Tank	Underground Storage Tank Revolving Loan Fund	51383	D	N	AKSAS Fund # 11136	68515	Y	AS 46.03.410			7/9/2006 20:06:59.242001			N
+1083	Educ Facil	Education Facilities Maint & Construction	51398	D	N	Used in OMB front section (Sec 24, Chap.79). 	68515	N	37.16.010	11142                         		7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:57:53.3	N
+1085	Rail InTie	Railbelt Intertie Reserve Fund	51400	D	N	AKSAS Fund # 11127. Finance inactivated fund 3/00.	68515	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:20:36.973	N
+1087	Muni Match	Municipal Matching Grant Fund	68515	D	N	Default and Alternate reversed on 7-2-01 by Joan Brown per DCED and Finance request.	51402	Y	37.06.010	11146                         		7/9/2006 20:06:59.242001	BWFECHTER	11/10/2017 11:29:11.461	N
+1101	AERO Rcpts	Alaska Aerospace Development Corporation Receipts	51416	O	N	Transferred from Leg. Fin. 5/28/97.  	51416	Y	14.40.841	21650                         		7/9/2006 20:06:59.242001	BALARSON	6/20/2013 15:55:05.208	N
+1212	Fed ARRA	Federal Stimulus: ARRA 2009	51118	F	N	Added in order to track the federal funds received via the American Recovery and Reinvestment Act of 2009 signed by President Obama February 17, 2009.	51118	Y			JBROWN	10/31/2008 12:01:27.319	SHILDEBRAND	8/6/2009 15:21:19.709	N
+1052	Oil/Haz Fd	Oil/Hazardous Prevention/Response Fund	51370	D	N	"Prevention - 11122; Response - 11129; Prevention/Response Fund - 11128
+IRIS - Response is fund 3208 and Prevention is fund 1052
+"	68515	Y	46.08.010	11122                         		7/9/2006 20:06:59.242001	CKOSULLIVAN	9/12/2016 16:45:50.758	N
+1117	VocRandSh	Randolph Sheppard Small Business Fund	51122	O	N	added 12/1/98; updated short name to match Leg. Finance record-entered 1/7/99  AKSAS funds # 11116  & 11118. Net proceeds from vending facilities on public property. May be appropriated to dept to aid licensees in operating vend machine facilities. 9/2014 - this fund code is for Randolf-Sheppard receipts only; categorized as other dedicated receipts from vendors. Revenue from facilities on state property will be appropriated using code 1237. KM per LFD	68515	Y	AS 23.15.130	11118                         		7/9/2006 20:06:59.242001	KEMAUSETH	12/8/2014 15:40:41.281	N
+1168	Tob Ed/Ces	Tobacco Use Education and Cessation Fund	51438	D	N	"Added 5/22/01 per passage of HB 234, Tobacco Bond bill, SLA 2001.
+
+changed alternate to 68515 due to DoF request 6/11/02"	68515	Y	AS 37.05.580	11175                         		7/9/2006 20:06:59.242001	KEMAUSETH	9/6/2012 15:11:32.564	N
+1172	Bldg Safe	Building Safety Account	51480	D	N	Added 3-7-02 for HB262 to account for building inspection fees collected by DLWD under AS 18.60.180-.395 and elevator inspection fees collected under AS 18.60.800-.820.  Also see AS 44.31.025.	68515	Y	18.60.360(c)	11177                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 16:00:36.144	N
+1176	Sci/T End	Science and Technology Endowment Fund	51468	D	N	Added 4-17-02 to match draft Leg Finance info.  AKSAS Fund # 34060.  Finance will inactivate fund in FY05. 	51468	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:42:37.957	N
+1011	Educ Trust	Alaska Advance College Tuition Payment Fund	51376	O	N	Previous Yr-long name Alaska Education Trust Fund.  AKSAS Fund # 33050. Finance inactivated fund 3/03.	51376	N				7/9/2006 20:06:59.242001			N
+1018	EVOSS	Exxon Valdez Oil Spill Settlement	51392	O	N		68530	Y		33070                         		7/9/2006 20:06:59.242001	WCBELKNAP	6/16/2017 11:52:51.358	N
+1020	Grain Fund	Grain Reserve Loan Fund	51345	D	N	AKSAS Fund # 21636.  Finance inactivated fund in the 1990s.	68515	N				7/9/2006 20:06:59.242001	CKOSULLIVAN	11/29/2011 10:02:23.817	N
+1133	CSSD Reimb	CSSD Administrative Cost Reimbursement	51115	F	N	"Added 3-25-99 to match Leg Fin: Indirect Cost Reimbursement.  First used in FY99 supplemental (Ch 2 SLA 99 Sec 16(a)) for CSED. Name change 1-22-04 to match Leg Fin: CSED Admin Cost Reimbursement.12-6-04 changed to CSSD to match division name change.
+"	51115	Y				7/9/2006 20:06:59.242001			N
+1175	BLic&Corp	Business License and Corporation Filing Fees and Taxes	51173	D	N	"Added 4-9-02 to match Leg Finance. AS 37.05.144.
+Amened 2-24-05 to match Leg Finance."	51173	Y				7/9/2006 20:06:59.242001			N
+1199	SFEntAcct	Alaska Sport Fishing Enterprise Account	51214	O	N	Established per ch 94, SLA 2005 (SB 147)	68515	Y	AS 16.05.130	12144                         		7/9/2006 20:06:59.242001	JBROWN	6/14/2007 11:54:28.64	N
+1219	Emrng Tech	Emerging Energy Technology Fund	68515	O	N		68515	N	42.45.375	11210                         	SHILDEBRAND	2/10/2011 16:03:31.169	JRSTERN1	10/24/2018 15:29:19.449	N
+1116	DisRlFd	Disaster Relief Fund	51423	O	N	added 12/1/98 to match leg finance; SLA98 Ch 139, Sec 117, Pg 33 Ln 14.	68515	Y	AS 26.23.300	12120                         		7/9/2006 20:06:59.242001	KEMAUSETH	9/6/2012 15:09:42.655	N
+1140	AIDEA Div	AIDEA Dividend	51406	U	N	To match Leg Finance code added for recasting by Joan Brown 11/10/99.   4-10-00 Recast grp changed from general purpose to other(recast) to match leg finance. Unused annual dividend funds revert to UGF and may not be used the consecutive year as 1140.	51406	Y				7/9/2006 20:06:59.242001	TNARVAEZ1	10/22/2012 12:53:09.492	N
+1066	Pub School	Public School Trust Fund	51225	O	N	This is the Public School Trust Fund used in K-12 Foundation Program.  It is the income from the trust that is used exculusively for public school support.  Trust principal from 7/11/78 balance of public school permanent fund and one-half of one percent of the receipts derived from management of state lands.  PSTF administered by DOR and DNR. Changed from DGF to Other. 10/15/2016 KM	68515	Y	37.14.110(a)140	34012                         		7/9/2006 20:06:59.242001	WCBELKNAP	6/4/2019 15:25:50.027	N
+1030	School Fnd	School Fund (Cigarette Tax)	51070	D	N	This is the fund used for school debt reimbursement.  Fund receives revenue from cigarette taxes, fees, and penalties and can only be used to rehabilitate, construct, and repair school facilities or insurance on school buildings.  Updated 6/17/98 by OMB, JM. Changed AKSAS # from 60180 as requested by DOA, Finance.  AKSA Fund # 12123	68515	Y	AS 43.50.140	12123                         		7/9/2006 20:06:59.242001	KEMAUSETH	9/6/2012 14:55:26.352	N
+1189	Sr Care	Senior Care Fund	51488	D	N	re 2004 session HB 374 and SB 259.  Appropriations in SB 283.  Modified in 2005 session, HB 106. New fund name Alaska Senior Care Fund.  Kept same fund code after discussion with Leg Finance, Finance, and Law.	68515	N	AS 47.45.360	11182                         		7/9/2006 20:06:59.242001	JRSTERN1	10/24/2018 15:28:28.761	N
+1200	VehRntlTax	Vehicle Rental Tax Receipts	68515	D	N	Added 3-2-06 to conform with Leg Finance's use of this code in DCCED and DNR. Leg Finance treats as Other (restricted GF), Cheryl decided to treat as unrestricted GF as of 4-28-06.	51005	Y	AS 43.52.080	                              		7/9/2006 20:06:59.242001			N
+1201	CFEC Rcpts	Commercial Fisheries Entry Commission Receipts	51132	D	N	Added 3-2-06 to conform with Leg Finance's use of this new code in ADF&G.	51132	Y	16.05.490/530; 16.43; 37.05.146(c)(29)	                              		7/9/2006 20:06:59.242001	WCBELKNAP	6/16/2017 11:52:35.619	N
+1202	Anatomical	Anatomical Gift Awareness Fund	51498	D	N		68515	Y	AS 13.50.160	11183                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 16:18:26.769	N
+1155	Timber Rcp	Timber Sale Receipts	51076	D	N	per ch. 63, SLA 2000 (Governor's bill)	51076	Y	AS 38.05.110 and AS 37.05.146(b)			7/9/2006 20:06:59.242001			N
+1207	Cr Shp Imp	Regional Cruise Ship Impact Fund	68515	O	N	"Repealed by Sec. 12 Ch101 SLA10 (SB312)
+Deposited into Acct 60277 in GF by Revenue.  At the end of each FY, DOR transfers the 25% of the CPV tax to this Fund."	51494	N	43.52.230(c)	11205                         	SHILDEBRAND	4/8/2008 11:49:18.765	CKOSULLIVAN	4/26/2013 12:32:40.532	N
+1208	BF Brdg LF	Bulk Fuel Bridge Loan Fund	51241	D	N	Inactive. Ch46 SLA12 (HB196) amends the Bulk Fuel Revolving Loan Fund to include the bulk fuel loan account and the bulk fuel bridge loan account to administer the bulk fuel loan and bulk fuel bridge loan programs. (AS 42.45.460 & 42.45.470).	68515	N	29.60.660	21627                         	SHILDEBRAND	4/8/2008 11:54:32.437	CKOSULLIVAN	4/14/2014 12:39:32.238	N
+1209	Capstone	Alaska Capstone Avionics Revolving Loan Fund	51242	D	N		68515	Y	44.33.655	21628                         	SHILDEBRAND	4/8/2008 11:55:30.406	BALARSON	6/21/2013 16:19:36.909	N
+1210	Renew Ener	Renewable Energy Grant Fund	51495	D	N	Established in HB 152	68515	Y	AS 42.45.045	11201                         	JBROWN	4/12/2008 21:03:43.093	KEELLIOTT	5/24/2012 16:01:32.599	N
+1206	CPV Tax	Commercial Passenger Vessel Tax	51493	O	N	Tax deposited into GF subfund by Revenue	68515	Y	43.52.230(a)	11204                         	JBROWN	3/28/2008 18:55:21.218	BALARSON	6/21/2013 16:19:00.222	N
+9000	Unkn UGF	Unknown UGF Fund Source	0    	U	N	Only for use by OMB during budget development when actual fund code is not yet known.	0    	Y			WBELKNAP	10/21/2008 16:27:04.984	LENA	10/5/2010 15:20:52.799	N
+9001	Unknwn Fed	Unknown Federal Fund Source	0    	F	N	Only for use by OMB during budget development when actual fund code is not yet known.	0    	Y			WBELKNAP	10/21/2008 16:28:07.218	LLSIMMONS	10/4/2011 11:35:06.361	N
+9002	Unknwn Oth	Unknown Other Fund Source	0    	O	N	Only for use by OMB during budget development when actual fund code is not yet known.	0    	Y			WBELKNAP	10/21/2008 16:28:35.671	WBELKNAP	10/21/2008 16:28:56.187	N
+1211	CSG Tax	Cruise Ship Gambling Tax	51496	U	N	Returns due April 15 for the prior calendar year's activity.  Tax receipts are deposited into the Commercial Vessel Passenger Tax Account, a subfund of the GF.	68515	Y	05.16.020/43.35.200-220	11206                         	JBROWN	10/31/2008 09:12:31.462	BALARSON	6/21/2013 16:20:20.737	N
+1171	PFD Crim	Restorative Justice	51160	O	N	LFD has classified as Other, not DGF 1/2017. KM Added 3-7-02 to specifically track PFD funds identified in AS 43.23.028(5).  Also see fund code 1050.  Until FY03, code 1050 was  used for approps to DOC (for care of inmates not eligible for PFDs) & DPS (for domestic counseling). The AKSAS fund is a subfund of the general fund. Ineligibility statute AS 43.25.005(d).	68515	Y	43.23.045/43.23.028(5)/43.23.005(d)	33020                         		7/9/2006 20:06:59.242001	SRWILLHOITE	11/30/2020 15:02:11.975	N
+1216	Boat Rcpts	Boat Registration Fees	51073	D	N	Changed to DGF per LFD analysis dated 12.17	51073	Y		                              	LENA	2/25/2010 09:40:56.15	NASTEININGER	1/24/2018 11:18:00.182	N
+1215	UCR Rcpts	Uniform Commercial Registration fees	51073	O	N	Added as part of the Legislative Finance budget clarification project. Separate from code 1218, as Legislature has limited control over (federal requirements). 3/2/10	51073	Y			LENA	3/2/2010 10:57:21.774	SHILDEBRAND	6/7/2010 14:18:44.968	N
+1214	WhitTunnel	Whittier Tunnel Toll Receipts	51134	O	N	Added as part of the Legislative Finance budget clarification project. Separate from code 1218, as Legislature has limited control over (federal requirements). 3/2/10	51134	Y	37.05.146(c)(32)		LENA	3/2/2010 11:02:15.84	BALARSON	6/21/2013 16:21:12.144	N
+1217	NGF Earn	NGF Earnings	51475	O	N	created by Leg Finance to account for Interest earnings from non-GF fund sources	51475	Y			LENA	3/29/2010 09:50:56.277	SHILDEBRAND	2/11/2011 08:07:16.826	N
+1009	Rev Bonds	Revenue Bonds	51150	O	N	"per DOA/finance, flag as inactive, use zero only. 6/19/00 jm
+5/10/05 - reactivated.  Leg Finance coded Fish&Game Bonds to this code for FY06.  May set up new fund in the future.  OMB est. 1197 earlier for this purpose. Km
+
+Revenue Bonds sold and maintained by the University."	51150	Y				7/9/2006 20:06:59.242001	SHILDEBRAND	6/8/2011 14:41:05.411	N
+1220	Crime VCF	Crime Victim Compensation Fund	51497	O	N		68515	Y	18.67.162	11207                         	LENA	3/8/2011 12:55:04.114	BALARSON	6/21/2013 16:23:03.144	N
+1258	CIF UGF	UGF Deposits to the CIF	0    	U	N	Added to track future non-Am-Hess deposits (i.e. UGF appropriations) into the CIF.	61405	Y			JRSTERN1	9/19/2018 15:34:45.387	WCBELKNAP	5/31/2019 16:05:00.117	N
+1008	G/O Bonds	General Obligation Bonds	68515	O	N	per DOA/finance, flag as inactive. 6/19/00 jm  Reactivated 1-23-02 jb Fund not available until bonds are sold.	68515	Y				7/9/2006 20:06:59.242001	SHILDEBRAND	6/8/2011 14:39:56.659	N
+1221	Civil Legl	Civil Legal Services Fund	51499	D	N		68515	Y	37.05.590	12154                         	WBELKNAP	4/12/2011 11:48:36.16	BALARSON	6/21/2013 16:23:12.425	N
+1001	CBR Fund	Constitutional Budget Reserve Fund	51020	U	N	JB changed fund class from GF to Other 5-12-04. cko changed GF to Other 11-10-11 pending Law review.  Chged from Other to UGF 9/5/19	68515	Y		33040                         		7/9/2006 20:06:59.242001	WCBELKNAP	9/5/2019 08:23:41.554	N
+1223	CharterRLF	Commercial Charter Fisheries RLF	51505	D	N	SLA12 HB121 sec. 12 amends AS16.10 - AKSAS 51505	68515	Y	16.10.801	21632                         	KEELLIOTT	5/4/2012 08:53:38.839	KEELLIOTT	5/8/2012 14:24:39.007	N
+1080	Schl Const	School Construction Fund	51384	D	N	Changed to DGF 11-28-11 to match LF. cko,	68515	Y		11143                         		7/9/2006 20:06:59.242001	KEMAUSETH	9/6/2012 15:07:50.855	N
+1047	Title 20	Title XX	51145	F	N		51145	N				7/9/2006 20:06:59.242001	BALARSON	6/19/2013 15:31:28.691	N
+1120	MotorFuel 	Motor Fuel Tax Increase	0    	U	N	12/13/98  Receipts from the motor fuel tax increase proposed during the 1999 legislative session; 6/19/00 DOA/finance request to flag as zero. Updated by OMB. jm	0    	N				7/9/2006 20:06:59.242001	KEMAUSETH	6/29/2017 15:14:07.067	N
+1226	High Ed	Alaska Higher Education Investment Fund	51439	D	N	SLA2012 SCSCSHB 104(FIN) sec. 13 adds new subsection creating this fund: AS37.14.750; HB104 sec27 transfers $400M from AHCC Rcpts fund #1213 to capitalize. AKSAS 51439.	68515	Y	37.14.750	11195                         	KEELLIOTT	5/2/2012 09:17:44.114	KEELLIOTT	5/15/2012 09:10:16.275	N
+1227	MicroRLF	Alaska Microloan Revolving Loan Fund	51504	D	N	SAL12 HB121 sec. 13 amends AS44.33 - AKSAS 51504	68515	Y	44.33.950	21629                         	KEELLIOTT	5/4/2012 08:56:48.73	KEELLIOTT	5/8/2012 14:26:43.866	N
+1111	FishFndInc	Fishermans Fund Income	51420	D	N	updated 6/17/98 by OMB, JM. rec'd from DOA, the AKSAS#.; update by OMB, edit to AKSAS alt. #. 6/19/00	51420	Y	23.35.060	11119                         		7/9/2006 20:06:59.242001	BALARSON	6/20/2013 15:58:38.786	N
+1134	F&G CFP	Fish and Game Criminal Fines and Penalties	51045	D	N	"To match Leg Finance code added for recasting by Joan Brown 11/10/99.  Name updated 4-8-02 from F&G Duplicated Expenditures to F&G Criminal Fines and Penalties to match Leg Finance's FY03 change. Do not use. Deactivated 9-14. F&G funds only to be used by F&G. Other collections that go into GF should be appropriated from GF. cko.
+Reactivated for FY19 Gov to appropriate remaining balance and empty fund"	68515	Y	HB75 SLA97 Ch98 Sec9	12146                         		7/9/2006 20:06:59.242001	NASTEININGER	12/6/2017 16:22:23.48	N
+1213	AHCC Rcpts	Alaska Housing Capital Corporation Receipts	68515	U	N	ch 13 SLA 06 sec. 14	51421	Y	18.56.086	34076                         	JBROWN	11/13/2008 08:39:12.453	CKOSULLIVAN	7/29/2014 10:37:08.453	N
+1180	Alcohol Fd	Alcohol & Other Drug Abuse Treatment & Prevention Fund	51481	D	Y	Added to match Leg Finance.  Source is half of alcohol tax proceeds collected under AS 43.60.010.  Intended use of the fund is appropriations to HSS to establish and maintain prevention and treatment programs per As 47.37.030. 	68515	Y	AS 43.60.010, 43.60.050	11178                         		7/9/2006 20:06:59.242001	BALARSON	6/21/2013 16:03:55.628	N
+1228	UGFSequest	UGF Associated with Sequestration	68515	U	N	This is a tracking code; there is no revenue associated with the code. It should be used for all GF that is either 1) added to supplance federal funds reduced or restrained by sequestration, 2) removed from the GF budget as part of a reduced match requirement due to reduced federal receipts under sequestration, or 3) removed from the budget for other reasons related to sequestration.	51005	Y		                              	CKOSULLIVAN	10/15/2012 10:05:24.628	BALARSON	6/21/2013 16:24:20.831	N
+1234	LicPlates	License Plates	0    	D	N	added per SB119 vH	68515	Y			KEMAUSETH	4/20/2014 12:07:43.936	KEMAUSETH	4/20/2014 12:08:56.108	N
+1244	Rural Air	Rural Airport Receipts	68515	O	N		68515	Y			KEMAUSETH	3/9/2016 13:35:50.429	BWFECHTER	6/22/2016 09:01:35.337	N
+1245	R Apt I/A	Rural Airport Receipts I/A	0    	O	N		51000	Y			KEMAUSETH	3/9/2016 13:41:08.547	BWFECHTER	6/22/2016 09:01:44.494	N
+1239	AvFuel Tax	Aviation Fuel Tax Revenue	68515	O	N		68515	Y			KEMAUSETH	3/9/2016 14:59:18.805	WCBELKNAP	6/26/2017 16:38:40.529	N
+1275	Reapprop	Reappropriation - Temporary to Match Leg Fin	0    	O	N		61405	Y			SRWILLHOITE	5/17/2021 17:48:23.777	SRWILLHOITE	5/17/2021 17:48:57.762	N

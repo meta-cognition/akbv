@@ -92,6 +92,7 @@ for key, department_list_object in department_list
 	this_width 		:= "1200"
 	this_height 		:= "800"
 	this_small_height 	:= "600"
+	back_link			:= "../plot-capital.html"
 	
 	parent_levels := 1
 	

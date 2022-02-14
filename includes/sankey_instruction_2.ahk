@@ -3,12 +3,13 @@ build_rdu_sankey(sub_rdu_name, sub_folder, parent_folder)
 	global
 	
 	show_values_in_labels := true
-
-	format_mode := "dollars"
-	this_width := "1000"
-	this_height := "800"
-	this_small_height := "600"
-	this_output_file := % build_directory "\" sub_folder "\" this_plot_name ".html"
+	
+	format_mode 		:= "dollars"
+	this_width 		:= "1000"
+	this_height 		:= "800"
+	this_small_height 	:= "600"
+	back_link			:= "../"  this_plot_name ".html"
+	this_output_file 	:= % build_directory "\" sub_folder "\" this_plot_name ".html"
 	
 	FileCreateDir, % build_directory "\" sub_folder
 	parent_levels := 2
@@ -29,7 +30,7 @@ build_rdu_sankey(sub_rdu_name, sub_folder, parent_folder)
 	exclude_filters := {(fund_column): non_fund_labels}
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
 	build_links( fund_column, component_column, fund_column, value_column, group_column, 1, true, false, false )
-
+	
 	; MANUALLY CHANGE THESE!
 	;include_filters := {(rdu_column): sub_rdu_name,  (component_column): "Northern Highways & Aviation, Central Highways and Aviation, Southcoast Highways & Aviation", (line_column): "Expenditure" } ; FOR H&A ONLY
 	include_filters := {(rdu_column): sub_rdu_name, (line_column): "Expenditure" } ; DEFAULT
@@ -37,7 +38,7 @@ build_rdu_sankey(sub_rdu_name, sub_folder, parent_folder)
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
 	
 	build_links(component_column, fund_column, line_column, value_column, line_column, 1, true, false)
-
+	
 	build_json()
 	build_javascript()
 	build_html()
@@ -66,6 +67,7 @@ build_component_sankey(sub_component_name, sub_folder)
 	this_width 			:= "1000"
 	this_height 			:= "400"
 	this_small_height 		:= "400"
+	back_link				:= "../"  this_plot_name ".html"
 	this_output_file 		:= % build_directory "\" sub_folder "\" this_plot_name ".html"
 	
 	FileCreateDir, % build_directory "\" sub_folder

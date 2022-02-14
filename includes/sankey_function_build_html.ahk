@@ -17,6 +17,7 @@ build_html()
 	StringReplace, html_file, html_file, @@@HEIGHT@@@       , % this_height                             , All
 	StringReplace, html_file, html_file, @@@SMALLHEIGHT@@@  , % this_small_height                       , All
 	StringReplace, html_file, html_file, @@@HEIGHT@@@       , % this__small_height                      , All
+	StringReplace, html_file, html_file, @@@BACKLINK@@@     , % back_link                    			, All
 	StringReplace, html_file, html_file, @@@NODELABEL@@@    , % json_node_label
 	StringReplace, html_file, html_file, @@@NODECOLOR@@@    , % json_node_color
 	StringReplace, html_file, html_file, @@@NODEMETA@@@     , % json_node_meta

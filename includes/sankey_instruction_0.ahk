@@ -14,6 +14,7 @@ this_title 			:= this_scenario_name . " <br /> " this_plot_title " (" csv_find_a
 this_width 			:= "1000"
 this_height 			:= "1150"
 this_small_height 		:= "800"
+back_link				:= "index.html"
 
 this_output_file 		:= build_directory . "\" this_plot_name ".html"
 statewide_output_file 	:= this_output_file
@@ -28,7 +29,7 @@ include_filters 		:= {(line_column): "Revenue"}
 exclude_filters 		:= "no-filters" ; {(fund_column): non_fund_labels}
 load_and_apply_filter_to_csv(include_filters, exclude_filters)
 
-build_nodes_from_columns(department_column, fund_column, group_column)
+build_nodes_from_columns(department_column, group_column)
 build_links(group_column, department_column, group_column, value_column, group_column, 1, false, true, true)
 build_json()
 build_javascript()

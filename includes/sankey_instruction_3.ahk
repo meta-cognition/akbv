@@ -29,6 +29,7 @@ build_department_pcn_sankey(department_abs, department_readable, department_fold
 	this_width 		:= "1000"
 	this_height 		:= "500"
 	this_small_height 	:= "500"
+	back_link			:= "../index.html"
 	
 	this_output_file := build_directory "\" department_folder "\" this_plot_name ".html"
 	menu_html .= "<div><a href=""" department_folder "/" this_plot_name ".html"">Budgeted Positions</a></div>" rn
@@ -65,12 +66,13 @@ build_pcn_rdu_sankey(sub_rdu_name, sub_folder)
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
 	build_nodes_from_columns(component_column, fund_column)
 	
-	this_plot_name := this_plot_name
-	format_mode := "positions"
-	this_title := this_scenario_name . " <br /> " sub_rdu_name " (" csv_find_and_sum_positions(sub_rdu_name, rdu_column) " positions)"
-	this_width := "1000"
-	this_small_height := "500"
-	this_output_file := % build_directory "\" sub_folder "\" this_plot_name ".html"
+	this_plot_name 	:= this_plot_name
+	format_mode		:= "positions"
+	this_title 		:= this_scenario_name . " <br /> " sub_rdu_name " (" csv_find_and_sum_positions(sub_rdu_name, rdu_column) " positions)"
+	this_width 		:= "1000"
+	this_small_height 	:= "500"
+	this_output_file 	:= % build_directory "\" sub_folder "\" this_plot_name ".html"
+	back_link			:= "../"  this_plot_name ".html"
 	
 	FileCreateDir, % build_directory "\" sub_folder
 	parent_levels := 2

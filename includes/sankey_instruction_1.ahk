@@ -17,12 +17,13 @@ build_department_sankey(department_abs, department_readable, department_folder)
 	the_department_name := department_readable
 	abs_department_name := department_abs
 	
-	this_plot_title 	:= the_department_name " (Fund / Results Delivery Unit / Component)" ; DEFAULT
+	this_plot_title 	:= the_department_name " (Fund / Results Delivery Unit)" ; DEFAULT
 	;this_plot_title 	:= the_department_name " (Fuel Tax Revenue Only)" ; FOR FUEL TAXES ONLY
 	this_title 		:= this_scenario_name . " <br /> " this_plot_title " (" csv_find_and_sum_revenue( department_abs, department_column) ")"
 	this_width 		:= "1200"
 	this_height		:= "1150"
 	this_small_height 	:= "800"
+	back_link			:= "plot-overview.html"
 	
 	FileCreateDir, % build_directory "\" department_folder
 	this_output_file := build_directory "\" department_folder "\" this_plot_name ".html"
@@ -41,7 +42,7 @@ build_department_sankey(department_abs, department_readable, department_folder)
 	build_nodes_from_columns(rdu_column, component_column, fund_column)
 	
 	build_links(fund_column, rdu_column, fund_column, value_column, group_column, 1, true, true, false)
-	build_links(rdu_column, component_column, fund_column, value_column, group_column, 1, false, true, true)
+	;build_links(rdu_column, component_column, fund_column, value_column, group_column, 1, false, true, true)
 	
 	build_json()
 	build_javascript()

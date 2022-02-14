@@ -1,0 +1,87 @@
+SCENARIO_ID	SCENARIO_NAME	DEPT	PROJ_ORDER	REFNUM	ALAP	PROJ_TITLE	PROJ_CAT	PROJ_TYPE	UGF_AMOUNT	DGF_AMOUNT	O_AMOUNT	F_AMOUNT	PROJ_TOTAL
+4701	FY2023 Governor	Commerce	1	32950	AP	Alaska Energy Authority - Electrical Emergencies Program	Development	Energy	200000	0	0	0	200000
+4701	FY2023 Governor	Commerce	2	57255	AP	Alaska Energy Authority - Round XIV Renewable Energy Project Grants (AS 42.45.045)	Development	Energy	0	15000000	0	0	15000000
+4701	FY2023 Governor	Commerce	3	52498	AP	Alaska Energy Authority - Rural Power Systems Upgrades	Development	Energy	0	10000000	0	10000000	20000000
+4701	FY2023 Governor	Commerce	4	49734	AP	Alaska Energy Authority - Bulk Fuel Upgrades	Development	Energy	5500000	0	0	7500000	13000000
+4701	FY2023 Governor	Commerce	5	61842	AP	Alaska Energy Authority - Volkswagen Settlement	Transportation	Life / Health / Safety	0	0	400000	0	400000
+4701	FY2023 Governor	Commerce	6	64132	AP	City of Palmer Wastewater Treatment Plant Improvements - Phase II	To be determined	Construction	0	0	0	6900000	6900000
+4701	FY2023 Governor	Commerce	7	38946	AP	Community Block Grants	Development	Life / Health / Safety	65000	0	0	6250000	6315000
+4701	FY2023 Governor	Commerce	8	64174	AP	Economic Recovery Mariculture Incentive Grant Program	Development	Economic Assistance	0	0	0	25000000	25000000
+4701	FY2023 Governor	Commerce	10	38948	AP	National Petroleum Reserve - Alaska Impact Grant Program	Development	Life / Health / Safety	0	0	0	13800000	13800000
+4701	FY2023 Governor	Commerce	11	61718	AP	Alaska Travel Industry Association	Development	Research / Studies / Planning	0	0	0	5000000	5000000
+4701	FY2023 Governor	Commerce	12	45874	AP	Inter-Island Ferry Authority	Transportation	Economic Assistance	250000	0	0	0	250000
+4701	FY2023 Governor	Commerce	13	63461	AP	Named Recipient Grant - Voice of the Arctic Inupiat	General Government	Construction	1000000	0	0	0	1000000
+4701	FY2023 Governor	Courts	0	64135	AP	Court Security Projects	Law and Justice	Information Technology / Systems / Communication	1130000	0	0	0	1130000
+4701	FY2023 Governor	Courts	0	64137	AP	Deferred Maintenance Projects (DOT / DOA / DMVA Maintained)	Law and Justice	Deferred Maintenance	0	3820000	0	0	3820000
+4701	FY2023 Governor	EnvCon	1	49698	AP	Clean Water Capitalization Grant Subsidy	Health/Human Services	Water / Sewer / Solid Waste	0	0	1000000	0	1000000
+4701	FY2023 Governor	EnvCon	2	49697	AP	Drinking Water Capitalization Grant Subsidy	Health/Human Services	Water / Sewer / Solid Waste	0	0	2900000	0	2900000
+4701	FY2023 Governor	EnvCon	3	63997	AP	EVOS Impaired Beaches Project	Natural Resources	Renewal and Replacement	0	0	658432	0	658432
+4701	FY2023 Governor	EnvCon	4	61721	AP	Fairbanks PM2.5 Nonattainment Area Voluntary Heating Device Change Out Program	Health/Human Services	Life / Health / Safety	0	0	0	5684800	5684800
+4701	FY2023 Governor	EnvCon	6	49749	AL	Village Safe Water and Wastewater Infrastructure Projects:  Expansion, Upgrade, and Replacement of Existing Service	Health/Human Services	Water / Sewer / Solid Waste	7800000	0	200000	20900000	28900000
+4701	FY2023 Governor	EnvCon	7	49748	AL	Village Safe Water and Wastewater Infrastructure Projects:  First Time Service Projects	Health/Human Services	Water / Sewer / Solid Waste	11700000	0	300000	31350000	43350000
+4701	FY2023 Governor	FCS	1	33670	AP	MH: Deferred Maintenance and Accessibility Improvements	Health/Human Services	Deferred Maintenance	250000	0	250000	0	500000
+4701	FY2023 Governor	FishGm	1	63992	AP	EVOS Prince William Sound Pollock and Herring Interaction	Natural Resources	Research / Studies / Planning	0	0	4129317	0	4129317
+4701	FY2023 Governor	FishGm	2	63998	AP	EVOS Gulf Watch Alaska Herring Research and Monitoring	Natural Resources	Research / Studies / Planning	0	0	1908299	0	1908299
+4701	FY2023 Governor	FishGm	3	63995	AP	EVOS Mariculture - Marine Mammals	Natural Resources	Research / Studies / Planning	0	0	1660000	0	1660000
+4701	FY2023 Governor	FishGm	4	63991	AP	EVOS Kenai Peninsula Cost Share	Development	Renewal and Replacement	0	0	400000	0	400000
+4701	FY2023 Governor	FishGm	5	43347	AP	Endangered Species Act 	Natural Resources	Research / Studies / Planning	2000000	0	250000	1750000	4000000
+4701	FY2023 Governor	FishGm	6	43322	AP	Facilities, Vessels, and Aircraft Maintenance, Repair, and Upgrades	Natural Resources	Renewal and Replacement	500000	0	0	0	500000
+4701	FY2023 Governor	FishGm	7	48948	AP	Pacific Salmon Treaty Chinook Fishery Mitigation	Natural Resources	Research / Studies / Planning	0	0	0	6400000	6400000
+4701	FY2023 Governor	FishGm	8	33647	AP	Pacific Coastal Salmon Recovery Fund	Natural Resources	Research / Studies / Planning	0	0	0	4400000	4400000
+4701	FY2023 Governor	FishGm	9	30432	AP	Sport Fish Recreational Boating and Angler Access	Natural Resources	Construction	0	0	750000	2250000	3000000
+4701	FY2023 Governor	FishGm	10	63996	AP	Proceeds of Sale of State-owned Vessels and Aircrafts	Fund Transfers	Equipment / Commodities	0	150000	0	0	150000
+4701	FY2023 Governor	Gov	1	62700	AP	Statewide Deferred Maintenance, Renovation, and Repair	General Government	Deferred Maintenance	0	23880000	0	0	23880000
+4701	FY2023 Governor	Health	1	54250	AP	MH: Assistive Technology	Health/Human Services	Life / Health / Safety	500000	0	0	0	500000
+4701	FY2023 Governor	Health	2	33672	AP	MH: Essential Program Equipment	Health/Human Services	Equipment / Commodities	300000	0	300000	0	600000
+4701	FY2023 Governor	Health	3	33671	AP	MH: Home Modification and Upgrades to Retain Housing	Health/Human Services	Renovation and Remodeling	1050000	0	100000	0	1150000
+4701	FY2023 Governor	Health	4	63912	AP	Division of Public Assistance E-forms and Online Noticing 	Health/Human Services	Information Technology / Systems / Communication	0	0	0	8000000	8000000
+4701	FY2023 Governor	Health	5	63915	AP	Division of Public Assistance Eligibility System Replacement 	Health/Human Services	Information Technology / Systems / Communication	0	0	0	23500000	23500000
+4701	FY2023 Governor	Health	6	42837	AP	Emergency Medical Services Match for Code Blue Project 	Health/Human Services	Equipment	500000	0	0	0	500000
+4701	FY2023 Governor	Health	7	64172	AP	Health Record Infrastructure Improvements - Coronavirus Capital Projects Fund	Law and Justice	Information Technology / Systems / Communication	0	0	0	30000000	30000000
+4701	FY2023 Governor	M&VA	5	63928	AP	DMVA Deferred Maintenance, Replacement, and Renewal 	Public Protection	Construction	0	0	0	12000000	12000000
+4701	FY2023 Governor	M&VA	8	61869	AP	State Homeland Security Grant Programs	Public Protection	Life / Health / Safety	0	0	0	9000000	9000000
+4701	FY2023 Governor	NatRes	1	63437	AP	RS2477 Access Development - Advancing State's Rights in Navigability and Revised Statute 2477	Development	Research / Studies / Planning	2500000	0	0	0	2500000
+4701	FY2023 Governor	NatRes	2	6855	AP	Abandoned Mine Lands Reclamation Federal Program	Natural Resources	Life / Health / Safety	0	0	0	3200000	3200000
+4701	FY2023 Governor	NatRes	3	62649	AP	Arctic Strategic Transportation and Resource Project	Development	Research / Studies / Planning	2500000	0	0	0	2500000
+4701	FY2023 Governor	NatRes	4	63979	AP	Big Eddy EVOS Restoration and Improvements	Public Protection	Parks / Recreation	0	0	4329567	0	4329567
+4701	FY2023 Governor	NatRes	5	63885	AP	Eagle River Fire Crew Facility - Coronavirus Capital Projects Fund	Natural Resources	Construction	0	0	0	13856439	13856439
+4701	FY2023 Governor	NatRes	6	37769	AP	Federal and Local Government Funded Forest Resource and Fire Program	Natural Resources	Life / Health / Safety	0	0	0	7000000	7000000
+4701	FY2023 Governor	NatRes	7	64173	AP	Food Security Agriculture Incentive Grant Program	Natural Resources	Economic Assistance	0	0	0	25000000	25000000
+4701	FY2023 Governor	NatRes	8	60937	AP	Geological Mapping for Energy Development (USGS STATEMAP)	Natural Resources	Research / Studies / Planning	600000	0	0	600000	1200000
+4701	FY2023 Governor	NatRes	9	62874	AP	Land Sales - New Subdivision Development	Development	Renewal and Replacement	0	500000	0	0	500000
+4701	FY2023 Governor	NatRes	10	32552	AP	Land and Water Conservation Fund Federal Grant Program	Natural Resources	Parks / Recreation	1600000	0	0	2600000	4200000
+4701	FY2023 Governor	NatRes	11	6865	AP	National Historic Preservation Fund	Natural Resources	Parks / Recreation	200000	0	0	600000	800000
+4701	FY2023 Governor	NatRes	12	6854	AP	National Recreational Trails Federal Grant Program	Natural Resources	Parks / Recreation	150000	0	0	1500000	1650000
+4701	FY2023 Governor	NatRes	13	63826	AP	Potter Marsh Watershed Conservation Project Phase I	Natural Resources	Life / Health / Safety	0	0	0	1000000	1000000
+4701	FY2023 Governor	NatRes	14	61854	AP	State Park Electronic Fee Stations	Natural Resources	Parks / Recreation	650000	0	0	0	650000
+4701	FY2023 Governor	NatRes	15	63828	AP	Statewide Park Sanitation Deferred Maintenance and Facility Upgrades	Natural Resources	Deferred Maintenance	0	0	0	1418000	1418000
+4701	FY2023 Governor	PubSaf	1	63869	AP	Law Enforcement Off Highway Vehicle Replacement	Public Protection	Equipment / Commodities	750000	0	0	0	750000
+4701	FY2023 Governor	PubSaf	2	63881	AP	Marine Fisheries Patrol Improvements	Public Protection	Research / Studies / Planning	0	0	0	1200000	1200000
+4701	FY2023 Governor	Rev	1	6350	AP	AHFC Competitive Grants for Public Housing	Health/Human Services	Life / Health / Safety	350000	0	0	1000000	1350000
+4701	FY2023 Governor	Rev	2	6351	AP	AHFC Energy Efficiency Research	Development	Energy	500000	0	0	0	500000
+4701	FY2023 Governor	Rev	3	50683	AP	AHFC Energy Programs Weatherization	Health/Human Services	Life / Health / Safety	1800000	0	0	3000000	4800000
+4701	FY2023 Governor	Rev	4	6348	AP	AHFC Federal and Other Competitive Grants	Health/Human Services	Life / Health / Safety	1500000	0	0	6000000	7500000
+4701	FY2023 Governor	Rev	5	6342	AP	AHFC Housing and Urban Development Capital Fund Program	Development	Renewal and Replacement	0	0	0	3200000	3200000
+4701	FY2023 Governor	Rev	6	6347	AP	AHFC Housing and Urban Development Federal HOME Grant	Development	Economic Assistance	750000	0	0	4000000	4750000
+4701	FY2023 Governor	Rev	7	60777	AP	AHFC Rental Assistance for Persons Displaced Due to Domestic Violence - Empowering Choice Housing Program (ECHP)	Health/Human Services	Life / Health / Safety	1500000	0	0	0	1500000
+4701	FY2023 Governor	Rev	8	6323	AP	AHFC Supplemental Housing Development Program	Development	Construction	2750000	0	0	0	2750000
+4701	FY2023 Governor	Rev	9	49395	AP	AHFC Teacher, Health, and Public Safety Professionals Housing	Development	Economic Assistance	1750000	0	500000	0	2250000
+4701	FY2023 Governor	Rev	11	64180	AL	MH: AHFC Senior Citizens Housing Predevelopment Program (SCHPP)	Development	Construction	500000	0	0	0	500000
+4701	FY2023 Governor	Rev	12	64182	AL	AHFC Senior Citizens Housing Development Program	Development	Construction	1000000	0	0	0	1000000
+4701	FY2023 Governor	Rev	13	6360	AP	MH: AHFC Beneficiary and Special Needs Housing	Health/Human Services	Life / Health / Safety	3250000	0	200000	0	3450000
+4701	FY2023 Governor	Rev	14	45390	AP	MH: AHFC Homeless Assistance Program	Health/Human Services	Economic Assistance	7150000	0	950000	0	8100000
+4701	FY2023 Governor	Trans	1	30648	AP	MH: Coordinated Transportation and Vehicles	Transportation	Equipment / Commodities	1000000	0	300000	0	1300000
+4701	FY2023 Governor	Trans	2	30624	AP	Alaska Marine Highway System Vessel Overhaul, Annual Certification and Shoreside Facilities Rehabilitation	Transportation	Renewal and Replacement	0	20000000	0	0	20000000
+4701	FY2023 Governor	Trans	3	30628	AP	State Equipment Fleet Replacement	Transportation	Equipment / Commodities	0	0	25000000	0	25000000
+4701	FY2023 Governor	Trans	5	61000	AL	Alaska International Airport System	Transportation	Construction	0	0	9561030	72139250	81700280
+4701	FY2023 Governor	Trans	6	61033	AL	Rural Airport Improvement Program	Transportation	Construction	0	0	0	200000000	200000000
+4701	FY2023 Governor	Trans	8	6896	AL	Federal-Aid Aviation State Match	Transportation	Construction	17600000	0	0	0	17600000
+4701	FY2023 Governor	Trans	9	64125	AL	Federal-Aid Highway State Match	Transportation	Construction	70200000	0	0	0	70200000
+4701	FY2023 Governor	Trans	10	41923	AL	Other Federal Program Match	Transportation	Construction	1300000	0	0	0	1300000
+4701	FY2023 Governor	Trans	12	31375	AL	Cooperative Reimbursable Projects	Transportation	Construction	0	0	10000000	5000000	15000000
+4701	FY2023 Governor	Trans	13	38424	AL	Federal Emergency Projects	Transportation	Life / Health / Safety	0	0	0	10000000	10000000
+4701	FY2023 Governor	Trans	14	30643	AL	Federal Transit Administration Grants	Transportation	Equipment / Commodities	0	0	0	26670000	26670000
+4701	FY2023 Governor	Trans	15	33485	AL	Highway Safety Grants Program	Transportation	Life / Health / Safety	130574	0	0	8000000	8130574
+4701	FY2023 Governor	Trans	16	32610	AP	Surface Transportation Program	Transportation	Construction	0	0	0	669500000	669500000
+4701	FY2023 Governor	Univ	0	63993	AP	Student Information Technology Systems - Coronavirus Capital Projects Fund	University	Information Technology / Systems / Communication	0	0	0	20000000	20000000
+4701	FY2023 Governor	Univ	0	63994	AP	Seward Marine Center Research Vessel Infrastructure	University	Construction	0	0	0	94400000	94400000

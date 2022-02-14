@@ -24,11 +24,12 @@ build_department_overview_sankey(department_abs, department_readable, department
 	
 	build_nodes_from_columns(department_column, rdu_column, fund_column, line_column, group_column)
 	
-	this_plot_title := the_department_name " (Fund / Fund Group / Expenditure)"
-	this_title := this_scenario_name . " <br /> " this_plot_title " (" csv_find_and_sum_revenue(abs_department_name, department_column) ")"
-	this_width := "1200"
-	this_height := "600"
-	this_small_height := "400"
+	this_plot_title 	:= the_department_name " (Fund / Fund Group / Expenditure)"
+	this_title 		:= this_scenario_name . " <br /> " this_plot_title " (" csv_find_and_sum_revenue(abs_department_name, department_column) ")"
+	this_width 		:= "1200"
+	this_height 		:= "600"
+	this_small_height 	:= "400"
+	back_link			:= "../plot-statewide.html"
 	
 	this_output_file := build_directory "\" department_folder "\" this_plot_name ".html"
 	menu_html .= "<div><a href=""" department_folder "/" this_plot_name ".html"">Department Overview</a></div>" rn
