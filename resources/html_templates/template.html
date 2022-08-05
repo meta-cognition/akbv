@@ -130,7 +130,7 @@
 </head>
 <body>
 <div class="akbv">Alaska Budget Visualizer (beta)</div>
-<div class="button-bar"><button onclick="goBack()"><< Go Back</button>&nbsp;|&nbsp;<button onclick="resize_default();">Default Size</button>&nbsp;<button onclick="resize_small();">Make Smaller</button>&nbsp;<button onclick="resize_window();">Fit to Window</button>&nbsp;|&nbsp;<button onclick="resize_text_larger();">Larger Text</button>&nbsp;<button onclick="resize_text_smaller();">Smaller Text</button></div>
+<div class="button-bar"><button onclick="goBack()"><< Go Up/Back One Level</button>&nbsp;|&nbsp;<button onclick="resize_default();">Default Size</button>&nbsp;<button onclick="resize_small();">Make Smaller</button>&nbsp;<button onclick="resize_window();">Fit to Window</button>&nbsp;|&nbsp;<button onclick="resize_text_larger();">Larger Text</button>&nbsp;<button onclick="resize_text_smaller();">Smaller Text</button></div>
 <a name="plot"></a> 
 <div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
 @@@LEGENDHTML@@@
@@ -218,7 +218,7 @@
 		// https://api.jquery.com/event.target/
 		// ;console.log(data.points[0].originalEvent.target.nodeName);
 		
-		if ( (data.points[0].originalEvent.target.nodeName == "rect") || (data.points[0].originalEvent.target.nodeName == "textPath"))
+		if ( (data.points[0].originalEvent.target.nodeName == "rect") || (data.points[0].originalEvent.target.nodeName == "text")) //changed from textPath to text 2/2022 due to plotly library change
 		{
 			switch ( data.points[0].pointNumber ) 
 			{

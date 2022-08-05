@@ -24,7 +24,7 @@ this_title 		:= this_scenario_name . " <br /> " this_plot_title " (" csv_find_an
 this_width 		:= "1000"
 this_height 		:= "1150"
 this_small_height 	:= "800"
-back_link			:= "incex-capital.html"
+back_link			:= "index-capital.html"
 this_output_file 	:= build_directory . "\" this_plot_name ".html"
 
 statewide_capital_output_file := this_output_file
