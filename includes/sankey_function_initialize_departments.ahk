@@ -7,9 +7,9 @@ InitializeDepartments()
 	department_list.push({abs_name: "Law"						, readable_name:  "Department of Law"                                           })
 	department_list.push({abs_name: "Revenue"					, readable_name:  "Department of Revenue"                                       })
 	department_list.push({abs_name: "Educ & Early Devel"			, readable_name:  "Department of Education & Early Development"                 })
-	department_list.push({abs_name: "Health & Social Services"		, readable_name:  "Department of Health & Social Services"                      })
-	;department_list.push({abs_name: "Health"          			, readable_name:  "Department of Health"								})
-	;department_list.push({abs_name: "Family & Community Services"  	, readable_name:  "Department of Family & Community Services"				})
+	;department_list.push({abs_name: "Health & Social Services"		, readable_name:  "Department of Health & Social Services"                      })
+	department_list.push({abs_name: "Health"          			, readable_name:  "Department of Health"								})
+	department_list.push({abs_name: "Family & Community Services"  	, readable_name:  "Department of Family & Community Services"				})
 	department_list.push({abs_name: "Labor & Workforce"			, readable_name:  "Department of Labor & Workforce Development"                 })
 	department_list.push({abs_name: "Commerce"					, readable_name:  "Department of Commerce, Community, and Economic Development" })
 	department_list.push({abs_name: "Military & Veterans Affairs"	, readable_name:  "Department of Military & Veterans Affairs"                   })
@@ -28,6 +28,8 @@ InitializeDepartments()
 	department_list.push({abs_name: "Special Appropriations"		, readable_name:  "Special Appropriations"                                      })
 	department_list.push({abs_name: "Fund Transfers"				, readable_name:  "Fund Transfers"                                              })
 	department_list.push({abs_name: "Permanent Fund"				, readable_name:  "Permanent Fund Dividend"                                     })
+	
+	; Capital cleanup converts those names to these abs_names.... above
 	
 	for key, department_list_object in department_list
 	{

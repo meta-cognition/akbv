@@ -178,9 +178,9 @@ if ( input_file_2 != "" )
 FileAppend, % "Capital Statewide Build Time: " FormatSeconds((A_TickCount-StartTime)/1000) rn, % build_directory "\build-time.txt"
 
 
-find_replace_in_file( "width: 1200," 	, "width: 1600," 	, build_directory "\transportation\plot-capital.html")
-find_replace_in_file( "height: 800," 	, "height: 4000," 	, build_directory "\transportation\plot-capital.html")
-find_replace_in_file( "width:1200px;" 	, "width:1600px;" 	, build_directory "\transportation\plot-capital.html")
+;find_replace_in_file( "width: 1200," 	, "width: 1600," 	, build_directory "\transportation\plot-capital.html")
+;find_replace_in_file( "height: 800," 	, "height: 4000," 	, build_directory "\transportation\plot-capital.html")
+;find_replace_in_file( "width:1200px;" 	, "width:1600px;" 	, build_directory "\transportation\plot-capital.html")
 
 
 ;Run, % build_directory "\build-time.txt"
