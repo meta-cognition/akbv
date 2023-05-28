@@ -77,11 +77,14 @@ build_nodes_from_columns(columns*)
 				else if ( format_mode = "dollars" )
 				{					
 					
-					if ( sum_appropriation_values = true ) ; Capital Only
+					; Capital Only
+					if ( sum_appropriation_values = true ) 
 					{
 						this_node_total 		:= csv_find_and_sum_appropriation(this_node_name, current_column)
 						
 						this_node_project_link 	:= project_links[this_node_name]
+						
+						; test
 					}
 					else If (InStr(expenditure_labels, this_node_name ) )
 					{

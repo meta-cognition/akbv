@@ -177,10 +177,10 @@ if ( input_file_2 != "" )
 }
 FileAppend, % "Capital Statewide Build Time: " FormatSeconds((A_TickCount-StartTime)/1000) rn, % build_directory "\build-time.txt"
 
-
-;find_replace_in_file( "width: 1200," 	, "width: 1600," 	, build_directory "\transportation\plot-capital.html")
-;find_replace_in_file( "height: 800," 	, "height: 4000," 	, build_directory "\transportation\plot-capital.html")
-;find_replace_in_file( "width:1200px;" 	, "width:1600px;" 	, build_directory "\transportation\plot-capital.html")
+;all 3 required for capital for DOT&PF's budget
+find_replace_in_file( "width: 1200," 	, "width: 1600," 	, build_directory "\transportation\plot-capital.html")
+find_replace_in_file( "height: 800," 	, "height: 4000," 	, build_directory "\transportation\plot-capital.html")
+find_replace_in_file( "width:1200px;" 	, "width:1600px;" 	, build_directory "\transportation\plot-capital.html")
 
 
 ;Run, % build_directory "\build-time.txt"
@@ -196,11 +196,11 @@ ExitApp
 ; MISC FUNCTIONS - Not worthy of a seperate INCLUDE
 FormatSeconds(v_seconds)  ; Convert the specified number of seconds to hh:mm:ss format.
 {
-	fminutes := v_seconds//60 ; calculate minutes
-	fseconds := v_seconds-(fminutes*60) ; calculate (formatted) seconds
-	if (strLen(round(fseconds)) < 2 ) ; 0-pad seconds
-		fseconds := "0" . round(fseconds)
-	return round(fminutes) . ":" . round(fseconds)
+	fminutes := floor(v_seconds/60) ; calculate minutes
+	fseconds := round(v_seconds)-(fminutes*60) ; calculate (formatted) seconds
+	if (strLen(fseconds) < 2 ) ; 0-pad seconds
+		fseconds := "0" . fseconds
+	return fminutes . ":" . fseconds
 }
 
 DoQuit() {

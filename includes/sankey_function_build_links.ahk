@@ -120,6 +120,7 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 				if ( add_project_links = true )
 				{
 					this_identifier_text := "https://omb.alaska.gov/ombfiles/" sankey_object.nodes.columns[target_column].rows[current_target_node_row].node_project_link
+					;this_identifier_text := "javascript:alert(\'OMB project file not available.\')"
 				}
 				if ( is_child = true )
 				{

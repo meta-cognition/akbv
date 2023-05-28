@@ -1,0 +1,320 @@
+SCENARIO_ID	SCENARIO_NAME	DEPT	PROJ_ORDER	REFNUM	ALAP	PROJ_TITLE	PROJ_CAT	PROJ_TYPE	UGF_AMOUNT	DGF_AMOUNT	O_AMOUNT	F_AMOUNT	PROJ_TOTAL
+4895	FY2023 Final Enacted HB281	Commerce	1	64581	AP	Alaska Search and Rescue Association - Search and Rescue Training	General Government	Life / Health / Safety	294300	0	0	0	294300
+4895	FY2023 Final Enacted HB281	Commerce	2	64160	AP	Chugach Region Archaeological Repository	Education	Construction	0	0	6277685	0	6277685
+4895	FY2023 Final Enacted HB281	Commerce	3	64564	AP	Alaska Seafood Marketing Institute Food Aide to Ukraine - Alaska Canned Salmon	General Government	Life / Health / Safety	300000	0	0	0	300000
+4895	FY2023 Final Enacted HB281	Commerce	4	64158	AP	Alaska SeaLife Center Facilities Project	Education	Construction	0	0	2500000	0	2500000
+4895	FY2023 Final Enacted HB281	Commerce	5	64535	AP	AWAIC - Shelter and Transitional Housing Renovations	General Government	Deferred Maintenance	0	0	0	0	0
+4895	FY2023 Final Enacted HB281	Commerce	7	64584	AP	Matanuska-Susitna Borough Transportation Infrastructure package	Development	Construction	30000000	0	0	0	30000000
+4895	FY2023 Final Enacted HB281	Commerce	8	64587	AP	Abused Women Aid In Crisis, Inc. - Shelter And Transitional Housing Renovations (HD 12-28)	Health/Human Services	Life / Health / Safety	347000	0	0	0	347000
+4895	FY2023 Final Enacted HB281	Commerce	9	64583	AP	Municipality of Anchorage for the Port of Alaska Modernization Project Distributed FY23 through FY24	Development	Construction	100000000	0	0	0	100000000
+4895	FY2023 Final Enacted HB281	Commerce	10	64565	AP	Alaska Black Caucus - Construction of the Equity Center	General Government	Construction	0	0	0	0	0
+4895	FY2023 Final Enacted HB281	Commerce	11	64543	AP	City of Nome - Arctic Deep Draft Port (HD 39)	General Government	Construction	175300000	0	0	0	175300000
+4895	FY2023 Final Enacted HB281	Commerce	12	64579	AP	Dimond Alumni Special Projects Inc. - Replace Diving Boards 	General Government	Deferred Maintenance	588775	0	0	0	588775
+4895	FY2023 Final Enacted HB281	Commerce	13	64544	AP	Wrangell - Water Treatment Plant Improvements	General Government	Deferred Maintenance	4100000	0	0	0	4100000
+4895	FY2023 Final Enacted HB281	Commerce	14	64551	AP	ILWU Alaska Longshore Division Healthcare	General Government	Life / Health / Safety	0	0	0	0	0
+4895	FY2023 Final Enacted HB281	Commerce	15	64159	AP	Alutiiq Museum & Archaeological Repository	Education	Construction	0	0	7339450	0	7339450
+4895	FY2023 Final Enacted HB281	Commerce	16	64588	AP	Municipality of Anchorage - NTE $100,000.0 Match for Federal Funding	Development	Construction	100000000	0	0	0	100000000
+4895	FY2023 Final Enacted HB281	Commerce	17	64553	AP	Alaska Energy Authority - Alaska Grid Resilience and Reliability - Formula	Development	Energy	0	0	3633158	12110523	15743681
+4895	FY2023 Final Enacted HB281	Commerce	18	64530	AP	Prince William Sound Science Center - Planning, Construction, and Maintenance	Natural Resources	Research / Studies / Planning	0	0	0	0	0
+4895	FY2023 Final Enacted HB281	Commerce	19	32950	AP	Alaska Energy Authority - Electrical Emergencies Program	Development	Energy	200000	0	0	0	200000
+4895	FY2023 Final Enacted HB281	Commerce	20	64245	AP	Broadband Equity Access and Deployment Program and Digital Equity Plan	Development	Life / Health / Safety	0	0	0	6000000	6000000
+4895	FY2023 Final Enacted HB281	Commerce	22	64204	AL	Alaska Energy Authority - New Energy Auditor Training Grant Program	Development	Energy	0	0	0	63600	63600
+4895	FY2023 Final Enacted HB281	Commerce	23	64211	AL	Alaska Energy Authority - New Energy Efficiency Revolving Loan Fund Capitalization Program	Development	Energy	0	0	0	796000	796000
+4895	FY2023 Final Enacted HB281	Commerce	24	64394	AL	Alaska Energy Authority - State Energy Program	Development	Energy	0	0	0	796000	796000
+4895	FY2023 Final Enacted HB281	Commerce	25	64217	AL	Alaska Energy Authority - Energy Efficiency Conservation Block Grants	Development	Energy	0	0	0	2000000	2000000
+4895	FY2023 Final Enacted HB281	Commerce	26	63838	AP	Alaska Energy Authority - Strategic Plan for Railbelt Assets	To be determined	Energy	2500000	0	0	0	2500000
+4895	FY2023 Final Enacted HB281	Commerce	27	57255	AP	Alaska Energy Authority - Round XIV Renewable Energy Project Grants (AS 42.45.045)	Development	Energy	0	15000000	0	0	15000000
+4895	FY2023 Final Enacted HB281	Commerce	28	63132	AP	Replace Alcohol Licensing Database	Development	Information Technology / Systems / Communication	375000	375000	0	0	750000
+4895	FY2023 Final Enacted HB281	Commerce	29	52498	AP	Alaska Energy Authority - Rural Power Systems Upgrades	Development	Energy	0	10000000	0	10000000	20000000
+4895	FY2023 Final Enacted HB281	Commerce	30	49734	AP	Alaska Energy Authority - Bulk Fuel Upgrades	Development	Energy	5500000	0	0	7500000	13000000
+4895	FY2023 Final Enacted HB281	Commerce	31	64165	AP	Kenai River Bluff Stabilization	Transportation	Construction	6500000	0	0	0	6500000
+4895	FY2023 Final Enacted HB281	Commerce	32	61842	AP	Alaska Energy Authority - Volkswagen Settlement	Transportation	Life / Health / Safety	0	0	400000	0	400000
+4895	FY2023 Final Enacted HB281	Commerce	34	38946	AP	Community Block Grants	Development	Life / Health / Safety	65000	0	0	6250000	6315000
+4895	FY2023 Final Enacted HB281	Commerce	35	64174	AP	Alaska Mariculture Alliance – Economic Recovery Mariculture Incentive Grant Program	Development	Economic Assistance	5000000	0	0	0	5000000
+4895	FY2023 Final Enacted HB281	Commerce	36	38948	AP	National Petroleum Reserve - Alaska Impact Grant Program	Development	Life / Health / Safety	0	0	0	13800000	13800000
+4895	FY2023 Final Enacted HB281	Commerce	37	45874	AP	Inter-Island Ferry Authority	Transportation	Economic Assistance	250000	0	0	0	250000
+4895	FY2023 Final Enacted HB281	Commerce	39	41959	AP	Arctic Winter Games Team Alaska - State Participation Grant 	Development	Economic Assistance	1000000	0	0	0	1000000
+4895	FY2023 Final Enacted HB281	Courts	0	64135	AP	Court Security Projects	Law and Justice	Information Technology / Systems / Communication	4130000	0	0	0	4130000
+4895	FY2023 Final Enacted HB281	Courts	0	64137	AP	Deferred Maintenance Projects (DOT / DOA / DMVA Maintained)	Law and Justice	Deferred Maintenance	0	3820000	0	0	3820000
+4895	FY2023 Final Enacted HB281	Courts	1	64136	AP	Justice Technology Upgrades and Courtroom Modernization	Law and Justice	Information Technology / Systems / Communication	3917300	0	0	0	3917300
+4895	FY2023 Final Enacted HB281	Courts	2	64134	AP	Planning and Design for Court Facilities - Bethel and Palmer	Law and Justice	Research / Studies / Planning	980000	0	0	0	980000
+4895	FY2023 Final Enacted HB281	E&ED	0	64512	AP	Major Maintenance Grant Fund for School Major Maintenance	Education	Deferred Maintenance	37500000	0	0	0	37500000
+4895	FY2023 Final Enacted HB281	EnvCon	0	64190	AP	Alaska Enhanced Air Quality Monitoring	Health/Human Services	Life / Health / Safety	0	0	0	650000	650000
+4895	FY2023 Final Enacted HB281	EnvCon	1	49698	AP	Clean Water Capitalization Grant Subsidy	Health/Human Services	Water / Sewer / Solid Waste	0	0	1000000	0	1000000
+4895	FY2023 Final Enacted HB281	EnvCon	2	49697	AP	Drinking Water Capitalization Grant Subsidy	Health/Human Services	Water / Sewer / Solid Waste	0	0	2900000	0	2900000
+4895	FY2023 Final Enacted HB281	EnvCon	3	63997	AP	EVOS Impaired Beaches Project	Natural Resources	Renewal and Replacement	0	0	658432	0	658432
+4895	FY2023 Final Enacted HB281	EnvCon	4	61721	AP	Fairbanks PM2.5 Nonattainment Area Voluntary Heating Device Change Out Program	Health/Human Services	Life / Health / Safety	0	0	0	5684800	5684800
+4895	FY2023 Final Enacted HB281	EnvCon	6	49749	AL	Village Safe Water and Wastewater Infrastructure Projects:  Expansion, Upgrade, and Replacement of Existing Service	Health/Human Services	Water / Sewer / Solid Waste	7800000	0	200000	38900000	46900000
+4895	FY2023 Final Enacted HB281	EnvCon	7	49748	AL	Village Safe Water and Wastewater Infrastructure Projects:  First Time Service Projects	Health/Human Services	Water / Sewer / Solid Waste	11700000	0	300000	58350000	70350000
+4895	FY2023 Final Enacted HB281	EnvCon	11	63863	AP	Clean Water Capitalization Grant Subsidy - IIJA, Division J, Title VI	Health/Human Services	Water / Sewer / Solid Waste	0	0	9241939	0	9241939
+4895	FY2023 Final Enacted HB281	EnvCon	11	64195	AP	Clean Water Capitalization Grant Subsidy Emerging Contaminants - IIJA, Division J, Title VI	Health/Human Services	Water / Sewer / Solid Waste	0	0	989820	0	989820
+4895	FY2023 Final Enacted HB281	EnvCon	12	63864	AP	Drinking Water Capitalization Grant Subsidy - IIJA, Division J, Title VI	Health/Human Services	Water / Sewer / Solid Waste	0	0	6246545	0	6246545
+4895	FY2023 Final Enacted HB281	EnvCon	12	64196	AP	Drinking Water Capitalization Grant Subsidy Emerging Contaminants- IIJA, Division J, Title VI	Health/Human Services	Water / Sewer / Solid Waste	0	0	5353400	0	5353400
+4895	FY2023 Final Enacted HB281	EnvCon	12	64197	AP	Drinking Water Capitalization Grant Subsidy Lead Service Lines IIJA, Division J, Title VI	Health/Human Services	Water / Sewer / Solid Waste	0	0	9836873	0	9836873
+4895	FY2023 Final Enacted HB281	FCS	11	63906	AP	Alaska Psychiatric Institute Wireless Infrastructure Upgrade 	Health/Human Services	Information Technology / Systems / Communication	100000	0	0	0	100000
+4895	FY2023 Final Enacted HB281	FishGm	1	63934	AP	Alaska Marine Salmon Program	Development	Research / Studies / Planning	1150000	0	0	0	1150000
+4895	FY2023 Final Enacted HB281	FishGm	1	63992	AP	EVOS Prince William Sound Pollock and Herring Interaction	Natural Resources	Research / Studies / Planning	0	0	4129317	0	4129317
+4895	FY2023 Final Enacted HB281	FishGm	2	63998	AP	EVOS Gulf Watch Alaska Herring Research and Monitoring	Natural Resources	Research / Studies / Planning	0	0	1908299	0	1908299
+4895	FY2023 Final Enacted HB281	FishGm	3	63995	AP	EVOS Mariculture - Marine Mammals	Natural Resources	Research / Studies / Planning	0	0	1660000	0	1660000
+4895	FY2023 Final Enacted HB281	FishGm	4	63991	AP	EVOS Kenai Peninsula Cost Share	Development	Renewal and Replacement	0	0	400000	0	400000
+4895	FY2023 Final Enacted HB281	FishGm	5	43347	AP	Endangered Species Act 	Natural Resources	Research / Studies / Planning	2000000	0	250000	1750000	4000000
+4895	FY2023 Final Enacted HB281	FishGm	6	43322	AP	Facilities, Vessels, and Aircraft Maintenance, Repair, and Upgrades	Natural Resources	Renewal and Replacement	500000	0	0	0	500000
+4895	FY2023 Final Enacted HB281	FishGm	7	48948	AP	Pacific Salmon Treaty Chinook Fishery Mitigation	Natural Resources	Research / Studies / Planning	0	0	0	6400000	6400000
+4895	FY2023 Final Enacted HB281	FishGm	8	33647	AP	Pacific Coastal Salmon Recovery Fund	Natural Resources	Research / Studies / Planning	0	0	0	4400000	4400000
+4895	FY2023 Final Enacted HB281	FishGm	9	30432	AP	Sport Fish Recreational Boating and Angler Access	Natural Resources	Construction	1500000	0	750000	6750000	9000000
+4895	FY2023 Final Enacted HB281	FishGm	10	63996	AP	Proceeds of Sale of State-owned Vessels and Aircrafts	Fund Transfers	Equipment / Commodities	0	150000	0	0	150000
+4895	FY2023 Final Enacted HB281	Gov	1	62700	AP	Statewide Deferred Maintenance, Renovation, and Repair	General Government	Deferred Maintenance	3620000	23880000	0	0	27500000
+4895	FY2023 Final Enacted HB281	Health	0	64487	AP	Child Care Program Office (HD 1-40)	General Government	Life / Health / Safety	1000000	0	0	0	1000000
+4895	FY2023 Final Enacted HB281	Health	1	33670	AP	MH: Deferred Maintenance and Accessibility Improvements	Health/Human Services	Deferred Maintenance	250000	0	250000	0	500000
+4895	FY2023 Final Enacted HB281	Health	1	54250	AP	MH: Assistive Technology	Health/Human Services	Life / Health / Safety	500000	0	0	0	500000
+4895	FY2023 Final Enacted HB281	Health	2	33672	AP	MH: Essential Program Equipment	Health/Human Services	Equipment / Commodities	300000	0	300000	0	600000
+4895	FY2023 Final Enacted HB281	Health	3	33671	AP	MH: Home Modification and Upgrades to Retain Housing	Health/Human Services	Renovation and Remodeling	1050000	0	100000	0	1150000
+4895	FY2023 Final Enacted HB281	Health	4	63912	AP	Division of Public Assistance E-forms and Online Noticing 	Health/Human Services	Information Technology / Systems / Communication	4000000	0	0	4000000	8000000
+4895	FY2023 Final Enacted HB281	Health	5	63915	AP	Division of Public Assistance Eligibility System Replacement 	Health/Human Services	Information Technology / Systems / Communication	4700000	0	0	18800000	23500000
+4895	FY2023 Final Enacted HB281	Health	6	42837	AP	Emergency Medical Services Match for Code Blue Project 	Health/Human Services	Equipment	500000	0	0	0	500000
+4895	FY2023 Final Enacted HB281	Health	7	63908	AP	Health Information Exchange	Health/Human Services	Information Technology / Systems / Communication	5220000	0	0	900000	6120000
+4895	FY2023 Final Enacted HB281	M&VA	5	63928	AP	DMVA Deferred Maintenance, Replacement, and Renewal 	Public Protection	Construction	0	0	0	12000000	12000000
+4895	FY2023 Final Enacted HB281	M&VA	8	61869	AP	State Homeland Security Grant Programs	Public Protection	Life / Health / Safety	240400	0	0	11164000	11404400
+4895	FY2023 Final Enacted HB281	NatRes	0	63971	AP	Fire Crew Vehicle Replacement	Public Protection	Equipment / Commodities	720000	0	0	0	720000
+4895	FY2023 Final Enacted HB281	NatRes	0	64331	AP	National Geological and Geophysical Data Preservation Program (NGGDPP)	Natural Resources	Life / Health / Safety	1000000	0	0	2290000	3290000
+4895	FY2023 Final Enacted HB281	NatRes	0	64372	AP	Coastal and Nearshore Mapping of Alaska	Health/Human Services	Life / Health / Safety	0	0	0	5000000	5000000
+4895	FY2023 Final Enacted HB281	NatRes	0	64525	AP	Snowmobile Trail Development Program and Grants (HD 1-40)	Development	Parks / Recreation	0	250000	0	0	250000
+4895	FY2023 Final Enacted HB281	NatRes	1	63437	AP	RS2477 Access Development - Advancing State's Rights in Navigability and Revised Statute 2477	Development	Research / Studies / Planning	2500000	0	0	0	2500000
+4895	FY2023 Final Enacted HB281	NatRes	2	6855	AP	Abandoned Mine Lands Reclamation Federal Program	Natural Resources	Life / Health / Safety	0	0	0	4533000	4533000
+4895	FY2023 Final Enacted HB281	NatRes	2	61849	AP	Critical Minerals Mapping - Earth MRI (3DEEP)	Natural Resources	Research / Studies / Planning	2750000	0	250000	7500000	10500000
+4895	FY2023 Final Enacted HB281	NatRes	3	62649	AP	Arctic Strategic Transportation and Resource Project	Development	Research / Studies / Planning	2500000	0	0	0	2500000
+4895	FY2023 Final Enacted HB281	NatRes	4	63979	AP	Big Eddy EVOS Restoration and Improvements	Public Protection	Parks / Recreation	0	0	4329567	0	4329567
+4895	FY2023 Final Enacted HB281	NatRes	6	37769	AP	Community Wildfire Defense Grants	Natural Resources	Life / Health / Safety	0	0	0	10000000	10000000
+4895	FY2023 Final Enacted HB281	NatRes	8	60937	AP	Geological Mapping for Energy Development (USGS STATEMAP)	Natural Resources	Research / Studies / Planning	600000	0	0	600000	1200000
+4895	FY2023 Final Enacted HB281	NatRes	9	62874	AP	Land Sales - New Subdivision Development	Development	Renewal and Replacement	0	500000	0	0	500000
+4895	FY2023 Final Enacted HB281	NatRes	10	32552	AP	Land and Water Conservation Fund Federal Grant Program	Natural Resources	Parks / Recreation	1600000	0	0	2600000	4200000
+4895	FY2023 Final Enacted HB281	NatRes	11	6865	AP	National Historic Preservation Fund	Natural Resources	Parks / Recreation	200000	0	0	600000	800000
+4895	FY2023 Final Enacted HB281	NatRes	12	6854	AP	National Recreational Trails Federal Grant Program	Natural Resources	Parks / Recreation	150000	0	0	1500000	1650000
+4895	FY2023 Final Enacted HB281	NatRes	13	63826	AP	Potter Marsh Watershed Conservation Project Phase I	Natural Resources	Life / Health / Safety	0	0	0	1000000	1000000
+4895	FY2023 Final Enacted HB281	NatRes	14	61854	AP	State Park Electronic Fee Stations	Natural Resources	Parks / Recreation	650000	0	0	0	650000
+4895	FY2023 Final Enacted HB281	NatRes	15	63828	AP	Statewide Park Sanitation Deferred Maintenance and Facility Upgrades	Natural Resources	Deferred Maintenance	1418000	0	0	0	1418000
+4895	FY2023 Final Enacted HB281	PubSaf	1	63869	AP	Law Enforcement Off Highway Vehicle Replacement	Public Protection	Equipment / Commodities	750000	0	0	0	750000
+4895	FY2023 Final Enacted HB281	PubSaf	2	63881	AP	Marine Fisheries Patrol Improvements	Public Protection	Research / Studies / Planning	0	0	0	1200000	1200000
+4895	FY2023 Final Enacted HB281	PubSaf	3	63880	AP	AWT Medium-Class Vessel Replacement	Public Protection	Equipment / Commodities	1800000	0	0	0	1800000
+4895	FY2023 Final Enacted HB281	Rev	1	6350	AP	AHFC Competitive Grants for Public Housing	Health/Human Services	Life / Health / Safety	350000	0	0	1000000	1350000
+4895	FY2023 Final Enacted HB281	Rev	2	6351	AP	AHFC Energy Efficiency Research	Development	Energy	1000000	0	0	2000000	3000000
+4895	FY2023 Final Enacted HB281	Rev	3	50683	AP	AHFC Energy Programs Weatherization	Health/Human Services	Life / Health / Safety	1800000	0	0	21386814	23186814
+4895	FY2023 Final Enacted HB281	Rev	4	6348	AP	AHFC Federal and Other Competitive Grants	Health/Human Services	Life / Health / Safety	1500000	0	0	6000000	7500000
+4895	FY2023 Final Enacted HB281	Rev	5	6342	AP	AHFC Housing and Urban Development Capital Fund Program	Development	Renewal and Replacement	0	0	0	3200000	3200000
+4895	FY2023 Final Enacted HB281	Rev	6	6347	AP	AHFC Housing and Urban Development Federal HOME Grant	Development	Economic Assistance	750000	0	0	4000000	4750000
+4895	FY2023 Final Enacted HB281	Rev	7	60777	AP	AHFC Rental Assistance for Persons Displaced Due to Domestic Violence - Empowering Choice Housing Program (ECHP)	Health/Human Services	Life / Health / Safety	1500000	0	0	0	1500000
+4895	FY2023 Final Enacted HB281	Rev	8	6323	AP	AHFC Supplemental Housing Development Program	Development	Construction	3000000	0	0	0	3000000
+4895	FY2023 Final Enacted HB281	Rev	9	49395	AP	AHFC Teacher, Health, and Public Safety Professionals Housing	Development	Economic Assistance	18750000	0	500000	2000000	21250000
+4895	FY2023 Final Enacted HB281	Rev	11	64180	AL	MH: AHFC Senior Citizens Housing Predevelopment Program (SCHPP)	Development	Construction	500000	0	0	0	500000
+4895	FY2023 Final Enacted HB281	Rev	12	64182	AL	AHFC Senior Citizens Housing Development Program	Development	Construction	1750000	0	0	0	1750000
+4895	FY2023 Final Enacted HB281	Rev	13	6360	AP	MH: AHFC Beneficiary and Special Needs Housing	Health/Human Services	Life / Health / Safety	3250000	0	200000	0	3450000
+4895	FY2023 Final Enacted HB281	Rev	14	45390	AP	MH: AHFC Homeless Assistance Program	Health/Human Services	Economic Assistance	7150000	0	950000	0	8100000
+4895	FY2023 Final Enacted HB281	Trans	1	64467	AP	State Funded Road and Bridge Completion	Transportation	Construction	30000000	0	0	0	30000000
+4895	FY2023 Final Enacted HB281	Trans	2	64470	AP	Alaska Marine Highway Planning and Design of Mainline Vessel Replacement	Transportation	Construction	0	0	0	30000000	30000000
+4895	FY2023 Final Enacted HB281	Trans	3	30648	AP	MH: Coordinated Transportation and Vehicles	Transportation	Equipment / Commodities	1000000	0	300000	0	1300000
+4895	FY2023 Final Enacted HB281	Trans	4	30624	AP	Alaska Marine Highway System Vessel Overhaul, Annual Certification and Shoreside Facilities Rehabilitation	Transportation	Renewal and Replacement	0	20000000	0	0	20000000
+4895	FY2023 Final Enacted HB281	Trans	5	30628	AP	State Equipment Fleet Replacement	Transportation	Equipment / Commodities	0	0	30000000	0	30000000
+4895	FY2023 Final Enacted HB281	Trans	7	6896	AL	Federal-Aid Aviation State Match	Transportation	Construction	21900000	0	0	0	21900000
+4895	FY2023 Final Enacted HB281	Trans	8	64125	AL	Federal-Aid Highway State Match	Transportation	Construction	96900000	0	0	0	96900000
+4895	FY2023 Final Enacted HB281	Trans	9	41923	AL	Other Federal Program Match	Transportation	Construction	1300000	0	0	0	1300000
+4895	FY2023 Final Enacted HB281	Trans	11	31375	AL	Cooperative Reimbursable Projects	Transportation	Construction	0	0	10000000	5000000	15000000
+4895	FY2023 Final Enacted HB281	Trans	12	38424	AL	Federal Emergency Projects	Transportation	Life / Health / Safety	0	0	0	10000000	10000000
+4895	FY2023 Final Enacted HB281	Trans	13	30643	AL	Federal Transit Administration Grants	Transportation	Equipment / Commodities	0	0	0	26670000	26670000
+4895	FY2023 Final Enacted HB281	Trans	14	33485	AL	Highway Safety Grants Program	Transportation	Life / Health / Safety	130574	0	0	8000000	8130574
+4895	FY2023 Final Enacted HB281	Trans	16	63944	AL	Chevak Airport Rehabilitation	Transportation	Construction	0	0	0	15051000	15051000
+4895	FY2023 Final Enacted HB281	Trans	17	64113	AL	FIA - Airport Parking Facility	Transportation	Construction	0	0	0	37500000	37500000
+4895	FY2023 Final Enacted HB281	Trans	18	64114	AL	FIA - West Ramp Improvements	Transportation	Construction	0	0	0	3281250	3281250
+4895	FY2023 Final Enacted HB281	Trans	19	64276	AL	Haines Airport Resurfacing	Transportation	Construction	0	0	0	23000000	23000000
+4895	FY2023 Final Enacted HB281	Trans	20	64277	AL	Haines Airport Snow Removal Equipment Building	Transportation	Construction	0	0	0	2000000	2000000
+4895	FY2023 Final Enacted HB281	Trans	21	63954	AL	Ketchikan Terminal Expansion and Apron Hardstands	Transportation	Construction	0	0	0	8500000	8500000
+4895	FY2023 Final Enacted HB281	Trans	22	64278	AL	Ruby Minor Gravel Resurfacing and Dust Palliative	Transportation	Construction	0	0	0	382000	382000
+4895	FY2023 Final Enacted HB281	Trans	23	64115	AL	TSAIA - North Terminal Improvements	Transportation	Construction	0	0	0	20000000	20000000
+4895	FY2023 Final Enacted HB281	Trans	24	64116	AL	TSAIA - Parking Garage Repairs and Improvements	Transportation	Construction	0	0	0	10000000	10000000
+4895	FY2023 Final Enacted HB281	Trans	25	64118	AL	TSAIA - Passenger Boarding Bridge Upgrades	Transportation	Construction	0	0	0	10000000	10000000
+4895	FY2023 Final Enacted HB281	Trans	26	64117	AL	TSAIA - Quick Turnaround Facility Renewal	Transportation	Construction	0	0	0	4000000	4000000
+4895	FY2023 Final Enacted HB281	Trans	27	64283	AL	Adak Airport Aircraft Rescue and Fire Fighting Vehicle	Transportation	Construction	0	0	0	740460	740460
+4895	FY2023 Final Enacted HB281	Trans	28	64284	AL	Adak Pavement Markings	Transportation	Construction	0	0	0	99000	99000
+4895	FY2023 Final Enacted HB281	Trans	29	64120	AL	AIAS: Infrastructure Contingency	Transportation	Construction	0	0	0	15000000	15000000
+4895	FY2023 Final Enacted HB281	Trans	30	64112	AL	AIAS: Infrastructure State Match 	Transportation	Construction	0	0	20600000	0	20600000
+4895	FY2023 Final Enacted HB281	Trans	31	64285	AL	Allakaket Minor Gravel Resurfacing and Dust Palliative	Transportation	Construction	0	0	0	328000	328000
+4895	FY2023 Final Enacted HB281	Trans	32	64286	AL	Angoon Airport Right of Way	Transportation	Construction	0	0	0	5500000	5500000
+4895	FY2023 Final Enacted HB281	Trans	33	64287	AL	Barrow Pavement Markings and Crack Seal	Transportation	Construction	0	0	0	71000	71000
+4895	FY2023 Final Enacted HB281	Trans	34	64288	AL	Bethel Airport Aircraft Rescue and Fire Fighting Vehicle	Transportation	Construction	0	0	0	1080000	1080000
+4895	FY2023 Final Enacted HB281	Trans	35	63941	AL	Buckland Airport Rehabilitation	Transportation	Renovation and Remodeling	0	0	0	10500000	10500000
+4895	FY2023 Final Enacted HB281	Trans	36	63942	AL	Chalkyitsik Airport Reconstruction	Transportation	Construction	0	0	0	8000000	8000000
+4895	FY2023 Final Enacted HB281	Trans	37	64289	AL	Chefornak Grader 	Transportation	Construction	0	0	0	355000	355000
+4895	FY2023 Final Enacted HB281	Trans	38	64290	AL	Chenega Bay Snow Blower 	Transportation	Construction	0	0	0	333000	333000
+4895	FY2023 Final Enacted HB281	Trans	39	63983	AL	Chignik Airport Snow Removal Equipment Building Rehabilitation	Transportation	Construction	0	0	0	371000	371000
+4895	FY2023 Final Enacted HB281	Trans	40	64291	AL	Chuathbaluk Grader	Transportation	Construction	0	0	0	372000	372000
+4895	FY2023 Final Enacted HB281	Trans	41	64292	AL	Coldfoot Minor Gravel Resurfacing and Dust Palliative	Transportation	Construction	0	0	0	328000	328000
+4895	FY2023 Final Enacted HB281	Trans	42	64293	AL	Cordova Airport Aircraft Rescue and Fire Fighting, Broom, Pavement Markings and Crack Seal	Transportation	Construction	0	0	0	1906000	1906000
+4895	FY2023 Final Enacted HB281	Trans	43	64294	AL	Deadhorse Pavement Markings and Crack Seal	Transportation	Construction	0	0	0	71000	71000
+4895	FY2023 Final Enacted HB281	Trans	44	63948	AL	Deering Airport Rehab and Airport Access Road Construction	Transportation	Construction	0	0	0	16600000	16600000
+4895	FY2023 Final Enacted HB281	Trans	45	64295	AL	Dillingham Pavement Markings and Crack Seal	Transportation	Construction	0	0	0	235000	235000
+4895	FY2023 Final Enacted HB281	Trans	46	64296	AL	Eek Minor Gravel Resurfacing and Dust Palliative	Transportation	Construction	0	0	0	328000	328000
+4895	FY2023 Final Enacted HB281	Trans	47	63549	AL	FIA - Advanced Project Design and Planning	Transportation	Construction	0	0	32619	0	32619
+4895	FY2023 Final Enacted HB281	Trans	48	63550	AL	FIA - Annual Improvements	Transportation	Construction	0	0	358813	0	358813
+4895	FY2023 Final Enacted HB281	Trans	49	63551	AL	FIA - Environmental	Transportation	Construction	0	0	225102	0	225102
+4895	FY2023 Final Enacted HB281	Trans	50	63552	AL	FIA - Equipment	Transportation	Construction	0	0	0	1382813	1382813
+4895	FY2023 Final Enacted HB281	Trans	51	63553	AL	FIA - Facility Improvements, Renovations, & Upgrades	Transportation	Construction	0	0	130477	0	130477
+4895	FY2023 Final Enacted HB281	Trans	52	63554	AL	FIA - Information Technology Improvements	Transportation	Construction	0	0	112551	0	112551
+4895	FY2023 Final Enacted HB281	Trans	53	64297	AL	Fort Yukon Minor Gravel Resurfacing and Dust Palliative	Transportation	Construction	0	0	0	328000	328000
+4895	FY2023 Final Enacted HB281	Trans	54	64298	AL	Galena Dump Truck	Transportation	Construction	0	0	0	382000	382000
+4895	FY2023 Final Enacted HB281	Trans	55	63949	AL	Gambell Snow Removal Equipment Building Replacement	Transportation	Construction	0	0	0	2200000	2200000
+4895	FY2023 Final Enacted HB281	Trans	56	64299	AL	Golovin Loader	Transportation	Construction	0	0	0	382000	382000
+4895	FY2023 Final Enacted HB281	Trans	57	64300	AL	Huslia Minor Gravel Resurfacing, Dust Palliative and Dozer Replacement	Transportation	Construction	0	0	0	709000	709000
+4895	FY2023 Final Enacted HB281	Trans	58	63952	AL	Hydaburg Seaplane Base Rehabilitation	Transportation	Construction	0	0	0	1000000	1000000
+4895	FY2023 Final Enacted HB281	Trans	59	64301	AL	Ketchikan Pavement Markings	Transportation	Construction	0	0	0	188000	188000
+4895	FY2023 Final Enacted HB281	Trans	60	64302	AL	Ketchikan Seaplane Base Haulout Facility	Transportation	Construction	0	0	0	3000000	3000000
+4895	FY2023 Final Enacted HB281	Trans	61	64303	AL	King Salmon Rehabilitation	Transportation	Construction	0	0	0	8900000	8900000
+4895	FY2023 Final Enacted HB281	Trans	62	64304	AL	Kodiak Airport Rehabilitation - Stage 1	Transportation	Construction	0	0	0	27000000	27000000
+4895	FY2023 Final Enacted HB281	Trans	63	64305	AL	Kotzebue Pavement Markings and Crack Seal	Transportation	Construction	0	0	0	71000	71000
+4895	FY2023 Final Enacted HB281	Trans	64	63958	AL	Kwethluk Airport Rehabilitation	Transportation	Construction	0	0	0	36253000	36253000
+4895	FY2023 Final Enacted HB281	Trans	65	64306	AL	Lake Minchumina Loader	Transportation	Construction	0	0	0	387000	387000
+4895	FY2023 Final Enacted HB281	Trans	66	63959	AL	Little Diomede Helipad Rehabilitation and Lighting Replacement	Transportation	Construction	0	0	0	3000000	3000000
+4895	FY2023 Final Enacted HB281	Trans	67	64270	AL	Manley Airport Improvements	Transportation	Construction	0	0	0	4700000	4700000
+4895	FY2023 Final Enacted HB281	Trans	68	63961	AL	Marshall Airport Rehabilitation	Transportation	Construction	0	0	0	11600000	11600000
+4895	FY2023 Final Enacted HB281	Trans	69	64307	AL	Mekoryuk Airport Rehabilitation and Snow Removal Equipment Building Replacement	Transportation	Construction	0	0	0	30882000	30882000
+4895	FY2023 Final Enacted HB281	Trans	70	63962	AL	Mountain Village Snow Removal Equipment Building Replacement	Transportation	Construction	0	0	0	2000000	2000000
+4895	FY2023 Final Enacted HB281	Trans	71	64308	AL	Nikolai Loader	Transportation	Construction	0	0	0	306000	306000
+4895	FY2023 Final Enacted HB281	Trans	72	64309	AL	Nulato Minor Gravel Resurfacing and Dust Palliative & Dozer Replacement	Transportation	Construction	0	0	0	709000	709000
+4895	FY2023 Final Enacted HB281	Trans	73	64310	AL	Petersburg Obstruction Removal	Transportation	Construction	0	0	0	219000	219000
+4895	FY2023 Final Enacted HB281	Trans	74	64311	AL	Petersburg Pavement Markings and Crack Seal	Transportation	Construction	0	0	0	177000	177000
+4895	FY2023 Final Enacted HB281	Trans	75	64312	AL	Petersburg Self Propelled Runway Broom	Transportation	Construction	0	0	0	835000	835000
+4895	FY2023 Final Enacted HB281	Trans	76	64269	AL	Point Hope Airport Runway Realignment - Stage 1 & 2	Transportation	Construction	0	0	0	21700000	21700000
+4895	FY2023 Final Enacted HB281	Trans	77	64314	AL	Sitka Pavement Markings	Transportation	Construction	0	0	0	99000	99000
+4895	FY2023 Final Enacted HB281	Trans	78	64315	AL	Sitka Towed Broom	Transportation	Construction	0	0	0	710000	710000
+4895	FY2023 Final Enacted HB281	Trans	79	64316	AL	Talkeetna Pavement Markings and Crack Seal	Transportation	Construction	0	0	0	300000	300000
+4895	FY2023 Final Enacted HB281	Trans	80	64317	AL	Tanana Minor Gravel Resurfacing and Dust Palliative	Transportation	Construction	0	0	0	328000	328000
+4895	FY2023 Final Enacted HB281	Trans	81	64318	AL	Toksook Bay Grader 	Transportation	Construction	0	0	0	391000	391000
+4895	FY2023 Final Enacted HB281	Trans	82	63528	AL	TSAIA - Advanced Project Design and Planning	Transportation	Construction	0	0	743721	0	743721
+4895	FY2023 Final Enacted HB281	Trans	83	63527	AL	TSAIA - Airfield Pavement Reconstruction & Maintenance	Transportation	Construction	0	0	0	29084751	29084751
+4895	FY2023 Final Enacted HB281	Trans	84	63529	AL	TSAIA - Annual Improvements	Transportation	Construction	0	0	939437	0	939437
+4895	FY2023 Final Enacted HB281	Trans	85	63530	AL	TSAIA - Environmental Projects	Transportation	Construction	0	0	130477	0	130477
+4895	FY2023 Final Enacted HB281	Trans	86	63531	AL	TSAIA - Equipment	Transportation	Construction	0	0	0	4251286	4251286
+4895	FY2023 Final Enacted HB281	Trans	87	63532	AL	TSAIA - Facility Improvements, Renovations, & Upgrades	Transportation	Construction	0	0	1435251	0	1435251
+4895	FY2023 Final Enacted HB281	Trans	88	63533	AL	TSAIA - Information Technology Improvements	Transportation	Construction	0	0	1252582	0	1252582
+4895	FY2023 Final Enacted HB281	Trans	89	63923	AL	TSAIA: Airport Facility Roof Replacement	Transportation	Construction	0	0	1000000	0	1000000
+4895	FY2023 Final Enacted HB281	Trans	90	63922	AL	TSAIA: Airport Roadway Improvements	Transportation	Construction	0	0	1000000	0	1000000
+4895	FY2023 Final Enacted HB281	Trans	91	63920	AL	TSAIA: Communications Upgrade	Transportation	Construction	0	0	400000	0	400000
+4895	FY2023 Final Enacted HB281	Trans	92	63919	AL	TSAIA: Improve Airport Drainage	Transportation	Construction	0	0	0	5388000	5388000
+4895	FY2023 Final Enacted HB281	Trans	93	64119	AL	TSAIA: Terminal Watermain Improvements	Transportation	Construction	0	0	0	12906000	12906000
+4895	FY2023 Final Enacted HB281	Trans	94	63921	AL	TSAIA: Visual Paging System Installation (ADA)	Transportation	Construction	0	0	1800000	0	1800000
+4895	FY2023 Final Enacted HB281	Trans	95	64319	AL	Unalaska Airport Ramp and Taxiway Repaving	Transportation	Construction	0	0	0	8300000	8300000
+4895	FY2023 Final Enacted HB281	Trans	96	64320	AL	Unalaska Pavement Markings	Transportation	Construction	0	0	0	99000	99000
+4895	FY2023 Final Enacted HB281	Trans	97	64321	AL	Valdez Pavement Markings and Crack Seal	Transportation	Construction	0	0	0	71000	71000
+4895	FY2023 Final Enacted HB281	Trans	98	64322	AL	Wrangell Pavement Markings	Transportation	Construction	0	0	0	191000	191000
+4895	FY2023 Final Enacted HB281	Trans	99	64323	AL	Wrangell Truck	Transportation	Construction	0	0	0	355000	355000
+4895	FY2023 Final Enacted HB281	Trans	100	64324	AL	Yakutat Pavement Markings	Transportation	Construction	0	0	0	284000	284000
+4895	FY2023 Final Enacted HB281	Trans	102	63693	AL	511 Phone and Web Maintenance & Operations	Transportation	Construction	0	0	0	785071	785071
+4895	FY2023 Final Enacted HB281	Trans	103	63738	AL	511 Phone and Web Enhancements	Transportation	Construction	0	0	0	90970	90970
+4895	FY2023 Final Enacted HB281	Trans	104	63682	AL	AASHTOWare Implementation	Transportation	Construction	0	0	0	1482811	1482811
+4895	FY2023 Final Enacted HB281	Trans	105	63735	AL	ADA Implementation and Compliance Monitoring	Transportation	Construction	0	0	0	161927	161927
+4895	FY2023 Final Enacted HB281	Trans	106	63591	AL	Alaska Highway Passing Lanes (Tetlin-Delta Jct)	Transportation	Renewal and Replacement	0	0	0	11000000	11000000
+4895	FY2023 Final Enacted HB281	Trans	107	64262	AL	Alaska Highway System (AHS) 	Transportation	Construction	0	0	0	4500000	4500000
+4895	FY2023 Final Enacted HB281	Trans	108	63725	AL	Air Quality Mobile Source Modeling	Transportation	Research / Studies / Planning	0	0	0	181940	181940
+4895	FY2023 Final Enacted HB281	Trans	109	64250	AL	Carbon Reduction Program	Transportation	Construction	0	0	0	15700000	15700000
+4895	FY2023 Final Enacted HB281	Trans	110	63724	AL	Air Quality Public Education	Transportation	Construction	0	0	0	181940	181940
+4895	FY2023 Final Enacted HB281	Trans	111	63588	AL	Airport Way / South Cushman Intersection Reconstruction	Transportation	Construction	0	0	0	10712254	10712254
+4895	FY2023 Final Enacted HB281	Trans	112	64264	AL	Community Transportation Program (CTP)	Transportation	Construction	0	0	0	25000000	25000000
+4895	FY2023 Final Enacted HB281	Trans	113	63654	AL	Akakeek, Ptarmigan, and DeLapp Streets	Transportation	Renewal and Replacement	0	0	0	272910	272910
+4895	FY2023 Final Enacted HB281	Trans	114	64381	AL	Federally-Supported Local Assistance & Grants (FLAG) Program	Transportation	Economic Assistance	0	0	0	1000000	1000000
+4895	FY2023 Final Enacted HB281	Trans	115	63737	AL	Alaska CARE - Crash Data Analysis & Reporting System	Transportation	Construction	0	0	0	54582	54582
+4895	FY2023 Final Enacted HB281	Trans	116	64248	AL	Ferry Boat Funds	Transportation	Construction	0	0	0	10000000	10000000
+4895	FY2023 Final Enacted HB281	Trans	117	63722	AL	American Association of State Highway Transportation Officials (AASHTO) Technical Programs Support	Transportation	Construction	0	0	0	200134	200134
+4895	FY2023 Final Enacted HB281	Trans	118	64252	AL	Highway Infrastructure Programs (HIP) Bridge Formula Program	Transportation	Construction	0	0	0	45000000	45000000
+4895	FY2023 Final Enacted HB281	Trans	119	63659	AL	Anchorage Metropolitan Area Transportation Solutions (AMATS) Community Transportation Program (CTP) Allocation	Transportation	Construction	0	0	0	28153418	28153418
+4895	FY2023 Final Enacted HB281	Trans	120	64240	AL	Ice Roads & Seasonal Trails Maintenance Program	Transportation	Construction	0	0	0	2000000	2000000
+4895	FY2023 Final Enacted HB281	Trans	121	63670	AL	Anchorage Metropolitan Area Transportation Solutions (AMATS) Congestion Mitigation Allocation for Qualifying Air Quality Projects	Transportation	Construction	0	0	0	2143768	2143768
+4895	FY2023 Final Enacted HB281	Trans	122	64251	AL	National Electric Vehicle Infrastructure (NEVI) 	Transportation	Construction	0	0	0	7758240	7758240
+4895	FY2023 Final Enacted HB281	Trans	123	63688	AL	Anchorage Metropolitan Area Transportation Solutions (AMATS) Transportation Alternatives (TA) Allocation	Transportation	Construction	0	0	0	836594	836594
+4895	FY2023 Final Enacted HB281	Trans	124	64253	AL	Promoting Resilient Operations for Transformative, Efficient, and Cost-Saving Transportation (PROTECT)	Transportation	Construction	0	0	0	17900000	17900000
+4895	FY2023 Final Enacted HB281	Trans	125	64011	AL	Richardson Highway Passing Lanes (Delta Junction to Eielson AFB)	Transportation	Construction	0	0	0	30000000	30000000
+4895	FY2023 Final Enacted HB281	Trans	126	63663	AL	Annual Planning Work Program	Transportation	Construction	0	0	0	8560553	8560553
+4895	FY2023 Final Enacted HB281	Trans	127	64027	AL	Bethel Chief Eddie Hoffman Highway Rehabilitation	Transportation	Construction	0	0	0	1819400	1819400
+4895	FY2023 Final Enacted HB281	Trans	128	63664	AL	Bridge and Tunnel Inventory, Inspection, Monitoring, Preservation, Rehab and Replacement Program	Transportation	Construction	0	0	0	7627900	7627900
+4895	FY2023 Final Enacted HB281	Trans	129	63705	AL	Bridge Management System	Transportation	Construction	0	0	0	454850	454850
+4895	FY2023 Final Enacted HB281	Trans	130	64259	AL	Transportation Alternatives Program (TAP)	Transportation	Construction	0	0	0	3500000	3500000
+4895	FY2023 Final Enacted HB281	Trans	131	63686	AL	Bridge Scour Monitoring and Retrofit Program	Transportation	Construction	0	0	0	864215	864215
+4895	FY2023 Final Enacted HB281	Trans	132	63677	AL	Central Region ADA Compliance Project	Transportation	Construction	0	0	0	2274250	2274250
+4895	FY2023 Final Enacted HB281	Trans	133	63698	AL	Central Region Intelligent Transportation Systems (ITS) Repair and Upgrade Project	Transportation	Construction	0	0	0	682275	682275
+4895	FY2023 Final Enacted HB281	Trans	134	64028	AL	City of Fairbanks 5th Avenue Sidewalk Improvements	Transportation	Renewal and Replacement	0	0	0	454850	454850
+4895	FY2023 Final Enacted HB281	Trans	135	63721	AL	Civil Rights Program	Transportation	Construction	0	0	0	240000	240000
+4895	FY2023 Final Enacted HB281	Trans	136	63679	AL	Committed Measures for the Fairbanks State Implementation Plan (SIP)	Transportation	Construction	0	0	0	1728430	1728430
+4895	FY2023 Final Enacted HB281	Trans	137	63741	AL	Connected and Autonomous Vehicle Planning	Transportation	Construction	0	0	0	22743	22743
+4895	FY2023 Final Enacted HB281	Trans	138	63726	AL	Cultural Resources Liaison	Transportation	Construction	0	0	0	154649	154649
+4895	FY2023 Final Enacted HB281	Trans	139	64029	AL	Dalton Highway Mile Point 0-10 (Milepost 0-9) Reconstruction (Livengood to 9 Mile Hill) - Construction	Transportation	Construction	0	0	0	33658900	33658900
+4895	FY2023 Final Enacted HB281	Trans	140	64030	AL	Dalton Highway Mile Point 120-136 (Milepost 120-135) Reconstruction (Pung Creek to Prospect Creek) - Construction	Transportation	Construction	0	0	0	26836150	26836150
+4895	FY2023 Final Enacted HB281	Trans	141	63592	AL	Dalton Hwy Mile Point 109-145 (Milepost 109-144) Reconstruction (Old Man Camp to Jim River Bridge#3)	Transportation	Renewal and Replacement	0	0	0	9097	9097
+4895	FY2023 Final Enacted HB281	Trans	142	63700	AL	Design Construct Lease Purchase Ferryboats and Terminals	Transportation	Construction	0	0	0	640000	640000
+4895	FY2023 Final Enacted HB281	Trans	143	63613	AL	Elliott Highway Milepost 51-63 Rehabilitation	Transportation	Construction	0	0	0	27291000	27291000
+4895	FY2023 Final Enacted HB281	Trans	144	64058	AL	Enhanced Mobility for Seniors and Individuals With Disabilities	Transportation	Renewal and Replacement	0	0	0	318400	318400
+4895	FY2023 Final Enacted HB281	Trans	145	63728	AL	eWORX Federal Aid System Regulatory Implementation	Transportation	Construction	0	0	0	90970	90970
+4895	FY2023 Final Enacted HB281	Trans	146	63736	AL	Fairbanks Air Quality Planning Project	Transportation	Research / Studies / Planning	0	0	0	72776	72776
+4895	FY2023 Final Enacted HB281	Trans	147	63662	AL	Fairbanks Area Surface Transportation (FAST) Community Transportation Program (CTP) Allocation	Transportation	Construction	0	0	0	7716256	7716256
+4895	FY2023 Final Enacted HB281	Trans	148	63696	AL	Fairbanks Area Surface Transportation (FAST) Congestion Mitigation and Air Quality Improvement (CMAQ) Allocation	Transportation	Construction	0	0	0	727760	727760
+4895	FY2023 Final Enacted HB281	Trans	149	63660	AL	Ferry Refurbishment	Transportation	Construction	0	0	0	15351188	15351188
+4895	FY2023 Final Enacted HB281	Trans	150	63713	AL	Fleet Condition Survey Update	Transportation	Construction	0	0	0	400000	400000
+4895	FY2023 Final Enacted HB281	Trans	151	63719	AL	Geographic Information System Development	Transportation	Construction	0	0	0	227425	227425
+4895	FY2023 Final Enacted HB281	Trans	152	64035	AL	Glenn Highway Airport Heights to Parks Highway Rehabilitation	Transportation	Renewal and Replacement	0	0	0	485485	485485
+4895	FY2023 Final Enacted HB281	Trans	153	64084	AL	Glenn Highway Hiland Road Interchange and Artillery Road Interchange Preservation - Design	Transportation	Construction	0	0	0	670000	670000
+4895	FY2023 Final Enacted HB281	Trans	154	64086	AL	Glenn Highway Incident Management Traffic Accommodations	Transportation	Construction	0	0	0	1300000	1300000
+4895	FY2023 Final Enacted HB281	Trans	155	63643	AL	Glenn Highway Mile Point 59-85 (Milepost 66.5 to 92) Rehabilitation - Design	Transportation	Construction	0	0	0	2274250	2274250
+4895	FY2023 Final Enacted HB281	Trans	156	64078	AL	Highway Contingency	Transportation	Construction	0	0	0	25166328	25166328
+4895	FY2023 Final Enacted HB281	Trans	157	63731	AL	Highway Fuel Tax Evasion	Transportation	Construction	0	0	0	90970	90970
+4895	FY2023 Final Enacted HB281	Trans	158	63727	AL	Highway Performance Monitoring System (HPMS) Reporting	Transportation	Construction	0	0	0	136455	136455
+4895	FY2023 Final Enacted HB281	Trans	159	63656	AL	Highway Safety Improvement Program (HSIP)	Transportation	Renewal and Replacement	0	0	0	55600000	55600000
+4895	FY2023 Final Enacted HB281	Trans	160	64068	AL	Highway Safety Improvement Program/Safety Management - Central Region	Transportation	Construction	0	0	0	607500	607500
+4895	FY2023 Final Enacted HB281	Trans	161	64069	AL	Highway Safety Improvement Program/Safety Management - Northern Region	Transportation	Construction	0	0	0	324000	324000
+4895	FY2023 Final Enacted HB281	Trans	162	64070	AL	Highway Safety Improvement Program/Safety Management - Southcoast Region	Transportation	Construction	0	0	0	250058	250058
+4895	FY2023 Final Enacted HB281	Trans	163	63723	AL	Inter-Island Ferry Authority (IFA) Vessel Refurbishments	Transportation	Construction	0	0	0	430953	430953
+4895	FY2023 Final Enacted HB281	Trans	164	63640	AL	Kodiak - Otmeloi Way Reconstruction	Transportation	Construction	0	0	0	4716155	4716155
+4895	FY2023 Final Enacted HB281	Trans	165	63716	AL	National Highway Institute Training	Transportation	Construction	0	0	0	318395	318395
+4895	FY2023 Final Enacted HB281	Trans	166	63603	AL	Nome Center Creek Road Rehabilitation	Transportation	Construction	0	0	0	11337591	11337591
+4895	FY2023 Final Enacted HB281	Trans	167	64049	AL	Nome Front Street Resurfacing	Transportation	Renewal and Replacement	0	0	0	363880	363880
+4895	FY2023 Final Enacted HB281	Trans	168	63672	AL	Northern Region ADA Reconnaissance and Improvements	Transportation	Construction	0	0	0	1591975	1591975
+4895	FY2023 Final Enacted HB281	Trans	169	63665	AL	Northern Region Signal Interconnect	Transportation	Construction	0	0	0	4548500	4548500
+4895	FY2023 Final Enacted HB281	Trans	170	63718	AL	Office of History and Archaeology (OHA) Alaska Heritage Resources Survey/Integrated Business System (AHRS/IBS) Development	Transportation	Construction	0	0	0	241071	241071
+4895	FY2023 Final Enacted HB281	Trans	171	64050	AL	Parks Highway Mile Point 63-128 (Milepost 99 to 163) Drainage and Culvert Improvements	Transportation	Construction	0	0	0	7823420	7823420
+4895	FY2023 Final Enacted HB281	Trans	172	64039	AL	Parks Highway Mile Post 206-209 Reconstruction - Design	Transportation	Renewal and Replacement	0	0	0	560400	560400
+4895	FY2023 Final Enacted HB281	Trans	173	64071	AL	Pavement and Bridge Preservation - Central Region	Transportation	Construction	0	0	0	50943200	50943200
+4895	FY2023 Final Enacted HB281	Trans	174	63661	AL	Pavement and Bridge Preservation - Northern Region	Transportation	Construction	0	0	0	51852900	51852900
+4895	FY2023 Final Enacted HB281	Trans	175	64072	AL	Pavement and Bridge Preservation - Southcoast Region	Transportation	Construction	0	0	0	13190650	13190650
+4895	FY2023 Final Enacted HB281	Trans	176	63695	AL	Portage Station Improvements	Transportation	Renewal and Replacement	0	0	0	1770000	1770000
+4895	FY2023 Final Enacted HB281	Trans	177	63669	AL	Recreational Trails Program	Transportation	Construction	0	0	0	2261379	2261379
+4895	FY2023 Final Enacted HB281	Trans	178	63652	AL	Redoubt Avenue and Smith Way Rehabilitation	Transportation	Construction	0	0	0	400000	400000
+4895	FY2023 Final Enacted HB281	Trans	179	63649	AL	Richardson Highway Bear Creek Bridge #0593 Replacement	Transportation	Construction	0	0	0	409365	409365
+4895	FY2023 Final Enacted HB281	Trans	180	64042	AL	Richardson Highway Mile Point 131-141 (Milepost 128-138) Rehabilitation (Stage 2 of 3)	Transportation	Construction	0	0	0	22742500	22742500
+4895	FY2023 Final Enacted HB281	Trans	181	64044	AL	Richardson Highway Mile Point 169-176 (Milepost 167 - 173) Reconstruction	Transportation	Construction	0	0	0	27291000	27291000
+4895	FY2023 Final Enacted HB281	Trans	182	64052	AL	Richardson Highway Mile Point 68-84 (Milepost 65-80) Rehabilitation	Transportation	Construction	0	0	0	272910	272910
+4895	FY2023 Final Enacted HB281	Trans	183	63697	AL	Road Weather Information System (RWIS)	Transportation	Construction	0	0	0	727440	727440
+4895	FY2023 Final Enacted HB281	Trans	184	63734	AL	Road Weather Information System (RWIS) Air Quality Sensor Operations & Maintenance	Transportation	Construction	0	0	0	90970	90970
+4895	FY2023 Final Enacted HB281	Trans	185	63684	AL	Roadway Data Collection	Transportation	Construction	0	0	0	1091640	1091640
+4895	FY2023 Final Enacted HB281	Trans	186	63687	AL	Seismic Bridge Retrofit Program	Transportation	Renewal and Replacement	0	0	0	864215	864215
+4895	FY2023 Final Enacted HB281	Trans	187	64082	AL	Seward Highway Mile Point 24-36 (Milepost 25-36) Rehabilitation Moose Pass to Sterling Wye	Transportation	Construction	0	0	0	38389340	38389340
+4895	FY2023 Final Enacted HB281	Trans	188	63655	AL	Seward Highway MP 14 Railroad Crossing Reconstruction	Transportation	Construction	0	0	0	1819400	1819400
+4895	FY2023 Final Enacted HB281	Trans	189	61029	AL	Shoreside Facilities Condition Survey	Transportation	Construction	0	0	0	240000	240000
+4895	FY2023 Final Enacted HB281	Trans	190	63733	AL	Small Hydrologic Investigations	Transportation	Construction	0	0	0	90972	90972
+4895	FY2023 Final Enacted HB281	Trans	191	63676	AL	Southcoast Areawide ADA Improvements	Transportation	Construction	0	0	0	18359	18359
+4895	FY2023 Final Enacted HB281	Trans	192	64009	AL	Southcoast Region Intelligent Transportation Systems (ITS) Repair and Upgrade Project	Transportation	Construction	0	0	0	136395	136395
+4895	FY2023 Final Enacted HB281	Trans	193	63667	AL	Statewide Congestion and Mitigation Air Quality	Transportation	Construction	0	0	0	3211241	3211241
+4895	FY2023 Final Enacted HB281	Trans	194	63729	AL	Statewide Functional Class Update	Transportation	Construction	0	0	0	136455	136455
+4895	FY2023 Final Enacted HB281	Trans	195	63717	AL	Statewide Highway Data Equipment Acquisition and Installation	Transportation	Construction	0	0	0	909700	909700
+4895	FY2023 Final Enacted HB281	Trans	196	63704	AL	Statewide Highway Safety Improvement Program Safety Management	Transportation	Construction	0	0	0	482141	482141
+4895	FY2023 Final Enacted HB281	Trans	197	63671	AL	Statewide Research Program	Transportation	Construction	0	0	0	3132180	3132180
+4895	FY2023 Final Enacted HB281	Trans	198	63711	AL	Statewide Transportation Alternatives Program (TAP)	Transportation	Construction	0	0	0	454850	454850
+4895	FY2023 Final Enacted HB281	Trans	199	64008	AL	Steese Highway Mile Point 122-123 (Milepost 128) Crooked Creek Bridge Replacement	Transportation	Construction	0	0	0	192856	192856
+4895	FY2023 Final Enacted HB281	Trans	200	63636	AL	Sterling Highway Mile Point 8-25 (Milepost 45-60) Sunrise Inn to Skilak Lake Rd JNU Creek Bridge Con	Transportation	Renewal and Replacement	0	0	0	80963300	80963300
+4895	FY2023 Final Enacted HB281	Trans	201	64237	AL	Sterling Safety Corridor Improvements, MP 45-58	Transportation	Construction	0	0	0	63588000	63588000
+4895	FY2023 Final Enacted HB281	Trans	202	63732	AL	Strategic Highway Safety Plan	Transportation	Construction	0	0	0	90970	90970
+4895	FY2023 Final Enacted HB281	Trans	203	63730	AL	Traffic Data Management and Reporting System	Transportation	Construction	0	0	0	113713	113713
+4895	FY2023 Final Enacted HB281	Trans	204	63674	AL	Transportation Asset Management Program	Transportation	Construction	0	0	0	1819400	1819400
+4895	FY2023 Final Enacted HB281	Trans	205	63740	AL	Traveler Information Systems Marketing	Transportation	Renewal and Replacement	0	0	0	22743	22743
+4895	FY2023 Final Enacted HB281	Trans	206	64055	AL	University Avenue Widening	Transportation	Construction	0	0	0	6549840	6549840
+4895	FY2023 Final Enacted HB281	Trans	207	63673	AL	Urban Planning Program	Transportation	Research / Studies / Planning	0	0	0	2916448	2916448
+4895	FY2023 Final Enacted HB281	Trans	208	63702	AL	US Geological Survey (USGS) Flood Frequency and Analysis	Transportation	Construction	0	0	0	591305	591305
+4895	FY2023 Final Enacted HB281	Trans	209	63610	AL	Vine Road Improvements Knik-Goosebay Road to Hollywood Blvd	Transportation	Construction	0	0	0	7732450	7732450
+4895	FY2023 Final Enacted HB281	Trans	210	63706	AL	Weigh-In-Motion Maintenance & Operations	Transportation	Construction	0	0	0	454850	454850
+4895	FY2023 Final Enacted HB281	Trans	211	63666	AL	Whittier Tunnel: Maintenance and Operations	Transportation	Construction	0	0	0	4093650	4093650
+4895	FY2023 Final Enacted HB281	Trans	212	63694	AL	Winter Trail Marking	Transportation	Construction	0	0	0	773245	773245
+4895	FY2023 Final Enacted HB281	Univ	0	63994	AP	Seward Marine Center Research Vessel Infrastructure	University	Construction	0	0	0	94400000	94400000

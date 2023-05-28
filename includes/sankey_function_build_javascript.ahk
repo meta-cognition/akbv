@@ -21,7 +21,12 @@ build_javascript()
 	{
 		;msgbox % key " / " linkable_node_id
 		javascript_links .= "case " . linkable_node.id . ":" . "`r`n"
-		if InStr(linkable_node.link_identifier_text, "https://")
+		if (linkable_node.link_identifier_text = "https://omb.alaska.gov/ombfiles/")
+		{
+			; this is if will didn't add omb links to a scenario
+			javascript_links .= 5_tabs . "alert('OMB project file not available.'); `r`n"
+		}
+		else if InStr(linkable_node.link_identifier_text, "https://")
 		{
 			javascript_links .= 5_tabs . "window.open('" linkable_node.link_identifier_text "'); `r`n"
 		}

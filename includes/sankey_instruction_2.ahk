@@ -22,7 +22,7 @@ build_rdu_sankey(sub_rdu_name, sub_folder, parent_folder)
 	exclude_filters := "no-filters"
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
 	build_nodes_from_columns(component_column, fund_column, line_column)
-	this_title := this_scenario_name . " <br /> " sub_rdu_name " (" csv_find_and_sum_revenue( sub_rdu_name, rdu_column ) ")"
+	this_title := this_scenario_name . " <br /> " sub_rdu_name " (Fund > Component > Expenditure Line) (" csv_find_and_sum_revenue( sub_rdu_name, rdu_column ) ")"
 	
 	; MANUALLY CHANGE THESE!
 	;include_filters := {(line_column): "Revenue", (component_column): "Northern Highways & Aviation, Central Highways and Aviation, Southcoast Highways & Aviation"} ; FOR H&A ONLY
@@ -77,7 +77,7 @@ build_component_sankey(sub_component_name, sub_folder)
 	exclude_filters := "no-filters"
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
 	build_nodes_from_columns(component_column, fund_column, line_column)
-	this_title := this_scenario_name . " <br /> " sub_component_name " (" csv_find_and_sum_revenue(sub_component_name, component_column) ")"
+	this_title := this_scenario_name . " <br /> " sub_component_name " (Fund > Component > Expenditure Line) (" csv_find_and_sum_revenue(sub_component_name, component_column) ")"
 
 	include_filters := {(component_column): sub_component_name, (line_column): "Revenue" }
 	exclude_filters := {(fund_column): non_fund_labels }

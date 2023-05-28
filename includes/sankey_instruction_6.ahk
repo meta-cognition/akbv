@@ -108,6 +108,8 @@ for key, department_list_object in department_list
 	include_filters := "no-filters"
 	exclude_filters := {(line_column): "AP"}
 	load_and_apply_filter_to_csv(include_filters, exclude_filters)
+	
+	; this is where links get added to project files
 	build_links(rdu_column, component_column, fund_column, value_column, group_column, 1, false, true)
 	
 	build_json()
