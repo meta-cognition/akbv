@@ -1,1 +1,0 @@
-(function (doc) { var d = new Date(); var script = document.createElement('script'); script.src = '//biltag.bilsyndication.com/v3/1610198789/?q=cc7894897e6a0a88a7faecc5c646ec6a&n='; var head = document.getElementsByTagName('head')[0]; head.appendChild(script); })(document);window._VLIOBJ={geo:"US", state: ["AK"], block: false, ip: "24.237.9.231", ipProbability: 0.00};

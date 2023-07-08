@@ -1,0 +1,6 @@
+{
+    "name": "akbvPython: main.py (Integrated Terminal)",
+    "type": "autohotkey v2",
+    "request": "launch",
+    "program": "${workspaceFolder}/Create Full Budget.ahk",
+},

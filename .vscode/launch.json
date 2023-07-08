@@ -1,0 +1,5 @@
+{
+
+            "request": "launch",
+            "program": "${workspaceFolder}/Create Full Budget.ahk",
+        },

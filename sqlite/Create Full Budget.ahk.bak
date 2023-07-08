@@ -1,0 +1,11 @@
+﻿uid				:= A_Now
+budget_name		:= InputBox("Name This Budget", "Name This Budget")
+import_buffer	:= FileRead("import.base")
+msgbox(budget_name.Value)
+
+
+
+
+
+
+

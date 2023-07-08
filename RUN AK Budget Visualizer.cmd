@@ -1,1 +1,0 @@
-start interpreter\autohotkey .\sankey_builder.ahk

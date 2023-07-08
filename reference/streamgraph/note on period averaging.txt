@@ -1,1 +1,0 @@
-20-period would include current day, + 19 previous days
