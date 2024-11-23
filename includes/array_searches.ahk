@@ -134,6 +134,8 @@ NodeColor(needle, haystack) {
 	if (instr(this_plot_name, "capital"))
 		return "rgb(160,0,0)"
 	
-	;msgbox(A_ThisFunc ': no needle found: "' needle '"')
+	if needle != ""
+		msgbox(A_ThisFunc ': no needle found: "' needle '"')
+	
 	return "rgb(120,120,120)"
 }

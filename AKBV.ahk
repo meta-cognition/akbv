@@ -959,7 +959,10 @@ sum_sql(sum_column, filter)
 	SQL := "SELECT SUM(" sum_column ") AS Total FROM `"" sql_table "`" WHERE " filter ";"
 	Result := ""
 	If !DB.GetTable(SQL, &Result)
+	{
 		   MsgBox("Msg:`t" . DB.ErrorMsg . "`nCode:`t" . DB.ErrorCode, "SQLite Error", 16)
+		   dump_sql(SQL)
+	}
 	Else
 	{	
 		Loop Result.Rows.Length
@@ -1062,14 +1065,17 @@ build_nodes_from_columns(columns*)
 		SQL := "SELECT DISTINCT `"" current_column "`", SUM(SCEN1_AMOUNT) AS Total FROM `"" sql_table "`" where " sql_filter " group by `"" current_column "`";"
 		Result := ""
 		If !DB.GetTable(SQL, &Result)
+		{
    			MsgBox("Msg:`t" . DB.ErrorMsg . "`nCode:`t" . DB.ErrorCode, "SQLite Error", 16)
+			dump_sql()
+		}
 
 		If (Result.HasRows) 
 		{	
 			Loop Result.Rows.Length
 			{
 				this_node_name			:= Result.Rows[A_Index][1]
-				this_node_total 		:= current_column = "DEPT_NAME" ? sum_sql("SCEN1_AMOUNT", "LINE_TYPE='" (this_plot_name = "plot-capital" ? "Capital" : "Revenue") "' AND DEPT_NAME='" this_node_name "'") : Result.Rows[A_Index][2]
+				this_node_total 		:= ( format_mode = "dollars" ) AND ( current_column = "DEPT_NAME" || current_column = "RDU_NAME" || current_column = "COMP_NAME" ) ? ( sum_sql("SCEN1_AMOUNT", "LINE_TYPE='" ( this_plot_name = "plot-capital" ? "Capital" : "Revenue" ) "' AND " current_column "='" cln(this_node_name) "'") ) : ( Result.Rows[A_Index][2] )
 				this_node_meta			:= ""
 				this_node_project_link 	:= ""
 

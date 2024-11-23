@@ -29,17 +29,20 @@ sankey_object
 
 To Do: 
 
+[] add view names.
 [] links for project files. 
-[] verify amounts. 
 [] automatic color iteration with pallette.
-[] remove sum_appropriations logic from build nodes
-[] remove 1328 export
 [] document fund exports from abs.
 [] make select new files a button on gui, not automatic ask.
+[] make node_color function aware of fund_group color mismatch with line_type of expenditure, position.
+[] add dump_sql to all db error traps.
 
+[x] verify amounts. 2023.07.08
+[x] remove sum_appropriations logic from build nodes 2023.07.08
+[x] remove 1328 export 2023.07.08
 
 https://www.sqlitetutorial.net/sqlite-group-by/
 
 
 
-*/
+*/ 
