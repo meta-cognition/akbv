@@ -1,0 +1,979 @@
+Delivered-To: dom.pannone@gmail.com
+Received: by 2002:ab3:65c1:0:b0:219:f7ba:d989 with SMTP id m1csp1129348lti;
+        Sun, 22 Jan 2023 12:33:06 -0800 (PST)
+X-Google-Smtp-Source: AMrXdXuiMn5ihJ/ZK689BjXy90Mndq8p6bSY/xB8GXHbW525kz9AReX8iBJ5spBW2Hoji2fbIRsd
+X-Received: by 2002:a17:906:415:b0:7c1:2e19:ba3f with SMTP id d21-20020a170906041500b007c12e19ba3fmr36787290eja.57.1674419585941;
+        Sun, 22 Jan 2023 12:33:05 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1674419585; cv=none;
+        d=google.com; s=arc-20160816;
+        b=RhSvkSL8jnKtvbvECX1Hl5g+eICEDZDaj/+/raUGp3y+qJC123YppNF02Fb4M30mdw
+         ibWI92Pq+v+k49ysG1ZstyxNmmAOwdAGAeXoD+c1599rHjGd6rVNJPgTJcMpF44//twG
+         P/D3FGdsPuNUjvkRp+6qbVELSrunxWTuGhuC819mIbxLu295dJCFbUti+D98jqRpwVjj
+         D+8uDCYK2lEOWWEkt9O0Tkyk/B0lJxkHy5pAtDMXKZ5msXp9lhqF7EtNj7BwfTiWvDKR
+         QtDUuz+v801iTG1DQ/V092669ze8dCulmuf4mbEQj7D+WjvgETr2vBvkBdVWYKxG9QRy
+         92tQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=date:message-id:mime-version:from:subject:to:dkim-signature;
+        bh=tfTRynVX6SUggg1aF/eeCKSvfYfzOcbxZhPv+9mQP8g=;
+        b=s7z+wFn7dEecK/bOQxKaNPgT89FEOLflb5HSxop/3yHH9uaU4fP5q5rkdAHN0p1qEw
+         ZhbzVvVQnRuMIVtqB+Nw4vyi/cXHS3/8f0Ml8KP04aQ13p1u2lZpio92V/bsPR5+UBQT
+         T3JIXwHCI/xRGRGjcQj9pXxCSbxTmjXzh9zahXqGYwMMwbH3aq5ocyNBA4QH4i9R+zHN
+         fnQTcPJ4bReF5dJK19WEjDjMPOCPBjD6hf4SdKOVsyJq+8g/OVlLygytK9WsHsDtmvJ5
+         vitAe/eoVYfAeqBk2j8MAp69OKaIbVEXmR9XsC+vy7o+CIqOA+yp5fso+kW/tDcbtPVx
+         iU4w==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@2checkout.com header.s=avk1 header.b="H/DB1BrV";
+       spf=pass (google.com: domain of noreply-5h3he6mcptga@2checkout.com designates 85.17.14.131 as permitted sender) smtp.mailfrom=noreply-5h3he6mcptga@2checkout.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=2checkout.com
+Return-Path: <noreply-5h3he6mcptga@2checkout.com>
+Received: from mail01ams.avangate.com (mail01ams.avangate.com. [85.17.14.131])
+        by mx.google.com with ESMTPS id xf10-20020a17090731ca00b0084d42589be6si38785216ejb.787.2023.01.22.12.33.05
+        for <dom.pannone@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 22 Jan 2023 12:33:05 -0800 (PST)
+Received-SPF: pass (google.com: domain of noreply-5h3he6mcptga@2checkout.com designates 85.17.14.131 as permitted sender) client-ip=85.17.14.131;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@2checkout.com header.s=avk1 header.b="H/DB1BrV";
+       spf=pass (google.com: domain of noreply-5h3he6mcptga@2checkout.com designates 85.17.14.131 as permitted sender) smtp.mailfrom=noreply-5h3he6mcptga@2checkout.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=2checkout.com
+Received: from www223.localdomain (www223.ams.avangate.local [192.168.31.223])
+	by infra01.ams.avangate.local (Postfix) with ESMTPS id 78DE4148263;
+	Sun, 22 Jan 2023 22:32:39 +0200 (EET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=2checkout.com;
+	s=avk1; t=1674419559;
+	bh=Pl3TISAdgsUTHwapXQEtuvMh0ER/uo5G/8CDBso6MVs=;
+	h=To:Subject:From:Date;
+	b=H/DB1BrVrpp1nAniuSlvjuX8jXBcInp/7yo+lUeOMQLokSW8JResUjt8ntdqo4XfT
+	 IG3cfhVKkI3YtGQYdliuPgmsxleufqeHpcr5jkhsoUlAeV13ayIxqjC5BMcQvk27Ky
+	 1L2mwWc0UmbBEVM/Pu5+V3vVEKut8+pOJYYwtilo=
+Received: by www223.localdomain (Postfix, from userid 81)
+	id 81E8A4162D25; Sun, 22 Jan 2023 22:33:05 +0200 (EET)
+To: dom.pannone@gmail.com
+Subject: =?UTF-8?Q?Your=20order=20on=20www.flipbuilder.com:=20Product=20and=20payment=20information?=
+From: "2Checkout Support" <support@2checkout.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------------da5fc369685599af339e002cfa22e530"
+X-Avangate-UUID: 5h3he6mcptga
+Message-Id: <20230122203305.81E8A4162D25@www223.localdomain>
+Date: Sun, 22 Jan 2023 22:33:05 +0200 (EET)
+
+--------------da5fc369685599af339e002cfa22e530
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Dom Pannone,
+
+Thank you for your order on 2023-01-22 from http://www.flipbuilder.com!
+We received your 79.00 USD payment (PayPal) for order 201766144.
+
+The charge on your bank statement will appear as 2co.com*flipbuilder.co. Ve=
+rifone Payments BV dba 2Checkout acts as an authorized reseller of Flipbuil=
+der online products and services.
+
+Product / Subscription Information
+
+Name: Dom Pannone
+Email: dom.pannone@gmail.com
+
+A-PDF Content Splitter
+AAY5E-9UPK9-6GHYM-EQ4K9
+
+-----------------------
+-     Install guide   -
+-----------------------
+If you are not installing the program yet, please download the latest versi=
+on=20
+of the product at http://a-pdf.com/content-splitter/index.htm
+
+And follow these steps:
+
+1, Install the program by double clicking the downloaded file.
+
+2, Run it.
+
+3, Enter this register key, it is easier to copy and paste it: <%KEY%>
+
+4, Then push the Register button. You will see the following message:=20
+"Thank you for registering"
+
+After that, all restrictions are automatically removed from your version.
+
+-----------------------
+-        Upgrade      -
+-----------------------
+The upgrade is FREE at all. Just download and install the last version=20
+at the web page. Your license code will be available for ever!
+
+
+-----------------------
+Sincerely yours,
+
+A-PDF Team
+http://www.a-pdf.com
+
+Payment/Order information
+
+Billing Information
+Dom Pannone
+, Juneau, Alaska 99801, United States of America
+
+--------------------------------------------------
+Ordered item(s)
+--------------------------------------------------
+
+1 x A-PDF Content Splitter
+Unit Price:79.00 USD
+Total:79.00 USD
+
+
+--------------------------------------------------
+Discount: 0.00 USD
+Sales Tax / VAT:  0.00 USD
+Grand Total: 79.00 USD
+--------------------------------------------------
+You can access your products according to the https://www.2co.com/terms.htm=
+l?MOR=3Dactive you accepted during purchase
+
+Support information
+
+Need technical support? For product installation, activation and other tech=
+nical support issues, please contact Flipbuilder on - or help@flipbuilder.c=
+om
+Need order support? Use myAccount to easily manage your order, subscription=
+, invoice and payment details. https://secure.avangate.com/myaccount/ using=
+ your email address dom.pannone@gmail.com
+2Checkout has processed your order as the authorized reseller of Flipbuilde=
+r.
+
+Thank you,
+The 2Checkout Team
+www.2co.com
+--------------da5fc369685599af339e002cfa22e530
+Content-Type: multipart/related;
+	boundary="------------97dd6060fd64bcfdddb822862c330a28"
+
+--------------97dd6060fd64bcfdddb822862c330a28
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+   =20
+               =20
+       =20
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset=3D"utf-8">
+    <!-- utf-8 works for most cases -->
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+    <!-- Forcing initial-scale shouldn't be necessary -->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <!-- Use the latest (edge) version of IE rendering engine -->
+    <title>##NG_EMAIL_ELECTRONIC_DELIVERY_AND_PAYMENT_RECEIPT_SUBJECT##</ti=
+tle>
+    <!-- The title tag shows in email notifications, like Android 4.4. -->
+    <!-- Web Font / @font-face : BEGIN -->
+    <!-- NOTE: If web fonts are not required, lines 9 - 26 can be safely re=
+moved. -->
+    <!-- Desktop Outlook chokes on web font references and defaults to Time=
+s New Roman, so we force a safe fallback font. -->
+    <!--[if mso]>
+    <style>
+        * {
+            font-family: Arial !important;
+        }
+    </style>
+    <![endif]-->
+    <!-- All other clients get the webfont reference; some will render the =
+font and others will silently fail to the fallbacks. More on that here: htt=
+p://stylecampaign.com/blog/2015/02/webfont-support-in-email/ -->
+    <!--[if !mso]><!-->
+    <!-- insert web font reference, eg: <link href=3D'https://fonts.googlea=
+pis.com/css?family=3DRoboto:400,700' rel=3D'stylesheet' type=3D'text/css'> =
+-->
+    <!--<![endif]-->
+    <!-- Web Font / @font-face : END -->
+    <!-- CSS Reset -->
+    <style type=3D"text/css">
+        /* What it does: Remove spaces around the email design added by som=
+e email clients. */
+        /* Beware: It can remove the padding / margin and add a background =
+color to the compose a reply window. */
+
+        html,
+        body {
+            margin: 0 !important;
+            padding: 0 !important;
+            height: 100% !important;
+            width: 100% !important;
+        }
+
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+
+        /* What is does: Centers email on Android 4.4 */
+
+        div[style*=3D"margin: 16px 0"] {
+            margin: 0 !important;
+        }
+
+        /* What it does: Stops Outlook from adding extra spacing to tables.=
+ */
+
+        table,
+        td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+            text-align: left;
+        }
+
+        .ordered-item-unit-price-td,
+        .ordered-item-cost-td,
+        .discount-label,
+        .discount-total,
+        .shipping-fees-total,
+        .shipping-fees-label,
+        .taxes-label,
+        .taxes-total,
+        .order-total-label,
+        .order-total {
+            text-align: right;
+        }
+
+        .cross-sell-btn-wrapper table {
+            margin: 0 !important;
+        }
+
+        /* What it does: Fixes webkit padding issue. Fix for Yahoo mail tab=
+le alignment bug. Applies table-layout to the first 2 tables then removes f=
+or anything nested deeper. */
+
+        table {
+            border-spacing: 0 !important;
+            border-collapse: collapse !important;
+            table-layout: fixed !important;
+            margin: 0 auto !important;
+        }
+
+        table table table {
+            table-layout: auto;
+        }
+
+        /* What it does: Uses a better rendering method when resizing image=
+s in IE. */
+
+        img {
+            -ms-interpolation-mode: bicubic;
+        }
+
+        /* What it does: Overrides styles added when Yahoo's auto-senses a =
+link. */
+
+        .yshortcuts a {
+            border-bottom: none !important;
+        }
+
+        /* What it does: A work-around for iOS meddling in triggered links.=
+ */
+
+        .mobile-link--footer a,
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+        }
+
+        .button-td,
+        .button-a {
+            transition: all 100ms ease-in;
+        }
+
+        .button-td:hover,
+        .button-a:hover {
+            background: #333333 !important;
+            border-color: #333333 !important;
+        }
+
+        @media (max-width:300px) {
+            .product-options {
+                display: block;
+            }
+        }
+    </style>
+</head>
+
+<body dir=3D"ltr" width=3D"100%" height=3D"100%" bgcolor=3D"#eeeeee" style=
+=3D"margin: 0;">
+    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" height=3D"100%"=
+ width=3D"100%" bgcolor=3D"#eeeeee" style=3D"border-collapse:collapse;">
+        <tr>
+            <td valign=3D"top">
+                <center style=3D"width: 100%;">
+                    <div style=3D"max-width: 600px;">
+                        <!--[if (gte mso 9)|(IE)]>
+                        <table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" width=3D"600" align=3D"center">
+                            <tr>
+                                <td>
+                                <![endif]-->
+                        <table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" align=3D"center" bgcolor=3D"#eeeeee" width=3D"100%" style=3D"max-wid=
+th: 600px;">
+                            <tr>
+                                <td style=3D"font-family: arial; font-size:=
+12px; color:#333333; padding: 10px 20px ; text-align: center;" class=3D"dn-=
+reply-note">
+                                </td>
+                            </tr>
+                        </table>
+                        <table style=3D"margin-left:0;border-collapse: coll=
+apse; background-color: #ffffff; width:100%; max-width:600px;" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+                            <tr>
+                                <td style=3D"background-color:#ffffff;">
+                                    <!-- Default Way -->
+                                    <table cellspacing=3D"0" cellpadding=3D=
+"0" border=3D"0" align=3D"center" bgcolor=3D"#ffffff" width=3D"100%" style=
+=3D"max-width: 600px; border-bottom:1px solid #cccccc;">
+                                        <tr>
+                                            <td style=3D"padding: 20px; tex=
+t-align: left;">
+                                                <a href=3D"http://a-pdf.com=
+" class=3D"T" style=3D"text-decoration: none !important; text-decoration:no=
+ne;">
+                                                    <img src=3D"https://edg=
+e.avangate.net/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/A-PDF-Logo-=
+1.png" alt=3D"logo-img" border=3D"0" class=3D"header-vendor-logo-img" style=
+=3D"max-width:160px" height=3D"23px">
+                                                </a>
+                                            </td>
+                                                                           =
+             <td style=3D"padding: 20px; text-align: right;">
+                                                <a href=3D"www.2co.com" cla=
+ss=3D"header-a-company-logo" style=3D"text-decoration: none !important; tex=
+t-decoration:none;">
+                                                    <img src=3D"cid:5c8fbd5=
+8bf603799bbd563762c43b79d" alt=3D"logo-img" border=3D"0" class=3D"header-av=
+angate-logo-img" style=3D"width:115px;" width=3D"115">
+                                                </a>
+                                            </td>
+                                                                           =
+         </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table cellspacing=3D"0" cellpadding=3D=
+"0" border=3D"0" style=3D"width:100%">
+    <tr>
+        <td style=3D"padding:20px">
+            <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"center" bgcolor=3D"#ffffff" width=3D"100%" style=3D"max-width: 600px;">
+                <!-- Hero Image, Flush : BEGIN -->
+                <tr>
+                    <td style=3D"padding: 20px 20px 15px; font-family: aria=
+l; font-size:12px; mso-height-rule: exactly; line-height: 20px; color: #333=
+333; " class=3D"intro-greet">
+                        Dear Dom Pannone,
+                    </td>
+                </tr>
+                <tr style=3D"border-bottom:10px solid #eeeeee">
+                    <td style=3D"padding: 0 20px 20px; font-family: arial; =
+font-size:12px; mso-height-rule: exactly; line-height: 20px; color: #333333=
+;  border-bottom:10px solid #eeeeee" class=3D"intro-thanks">
+                        Thank you for your order on 2023-01-22 from <a href=
+=3D"http://a-pdf.com" style=3D"text-decoration: none!important; text-decora=
+tion:none; color: #0064c8;">http://a-pdf.com</a>!                        <b=
+r />We received your <strong >79.00 USD</strong> payment <strong >(PayPal)<=
+/strong> for order <strong >201766144</strong>.                        <br =
+/>
+                        <br />The charge on your bank statement will appear=
+ as 2co.com*flipbuilder.co. Verifone Payments BV dba 2Checkout acts as an a=
+uthorized reseller of Flipbuilder online products and services.
+                        <br />
+                    </td>
+                </tr>
+                <tr>
+                    <td style=3D"padding: 15px 20px 14px; font-family: aria=
+l; font-size:18px; mso-height-rule: exactly; line-height: 20px; color: #3c3=
+c3c; " class=3D"headline product-subscription-headline">
+                        Product / Subscription Information
+                    </td>
+                </tr>
+                <tr>
+                    <td style=3D"padding: 0px 20px 15px; font-family: arial=
+; font-size:12px; mso-height-rule: exactly; line-height: 20px; color: #3333=
+33; " class=3D"intro-purchase-short">
+                        <strong>Name:</strong> Dom Pannone
+                        <br /> <strong>Email:</strong> <a href=3D"mailto:do=
+m.pannone@gmail.com" style=3D"text-decoration: none!important; text-decorat=
+ion:none; color: #0064c8;">dom.pannone@gmail.com</a>                     </=
+td>
+                </tr>
+                <tr>
+                    <td style=3D"padding: 0px 20px; font-family: arial; fon=
+t-size:12px; mso-height-rule: exactly; line-height: 20px; color: #333333;  =
+border-bottom:10px solid #eeeeee;" class=3D"intro-purchase-short">
+                                                <table cellspacing=3D"0" ce=
+llpadding=3D"0" border=3D"0" align=3D"center" style=3D"Margin: auto auto 15=
+px !important; width:100%;">
+
+                            <tr>
+                                <td style=3D"padding: 15px 10px 12px; font-=
+family: arial; font-size:15px; mso-height-rule: exactly; line-height: 20px;=
+ color: #3c3c3c; border-top:1px solid #CCCCCC; border-left:1px solid #CCCCC=
+C; border-right:1px solid #CCCCCC;" class=3D"headline product-headline">
+                                    <strong>A-PDF Content Splitter</strong>=
+                                </td>
+                            </tr>
+                                                                           =
+                                                                 <tr>
+                                <td style=3D"padding: 0px 10px; font-family=
+: arial; font-size:12px; mso-height-rule: exactly; line-height: 20px; color=
+: #333333;  border-left:1px solid #CCCCCC; border-right:1px solid #CCCCCC;"=
+><span class=3D"key" style=3D"display:inline-block; padding-bottom:10px; fo=
+nt-weight:bold; font-size:15px;">AAY5E-9UPK9-6GHYM-EQ4K9</span>            =
+                    </td>
+                            </tr>
+                                                                           =
+                                       <tr>
+                                <td style=3D"padding: 18px 10px 15px; font-=
+family: arial; font-size:12px; mso-height-rule: exactly; line-height: 20px;=
+ color: #333333;  border-left:1px solid #CCCCCC; border-right:1px solid #CC=
+CCCC; " class=3D"more-info-section">
+                                    -----------------------<br />
+-     Install guide   -<br />
+-----------------------<br />
+If you are not installing the program yet, please download the latest versi=
+on <br />
+of the product at http://a-pdf.com/content-splitter/index.htm<br />
+<br />
+And follow these steps:<br />
+<br />
+1, Install the program by double clicking the downloaded file.<br />
+<br />
+2, Run it.<br />
+<br />
+3, Enter this register key, it is easier to copy and paste it: <%KEY%><br /=
+>
+<br />
+4, Then push the Register button. You will see the following message: <br /=
+>
+"Thank you for registering"<br />
+<br />
+After that, all restrictions are automatically removed from your version.<b=
+r />
+<br />
+-----------------------<br />
+-        Upgrade      -<br />
+-----------------------<br />
+The upgrade is FREE at all. Just download and install the last version <br =
+/>
+at the web page. Your license code will be available for ever!<br />
+<br />
+<br />
+-----------------------<br />
+Sincerely yours,<br />
+<br />
+A-PDF Team<br />
+http://www.a-pdf.com
+                                </td>
+                            </tr>
+                                                                           =
+         <!-- Empty tr to make the bottom border visible always, even if $D=
+ownload_link_delivery is not available-->
+                            <tr>
+                                <td style=3D"padding: 0px; font-family: ari=
+al; font-size:12px; mso-height-rule: exactly; line-height: 20px; color: #FF=
+FFFF!important;  border-bottom:1px solid #CCCCCC; border-left:1px solid #CC=
+CCCC; border-right:1px solid #CCCCCC;">
+                                </td>
+                            </tr>
+                            <!--End empty tr-->
+                            <tr>
+                                <td style=3D"padding: 8px 0px; font-family:=
+ arial; font-size:12px; mso-height-rule: exactly; line-height: 20px; color:=
+ #FFFFFF;"></td>
+                            </tr>
+                        </table>
+                                            </td>
+                </tr>
+
+                <tr>
+                    <td style=3D"padding: 15px 20px 0px; font-family: arial=
+; font-size:18px; mso-height-rule: exactly; line-height: 20px; color: #3c3c=
+3c; " class=3D"headline payment-info-headline">
+                        Payment/Order information
+                    </td>
+                </tr>
+                <tr>
+                    <td style=3D"padding: 18px 20px; font-family: arial; fo=
+nt-size:12px; mso-height-rule: exactly; line-height: 20px; color: #333333; =
+ ">
+                        <strong>Billing Information</strong>
+                                                <br />Dom Pannone
+                        <br />, Juneau, Alaska 99801, United States of Amer=
+ica                        <!-- Ordered Items table : Begin -->
+                        <table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" align=3D"left" style=3D"Margin: auto; font-family:arial; font-size:1=
+2px;" width=3D"100%">
+                            <tr>
+                                <td align=3D"left" width=3D"50%" class=3D"o=
+rdered-item-label-td" style=3D"padding-top:20px; padding-bottom:5px; font-f=
+amily:arial; font-size:12px; color: #3c3c3c; text-align: left;">
+                                    <strong>Ordered item(s)</strong>
+                                </td>
+                                <td align=3D"right" width=3D"25%" class=3D"=
+ordered-item-unit-price-td" style=3D"padding-top:20px; padding-bottom:5px; =
+font-family:arial; font-size:12px; color: #333333; text-align: right;">
+                                    <strong>Unit Price</strong>
+                                </td>
+                                <td align=3D"right" width=3D"25%" class=3D"=
+ordered-item-cost-td" style=3D"padding-top:20px; padding-bottom:5px; font-f=
+amily:arial; font-size:12px; color: #333333; text-align: right;">
+                                    <strong>Total</strong>
+                                </td>
+                            </tr>
+                                                        <tr>
+                                <td width=3D"50%" class=3D"ordered-item-lab=
+el-td product" style=3D"padding-top:10px; padding-bottom:10px; border-top:1=
+px solid #cccccc; border-bottom:1px solid #cccccc; font-family:arial; font-=
+size:12px; color: #333333;  border-collapse: collapse;">
+                                    1 x A-PDF Content Splitter             =
+                      </td>
+                                <td align=3D"right" width=3D"25%" class=3D"=
+ordered-item-unit-price-td" style=3D"padding-top:10px; padding-bottom:10px;=
+ border-top:1px solid #cccccc; border-bottom:1px solid #cccccc; font-family=
+:arial; font-size:12px; color: #333333; border-collapse: collapse; text-ali=
+gn: right;">
+                                    79.00 USD
+                                </td>
+                                <td align=3D"right" width=3D"25%" class=3D"=
+ordered-item-cost-td" style=3D"padding-top:10px; padding-bottom:10px; borde=
+r-top:1px solid #cccccc; border-bottom:1px solid #cccccc; font-family:arial=
+; font-size:12px; color: #333333;  border-collapse: collapse; text-align: r=
+ight;">
+                                    79.00 USD
+                                </td>
+                            </tr>
+                                                                           =
+                                                                 <tr style=
+=3D"line-height:1.3; font-family:arial; font-size:12px; color: #333333;">
+                                <td align=3D"right" width=3D"50%" class=3D"=
+taxes-label" colspan=3D"2" style=3D"padding-top: 10px; font-family: Arial; =
+font-size: 12px; color: #333333; text-align: right;">
+                                    Sales Tax / VAT
+                                </td>
+                                <td align=3D"right" width=3D"50%" class=3D"=
+taxes-total" style=3D"padding-top: 10px; font-family: Arial; font-size: 12p=
+x; color: #333333; text-align: right;">
+                                    0.00 USD
+                                </td>
+                            </tr>
+                            <tr style=3D"line-height:1.3; font-family:arial=
+; font-size:12px; color: #333333;">
+                                <td align=3D"right" width=3D"50%" class=3D"=
+order-total-label" colspan=3D"2" style=3D"padding-top: 10px; font-family: A=
+rial; font-size: 12px; color: #333333; text-align: right; padding-bottom:10=
+px; border-bottom:1px solid #cccccc;">
+                                    <strong>Grand Total</strong>
+                                </td>
+                                <td align=3D"right" width=3D"50%" class=3D"=
+order-total" class=3D"order-total" style=3D"padding-top: 10px; padding-bott=
+om: 10px; border-bottom: 1px solid #cccccc; font-family: Arial; font-size: =
+12px; color: #333333; text-align: right;">
+                                    <strong>79.00 USD</strong>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- Ordered Items table : END -->
+                    </td>
+                </tr>
+                <tr>
+                    <td style=3D"padding: 0 20px 15px; font-family: arial; =
+font-size:12px; mso-height-rule: exactly; line-height: 20px; color: #333333=
+; border-bottom:10px solid #eeeeee;" class=3D"terms-and-conditions">
+                        You can access your products according to the <a hr=
+ef=3D"mailto:https://www.2co.com/terms.html?MOR=3Dactive" style=3D"text-dec=
+oration: none!important; text-decoration:none; color: #0064c8;">terms and c=
+onditions</a> you accepted during purchase
+                    </td>
+                </tr>
+                        <tr>
+        <td style=3D"padding: 20px 20px 0px; font-family: arial; font-size:=
+18px; mso-height-rule: exactly; line-height: 20px; color: #333333;" class=
+=3D"headline support-info-headline">
+            Support information
+        </td>
+    </tr>
+    <tr>
+        <td style=3D"padding: 15px 20px 20px; font-family: arial; font-size=
+:12px; mso-height-rule: exactly; line-height: 20px; color: #333333; border-=
+bottom:10px solid #eeeeee;" class=3D"tech-suport-section">
+                        <strong>Need technical support?</strong> For produc=
+t installation, activation and other technical support issues, please conta=
+ct Flipbuilder on - or <a href=3D"mailto:support@a-pdf.com" style=3D"text-d=
+ecoration: none!important; text-decoration:none; color: #0064c8;">support@a=
+-pdf.com</a>            <br />
+            <br />              <strong>Need order support?</strong> Use my=
+Account to easily manage your order, subscription, invoice and payment deta=
+ils. <a href=3D"https://secure.avangate.com/l.php?link=3D5h3he6mcptga|2019"=
+ style=3D"text-decoration: none!important; text-decoration:none; color: #00=
+64c8;">Signup / Login</a> using your email address <a href=3D"mailto:dom.pa=
+nnone@gmail.com" style=3D"text-decoration: none!important; text-decoration:=
+none; color: #0064c8;">dom.pannone@gmail.com</a>         </td>
+    </tr>
+        <!-- Email Body : END -->
+    <!-- Email Footer : BEGIN -->
+    <tr>
+        <td style=3D"padding: 15px 20px 15px; font-family: arial; font-size=
+:12px; mso-height-rule: exactly; line-height: 20px; color: #333333;" class=
+=3D"footer signature">
+            2Checkout has processed your order as the authorized reseller o=
+f Flipbuilder.
+            <br />
+            <br /> Thank you,
+            <br>
+            <strong>The 2Checkout Team</strong>
+            <br>
+            <a href=3D"www.2co.com" style=3D"text-decoration: none!importan=
+t; text-decoration:none; color: #0064c8;">www.2co.com</a>
+        </td>
+    </tr>
+    <!-- Email Footer : END -->
+</table>
+</td>
+</tr>
+</table>
+                                </td>
+                            </tr>
+                                                    </table>
+
+                                                <!--[if (gte mso 9)|(IE)]>
+                                </td>
+                            </tr>
+                        </table>
+                        <![endif]-->
+                    </div>
+                </center>
+            </td>
+        </tr>
+    </table>
+<img src=3D"https://secure.avangate.com/l.php?image=3D5h3he6mcptga"/></body=
+>
+<html>
+--------------97dd6060fd64bcfdddb822862c330a28
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="cid:63cd9d8178888bc1ce9f03d698d289d55432a6dc8f3e4"
+Content-ID: <5c8fbd58bf603799bbd563762c43b79d>
+
+/9j/4QzGRXhpZgAASUkqAAgAAAAMAAABAwABAAAAtwAAAAEBAwABAAAAKgAAAAIBAwADAAAAngAA
+AAYBAwABAAAAAgAAABIBAwABAAAAAQAAABUBAwABAAAAAwAAABoBBQABAAAApAAAABsBBQABAAAA
+rAAAACgBAwABAAAAAgAAADEBAgAiAAAAtAAAADIBAgAUAAAA1gAAAGmHBAABAAAA7AAAACQBAAAI
+AAgACACA/AoAECcAAID8CgAQJwAAQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKFdpbmRvd3MpADIw
+MTg6MDU6MTEgMTQ6MjA6MTIAAAAEAACQBwAEAAAAMDIyMQGgAwABAAAA//8AAAKgBAABAAAAtwAA
+AAOgBAABAAAAKgAAAAAAAAAAAAYAAwEDAAEAAAAGAAAAGgEFAAEAAAByAQAAGwEFAAEAAAB6AQAA
+KAEDAAEAAAACAAAAAQIEAAEAAACCAQAAAgIEAAEAAAA8CwAAAAAAAEgAAAABAAAASAAAAAEAAAD/
+2P/tAAxBZG9iZV9DTQAC/+4ADkFkb2JlAGSAAAAAAf/bAIQADAgICAkIDAkJDBELCgsRFQ8MDA8V
+GBMTFRMTGBEMDAwMDAwRDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAENCwsNDg0QDg4QFA4O
+DhQUDg4ODhQRDAwMDAwREQwMDAwMDBEMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM/8AAEQgA
+JQCgAwEiAAIRAQMRAf/dAAQACv/EAT8AAAEFAQEBAQEBAAAAAAAAAAMAAQIEBQYHCAkKCwEAAQUB
+AQEBAQEAAAAAAAAAAQACAwQFBgcICQoLEAABBAEDAgQCBQcGCAUDDDMBAAIRAwQhEjEFQVFhEyJx
+gTIGFJGhsUIjJBVSwWIzNHKC0UMHJZJT8OHxY3M1FqKygyZEk1RkRcKjdDYX0lXiZfKzhMPTdePz
+RieUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9jdHV2d3h5ent8fX5/cRAAICAQIEBAMEBQYHBwYF
+NQEAAhEDITESBEFRYXEiEwUygZEUobFCI8FS0fAzJGLhcoKSQ1MVY3M08SUGFqKygwcmNcLSRJNU
+oxdkRVU2dGXi8rOEw9N14/NGlKSFtJXE1OT0pbXF1eX1VmZ2hpamtsbW5vYnN0dXZ3eHl6e3x//a
+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
+Q/wq2/rrZY3Borbox1hLo8WtJY1Vs/6nPyul4bqiynqmNTVVYQSGWemA33WMbubbV/gcjZv/APRe
+jjdN6nndKdgdd2G1hBpyqnbiSPo2Pa5le21n5/8ApVFzGDCMfHhy8Ur4csZn9ZKf+ch+9CbWHKTj
+y2XBEHjyDi90/wCUl83Dkl+j+63umYeHT06qmljXVPraXGAd+4SXv/f3rA6O1uL9aMnGxv6PFjS0
+cADa+P8ArVjvTRa+j/WjErOLiZlf2bUNJMEA/u7q7H1/2HrR6H0JnTA+2x/rZVoh7+wH0ixk+73P
++m9301U1NaVShHJlny4GCWH2Dc5y4QKiP5vHw/NGbl/Uf/tb/wBa/wDRyX1tc09TwWA+5oBI8jYz
+b/1Dk9v1a6piZr7+k3trY8nbLi1zQ47vTd7LGWVtTXfVbqT7Kb3XtvyC4PybLHOHBZsZV7He1jWu
+Q14apr+3zA5T7r7MrhLWf6Eo+5x+hufXFrf2W10Dd6zBPePctDo9dY6XhP2AO9Cv3QJ1a1LrPTf2
+lguxmuDLAQ+tx1G5v738lyodG6d1/Fvqbl5DDhUtcwUg7iRHsg7GfQ/luTv0tm6Yzhzpn7cpwyQj
+DijVQkJa8b//0fVUl8qpJKfqpJfKqSSn6qSXyqkkp+qkl8qpJKfqpJfKqSSn6qSXyqkkp+qkl8qp
+JKfqpJfKqSSn6qSXyqkkp+qkl8qpJKf/2f/tFK5QaG90b3Nob3AgMy4wADhCSU0EBAAAAAAADxwB
+WgADGyVHHAIAAAIAAAA4QklNBCUAAAAAABDNz/p9qMe+CQVwdq6vBcNOOEJJTQQ6AAAAAADlAAAA
+EAAAAAEAAAAAAAtwcmludE91dHB1dAAAAAUAAAAAUHN0U2Jvb2wBAAAAAEludGVlbnVtAAAAAElu
+dGUAAAAAQ2xybQAAAA9wcmludFNpeHRlZW5CaXRib29sAAAAAAtwcmludGVyTmFtZVRFWFQAAAAB
+AAAAAAAPcHJpbnRQcm9vZlNldHVwT2JqYwAAAAwAUAByAG8AbwBmACAAUwBlAHQAdQBwAAAAAAAK
+cHJvb2ZTZXR1cAAAAAEAAAAAQmx0bmVudW0AAAAMYnVpbHRpblByb29mAAAACXByb29mQ01ZSwA4
+QklNBDsAAAAAAi0AAAAQAAAAAQAAAAAAEnByaW50T3V0cHV0T3B0aW9ucwAAABcAAAAAQ3B0bmJv
+b2wAAAAAAENsYnJib29sAAAAAABSZ3NNYm9vbAAAAAAAQ3JuQ2Jvb2wAAAAAAENudENib29sAAAA
+AABMYmxzYm9vbAAAAAAATmd0dmJvb2wAAAAAAEVtbERib29sAAAAAABJbnRyYm9vbAAAAAAAQmNr
+Z09iamMAAAABAAAAAAAAUkdCQwAAAAMAAAAAUmQgIGRvdWJAb+AAAAAAAAAAAABHcm4gZG91YkBv
+4AAAAAAAAAAAAEJsICBkb3ViQG/gAAAAAAAAAAAAQnJkVFVudEYjUmx0AAAAAAAAAAAAAAAAQmxk
+IFVudEYjUmx0AAAAAAAAAAAAAAAAUnNsdFVudEYjUHhsQFIAAAAAAAAAAAAKdmVjdG9yRGF0YWJv
+b2wBAAAAAFBnUHNlbnVtAAAAAFBnUHMAAAAAUGdQQwAAAABMZWZ0VW50RiNSbHQAAAAAAAAAAAAA
+AABUb3AgVW50RiNSbHQAAAAAAAAAAAAAAABTY2wgVW50RiNQcmNAWQAAAAAAAAAAABBjcm9wV2hl
+blByaW50aW5nYm9vbAAAAAAOY3JvcFJlY3RCb3R0b21sb25nAAAAAAAAAAxjcm9wUmVjdExlZnRs
+b25nAAAAAAAAAA1jcm9wUmVjdFJpZ2h0bG9uZwAAAAAAAAALY3JvcFJlY3RUb3Bsb25nAAAAAAA4
+QklNA+0AAAAAABAASAAAAAEAAQBIAAAAAQABOEJJTQQmAAAAAAAOAAAAAAAAAAAAAD+AAAA4QklN
+BA0AAAAAAAQAAAAeOEJJTQQZAAAAAAAEAAAAHjhCSU0D8wAAAAAACQAAAAAAAAAAAQA4QklNJxAA
+AAAAAAoAAQAAAAAAAAABOEJJTQP1AAAAAABIAC9mZgABAGxmZgAGAAAAAAABAC9mZgABAKGZmgAG
+AAAAAAABADIAAAABAFoAAAAGAAAAAAABADUAAAABAC0AAAAGAAAAAAABOEJJTQP4AAAAAABwAAD/
+////////////////////////////A+gAAAAA/////////////////////////////wPoAAAAAP//
+//////////////////////////8D6AAAAAD/////////////////////////////A+gAADhCSU0E
+AAAAAAAAAgAEOEJJTQQCAAAAAAAKAAAAAAAAAAAAADhCSU0EMAAAAAAABQEBAQEBADhCSU0ELQAA
+AAAABgABAAAABjhCSU0ECAAAAAAAEAAAAAEAAAJAAAACQAAAAAA4QklNBB4AAAAAAAQAAAAAOEJJ
+TQQaAAAAAANPAAAABgAAAAAAAAAAAAAAKgAAALcAAAANAGEAdgBhAG4AZwBhAHQAZQBfAGwAbwBn
+AG8AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAALcAAAAqAAAAAAAAAAAAAAAAAAAA
+AAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAABudWxsAAAAAgAAAAZib3VuZHNPYmpjAAAA
+AQAAAAAAAFJjdDEAAAAEAAAAAFRvcCBsb25nAAAAAAAAAABMZWZ0bG9uZwAAAAAAAAAAQnRvbWxv
+bmcAAAAqAAAAAFJnaHRsb25nAAAAtwAAAAZzbGljZXNWbExzAAAAAU9iamMAAAABAAAAAAAFc2xp
+Y2UAAAASAAAAB3NsaWNlSURsb25nAAAAAAAAAAdncm91cElEbG9uZwAAAAAAAAAGb3JpZ2luZW51
+bQAAAAxFU2xpY2VPcmlnaW4AAAANYXV0b0dlbmVyYXRlZAAAAABUeXBlZW51bQAAAApFU2xpY2VU
+eXBlAAAAAEltZyAAAAAGYm91bmRzT2JqYwAAAAEAAAAAAABSY3QxAAAABAAAAABUb3AgbG9uZwAA
+AAAAAAAATGVmdGxvbmcAAAAAAAAAAEJ0b21sb25nAAAAKgAAAABSZ2h0bG9uZwAAALcAAAADdXJs
+VEVYVAAAAAEAAAAAAABudWxsVEVYVAAAAAEAAAAAAABNc2dlVEVYVAAAAAEAAAAAAAZhbHRUYWdU
+RVhUAAAAAQAAAAAADmNlbGxUZXh0SXNIVE1MYm9vbAEAAAAIY2VsbFRleHRURVhUAAAAAQAAAAAA
+CWhvcnpBbGlnbmVudW0AAAAPRVNsaWNlSG9yekFsaWduAAAAB2RlZmF1bHQAAAAJdmVydEFsaWdu
+ZW51bQAAAA9FU2xpY2VWZXJ0QWxpZ24AAAAHZGVmYXVsdAAAAAtiZ0NvbG9yVHlwZWVudW0AAAAR
+RVNsaWNlQkdDb2xvclR5cGUAAAAATm9uZQAAAAl0b3BPdXRzZXRsb25nAAAAAAAAAApsZWZ0T3V0
+c2V0bG9uZwAAAAAAAAAMYm90dG9tT3V0c2V0bG9uZwAAAAAAAAALcmlnaHRPdXRzZXRsb25nAAAA
+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
+2y4tc0OO703eyxllbU131W6k+ym917b8guD8myxzhwWbGVex3tY1rkNeGqa/t8wOU+6+zK4S1n+h
+KPucfobn1xa39ltdA3eswT3j3LQ6PXWOl4T9gDvQr90CdWtS6z039pYLsZrgywEPrcdRub+9/Jcq
+HRundfxb6m5eQw4VLXMFIO4kR7IOxn0P5bk79LZumM4c6Z+3KcMkIw4o1UJCWvG//9H1VJfKqSSn
+6qSXyqkkp+qkl8qpJKfqpJfKqSSn6qSXyqkkp+qkl8qpJKfqpJfKqSSn6qSXyqkkp+qkl8qpJKfq
+pJfKqSSn/9k4QklNBCEAAAAAAF0AAAABAQAAAA8AQQBkAG8AYgBlACAAUABoAG8AdABvAHMAaABv
+AHAAAAAXAEEAZABvAGIAZQAgAFAAaABvAHQAbwBzAGgAbwBwACAAQwBDACAAMgAwADEAOAAAAAEA
+OEJJTQQGAAAAAAAHAAQAAAABAQD/4Q7DaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hw
+YWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBt
+ZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYt
+YzE0MiA3OS4xNjA5MjQsIDIwMTcvMDcvMTMtMDE6MDY6MzkgICAgICAgICI+IDxyZGY6UkRGIHht
+bG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxy
+ZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNv
+bS94YXAvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8i
+IHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VS
+ZWYjIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291
+cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHht
+bG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNy
+ZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcDpDcmVhdGVEYXRlPSIy
+MDE4LTA1LTExVDEzOjE4OjU5KzAzOjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOC0wNS0xMVQxNDoy
+MDoxMiswMzowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOC0wNS0xMVQxNDoyMDoxMiswMzowMCIg
+eG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpjOTY5NzE1ZS03MTA2LWVhNGQtOTdiNC05NmNkNjk0
+MzAzN2MiIHhtcE1NOkRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDowZmQyYjRkMC1j
+N2UzLTUyNDktOWZlYS1jNDY5OTkwNWI5NDIiIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1w
+LmRpZDoyRDlEMEIxNkM4MzYxMUUyQUQyQUYxQzRENDYzMzVFMCIgZGM6Zm9ybWF0PSJpbWFnZS9q
+cGVnIiBwaG90b3Nob3A6Q29sb3JNb2RlPSIzIiBwaG90b3Nob3A6SUNDUHJvZmlsZT0iIj4gPHht
+cE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MkQ5RDBCMTNDODM2MTFF
+MkFEMkFGMUM0RDQ2MzM1RTAiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MkQ5RDBCMTRDODM2
+MTFFMkFEMkFGMUM0RDQ2MzM1RTAiLz4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxp
+IHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6YzQ0YmY4ODAt
+ODc0My1iMzQ0LWIzYWUtYzBjYTA5OWIzYzY5IiBzdEV2dDp3aGVuPSIyMDE4LTA1LTExVDE0OjIw
+OjEyKzAzOjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAo
+V2luZG93cykiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVk
+IiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmM5Njk3MTVlLTcxMDYtZWE0ZC05N2I0LTk2Y2Q2
+OTQzMDM3YyIgc3RFdnQ6d2hlbj0iMjAxOC0wNS0xMVQxNDoyMDoxMiswMzowMCIgc3RFdnQ6c29m
+dHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKFdpbmRvd3MpIiBzdEV2dDpjaGFu
+Z2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4g
+PC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQgZW5kPSJ3Ij8+/+4ADkFkb2JlAGQAAAAAAf/b
+AIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoKDBAMDAwMDAwQDAwMDAwMDAwMDAwMDAwMDAwM
+DAwMDAwMDAwMDAEHBwcNDA0YEBAYFA4ODhQUDg4ODhQRDAwMDAwREQwMDAwMDBEMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDAwMDAwM/8AAEQgAKgC3AwERAAIRAQMRAf/dAAQAF//EAaIAAAAHAQEBAQEA
+AAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAAAQACAwQFBgcICQoLEAACAQMDAgQC
+BgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPBUtHhMxZi8CRygvElQzRTkqKyY3PC
+NUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE1OT0ZXWFlaW1xdXl9WZ2hpamtsbW
+5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZqbnJ2en5KjpKWmp6ipqqusra6voR
+AAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEyobHwFMHR4SNCFVJicvEzJDRDghaS
+UyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp0+PzhJSktMTU5PRldYWVpbXF1eX1
+RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+DlJWWl5iZmpucnZ6fkqOkpaanqK
+mqq6ytrq+v/aAAwDAQACEQMRAD8A9TySRxI0kjBI1FWdiAAPcnCASaCCaQ9rq+lXcnp2t7BcSDqk
+UqOfuUnLJ4MkBcoyj/WDGOSJ5EIrKmbsVdiqFutV0u0lWK7vILeVxVI5ZERiK0qAxBO+WwwTmLjG
+Uh/RDCWSI5kBFZUzdirsVdirsVdirsVQVxrmi212tncX9vDdvxC28kqLIeZotFJ5fF2y+GmySjxC
+MjH+dw+lrOWINEi0blDY7FXYq7FXYq7FXYq7FXYq/wD/0Jv51n8w+cPPn+Ho/Vg0yKc20VUf0f3Y
+rLM/QOdm4Z2/Z0cOk0vjGpZDHj/p/wBCDodSZ5s3B/DfD/x5CefvyyTyhYWuraffySj1lhcsBHIj
+lSyujJT+XLey+2Tq5nHOIG3F/Oj/AJ3Ew1ei8ECQL1n8udbu9a8n2F9eNzuiHimkP7bROU5fNgKn
+OV7W00cOolGP0/V/pvU7fR5TPGCeaM1fzj5X0iX0dS1OC3m7ws1XHzVasMpwdn58wuEJSDZk1GOB
+qRARGkeYdD1hGfS76G7C/bETgsv+sv2h9IyvPpMuE1OMof1mWPNCf0m3kX53gHzjo9R/x7x/9RDZ
+1vs3/i0/6x/3Dpu0/wC9j7v989T1bzp5V0i4+r6jqcFvcd4S3JxX+ZV5Ffpzl8HZ2fKLhCUou2ya
+nHA1Ii0w03VNO1O1W60+5jurdthLEwYVHY06H2zHzYJ4pcMwYy/pNkMkZC4mwuv9RsNPtmub64jt
+bdessrBF+VTgxYZ5DwwBlL+imcxEWTQSey/MDyXe3AtrbWLZ5mNFUtwqfAFuIOZeTsvUwFyhKmmO
+rxSNCQZBmA5CT6t5x8r6RN6Go6nBbz94Warj5qtWGZmDs/PlFwhKQacmpxwNSICI0jzDoesRs+l3
+0N2F+2InBZf9ZftD6RlefSZcJqcZQ/rMseaE/pNvHfzGA/5W7p/+vYf8nM6/sn/jPl/yV/3LpdZ/
+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
+rsVdir//2Q==
+--------------97dd6060fd64bcfdddb822862c330a28--
+--------------da5fc369685599af339e002cfa22e530--
+

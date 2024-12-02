@@ -1,5 +1,12 @@
 {
-
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "autohotkey",
             "request": "launch",
-            "program": "${workspaceFolder}/Create Full Budget.ahk",
-        },
+            "name": "Launch AutoHotkey",
+            "program": "${file}",
+            "runtime": "C:\\Program Files\\AutoHotkey\\AutoHotkey.exe"
+        }
+    ]
+}

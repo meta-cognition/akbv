@@ -1,10 +1,55 @@
 ﻿;=======================================================================|
 ; The Sankey Builder v2! w/ sqlite! (aka Alaska Budget Visualizer)
-;   by Dom Pannone, 2020-2023
+;   by Dom Pannone, 2020-2025
 ;	
 ;	V2 introduces sqlite backend, SQL based computations,
 ;	and updated interpreter to AHKv2.
 ;=======================================================================|
+/*
+
+Sankey Object Stucture for v2:
+
+sankey_object
+		.links[i] ; array
+		|	.link_source
+		|	.link_target
+		|	.link_value 
+		|	.link_label 
+		|	.link_color 
+		.nodes{} ; object
+		|	.columns[i] ; array
+			|	.column_name
+			|	.rows[i] ; array
+				|	.node_name
+				|	.node_rbg_color
+				|	.node_id
+				|	.node_total
+				|	.node_meta
+		|	.all[i] ; array
+			|	.node_name
+			|	.node_rbg_color
+			|	.node_id
+		.hyperlink_ids[i] ;
+		|	.id
+		|	.link_identifier_text
+
+To Do: 
+
+[] add view names.
+[] links for project files. 
+[] automatic color iteration with pallette.
+[] document fund exports from abs.
+[] make select new files a button on gui, not automatic ask.
+[] make node_color function aware of fund_group color mismatch with line_type of expenditure, position.
+[] add dump_sql to all db error traps.
+
+[x] verify amounts. 2023.07.08
+[x] remove sum_appropriations logic from build nodes 2023.07.08
+[x] remove 1328 export 2023.07.08
+
+https://www.sqlitetutorial.net/sqlite-group-by/
+
+*/ 
 ;=======================================================================|
 #Requires AutoHotkey v2.0
 ;=======================================================================|
@@ -19,22 +64,9 @@ cma := ','
 sc  := ";"
 uid := A_Now
 ;=======================================================================|
-;=======================================================================|
-	#Include includes\sankey_reference_v2.ahk
-;=======================================================================|
-	#Include includes\select_files.ahk
-;=======================================================================|
-	#Include includes\Class_SQLiteDB.ahk
-;=======================================================================|
-	#Include includes\InitializeDepartments.ahk
-;=======================================================================|
-	#Include includes\InitializeColors.ahk
-;=======================================================================|
-	#Include includes\array_searches.ahk
-;=======================================================================|
+#Include includes\Class_SQLiteDB.ahk
 ;=======================================================================|
 InitializeDB()
-select_new_files()
 select_scenario()
 ;=======================================================================|
 start()
@@ -42,19 +74,23 @@ start()
 	global
 	set_misc_variables()
 	DirCreate(build_directory)
-	Run('explore "' build_directory '"')
+	
 	FileCopy(A_ScriptDir "\resources\js\plotly\plotly-latest.min.js", build_directory "\plotly-latest.min.js")
 	DirCreate(csv_directory)
-	DirCreate(csv_directory "\source")
-	WinWait(this_build_uid, , 60)
-	WinMove(A_ScreenWidth/2 - 500*(A_ScreenDPI/96), 150*(A_ScreenDPI/96), 1000*(A_ScreenDPI/96), 600*(A_ScreenDPI/96), this_build_uid)
-	InitializeColors()
+	DirCreate(legfin_directory)
+	DirCreate(omb_directory)
+
 	InitializeDepartments()
 	Initialize_Categories()
 	initialize_fund_translation()
 	do_operating()
 	do_capital()
+
+	Run('explore "' build_directory '"')
+	WinWait(this_build_uid, , 60)
+	WinMove(A_ScreenWidth/2 - 500*(A_ScreenDPI/96), 150*(A_ScreenDPI/96), 1000*(A_ScreenDPI/96), 600*(A_ScreenDPI/96), this_build_uid)
 }
+;=======================================================================|
 do_operating()
 {
 	global
@@ -76,8 +112,10 @@ do_operating()
 	this_width 				:= "1000"
 	this_height 			:= "1150"
 	this_small_height 		:= "800"
+	this_xl_height 			:= "2000"
 	back_link				:= "index.html"
 
+	InitializeColors()
 	sql_filter := "LINE_TYPE='Revenue'"
 	build_nodes_from_columns("DEPT_NAME", "FUND_GROUP")
 	build_links("FUND_GROUP", "DEPT_NAME", "FUND_GROUP", "SCEN1_AMOUNT", "FUND_GROUP", 1, false, true, true)
@@ -97,6 +135,7 @@ do_operating()
 		menu_html .= '<div id="collapse_' (key + 1) '" class="collapse" aria-labelledby="heading_' (key + 1) '" data-parent="#accordionDepartments">' rn
 		menu_html .= '<div class="card-body">' rn
 
+		; Replace links in parent
 		statewide_html_file := FileRead(statewide_output_file)
 		statewide_html_file := StrReplace(statewide_html_file, "@@@" department_list_object.abs_name "@@@", department_list_object.folder_name)
 
@@ -115,9 +154,8 @@ do_operating()
 	this_output_file := build_directory . "\index.html"
 	build_html_menu()
 
-	;SoundBeep()
-	;=======================================================================|
 }
+;=======================================================================|
 do_capital()
 {
 	global
@@ -226,6 +264,7 @@ do_capital()
 	;dump_sql()
 	DB.Exec(SQL)
 }
+;=======================================================================|
 build_capital_overview()
 {
 	global
@@ -253,6 +292,7 @@ build_capital_overview()
 	build_json(), build_javascript(), build_html(), menu_html_2()
 
 }
+;=======================================================================|
 build_capital_department()
 {
 	global
@@ -273,13 +313,14 @@ build_capital_department()
 		
 		parent_levels 		:= 1
 		this_plot_name 		:= "plot-capital"
-		;;; add_project_links	:= true
+		add_project_links	:= true ; this triggers omb links on target nodes, which is true for both link builds in capital.
 		this_plot_title 	:= department_list_object.readable_name " (Fund / Appropriation / Allocation)"
 		plot_total			:= format_to_readable(sum_sql("SCEN1_AMOUNT", sum_filter))
 		this_title 			:= this_scenario_name . " <br /> " this_plot_title " (" plot_total ")"
 		this_width 			:= "1200"
 		this_height 		:= "800"
 		this_small_height 	:= "600"
+		this_xl_height 		:= "1600"
 		back_link			:= "../plot-capital.html"
 
 		If !DirExist(build_directory "\" department_list_object.folder_name)
@@ -291,6 +332,14 @@ build_capital_department()
 		build_links("REPORT_LINE", "RDU_NAME", "REPORT_LINE", "SCEN1_AMOUNT", "FUND_GROUP", 1, true, true)
 		sql_filter := sql_filter " AND COMP_NAME !=''"
 		build_links("RDU_NAME", "COMP_NAME", "REPORT_LINE", "SCEN1_AMOUNT", "FUND_GROUP", 1, false, true)
+		try
+		{
+			if (sankey_object.nodes.columns[2].rows.length > 25)
+			{
+				this_height 	:= sankey_object.nodes.columns[2].rows.length * 15
+				this_xl_height 	:= this_height * 2
+			}
+		}
 
 		build_json(), build_javascript(), build_html()
 	}
@@ -301,6 +350,7 @@ build_capital_department()
 
 	build_html_menu() 
 }
+;=======================================================================|
 set_misc_variables()
 {
 	global
@@ -319,6 +369,8 @@ set_misc_variables()
 	; SET UP DIRECTORY FOR THIS BUILD
 	build_directory 			:= A_ScriptDir "\builds\" this_build_uid 
 	csv_directory 				:= build_directory "\csv_files"
+	legfin_directory			:= build_directory "\legfin_files"
+	omb_directory				:= build_directory "\omb_files"
 	; MISC
 	add_project_links 			:= false
 	; MORE VARIABLES
@@ -350,6 +402,7 @@ set_misc_variables()
 </div>`r`n
 )"
 }
+;=======================================================================|
 get_scenario_numbers() 
 {
 	global
@@ -369,6 +422,7 @@ get_scenario_numbers()
 	scenario_272 := StrSplit(scenario_272,"`t")
 	scenario_272 := scenario_272[1] 
 }
+;=======================================================================|
 FileReadLine(&output_var, file_to_read, line_number)
 {
 	file_object := FileOpen(file_to_read, "r")
@@ -378,6 +432,7 @@ FileReadLine(&output_var, file_to_read, line_number)
 	}
 	file_object.Close
 }
+;=======================================================================|
 import_files_to_database()
 {
 	global
@@ -395,6 +450,7 @@ import_files_to_database()
 	cmd := A_ComSpec ' /c ""sqlite3.exe" "budget.db" <"' uid '.base""'
 	RunWait(cmd, A_WorkingDir "\sqlite")
 }
+;=======================================================================|
 translate_color_column(column)
 {
 	switch column {
@@ -413,6 +469,7 @@ translate_color_column(column)
 			
 	}
 }
+;=======================================================================|
 InitializeDB()
 {
 	global
@@ -423,6 +480,7 @@ InitializeDB()
    		ExitApp
 	}
 }
+;=======================================================================|
 menu_html_1()
 {
 	global
@@ -445,6 +503,7 @@ menu_html_1()
 	menu_html .= '</div>' rn
 	menu_html .= '</div>' rn
 }
+;=======================================================================|
 menu_html_2()
 {
 	global
@@ -468,6 +527,7 @@ menu_html_2()
 	menu_html .= "</div>" rn
 	menu_html .= "</div>" rn
 }
+;=======================================================================|
 menu_html_3()
 {
 	global
@@ -479,7 +539,6 @@ menu_html_3()
 	menu_html .= "</button>" rn
 	menu_html .= "</h2>" rn
 	menu_html .= "</div>" rn
-
 	menu_html .= "<div id=`"collapse_" (key + 1) "`" class=`"collapse`" aria-labelledby=`"heading_" (key + 1) "`" data-parent=`"#accordionDepartments`">" rn
 	menu_html .= "<div class=`"card-body`">" rn
 	menu_html .= "<a href=`"" department_list_object.folder_name "/" this_plot_name ".html`">Capital Budget</a>" rn
@@ -487,6 +546,7 @@ menu_html_3()
 	menu_html .= "</div>" rn
 	menu_html .= "</div>" rn
 }
+;=======================================================================|
 tabs(n)
 {
 	tabs := ""
@@ -496,6 +556,7 @@ tabs(n)
 	}
 	return tabs
 }
+;=======================================================================|
 format_to_readable(value)
 {
 	global
@@ -545,6 +606,7 @@ format_to_readable(value)
 		msgbox("Error in format_to_readable(value), format_mode not recognized: " format_mode)
 	}
 }
+;=======================================================================|
 fund_type_short(fund_code_to_check)
 {
 	global
@@ -579,6 +641,7 @@ fund_type(fund_code_to_check)
 	Msgbox(A_ThisFunc ": unable to determine fund type for: " fund_code_to_check)
 	return "UNKNOWN"
 }
+;=======================================================================|
 Initialize_Categories()
 {
 global
@@ -952,6 +1015,7 @@ ObjectToString(obj, indent:="", lvl:=1)
 }
 cln(sql_str_literal)
 {
+	;"clean"
 	return StrReplace(sql_str_literal, "'","''")
 }
 sum_sql(sum_column, filter)
@@ -1005,9 +1069,9 @@ select_scenario()
 
 	; Create the window:
 	MyGui := Gui()
-	
+
 	; Create the ListView with two columns, Name and Size:
-	LV := MyGui.Add("ListView", "r20 w700", ["DATE CREATED","SCENARIO", "FY"])
+	LV := MyGui.Add("ListView", "r20 w700 Section", ["DATE CREATED","SCENARIO", "FY"])
 	
 	; Notify the script whenever the user double clicks a row:
 	LV.OnEvent("DoubleClick", LV_DoubleClick)
@@ -1021,8 +1085,12 @@ select_scenario()
 	LV.ModifyCol  ; Auto-size each column to fit its contents.
 	LV.ModifyCol(1, "Integer")  ; For sorting purposes, indicate that column 2 is an integer.
 	
+	new_files_button := mygui.Add("Button","w90 Y+M X610","Import ABS Files")
+	new_files_button.OnEvent("Click", select_new_files)
 	; Display the window:
 	MyGui.Show
+
+
 	
 }
 LV_DoubleClick(LV, RowNumber)
@@ -1047,11 +1115,57 @@ LV_DoubleClick(LV, RowNumber)
 	MyGui.Destroy
 	start()
 }
+;=======================================================================|
+select_new_files(dummy_1, dummy_2)
+{
+	global
+
+	new_files := MsgBox("Do you want to import new ABS Scenario Files into the database?", "Import New Scenario Files?", "YesNo")
+
+	If (new_files = "Yes")
+	{
+		new_starting_directory := A_ScriptDir "\abs exports\"
+		file_1512_path  := FileSelect( , new_starting_directory, "Please Select an Operating File, From ABS Export Component Detail (1512)",'*.txt')
+		if (file_1512_path  = "")
+			ExitApp
+
+		SplitPath(file_1512_path,,&new_starting_directory)
+		file_272_path := FileSelect( , new_starting_directory, "From ABS Export Project Information (Appropriations with Allocations) (272)",'*.txt')       ;*[sankey_builder]
+		if (file_272_path = "")
+			ExitApp	
+
+		loop
+		{
+			budget_name				:= InputBox("Name This Budget", "Name This Budget")
+			if (budget_name.result = "Cancel")
+				ExitApp
+
+			budget_fiscal_year		:= InputBox("Fiscal Year...", "Enter numbers only for fiscal year:")
+			if (budget_fiscal_year.result = "Cancel")
+				ExitApp
+			
+			budget_name 			:= budget_name.value
+			budget_fiscal_year		:= Trim(StrReplace(budget_fiscal_year.value, "fy", ""))
+
+			msg_results 			:= "Correct? YES to continue, No to re-enter, CANCEL to quit." rn rn "Name: " budget_name rn "FY: " budget_fiscal_year
+
+			confirm_loop := msgbox(msg_results,"Confirm:", 0x3)
+			if (confirm_loop = "Cancel")
+				ExitApp
+			if (confirm_loop = "Yes")
+				break
+		}
+		get_scenario_numbers()
+		import_files_to_database()
+	}
+}
+;=======================================================================|
 dump_sql(the_sql:=SQL)
 {
 	A_Clipboard := the_sql
 	MsgBox(the_sql)
 }
+;=======================================================================|
 build_nodes_from_columns(columns*)
 {
 	global
@@ -1096,6 +1210,7 @@ build_nodes_from_columns(columns*)
 		}
 	}
 }
+;=======================================================================|
 build_links( source_column, target_column, grouping_column, value_column, color_column, color_list, add_source_node_links := false, add_target_node_links := false, is_child := false)
 {
 	global
@@ -1121,6 +1236,7 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 				this_link_object.link_source := sankey_object_node_id(source_column, Result.Rows[A_Index][1])
 				this_link_object.link_target := sankey_object_node_id(target_column, Result.Rows[A_Index][2])
 				this_link_object.link_value := this_link_value
+				;.link_label
 				If (InStr(position_labels, current_group_name))
 				{
 					format_mode := "positions"
@@ -1161,8 +1277,8 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 				this_identifier_text := hyperlink_id
 				if ( add_project_links = true )
 				{
-					this_identifier_text := "https://omb.alaska.gov/ombfiles/" sankey_object.nodes.columns[target_column].rows[current_target_node_row].node_project_link
-					;this_identifier_text := "javascript:alert(\'OMB project file not available.\')"
+					;this_identifier_text := "https://omb.alaska.gov/ombfiles/" sankey_object.nodes.columns[target_column].rows[current_target_node_row].node_project_link
+					this_identifier_text := "javascript:alert(\'OMB project file not available at this time.\')"
 				}
 				if ( is_child = true )
 				{
@@ -1178,6 +1294,7 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 
 	if (add_source_node_links = true)
 	{
+		; source node links get handled by javascript later on.
 		SQL := "SELECT DISTINCT `"" source_column "`" FROM `"" sql_table "`" WHERE " sql_filter ";"
 		Result := ""
 		If !DB.GetTable(SQL, &Result)
@@ -1195,7 +1312,8 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 					
 					if (IsInteger(this_fund_code))
 					{
-						this_identifier_text := "https://www.legfin.akleg.gov/ReportsPHP/SelectReport.php?&ReportAbbrev=FUNDSOURCE&LimitFundCodes=" this_fund_code
+						;this_identifier_text := "https://www.legfin.akleg.gov/ReportsPHP/SelectReport.php?&ReportAbbrev=FUNDSOURCE&LimitFundCodes=" this_fund_code
+						this_identifier_text := "@@@LEGFINSOURCE@@@/" this_fund_code ".pdf"
 						if ( !HasHyperLinkVal(hyperlink_id, sankey_object.hyperlink_ids) )
 						{
 							sankey_object.hyperlink_ids.push( {id: hyperlink_id, link_identifier_text: this_identifier_text } )
@@ -1211,20 +1329,23 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 		}
 	}
 }
+;=======================================================================|
 build_department_sankey(department_abs, department_readable, department_folder)
 {
 	global 
 	parent_levels 		:= 1
 	this_plot_name 		:= "plot"
+	format_mode			:= "dollars"
 	the_department_name := department_readable
 	abs_department_name := department_abs
 	sum_filter			:= "DEPT_NAME='" abs_department_name "' AND LINE_TYPE='Expenditure'"
-	plot_total			:= 	format_to_readable(sum_sql("SCEN1_AMOUNT", sum_filter))
+	plot_total			:= format_to_readable(sum_sql("SCEN1_AMOUNT", sum_filter))
 	this_plot_title 	:= the_department_name " (Fund > Results Delivery Unit > Component)" ; DEFAULT
 	this_title 			:= this_scenario_name " <br /> " this_plot_title " (" plot_total ")"
 	this_width 			:= "1200"
 	this_height			:= "1150"
 	this_small_height 	:= "800"
+	this_xl_height 		:= "2000"
 	back_link			:= "plot-overview.html"
 	
 	DirCreate(build_directory "\" department_folder)
@@ -1238,6 +1359,8 @@ build_department_sankey(department_abs, department_readable, department_folder)
 	build_links("REPORT_LINE", "RDU_NAME", "REPORT_LINE", "SCEN1_AMOUNT", "FUND_GROUP", 1, true, true, false)
 	build_links("RDU_NAME", "COMP_NAME", "REPORT_LINE", "SCEN1_AMOUNT", "FUND_GROUP", 1, false, true, true)
 
+	
+
 	build_json(), build_javascript(), build_html()
 	
 	rdu_level_nodes := sankey_object_column_rows("RDU_NAME")
@@ -1247,6 +1370,7 @@ build_department_sankey(department_abs, department_readable, department_folder)
 		build_rdu_sankey(this_node.node_name, department_folder "\" this_node.node_id, this_node.node_id )
 	}
 }
+;=======================================================================|
 build_rdu_sankey(sub_rdu_name, sub_folder, parent_folder)
 {
 	global
@@ -1257,6 +1381,7 @@ build_rdu_sankey(sub_rdu_name, sub_folder, parent_folder)
 	this_width 			:= "1000"
 	this_height 		:= "800"
 	this_small_height 	:= "600"
+	this_xl_height 		:= "1600"
 	back_link			:= "../" this_plot_name ".html"
 	this_output_file 	:= build_directory "\" sub_folder "\" this_plot_name ".html"
 	this_title 			:= this_scenario_name " <br /> " sub_rdu_name " (Fund > Component > Expenditure Line) (" plot_total ")"
@@ -1284,6 +1409,7 @@ build_rdu_sankey(sub_rdu_name, sub_folder, parent_folder)
 		build_component_sankey(this_node.node_name, sub_folder "\" this_node.node_id)
 	}
 }
+;=======================================================================|
 build_component_sankey(sub_component_name, sub_folder)
 {
 	global
@@ -1293,6 +1419,7 @@ build_component_sankey(sub_component_name, sub_folder)
 	this_width 			:= "1000"
 	this_height 		:= "400"
 	this_small_height 	:= "400"
+	this_xl_height 		:= "800"
 	back_link			:= "../"  this_plot_name ".html"
 	this_output_file 	:= build_directory "\" sub_folder "\" this_plot_name ".html"
 	this_title 			:= this_scenario_name " <br /> " sub_component_name " (Fund > Component > Expenditure Line) (" plot_total ")"
@@ -1309,6 +1436,7 @@ build_component_sankey(sub_component_name, sub_folder)
 
 	build_json(), build_javascript(), build_html()
 }
+;=======================================================================|
 build_department_overview_sankey(department_abs, department_readable, department_folder)
 {	
 	global
@@ -1319,6 +1447,7 @@ build_department_overview_sankey(department_abs, department_readable, department
 	this_width 			:= "1200"
 	this_height 		:= "600"
 	this_small_height 	:= "400"
+	this_xl_height 		:= "800"
 	back_link			:= "../plot-statewide.html"
 	this_plot_title 	:= the_department_name " (Fund > Fund Group > Department > Expenditure Line)"
 	this_title 			:= this_scenario_name . " <br /> " this_plot_title " (" format_to_readable(sum_sql("SCEN1_AMOUNT","DEPT_NAME='" abs_department_name "' AND LINE_TYPE='Expenditure'")) ")"
@@ -1341,6 +1470,7 @@ build_department_overview_sankey(department_abs, department_readable, department
 
 	menu_html .= "<div><a href=`"" department_folder "/" this_plot_name ".html`">Department Overview</a></div>" rn
 }
+;=======================================================================|
 build_department_pcn_sankey(department_abs, department_readable, department_folder)
 {
 	global 
@@ -1361,6 +1491,8 @@ build_department_pcn_sankey(department_abs, department_readable, department_fold
 	this_width 			:= "1000"
 	this_height 		:= "500"
 	this_small_height 	:= "500"
+	this_xl_height 		:= "1000"
+	
 	back_link			:= "../index.html"
 	
 	this_output_file 	:= build_directory "\" department_folder "\" this_plot_name ".html"
@@ -1382,6 +1514,7 @@ build_department_pcn_sankey(department_abs, department_readable, department_fold
 		build_pcn_rdu_sankey(this_node.node_name,  department_folder "\" this_node.node_id)
 	}
 }
+;=======================================================================|
 build_pcn_rdu_sankey(sub_rdu_name, sub_folder)
 {
 	global
@@ -1393,12 +1526,13 @@ build_pcn_rdu_sankey(sub_rdu_name, sub_folder)
 	this_width 			:= "1000"
 	this_height 		:= "500"
 	this_small_height 	:= "500"
+	this_xl_height 		:= "1000"
 	this_output_file 	:= build_directory "\" sub_folder "\" this_plot_name ".html"
 	back_link			:= "../"  this_plot_name ".html"
 	
 	sql_filter := sum_filter
 	build_nodes_from_columns("COMP_NAME", "REPORT_LINE")
-	build_links( "REPORT_LINE", "COMP_NAME", "REPORT_LINE", "SCEN1_AMOUNT", "REPORT_LINE", 1, false, true )
+	build_links( "REPORT_LINE", "COMP_NAME", "REPORT_LINE", "SCEN1_AMOUNT", "REPORT_LINE", 1, false, true)
 	
 	build_json(), build_javascript(), build_html()
 	
@@ -1410,6 +1544,7 @@ build_pcn_rdu_sankey(sub_rdu_name, sub_folder)
 	}
 	
 }
+;=======================================================================|
 build_pcn_component_sankey(sub_component_name, sub_folder)
 {
 	
@@ -1422,6 +1557,7 @@ build_pcn_component_sankey(sub_component_name, sub_folder)
 	this_width 			:= "1000"
 	this_height 		:= "500"
 	this_small_height	:= "500"
+	this_xl_height 		:= "1000"
 	this_output_file 	:= build_directory "\" sub_folder "\" this_plot_name ".html"
 	
 	sql_filter := sum_filter
@@ -1431,6 +1567,7 @@ build_pcn_component_sankey(sub_component_name, sub_folder)
 		DirCreate(build_directory "\" sub_folder)
 	build_json(), build_javascript(), build_html()
 }
+;=======================================================================|
 build_json()
 {
 	global
@@ -1482,6 +1619,7 @@ build_json()
 	json_link_color 	.= "],"
 	
 }
+;=======================================================================|
 build_javascript()
 {
 	global
@@ -1497,6 +1635,8 @@ build_javascript()
 		if (linkable_node.link_identifier_text = "https://omb.alaska.gov/ombfiles/")
 			javascript_links .= tabs(5) . "alert('OMB project file not available.'); `r`n"
 		else if InStr(linkable_node.link_identifier_text, "https://")
+			javascript_links .= tabs(5) . "window.open('" linkable_node.link_identifier_text "'); `r`n"
+		else if InStr(linkable_node.link_identifier_text, "@@@LEGFINSOURCE@@@")
 			javascript_links .= tabs(5) . "window.open('" linkable_node.link_identifier_text "'); `r`n"
 		else if (this_plot_name = "plot-overview")
 			javascript_links .= tabs(5) . "window.location.href = 'plot.html'; `r`n"
@@ -1516,6 +1656,7 @@ build_javascript()
 	sankey_object.hyperlink_ids := ""
 	sankey_object.hyperlink_ids := []
 }
+;=======================================================================|
 build_html()
 {
 	global
@@ -1533,6 +1674,7 @@ build_html()
 	html_file := StrReplace(html_file, "@@@WIDTH@@@"        , this_width                            )
 	html_file := StrReplace(html_file, "@@@HEIGHT@@@"       , this_height                           )
 	html_file := StrReplace(html_file, "@@@SMALLHEIGHT@@@"  , this_small_height                     )
+	html_file := StrReplace(html_file, "@@@XLHEIGHT@@@"  	, this_xl_height     	                )
 	html_file := StrReplace(html_file, "@@@BACKLINK@@@"     , back_link								)
 	html_file := StrReplace(html_file, "@@@NODELABEL@@@"    , json_node_label						)
 	html_file := StrReplace(html_file, "@@@NODECOLOR@@@"    , json_node_color						)
@@ -1547,6 +1689,7 @@ build_html()
 	html_file := StrReplace(html_file, "@@@NODEJSCURSOR@@@" , javascript_hovers						)
 	html_file := StrReplace(html_file, "@@@NODEJSLINK@@@"   , javascript_links						)
 	html_file := StrReplace(html_file, "@@@VALUEFORMAT@@@"  , json_value_format						)
+	html_file := StrReplace(html_file, "@@@LEGFINSOURCE@@@"	, parent_levels_string . "legfin_files"	)
 	if (show_values_in_labels = true )
 	{
 		javascript_node_hover_template := 'hovertemplate: "%{label}<extra></extra>",'
@@ -1573,6 +1716,7 @@ build_html()
 	FileAppend(html_file, this_output_file)
 	sankey_object.links := []
 }
+;=======================================================================|
 initialize_fund_translation()
 {
 	global
@@ -1855,4 +1999,384 @@ initialize_fund_translation()
 	fund_translate.push({capital:"1245 R Apt I/A", operating: "1245 Rural Airport Receipts I/A"})
 	fund_translate.push({capital:"1239 AvFuel Tax", operating: "1239 Aviation Fuel Tax Revenue"})
 	fund_translate.push({capital:"1275 Reapprop", operating: "1275 Reappropriation - Temporary to Match Leg Fin"})
+}
+InitializeColors()
+{
+	; sankey_function_initialize_colors.ahk
+	; https://stackoverflow.com/questions/9563711/r-color-palettes-for-many-data-classes
+	global
+	; Choose a palette
+	palette_number := 2
+
+
+	color_palettes := []
+
+	; 1.) pals - alphabet
+	color_palettes.Push([])
+	color_palettes[1].push("rgb(240, 163, 255)")
+	color_palettes[1].push("rgb(0, 117, 220)")
+	color_palettes[1].push("rgb(153, 63, 0)")
+	color_palettes[1].push("rgb(76, 0, 92)")
+	; color_palettes[1].push("rgb(25, 25, 25)")
+	color_palettes[1].push("rgb(0, 92, 49)")
+	color_palettes[1].push("rgb(43, 206, 72)")
+	color_palettes[1].push("rgb(255, 204, 153)")
+	color_palettes[1].push("rgb(128, 128, 128)")
+	color_palettes[1].push("rgb(148, 255, 181)")
+	color_palettes[1].push("rgb(143, 124, 0)")
+	color_palettes[1].push("rgb(157, 204, 0)")
+	color_palettes[1].push("rgb(194, 0, 136)")
+	color_palettes[1].push("rgb(0, 51, 128)")
+	color_palettes[1].push("rgb(255, 164, 5)")
+	color_palettes[1].push("rgb(255, 168, 187)")
+	color_palettes[1].push("rgb(66, 102, 0)")
+	color_palettes[1].push("rgb(255, 0, 16)")
+	color_palettes[1].push("rgb(94, 241, 242)")
+	color_palettes[1].push("rgb(0, 153, 143)")
+	color_palettes[1].push("rgb(224, 255, 102)")
+	color_palettes[1].push("rgb(116, 10, 255)")
+	color_palettes[1].push("rgb(153, 0, 0)")
+	color_palettes[1].push("rgb(255, 255, 128)")
+	color_palettes[1].push("rgb(255, 255, 0)")
+	color_palettes[1].push("rgb(255, 80, 5)") 
+
+	; 2.) pals - glasbey
+	color_palettes.Push([])
+	color_palettes[2].push("rgb(73,0,146")
+	color_palettes[2].push("rgb(0,128,255")
+	color_palettes[2].push("rgb(255,0,0")
+	; color_palettes[2].push("rgb(255,128,0")
+	color_palettes[2].push("rgb(0,255,0")
+	color_palettes[2].push("rgb(0,73,146")
+	color_palettes[2].push("rgb(182,73,0")
+	color_palettes[2].push("rgb(255,255,0")
+	color_palettes[2].push("rgb(146,0,255")
+	color_palettes[2].push("rgb(0,182,182")
+	color_palettes[2].push("rgb(255,73,182")
+	color_palettes[2].push("rgb(146,73,0")
+	color_palettes[2].push("rgb(73,182,255")
+	color_palettes[2].push("rgb(182,0,73")
+	color_palettes[2].push("rgb(182,146,255")
+	color_palettes[2].push("rgb(255,182,73")
+	color_palettes[2].push("rgb(182,182,182")
+	; color_palettes[2].push("rgb(255,146,182")
+	color_palettes[2].push("rgb(73,255,146")
+	color_palettes[2].push("rgb(146,182,73")
+	color_palettes[2].push("rgb(255,182,255")
+	color_palettes[2].push("rgb(146,146,73")
+	color_palettes[2].push("rgb(73,182,146")
+	color_palettes[2].push("rgb(0,255,182")
+	color_palettes[2].push("rgb(255,255,146")
+	color_palettes[2].push("rgb(255,73,73")
+	color_palettes[2].push("rgb(73,73,255")
+	color_palettes[2].push("rgb(182,255,255")
+	color_palettes[2].push("rgb(182,182,0")
+	color_palettes[2].push("rgb(0,255,73")
+	color_palettes[2].push("rgb(146,146,255")
+	/*
+		department_column	:= 4	; e.g. Transportation
+		rdu_column 			:= 7 	; e.g. Marine Highway System
+		component_column	:= 10	; e.g. Vessel Operations
+		fund_column 		:= 11	; e.g. 1004 GF
+		line_column			:= 12	; e.g. Expenditure/Reveneu
+		group_column		:= 14	; e.g. UGF/DFG/FED/OTHER
+		value_column		:= 16	; e.g. (value)
+	*/
+	
+	; =CONCATENATE( "node_color_list[i].push({node_label: """, A2, """, node_color: ""rgb(120,120,120)""  	}) ;" )
+	; =CONCATENATE( "node_color_list[i].push({node_label: """, A2, """, node_color: ""rgb(", RANDBETWEEN(-1,256), ",", RANDBETWEEN(-1,256), ",", RANDBETWEEN(-1,256), ")""  	}) ; )" )
+	; =CONCATENATE( "link_color_list[i].push({node_label: """, A2, """, node_color: ""rgba(0,0,96,0.2)""  	}) ;" )
+	
+	;NODE COLORS
+	node_color_list := []
+	
+	i := 1
+
+	node_color_list.Push([])
+	
+	; SAME FOR ALL 
+	node_color_list[i].push({node_label: "Expenditure"					, node_color: "rgb(120,120,120)"  	}) ;
+	node_color_list[i].push({node_label: "Permanent Part-Time"			, node_color: "rgb(120,120,120)"  	}) ;
+	node_color_list[i].push({node_label: "Permanent Full-Time"			, node_color: "rgb(120,120,120)"  	}) ;
+	node_color_list[i].push({node_label: "Non-Permanent"				, node_color: "rgb(120,120,120)"  	}) ;
+	node_color_list[i].push({node_label: "Personal Services"			, node_color: "rgb(120,120,120)"    }) ;
+	node_color_list[i].push({node_label: "Travel"						, node_color: "rgb(120,120,120)"    }) ;
+	node_color_list[i].push({node_label: "Contractual Services"			, node_color: "rgb(120,120,120)"    }) ;
+	node_color_list[i].push({node_label: "Commodities"					, node_color: "rgb(120,120,120)"    }) ;
+	node_color_list[i].push({node_label: "Capital Outlay"				, node_color: "rgb(120,120,120)"    }) ;
+	node_color_list[i].push({node_label: "Line 7600"					, node_color: "rgb(120,120,120)"    }) ;
+	node_color_list[i].push({node_label: "Grants, Benefits"				, node_color: "rgb(120,120,120)"    }) ;
+	node_color_list[i].push({node_label: "Miscellaneous"				, node_color: "rgb(120,120,120)"    }) ;
+	node_color_list[i].push({node_label: "Expenditure"					, node_color: "rgb(120,120,120)"    }) ;
+	node_color_list[i].push({node_label: "Position Count"				, node_color: "rgb(120,120,120)"    }) ;
+	
+	; OMB COLORS FROM FY22 BUDGET PRESENTATIONS
+	node_color_list[i].push({node_label: "Designated General Funds"		, node_color: "rgb(255,192,0)"    		}) ;
+	node_color_list[i].push({node_label: "Federal Funds"				, node_color: "rgb(63,120,167)"    		}) ;
+	node_color_list[i].push({node_label: "Other Funds"					, node_color: "rgb(165,165,165)"    	}) ;
+	node_color_list[i].push({node_label: "Unrestricted General Funds"	, node_color: "rgb(0,32,96)"    		}) ;
+
+	; DOM'S PREFERRED COLORS -DEPRECATED
+	;node_color_list[i].push({node_label: "Designated General Funds"		, node_color: "rgb(243,240,114)"    	}) ;
+	;node_color_list[i].push({node_label: "Federal Funds"					, node_color: "rgb(34,144,216)"    		}) ;
+	;node_color_list[i].push({node_label: "Other Funds"						, node_color: "rgb(149,79,255)"    		}) ;
+	;node_color_list[i].push({node_label: "Unrestricted General Funds"		, node_color: "rgb(231,0,0)"    		}) ;
+	
+	; OMB COLORS FROM FY21 BUDGET PRESENTATIONS
+	;node_color_list[i].push({node_label: "Designated General Funds"		, node_color: "rgb(237,125,49)"    		}) ;
+	;node_color_list[i].push({node_label: "Federal Funds"					, node_color: "rgb(255,192,0)"    		}) ;
+	;node_color_list[i].push({node_label: "Other Funds"						, node_color: "rgb(166,166,166)"    	}) ;
+	;node_color_list[i].push({node_label: "Unrestricted General Funds"		, node_color: "rgb(68,114,196)"    		}) ;
+	
+	
+
+	SQL := "SELECT DISTINCT `"DEPT_NAME`" FROM `"" sql_table "`";"
+	
+	Dept_Result := ""
+	If !DB.GetTable(SQL, &Dept_Result)
+	{
+   		MsgBox("Msg:`t" . DB.ErrorMsg . "`nCode:`t" . DB.ErrorCode, "SQLite Error", 16)
+		dump_sql()
+	}
+
+	If (Dept_Result.HasRows) 
+	{	
+		Loop Dept_Result.Rows.Length
+		{
+			node_color_list[i].push({node_label: Dept_Result.Rows[A_Index][1], node_color: "rgb(0,128,128)"})
+		}
+		Loop Dept_Result.Rows.Length
+		{
+			dept_index := A_Index
+			SQL := "SELECT DISTINCT `"RDU_NAME`" FROM `"" sql_table "`" WHERE DEPT_NAME=`"" Dept_Result.Rows[A_Index][1] "`";"
+	
+			RDU_Result := ""
+			If !DB.GetTable(SQL, &RDU_Result)
+			{
+				MsgBox("Msg:`t" . DB.ErrorMsg . "`nCode:`t" . DB.ErrorCode, "SQLite Error", 16)
+				dump_sql()
+			}
+			If (RDU_Result.HasRows) 
+			{	
+				j := 1
+				Loop RDU_Result.Rows.Length
+				{
+					rdu_index := A_Index
+					node_color_list[i].push({node_department: Dept_Result.Rows[dept_index][1], node_label: RDU_Result.Rows[rdu_index][1], node_color: color_palettes[palette_number][j] }) 
+					
+					;COMP QUERY
+					SQL := "SELECT DISTINCT `"COMP_NAME`" FROM `"" sql_table "`" WHERE RDU_NAME=`"" RDU_Result.Rows[rdu_index][1] "`";"
+	
+					Comp_Result := ""
+					If !DB.GetTable(SQL, &Comp_Result)
+					{
+						MsgBox("Msg:`t" . DB.ErrorMsg . "`nCode:`t" . DB.ErrorCode, "SQLite Error", 16)
+						dump_sql()
+					}
+					Loop Comp_Result.Rows.Length
+					{
+						node_color_list[i].push({node_department: Dept_Result.Rows[dept_index][1], node_label: Comp_Result.Rows[A_Index][1], node_color: color_palettes[palette_number][j] }) 
+					}
+					j++
+				}
+			}
+		}
+	}
+
+	; LINK COLORS
+	link_color_list := []
+	
+	i := 1
+	link_color_list.Push([])
+	
+	; SAME FOR ALL
+	link_color_list[i].push({link_label: "Expenditure"									, link_color: "rgba(160,0,0,0.2)"  			}) ;
+	link_color_list[i].push({link_label: "Permanent Part-Time"							, link_color: "rgba(0,0,96,0.2)"  			}) ;
+	link_color_list[i].push({link_label: "Permanent Full-Time"							, link_color: "rgba(0,0,96,0.2)"  			}) ;
+	link_color_list[i].push({link_label: "Non-Permanent"								, link_color: "rgba(0,0,96,0.2)"  			}) ;
+	
+	; OMB Colors 21 Holland
+	;link_color_list[i].push({link_label: "Designated General Funds"						, link_color: "rgba(237,125,49,0.2)"    	}) ;
+	;link_color_list[i].push({link_label: "Federal Funds"								, link_color: "rgba(255,192,0,0.2)"    		}) ;
+	;link_color_list[i].push({link_label: "Other Funds"								, link_color: "rgba(166,166,166,0.2)"    	}) ;
+	;link_color_list[i].push({link_label: "Unrestricted General Funds"					, link_color: "rgba(68,114,196,0.2)"    	}) ;
+	
+	; OMB Colors 22 Steinenger
+	;link_color_list[i].push({link_label: "Designated General Funds"						, link_color: "rgba(255,192,0,0.2)"    		}) ;
+	link_color_list[i].push({link_label: "Designated General Funds"						, link_color: "rgba(255,147,0,0.2)"    		}) ;
+	link_color_list[i].push({link_label: "Federal Funds"								, link_color: "rgba(63,120,167,0.2)"    	}) ;
+	;link_color_list[i].push({link_label: "Other Funds"								, link_color: "rgba(165,165,165,0.2)"    	}) ;
+	link_color_list[i].push({link_label: "Other Funds"								, link_color: "rgba(100,100,100,0.2)"    	}) ;
+	link_color_list[i].push({link_label: "Unrestricted General Funds"					, link_color: "rgba(0,32,96,0.2)"    		}) ;
+	
+}
+sankey_object_column_number(column_name)
+{
+    global sankey_object
+    for index, value in sankey_object.nodes.columns
+	{
+		if (value.column_name = column_name)
+			return index
+	}
+}
+
+sankey_object_node_id(column_name, node_name)
+{
+    global sankey_object
+    for index, value in sankey_object.nodes.columns[sankey_object_column_number(column_name)].rows
+    {
+        if (value.node_name = node_name)
+            return value.node_id
+    }
+    MsgBox('sankey_object_node_id: unable to provide a node id for "' node_name '" in "' column_name '"')
+	FileAppend(ObjectToString(sankey_object, "`t"), "Error_" a_now ".txt",)
+}
+sankey_object_column_rows(column_name)
+{
+    global sankey_object
+    for index, value in sankey_object.nodes.columns
+	{
+		if (value.column_name = column_name)
+			return value.rows
+	}
+}
+translate_fund_to_operating(cap_fund_search)
+{
+    global fund_translate
+	if cap_fund_search = ""
+		msgbox(A_ThisFunc 'search param cannot be blank')
+    for index, value in fund_translate
+	{
+		if (value.capital = cap_fund_search)
+			return value.operating
+	}
+	msgbox(A_ThisFunc ': could not translate fund, "' cap_fund_search '".')
+	return cap_fund_search
+}
+HasNodeId(needle, haystack) {
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	for index, value in haystack
+		if (value = needle)
+			return true
+	return false
+}
+HasVal(needle, haystack) {
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	for index, value in haystack
+		if (value = needle)
+			return true
+	return false
+}
+HasHyperLinkVal(needle, haystack) {
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	for index, value in haystack
+		if (value.id = needle)
+			return true
+	return false
+}
+NodeRowNumber(needle, haystack) {
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	for index, value in haystack
+		if (value.node_name = needle)
+			return index
+	return false
+}
+NodeID(needle, haystack) {
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	for index, value in haystack
+		if (value.node_name = needle)
+			return value.node_id
+	return false
+}
+LinkColor(needle, haystack) {
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	for index, value in haystack
+		if (value.link_label = needle)
+			return value.link_color
+	msgbox(A_ThisFunc ': no needle found: "' needle '"')
+	return "rgba(0,0,96,0.2)"
+}
+NodeColor(needle, haystack) {
+	global abs_department_name, this_plot_name
+	
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	
+	if (instr(this_plot_name, "overview"))
+	{
+		for index, value in haystack
+		{
+			if (value.node_label = needle)
+				return value.node_color
+		}
+	}
+	
+	for index, value in haystack
+	{
+		if (HasProp(value, "node_department"))
+        {
+            if (value.node_label = needle AND value.node_department = abs_department_name)
+			    return value.node_color
+        }
+	}
+		
+	for index, value in haystack
+	{
+		if (value.node_label = needle)
+			return value.node_color
+	}
+		
+	if (instr(this_plot_name, "capital"))
+		return "rgb(160,0,0)"
+	
+	if needle != ""
+		msgbox(A_ThisFunc ': no needle found: "' needle '"')
+	
+	return "rgb(120,120,120)"
+}
+InitializeDepartments()
+{
+	;This is the order they will appear in the index.
+	global
+	department_list := []
+	department_list.push({abs_name: "Governor"						, readable_name:  "Office of the Governor"                                      })
+	department_list.push({abs_name: "Administration"				, readable_name:  "Department of Administration"                                })
+	department_list.push({abs_name: "Law"							, readable_name:  "Department of Law"                                           })
+	department_list.push({abs_name: "Revenue"						, readable_name:  "Department of Revenue"                                       })
+	department_list.push({abs_name: "Educ & Early Devel"			, readable_name:  "Department of Education & Early Development"  				})
+	department_list.push({abs_name: "Health & Social Services"		, readable_name:  "Department of Health & Social Services"                      })
+	department_list.push({abs_name: "Health"          				, readable_name:  "Department of Health"										})
+	department_list.push({abs_name: "Family & Community Services"  	, readable_name:  "Department of Family & Community Services"					})
+	department_list.push({abs_name: "Labor & Workforce"				, readable_name:  "Department of Labor & Workforce Development"                 })
+	department_list.push({abs_name: "Commerce"						, readable_name:  "Department of Commerce, Community, and Economic Development" })
+	department_list.push({abs_name: "Military & Veterans Affairs"	, readable_name:  "Department of Military & Veterans Affairs"                   })
+	department_list.push({abs_name: "Natural Resources"				, readable_name:  "Department of Natural Resources"                             })
+	department_list.push({abs_name: "Fish & Game"					, readable_name:  "Department of Fish & Game"                                   })
+	department_list.push({abs_name: "Public Safety"					, readable_name:  "Department of Public Safety"                                 })
+	department_list.push({abs_name: "Environ Conservation"			, readable_name:  "Department of Environmental Conservation"                    })
+	department_list.push({abs_name: "Corrections"					, readable_name:  "Department of Corrections"                                   })
+	department_list.push({abs_name: "Transportation"				, readable_name:  "Department of Transportation & Public Facilities"            })
+	department_list.push({abs_name: "Branch-wide Appropriations"	, readable_name:  "Branch-wide Appropriations"           						})
+	department_list.push({abs_name: "Legislature"					, readable_name:  "Legislature"                                                 })
+	department_list.push({abs_name: "Debt Service"					, readable_name:  "Debt Service"                                                })
+	department_list.push({abs_name: "Judiciary"						, readable_name:  "Judiciary"                                                   })
+	department_list.push({abs_name: "University of Alaska"			, readable_name:  "University of Alaska"                                        })
+	department_list.push({abs_name: "Fund Capitalization"			, readable_name:  "Fund Capitalization"                                         })
+	department_list.push({abs_name: "State Retirement Payments"		, readable_name:  "State Retirement Payments"                                   })
+	department_list.push({abs_name: "Special Appropriations"		, readable_name:  "Special Appropriations"                                      })
+	department_list.push({abs_name: "Fund Transfers"				, readable_name:  "Fund Transfers"                                              })
+	department_list.push({abs_name: "Permanent Fund"				, readable_name:  "Permanent Fund Dividend"                                     })
+	
+	; Capital cleanup converts those names to these abs_names.... above
+	
+	for key, department_list_object in department_list
+	{
+		department_list_object.folder_name := StrReplace( StrReplace( Format( "{:L}", department_list_object.abs_name ), A_Space, "-"), "&", "and" )
+	}
 }
