@@ -85,7 +85,34 @@ start()
 	initialize_fund_translation()
 	do_operating()
 	do_capital()
-
+	/*
+	if MsgBox("Do you want to select a directory to copy OMB files?", "Question", 4) = "Yes"
+		{
+			SourceDir := ""
+			FileSelect("D", A_ScriptDir, "Select the directory containing OMB files:")
+			if SourceDir
+			{
+				; Ensure the destination directory exists
+				if !FileExist(DestDir)
+					FileCreateDir(DestDir)
+		
+				for File in FileGetFiles(SourceDir "\*.OMB")
+				{
+					FileCopy(File, omb_directory "\" File, true) ; Overwrite if exists
+				}
+		
+				MsgBox("All OMB files have been copied to: " . DestDir, "Info")
+			}
+			else
+			{
+				MsgBox("No directory selected. Operation canceled.", "Warning")
+			}
+		}
+		else
+		{
+			MsgBox("Operation canceled.", "Info")
+		}
+	*/
 	Run('explore "' build_directory '"')
 	WinWait(this_build_uid, , 60)
 	WinMove(A_ScreenWidth/2 - 500*(A_ScreenDPI/96), 150*(A_ScreenDPI/96), 1000*(A_ScreenDPI/96), 600*(A_ScreenDPI/96), this_build_uid)
@@ -114,6 +141,10 @@ do_operating()
 	this_small_height 		:= "800"
 	this_xl_height 			:= "2000"
 	back_link				:= "index.html"
+
+	SQL := 'DELETE FROM "' operating_table '" WHERE LINE_TYPE=`'Capital`';'
+	;dump_sql()
+	DB.Exec(SQL)
 
 	InitializeColors()
 	sql_filter := "LINE_TYPE='Revenue'"
@@ -166,6 +197,8 @@ do_capital()
 	project_title_column			:= 11	; proj_title
 	web_column						:= 7
 	link_date						:= ""
+
+	this_scenario_name := capital_scenario_name 
 
 	SQL := 'DELETE FROM "' operating_table '" WHERE LINE_TYPE=`'Capital`';'
 	;dump_sql()
@@ -334,10 +367,15 @@ build_capital_department()
 		build_links("RDU_NAME", "COMP_NAME", "REPORT_LINE", "SCEN1_AMOUNT", "FUND_GROUP", 1, false, true)
 		try
 		{
-			if (sankey_object.nodes.columns[2].rows.length > 25)
+			if (sankey_object.nodes.columns[2].rows.length > 25 )
 			{
-				this_height 	:= sankey_object.nodes.columns[2].rows.length * 15
+				this_height 	:= sankey_object.nodes.columns[2].rows.length * 20
 				this_xl_height 	:= this_height * 2
+			}
+			else if (sankey_object.nodes.columns[1].rows.length > 25 )
+			{
+					this_height 	:= sankey_object.nodes.columns[1].rows.length * 20
+					this_xl_height 	:= this_height * 2
 			}
 		}
 
@@ -355,7 +393,7 @@ set_misc_variables()
 {
 	global
 	; MISC VARIABLES
-	json_value_format           := 'valueformat: "$,.1f",'        ; json_value_format     := "valueformat: ""-$,.1f"","
+	json_value_format           := 'valueformat: "$,.1f",'       	 ; json_value_format     := "valueformat: ""-$,.1f"","
 	format_mode                 := "dollars"                        ; "dollars" or "positions"
 	show_values_in_labels       := true                             ; show values next to node labels
 	sum_appropriation_values    := false                            ; set to true for values in a capital budget
@@ -406,19 +444,13 @@ set_misc_variables()
 get_scenario_numbers() 
 {
 	global
+
 	FileReadLine(&scenario_1512, file_1512_path, 2)
-	
 	scenario_1512 := StrSplit(scenario_1512,"(")
 	scenario_1512 := StrSplit(scenario_1512[2],")")
 	scenario_1512 := scenario_1512[1]
 
-	FileReadLine(&scenario_1328, file_1328_path, 2)
-	
-	scenario_1328 := StrSplit(scenario_1328,"`t")
-	scenario_1328 := scenario_1328[1]
-
 	FileReadLine(&scenario_272, file_272_path, 2)
-	
 	scenario_272 := StrSplit(scenario_272,"`t")
 	scenario_272 := scenario_272[1] 
 }
@@ -436,12 +468,21 @@ FileReadLine(&output_var, file_to_read, line_number)
 import_files_to_database()
 {
 	global
+
+	; note: 
+	; import.base is an initial sql script the ETLs from the TSV files so if you see weird name changes
+	; check this file too for weird things in the data.
+
 	import_buffer	:= FileRead("sqlite\import.base")
 	import_buffer   := StrReplace(import_buffer, "%date_created%", 				uid, 				false)
 	import_buffer   := StrReplace(import_buffer, "%budget_fiscal_year%", 		budget_fiscal_year, false)
-	import_buffer   := StrReplace(import_buffer, "%budget_name%", 				budget_name, 		false)
+
+	import_buffer   := StrReplace(import_buffer, "%op_budget_name%", 			op_budget_name.value,	false)
+	import_buffer   := StrReplace(import_buffer, "%cap_budget_name%", 			cap_budget_name.value,	false)
+
 	import_buffer   := StrReplace(import_buffer, "%operating_scenario_1512%", 	scenario_1512, 		false)
 	import_buffer   := StrReplace(import_buffer, "%1512_file%", 				file_1512_path, 	false)
+
 	import_buffer   := StrReplace(import_buffer, "%capital_scenario_272%", 		scenario_272, 		false)
 	import_buffer   := StrReplace(import_buffer, "%272_file%", 					file_272_path, 		false)
 
@@ -449,6 +490,8 @@ import_files_to_database()
 
 	cmd := A_ComSpec ' /c ""sqlite3.exe" "budget.db" <"' uid '.base""'
 	RunWait(cmd, A_WorkingDir "\sqlite")
+	
+	select_scenario()
 }
 ;=======================================================================|
 translate_color_column(column)
@@ -642,299 +685,7 @@ fund_type(fund_code_to_check)
 	return "UNKNOWN"
 }
 ;=======================================================================|
-Initialize_Categories()
-{
-global
-dgf_fund_codes := "
-(
-|1238|
-|1237|
-|1249|
-|1254|
-|1255|
-|1261|
-|1262|
-|1252|
-|1264|
-|1268|
-|1246|
-|1247|
-|1248|
-|1000|
-|1005|
-|1010|
-|1015|
-|1021|
-|1031|
-|1036|
-|1195|
-|1038|
-|1039|
-|1040|
-|1048|
-|1057|
-|1058|
-|1059|
-|9003|
-|1067|
-|1068|
-|1069|
-|1070|
-|1071|
-|1072|
-|1074|
-|1076|
-|1078|
-|1082|
-|1086|
-|1088|
-|1089|
-|1090|
-|1098|
-|1099|
-|1110|
-|1115|
-|1122|
-|1123|
-|1125|
-|1049|
-|1132|
-|1035|
-|1064|
-|1073|
-|1118|
-|1224|
-|1135|
-|1141|
-|1109|
-|1184|
-|1218|
-|1146|
-|1156|
-|1153|
-|1157|
-|1154|
-|1028|
-|1025|
-|1124|
-|1197|
-|1203|
-|1127|
-|1128|
-|1131|
-|1151|
-|1162|
-|1161|
-|1051|
-|1164|
-|1193|
-|1194|
-|1170|
-|1032|
-|1169|
-|1225|
-|1191|
-|1054|
-|1062|
-|1065|
-|1056|
-|1079|
-|1083|
-|1085|
-|1087|
-|1052|
-|1168|
-|1172|
-|1176|
-|1020|
-|1175|
-|1030|
-|1189|
-|1200|
-|1201|
-|1202|
-|1155|
-|1208|
-|1209|
-|1210|
-|1216|
-|1221|
-|1223|
-|1080|
-|1226|
-|1227|
-|1111|
-|1134|
-|1180|
-|1234|
-)"
-federal_fund_codes := "
-(
-|1265|
-|1267|
-|1269|
-|1270|
-|1002|
-|1013|
-|1014|
-|1016|
-|1063|
-|1130|
-|1160|
-|1033|
-|1043|
-|1149|
-|1188|
-|1187|
-|1190|
-|1212|
-|1133|
-|9001|
-|1047|
-)"
-other_fund_codes := "
-(
-|1230|
-|1231|
-|1232|
-|1233|
-|1235|
-|1236|
-|1253|
-|1256|
-|1257|
-|1251|
-|1007|
-|1019|
-|1024|
-|1026|
-|1027|
-|1034|
-|1192|
-|1042|
-|1044|
-|1046|
-|1050|
-|1060|
-|1061|
-|1081|
-|1091|
-|1094|
-|1097|
-|1100|
-|1103|
-|-1|
-|1102|
-|1104|
-|1105|
-|1107|
-|1108|
-|1092|
-|9999|
-|1114|
-|1121|
-|1174|
-|1017|
-|1045|
-|1055|
-|1084|
-|1095|
-|1113|
-|1137|
-|1229|
-|1138|
-|1142|
-|1143|
-|1144|
-|1145|
-|1023|
-|-2|
-|1186|
-|2000|
-|2001|
-|1147|
-|1152|
-|1158|
-|1159|
-|1136|
-|1106|
-|1205|
-|1999|
-|1006|
-|1222|
-|1165|
-|1167|
-|1148|
-|1093|
-|1179|
-|1126|
-|1185|
-|1022|
-|1077|
-|1163|
-|1177|
-|1181|
-|1196|
-|1182|
-|1183|
-|1029|
-|1166|
-|1112|
-|1198|
-|1075|
-|1101|
-|1117|
-|1011|
-|1018|
-|1199|
-|1219|
-|1116|
-|1066|
-|1207|
-|1206|
-|9002|
-|1171|
-|1215|
-|1214|
-|1217|
-|1009|
-|1220|
-|1008|
-|1244|
-|1245|
-|1239|
-|1275|
-)"
-ugf_fund_codes := "
-(
-|1241|
-|1243|
-|1250|
-|1266|
-|1271|
-|1003|
-|1004|
-|1012|
-|1037|
-|1119|
-|1129|
-|1096|
-|1150|
-|1053|
-|1139|
-|1173|
-|1178|
-|1041|
-|1140|
-|9000|
-|1211|
-|1258|
-|1001|
-|1120|
-|1213|
-|1228|
-)"
-}
+
 ObjectToString(obj, indent:="", lvl:=1)
 {
 	if IsObject(obj) {
@@ -1079,12 +830,36 @@ select_scenario()
 	; Gather a list of file names from a folder and put them into the ListView:
 	Loop Result.Rows.Length
 	{
-		LV.Add(,Result.Rows[A_Index][1], Result.Rows[A_Index][2], Result.Rows[A_Index][3])
+		local result_index := A_Index
+		local LVc1 := Result.Rows[result_Index][1]
+		local LVc2 := ""
+		local LVc3 := ""
+
+		SQL := "SELECT ALIAS, SCENARIO, FISCALYEAR FROM `"BUDGETS`" WHERE DATECREATED=`"" Result.Rows[result_index][1] "`";"
+		Result_Alias := ""
+		If !DB.GetTable(SQL, &Result_Alias)
+			   MsgBox("Msg:`t" . DB.ErrorMsg . "`nCode:`t" . DB.ErrorCode, "SQLite Error", 16)
+		local i := 1
+		loop Result_Alias.Rows.Length
+		{
+			LVc2 .= Result_Alias.Rows[A_Index][1] " (" Result_Alias.Rows[A_Index][2] ")"
+			if i < Result_Alias.Rows.Length
+			{
+				LVc2 .= ", "
+			}
+			i++
+		}
+		LVc3 := Result_Alias.Rows[1][3] 
+
+		LV.Add(,LVc1,LVc2,LVc3)
+		
 	}
 	
 	LV.ModifyCol  ; Auto-size each column to fit its contents.
-	LV.ModifyCol(1, "Integer")  ; For sorting purposes, indicate that column 2 is an integer.
-	
+	LV.ModifyCol(1, "Integer Left")  ; For sorting purposes, indicate that column 2 is an integer.
+	LV.ModifyCol(1, 150)
+	LV.ModifyCol(2, 450)
+	LV.ModifyCol(3, 100)
 	new_files_button := mygui.Add("Button","w90 Y+M X610","Import ABS Files")
 	new_files_button.OnEvent("Click", select_new_files)
 	; Display the window:
@@ -1102,15 +877,17 @@ LV_DoubleClick(LV, RowNumber)
 	If !DB.GetTable(SQL, &Result)
 		   MsgBox("Msg:`t" . DB.ErrorMsg . "`nCode:`t" . DB.ErrorCode, "SQLite Error", 16)
 	
-	scenario_alias			:= Result.Rows[1][2] 
+	operating_scenario_alias	:= Result.Rows[1][2] 
 	
-	scenario_number 		:= Result.Rows[1][5] 
-	operating_table 		:= fetch_id us scenario_number us "1512"
-	operating_scenario_name := scenario_alias " (" scenario_number ")"
+	operating_scenario_number 	:= Result.Rows[1][5] 
+	operating_table 			:= fetch_id us operating_scenario_number us "1512"
+	operating_scenario_name 	:= operating_scenario_alias " (" operating_scenario_number ")"
 
-	capital_scenario_number := Result.Rows[3][5] 
-	capital_table 			:= fetch_id us capital_scenario_number us "272"
-	capital_scenario_name 	:= scenario_alias " (" capital_scenario_number ")"
+	capital_scenario_alias		:= Result.Rows[2][2] 
+
+	capital_scenario_number 	:= Result.Rows[2][5] 
+	capital_table 				:= fetch_id us capital_scenario_number us "272"
+	capital_scenario_name 		:= capital_scenario_alias " (" capital_scenario_number ")"
 
 	MyGui.Destroy
 	start()
@@ -1120,6 +897,8 @@ select_new_files(dummy_1, dummy_2)
 {
 	global
 
+	MyGui.Destroy
+
 	new_files := MsgBox("Do you want to import new ABS Scenario Files into the database?", "Import New Scenario Files?", "YesNo")
 
 	If (new_files = "Yes")
@@ -1127,24 +906,42 @@ select_new_files(dummy_1, dummy_2)
 		new_starting_directory := A_ScriptDir "\abs exports\"
 		file_1512_path  := FileSelect( , new_starting_directory, "Please Select an Operating File, From ABS Export Component Detail (1512)",'*.txt')
 		if (file_1512_path  = "")
-			ExitApp
+			select_scenario()
 
 		SplitPath(file_1512_path,,&new_starting_directory)
 		file_272_path := FileSelect( , new_starting_directory, "From ABS Export Project Information (Appropriations with Allocations) (272)",'*.txt')       ;*[sankey_builder]
 		if (file_272_path = "")
-			ExitApp	
+			select_scenario()	
+
+		op_sceanrio := ""
+		cap_scenario := ""
+
+		FileReadLine(&op_scenario, file_1512_path, 2)
+		op_scenario := StrSplit(op_scenario, tabs(1))
+		op_scenario := op_scenario[11]
+		op_scenario := StrSplit(op_scenario, "=")
+		op_scenario := op_scenario[2]
+		op_scenario := trim(RegExReplace(op_scenario, "\(\d+\)", ""))
+
+		FileReadLine(&cap_scenario, file_272_path, 2)
+		cap_scenario := StrSplit(cap_scenario,"`t")
+		cap_scenario := Trim(cap_scenario[2])
 
 		loop
 		{
-			budget_name				:= InputBox("Name This Budget", "Name This Budget")
-			if (budget_name.result = "Cancel")
-				ExitApp
+			op_budget_name				:= InputBox("Name This Operating Budget", "Name This Operating Budget",, op_scenario)
+			if (op_budget_name.result = "Cancel")
+				select_scenario()
+
+			cap_budget_name				:= InputBox("Name This Capital Budget", "Name This Capital Budget",, cap_scenario)
+			if (cap_budget_name.result = "Cancel")
+				select_scenario()
 
 			budget_fiscal_year		:= InputBox("Fiscal Year...", "Enter numbers only for fiscal year:")
 			if (budget_fiscal_year.result = "Cancel")
-				ExitApp
+				select_scenario()
 			
-			budget_name 			:= budget_name.value
+			budget_name 			:= op_budget_name.value " / " cap_budget_name.value
 			budget_fiscal_year		:= Trim(StrReplace(budget_fiscal_year.value, "fy", ""))
 
 			msg_results 			:= "Correct? YES to continue, No to re-enter, CANCEL to quit." rn rn "Name: " budget_name rn "FY: " budget_fiscal_year
@@ -1158,6 +955,7 @@ select_new_files(dummy_1, dummy_2)
 		get_scenario_numbers()
 		import_files_to_database()
 	}
+
 }
 ;=======================================================================|
 dump_sql(the_sql:=SQL)
@@ -1192,6 +990,16 @@ build_nodes_from_columns(columns*)
 				this_node_total 		:= ( format_mode = "dollars" ) AND ( current_column = "DEPT_NAME" || current_column = "RDU_NAME" || current_column = "COMP_NAME" ) ? ( sum_sql("SCEN1_AMOUNT", "LINE_TYPE='" ( this_plot_name = "plot-capital" ? "Capital" : "Revenue" ) "' AND " current_column "='" cln(this_node_name) "'") ) : ( Result.Rows[A_Index][2] )
 				this_node_meta			:= ""
 				this_node_project_link 	:= ""
+				if (add_project_links = true && ( current_column = "RDU_NAME" || current_column = "COMP_NAME" ))
+				{
+					c := current_column
+					SQL := "SELECT " (c="RDU_NAME"?"RDU":"COMP") "_NUM FROM `"" sql_table "`" WHERE " sql_filter " AND " current_column "=`"" this_node_name "`" LIMIT 1;"
+					Result_RefNum := ""
+					If !DB.GetTable(SQL, &Result_RefNum)
+						   MsgBox("Msg:`t" . DB.ErrorMsg . "`nCode:`t" . DB.ErrorCode, "SQLite Error", 16)
+					
+					this_node_project_link := Result_RefNum.Rows[1][1]
+				}
 
 				SQL := "SELECT " translate_color_column(current_column) " FROM `"" sql_table "`" WHERE " sql_filter " AND " current_column "=`"" this_node_name "`" LIMIT 1;"
 				Result_Color := ""
@@ -1278,7 +1086,10 @@ build_links( source_column, target_column, grouping_column, value_column, color_
 				if ( add_project_links = true )
 				{
 					;this_identifier_text := "https://omb.alaska.gov/ombfiles/" sankey_object.nodes.columns[target_column].rows[current_target_node_row].node_project_link
-					this_identifier_text := "javascript:alert(\'OMB project file not available at this time.\')"
+					;this_identifier_text := "javascript:alert(\'OMB project file not available at this time.\')"
+					local col_index_1 := sankey_object_column_number(target_column)
+					local row_index_1 := NodeRowNumber(Result.Rows[A_Index][1], sankey_object.nodes.columns[col_index_1].rows)
+					this_identifier_text := "@@@OMBSOURCE@@@/" sankey_object.nodes.columns[col_index_1].rows[row_index_1].node_project_link ".pdf"
 				}
 				if ( is_child = true )
 				{
@@ -1636,6 +1447,8 @@ build_javascript()
 			javascript_links .= tabs(5) . "alert('OMB project file not available.'); `r`n"
 		else if InStr(linkable_node.link_identifier_text, "https://")
 			javascript_links .= tabs(5) . "window.open('" linkable_node.link_identifier_text "'); `r`n"
+		else if InStr(linkable_node.link_identifier_text, "@@@OMBSOURCE@@@")
+			javascript_links .= tabs(5) . "window.open('" linkable_node.link_identifier_text "'); `r`n"
 		else if InStr(linkable_node.link_identifier_text, "@@@LEGFINSOURCE@@@")
 			javascript_links .= tabs(5) . "window.open('" linkable_node.link_identifier_text "'); `r`n"
 		else if (this_plot_name = "plot-overview")
@@ -1644,6 +1457,7 @@ build_javascript()
 			javascript_links .= tabs(5) . "window.location.href = '" . linkable_node.link_identifier_text . "/plot-overview.html';" . "`r`n"
 		else
 			javascript_links .= tabs(5) . "window.location.href = '" . linkable_node.link_identifier_text . "/" . this_plot_name . ".html';" . "`r`n"
+		
 		javascript_links .= tabs(5) . "break;" . "`r`n"
 		javascript_links .= tabs(4) 
 		
@@ -1668,8 +1482,11 @@ build_html()
 	{
 		parent_levels_string .= "../"
 	}
+
 	html_file := StrReplace(html_file, "@@@PLOTLYSOURCE@@@" , parent_levels_string . plotly_source	)
+
 	html_file := StrReplace(html_file, "@@@HTMLTITLE@@@"    , StrReplace(this_title, " <br />")     )
+
 	html_file := StrReplace(html_file, "@@@TITLE@@@"        , this_title                            )
 	html_file := StrReplace(html_file, "@@@WIDTH@@@"        , this_width                            )
 	html_file := StrReplace(html_file, "@@@HEIGHT@@@"       , this_height                           )
@@ -1687,9 +1504,14 @@ build_html()
 	html_file := StrReplace(html_file, "@@@LINKLABEL@@@"    , json_link_label						)
 	html_file := StrReplace(html_file, "@@@LINKCOLOR@@@"    , json_link_color						)
 	html_file := StrReplace(html_file, "@@@NODEJSCURSOR@@@" , javascript_hovers						)
+
+	; these three are order dependent, do not rearrange
 	html_file := StrReplace(html_file, "@@@NODEJSLINK@@@"   , javascript_links						)
-	html_file := StrReplace(html_file, "@@@VALUEFORMAT@@@"  , json_value_format						)
 	html_file := StrReplace(html_file, "@@@LEGFINSOURCE@@@"	, parent_levels_string . "legfin_files"	)
+	html_file := StrReplace(html_file, "@@@OMBSOURCE@@@"	, parent_levels_string . "omb_files"	)
+
+	html_file := StrReplace(html_file, "@@@VALUEFORMAT@@@"  , json_value_format						)
+
 	if (show_values_in_labels = true )
 	{
 		javascript_node_hover_template := 'hovertemplate: "%{label}<extra></extra>",'
@@ -1716,289 +1538,178 @@ build_html()
 	FileAppend(html_file, this_output_file)
 	sankey_object.links := []
 }
-;=======================================================================|
-initialize_fund_translation()
+
+sankey_object_column_number(column_name)
 {
+    global sankey_object
+    for index, value in sankey_object.nodes.columns
+	{
+		if (value.column_name = column_name)
+			return index
+	}
+}
+
+sankey_object_node_id(column_name, node_name)
+{
+    global sankey_object
+    for index, value in sankey_object.nodes.columns[sankey_object_column_number(column_name)].rows
+    {
+        if (value.node_name = node_name)
+            return value.node_id
+    }
+    MsgBox('sankey_object_node_id: unable to provide a node id for "' node_name '" in "' column_name '"')
+	FileAppend(ObjectToString(sankey_object, "`t"), "Error_" a_now ".txt",)
+}
+sankey_object_column_rows(column_name)
+{
+    global sankey_object
+    for index, value in sankey_object.nodes.columns
+	{
+		if (value.column_name = column_name)
+			return value.rows
+	}
+}
+translate_fund_to_operating(cap_fund_search)
+{
+	cap_fund_search := SubStr(cap_fund_search, 1, 4)
+    global fund_translate
+	if cap_fund_search = ""
+		msgbox(A_ThisFunc 'search param cannot be blank')
+    for index, value in fund_translate
+	{
+		if (value.capital = cap_fund_search)
+			return value.operating
+	}
+	msgbox(A_ThisFunc ': could not translate fund, "' cap_fund_search '".')
+	return cap_fund_search
+}
+HasNodeId(needle, haystack) {
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	for index, value in haystack
+		if (value = needle)
+			return true
+	return false
+}
+HasVal(needle, haystack) {
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	for index, value in haystack
+		if (value = needle)
+			return true
+	return false
+}
+HasHyperLinkVal(needle, haystack) {
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	for index, value in haystack
+		if (value.id = needle)
+			return true
+	return false
+}
+NodeRowNumber(needle, haystack) {
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	for index, value in haystack
+		if (value.node_name = needle)
+			return index
+	return false
+}
+NodeID(needle, haystack) {
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	for index, value in haystack
+		if (value.node_name = needle)
+			return value.node_id
+	return false
+}
+LinkColor(needle, haystack) {
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	for index, value in haystack
+		if (value.link_label = needle)
+			return value.link_color
+	msgbox(A_ThisFunc ': no needle found: "' needle '"')
+	return "rgba(0,0,96,0.2)"
+}
+NodeColor(needle, haystack) {
+	global abs_department_name, this_plot_name
+	
+	if !(IsObject(haystack)) || (haystack.Length = 0)
+		return false
+	
+	if (instr(this_plot_name, "overview"))
+	{
+		for index, value in haystack
+		{
+			if (value.node_label = needle)
+				return value.node_color
+		}
+	}
+	
+	for index, value in haystack
+	{
+		if (HasProp(value, "node_department"))
+        {
+            if (value.node_label = needle AND value.node_department = abs_department_name)
+			    return value.node_color
+        }
+	}
+		
+	for index, value in haystack
+	{
+		if (value.node_label = needle)
+			return value.node_color
+	}
+		
+	if (instr(this_plot_name, "capital"))
+		return "rgb(160,0,0)"
+	
+	if needle != ""
+		msgbox(A_ThisFunc ': no needle found: "' needle '"')
+	
+	return "rgb(120,120,120)"
+}
+;=======================================================================|
+InitializeDepartments()
+{
+	;This is the order they will appear in the index.
 	global
-	fund_translate := []
-	fund_translate.push({capital:"1230 AKCW Ad Fu", operating: "1230 Alaska Clean Water Administrative Fund"})
-	fund_translate.push({capital:"1231 AKDW Ad Fu", operating: "1231 Alaska Drinking Water Administrative Fund"})
-	fund_translate.push({capital:"1232 ISPF-I/A", operating: "1232 In-state Pipeline Fund Interagency"})
-	fund_translate.push({capital:"1233 Muni Bonds", operating: "1233 Municipal Bond Bank Bonds"})
-	fund_translate.push({capital:"1235 AGDC-LNG", operating: "1235 Alaska Liquefied Natural Gas Project Fund (AGDC-LNG)"})
-	fund_translate.push({capital:"1236 AK LNG I/A", operating: "1236 Alaska Liquefied Natural Gas Project Fund I/A (AK LNG I/A)"})
-	fund_translate.push({capital:"1238 VaccAssess", operating: "1238 Vaccine Assessment Account"})
-	fund_translate.push({capital:"1237 VocSmBus", operating: "1237 Vocational Rehabilitation Small Bus. Enterprise Revolving Fd"})
-	fund_translate.push({capital:"1241 GF/LNG", operating: "1241 General Fund/Liquefied Natural Gas"})
-	fund_translate.push({capital:"1243 SBR", operating: "1243 Statutory Budget Reserve Fund"})
-	fund_translate.push({capital:"1249 Motor Fuel", operating: "1249 Motor Fuel Tax Receipts"})
-	fund_translate.push({capital:"1250 Maint Cap", operating: "1250 Maintenance and Capital Fund"})
-	fund_translate.push({capital:"1253 STA Bonds", operating: "1253 Subject to Appropriation Bonds"})
-	fund_translate.push({capital:"1254 MET Fund", operating: "1254 Marijuana Education and Treatment Fund"})
-	fund_translate.push({capital:"1255 Invest", operating: "1255 Securities Investor Education and Training Fund"})
-	fund_translate.push({capital:"1255 Reapprops", operating: "1255 Reappropriations"})
-	fund_translate.push({capital:"1256 Ed Endow", operating: "1256 Education Endowment Fund"})
-	fund_translate.push({capital:"1257 Div Raffle", operating: "1257 Dividend Raffle Fund"})
-	fund_translate.push({capital:"1261 Shared Tax", operating: "1261 Shared Taxes"})
-	fund_translate.push({capital:"1262 StatPFRoy", operating: "1262 Non-mandatory Royalty Deposits to the Permanent Fund"})
-	fund_translate.push({capital:"1251 Non-UGF", operating: "1251 Non-UGF (Leg Fiscal Note System Only)"})
-	fund_translate.push({capital:"1252 DGF Temp", operating: "1252 DGF Temp (Leg Fiscal Note System)"})
-	fund_translate.push({capital:"1264 MET Alt", operating: "1264 MET Alt"})
-	fund_translate.push({capital:"1265 COVID Fed", operating: "1265 Non-specific COVID Fed"})
-	fund_translate.push({capital:"1268 MH Tr Res", operating: "1268 Mental Health Trust Reserve"})
-	fund_translate.push({capital:"1267 FTA CRRSAA", operating: "1267 FTA CRRSAA Grant Funding"})
-	fund_translate.push({capital:"1269 CSLFRF", operating: "1269 CSLFRF (Fed) Flexible ARP Funding"})
-	fund_translate.push({capital:"1266 COVID UGF", operating: "1266 COVID UGF"})
-	fund_translate.push({capital:"1270 FHWA CRRSA", operating: "1270 FHWA CRRSAA Fed"})
-	fund_translate.push({capital:"1271 ARPA Rev R", operating: "1271 ARPA Revenue Replacement UGF"})
-	fund_translate.push({capital:"1246 Recid Redu", operating: "1246 Recidivism Reduction Fund"})
-	fund_translate.push({capital:"1247 Med Recov", operating: "1247 Medicaid Monetary Recoveries"})
-	fund_translate.push({capital:"1248 ACHI Fund", operating: "1248 Alaska Comprehensive Health Insurance Fund"})
-	fund_translate.push({capital:"1000 Restrtd GF", operating: "1000 Restricted General Fund"})
-	fund_translate.push({capital:"1002 Fed Rcpts", operating: "1002 Federal Receipts"})
-	fund_translate.push({capital:"1003 G/F Match", operating: "1003 General Fund Match"})
-	fund_translate.push({capital:"1004 Gen Fund", operating: "1004 General Fund Receipts"})
-	fund_translate.push({capital:"1005 GF/Prgm", operating: "1005 General Fund/Program Receipts"})
-	fund_translate.push({capital:"1007 I/A Rcpts", operating: "1007 Interagency Receipts"})
-	fund_translate.push({capital:"1010 UA/INT INC", operating: "1010 University of Alaska Interest Income"})
-	fund_translate.push({capital:"1012 Rail Enrgy", operating: "1012 Railbelt Energy Fund"})
-	fund_translate.push({capital:"1013 Alchl/Drug", operating: "1013 Alcoholism & Drug Abuse Revolving Loan"})
-	fund_translate.push({capital:"1014 Donat Comm", operating: "1014 Donated Commodity/Handling Fee Account"})
-	fund_translate.push({capital:"1015 UA/DFA SVC", operating: "1015 U/A Dormitory/Food/Auxiliary Service"})
-	fund_translate.push({capital:"1016 Fed Incent", operating: "1016 CSSD Federal Incentive Payments"})
-	fund_translate.push({capital:"1019 Reforest", operating: "1019 Reforestation Fund"})
-	fund_translate.push({capital:"1021 Agric Loan", operating: "1021 Agricultural Loan Fund"})
-	fund_translate.push({capital:"1024 Fish/Game", operating: "1024 Fish and Game Fund"})
-	fund_translate.push({capital:"1026 Hwy Capitl", operating: "1026 Highways/Equipment Working Capital Fund"})
-	fund_translate.push({capital:"1027 Int Airprt", operating: "1027 International Airport Revenue Fund"})
-	fund_translate.push({capital:"1031 Sec Injury", operating: "1031 Second Injury Fund Reserve Account"})
-	fund_translate.push({capital:"1034 Teach Ret", operating: "1034 Teachers Retirement System Fund"})
-	fund_translate.push({capital:"1036 Cm Fish Ln", operating: "1036 Commercial Fishing Loan Fund"})
-	fund_translate.push({capital:"1195 SnoMachReg", operating: "1195 Snow Machine Registration Receipts"})
-	fund_translate.push({capital:"1037 GF/MH", operating: "1037 General Fund / Mental Health"})
-	fund_translate.push({capital:"1038 UA/STF SVC", operating: "1038 U/A Student Tuition/Fees/Services"})
-	fund_translate.push({capital:"1039 UA/ICR", operating: "1039 U/A Indirect Cost Recovery"})
-	fund_translate.push({capital:"1040 Surety Fnd", operating: "1040 Real Estate Surety Fund"})
-	fund_translate.push({capital:"1192 Mine Trust", operating: "1192 Mine Reclamation Trust Fund"})
-	fund_translate.push({capital:"1042 Jud Retire", operating: "1042 Judicial Retirement System"})
-	fund_translate.push({capital:"1044 Debt Ret", operating: "1044 AK Debt Retirement Fund"})
-	fund_translate.push({capital:"1046 Stdnt Loan", operating: "1046 Student Revolving Loan Fund"})
-	fund_translate.push({capital:"1048 Univ Rcpt", operating: "1048 University Restricted Receipts"})
-	fund_translate.push({capital:"1050 PFD Fund", operating: "1050 Permanent Fund Dividend Fund"})
-	fund_translate.push({capital:"1057 Small Bus", operating: "1057 Small Business Loan Fund"})
-	fund_translate.push({capital:"1058 Trsm Loan", operating: "1058 Tourism Revolving Loan Fund"})
-	fund_translate.push({capital:"1059 Corr. Ind.", operating: "1059 Correctional Industries Fund"})
-	fund_translate.push({capital:"1060 OF(Pre'84)", operating: "1060 Other Funds (Pre-FY '84 Only)"})
-	fund_translate.push({capital:"1061 CIP Rcpts", operating: "1061 Capital Improvement Project Receipts"})
-	fund_translate.push({capital:"1063 NPR Fund", operating: "1063 National Petroleum Reserve Fund"})
-	fund_translate.push({capital:"9003 Unkn DGF", operating: "9003 Unknown DGF Fund Source"})
-	fund_translate.push({capital:"1067 Mining RLF", operating: "1067 Mining Revolving Loan Fund"})
-	fund_translate.push({capital:"1068 Child Care", operating: "1068 Child Care Revolving Loan Fund"})
-	fund_translate.push({capital:"1069 Hist Dist", operating: "1069 Historical District Revolving Loan Fund"})
-	fund_translate.push({capital:"1070 Fish En Ln", operating: "1070 Fisheries Enhancement Revolving Loan Fund"})
-	fund_translate.push({capital:"1071 Alt Energy", operating: "1071 Alternative Energy Revolving Loan Fund"})
-	fund_translate.push({capital:"1072 Res Energy", operating: "1072 Residential Energy Conservation Loan Fund"})
-	fund_translate.push({capital:"1074 Bulk Fuel", operating: "1074 Bulk Fuel Revolving Loan Fund"})
-	fund_translate.push({capital:"1076 Marine Hwy", operating: "1076 Marine Highway System Fund"})
-	fund_translate.push({capital:"1078 Sr Housing", operating: "1078 Senior Housing Loan Fund"})
-	fund_translate.push({capital:"1081 Info Svc", operating: "1081 Information Services Fund"})
-	fund_translate.push({capital:"1082 Vessel Rep", operating: "1082 Vessel Replacement Fund"})
-	fund_translate.push({capital:"1086 SE Energy", operating: "1086 Southeast Energy Fund"})
-	fund_translate.push({capital:"1088 UnInc Mtch", operating: "1088 Unincorporated Matching Grant Fund"})
-	fund_translate.push({capital:"1089 Power Cost", operating: "1089 Power Cost Equalization Fund"})
-	fund_translate.push({capital:"1090 4 Dam Pool", operating: "1090 Four Dam Pool Transfer Fund"})
-	fund_translate.push({capital:"1091 GF/Desig", operating: "1091 General Funds - Designated"})
-	fund_translate.push({capital:"1094 MHT Admin", operating: "1094 Mental Health Trust Administration"})
-	fund_translate.push({capital:"1097 AETNA Res", operating: "1097 Group Health and Life Benefits Fund (AS 39.30.095)"})
-	fund_translate.push({capital:"1098 ChildTrErn", operating: "1098 Children's Trust Earnings"})
-	fund_translate.push({capital:"1099 ChildTrPrn", operating: "1099 Children's Trust Principal"})
-	fund_translate.push({capital:"1100 ADWF", operating: "1100 Alaska Drinking Water Fund"})
-	fund_translate.push({capital:"1103 AHFC Rcpts", operating: "1103 Alaska Housing Finance Corporation Receipts"})
-	fund_translate.push({capital:"-1 Unknown GF", operating: "-1 Unknown GF"})
-	fund_translate.push({capital:"1102 AIDEA Rcpt", operating: "1102 Alaska Industrial Development & Export Authority Receipts"})
-	fund_translate.push({capital:"1104 MBB Rcpts", operating: "1104 Alaska Municipal Bond Bank Receipts"})
-	fund_translate.push({capital:"1105 PFund Rcpt", operating: "1105 Alaska Permanent Fund Corporation Receipts"})
-	fund_translate.push({capital:"1107 AEA Rcpts", operating: "1107 Alaska Energy Authority Corporate Receipts"})
-	fund_translate.push({capital:"1108 Stat Desig", operating: "1108 Statutory Designated Program Receipts"})
-	fund_translate.push({capital:"1110 APUC Rcpts", operating: "1110 Alaska Public Utility Commission"})
-	fund_translate.push({capital:"1092 MHTAAR", operating: "1092 Mental Health Trust Authority Authorized Receipts"})
-	fund_translate.push({capital:"9999 No specif.", operating: "9999 No specific fund source"})
-	fund_translate.push({capital:"1114 EVOS Rest", operating: "1114 Exxon Valdez Oil Spill Restoration Fund"})
-	fund_translate.push({capital:"1115 InT/BuEnIn", operating: "1115 International Trade and Business Endowment Income"})
-	fund_translate.push({capital:"1119 Tobac Setl", operating: "1119 Tobacco Settlement"})
-	fund_translate.push({capital:"1121 MultiFunds", operating: "1121 Multiple Funds pre FY94"})
-	fund_translate.push({capital:"1122 LIC/PER/CT", operating: "1122 License/Permits/Certification Pre 89"})
-	fund_translate.push({capital:"1123 Care/Trmnt", operating: "1123 Care and Treatment - FY88"})
-	fund_translate.push({capital:"1125 APA Plant", operating: "1125 APA Plant Maintenance & Operation - FY88"})
-	fund_translate.push({capital:"1129 Legal Recp", operating: "1129 Legal Settlement Receipts - FY88"})
-	fund_translate.push({capital:"1130 Handcap Fn", operating: "1130 Handicapped Vendor Facility Fund - FY88"})
-	fund_translate.push({capital:"1049 Trng Bldg", operating: "1049 Training and Building Fund"})
-	fund_translate.push({capital:"1174 UA I/A", operating: "1174 UA Intra-Agency Transfers"})
-	fund_translate.push({capital:"1132 Publ/Other", operating: "1132 Publications and Other Services - FY88"})
-	fund_translate.push({capital:"1096 ILT Fund", operating: "1096 Investment Loss Trust Fund (DO NOT USE)"})
-	fund_translate.push({capital:"1017 Ben Sys", operating: "1017 Benefits Systems Receipts"})
-	fund_translate.push({capital:"1035 Vet Loan", operating: "1035 Veterans Revolving Loan Fund"})
-	fund_translate.push({capital:"1045 Nat Guard", operating: "1045 National Guard & Naval Militia Retirement System"})
-	fund_translate.push({capital:"1055 IA/OIL HAZ", operating: "1055 Interagency/Oil & Hazardous Waste"})
-	fund_translate.push({capital:"1064 House Loan", operating: "1064 Housing Assistance Loan Fund"})
-	fund_translate.push({capital:"1073 Pwr Dv RLF", operating: "1073 Power Development Revolving Loan Fund"})
-	fund_translate.push({capital:"1084 Alyeska", operating: "1084 Alyeska Settlement Fund"})
-	fund_translate.push({capital:"1095 Med Facil", operating: "1095 Medical Facilities Authority Fund"})
-	fund_translate.push({capital:"1113 AHFC Bonds", operating: "1113 Alaska Housing Finance Corporation Bonds"})
-	fund_translate.push({capital:"1118 Pioneers' ", operating: "1118 Pioneers' Homes Receipts"})
-	fund_translate.push({capital:"1224 MariculRLF", operating: "1224 Mariculture Revolving Loan Fund"})
-	fund_translate.push({capital:"1135 AMHS Dup", operating: "1135 Marine Highway Duplicated Expenditures"})
-	fund_translate.push({capital:"1137 DComp IA", operating: "1137 Inactive-Deferred Compensation Inter Agency Receipts"})
-	fund_translate.push({capital:"1229 AGDC-ISP", operating: "1229 AK Gasline Development Corporation In-state Pipeline Fund"})
-	fund_translate.push({capital:"1138 Hlth I/A", operating: "1138 Inactive-Health Inter-Agency Receipts"})
-	fund_translate.push({capital:"1141 RCA Rcpts", operating: "1141 RCA Receipts"})
-	fund_translate.push({capital:"1142 RHIF/MM   ", operating: "1142 Retiree Health Ins Fund/Major Medical"})
-	fund_translate.push({capital:"1143 RHIF/LTC", operating: "1143 Retiree Health Ins Fund/Long-Term Care Fund"})
-	fund_translate.push({capital:"1144 CWF Bond", operating: "1144 Clean Water Fund Bond Receipts"})
-	fund_translate.push({capital:"1145 AIPP Fund", operating: "1145 Art in Public Places Fund"})
-	fund_translate.push({capital:"1023 FICA Acct", operating: "1023 FICA Administration Fund Account"})
-	fund_translate.push({capital:"1109 Test Fish", operating: "1109 Test Fisheries Receipts"})
-	fund_translate.push({capital:"-2 UnknwnOthr", operating: "-2 Unknown Other"})
-	fund_translate.push({capital:"1150 ASLC Div", operating: "1150 ASLC Dividend"})
-	fund_translate.push({capital:"1184 GOB DSFund", operating: "1184 General Obligation Bond Debt Service Fund"})
-	fund_translate.push({capital:"1186 ASLC Bonds", operating: "1186 Alaska Student Loan Corporation Bond Proceeds"})
-	fund_translate.push({capital:"2000 Bond Funds", operating: "2000 Bond Proceeds"})
-	fund_translate.push({capital:"2001 Bonds MH", operating: "2001 Bond Proceeds Mental Health"})
-	fund_translate.push({capital:"1218 146(c)code", operating: "1218 146(c)code"})
-	fund_translate.push({capital:"1146 Fee Supp ", operating: "1146 Inactive-Fee Supported Increase"})
-	fund_translate.push({capital:"1147 PublicBldg", operating: "1147 Public Building Fund"})
-	fund_translate.push({capital:"1053 Invst Loss", operating: "1053 Investment Loss Trust Fund"})
-	fund_translate.push({capital:"1139 AHFC Div", operating: "1139 AHFC Dividend"})
-	fund_translate.push({capital:"1156 Rcpt Svcs", operating: "1156 Receipt Supported Services"})
-	fund_translate.push({capital:"1152 AFSC Rcpts", operating: "1152 AK Fire Standards Council Receipts"})
-	fund_translate.push({capital:"1153 State Land", operating: "1153 State Land Disposal Income Fund"})
-	fund_translate.push({capital:"1157 Wrkrs Safe", operating: "1157 Workers Safety and Compensation Administration Account"})
-	fund_translate.push({capital:"1158 Emp Pay", operating: "1158 Inactive Don't Use Employee Pay"})
-	fund_translate.push({capital:"1154 Shore Fish", operating: "1154 Shore Fisheries Development Lease Program"})
-	fund_translate.push({capital:"1159 DWF Bond", operating: "1159 Drinking Water Fund Bond Receipts"})
-	fund_translate.push({capital:"1136 SBS IA", operating: "1136 Inactive-SBS Inter Agency Receipts"})
-	fund_translate.push({capital:"1028 Pre90 PRGM", operating: "1028 Pre-FY90 Program Receipts"})
-	fund_translate.push({capital:"1106 ASLC Rcpts", operating: "1106 Alaska Student Loan Corporation Receipts"})
-	fund_translate.push({capital:"1025 Sci/Tech", operating: "1025 Science & Technology Endowment Income"})
-	fund_translate.push({capital:"1205 Ocn Rngr", operating: "1205 Berth Fees for the Ocean Ranger Program"})
-	fund_translate.push({capital:"1124 Res Receip", operating: "1124 Resource Assessment Receipts - FY88"})
-	fund_translate.push({capital:"1197 AK Cap Inc", operating: "1197 Alaska Capital Income Fund"})
-	fund_translate.push({capital:"1203 WCBG Fund", operating: "1203 Workers' Compensation Benefits Guaranty Fund"})
-	fund_translate.push({capital:"1127 User Fees", operating: "1127 User Fees - FY88"})
-	fund_translate.push({capital:"1128 Child Sup", operating: "1128 Child Support Enforcement - FY88"})
-	fund_translate.push({capital:"1999 No ID Fund", operating: "1999 Other Fund Source"})
-	fund_translate.push({capital:"1131 RR Fund", operating: "1131 Alaska Railroad Revenue Fund - FY85, FY86, FY87"})
-	fund_translate.push({capital:"1006 GF/MHTIA", operating: "1006 General Fund/Mental Health Trust"})
-	fund_translate.push({capital:"1151 VoTech Ed", operating: "1151 Technical Vocational Education Program Account"})
-	fund_translate.push({capital:"1160 M/C Protec", operating: "1160 Marine/Coastal Protection-Inactive"})
-	fund_translate.push({capital:"1162 AOGCC Rcpt", operating: "1162 Alaska Oil & Gas Conservation Commission Rcpts"})
-	fund_translate.push({capital:"1161 RRD Fund", operating: "1161 Renewable Resources Development Fund-Inactive"})
-	fund_translate.push({capital:"1051 RuralEcDev", operating: "1051 Rural Economic Development Initiative Fund"})
-	fund_translate.push({capital:"1222 REAA Fund", operating: "1222 Regional Educational Attendance Area School Fund"})
-	fund_translate.push({capital:"1033 Surpl Prop", operating: "1033 Surplus Property Revolving Fund"})
-	fund_translate.push({capital:"1164 RDIF", operating: "1164 Rural Development Initiative Fund"})
-	fund_translate.push({capital:"1165 CBR/MH", operating: "1165 CBR/Mental Health"})
-	fund_translate.push({capital:"1167 NTSC Bond", operating: "1167 Northern Tobacco Securitization Corporation Bonds"})
-	fund_translate.push({capital:"1148 AATP Fund ", operating: "1148 Accelerated Alaska Transportation Projects Fund"})
-	fund_translate.push({capital:"1043 Impact Aid", operating: "1043 Impact Aid for K-12 Schools"})
-	fund_translate.push({capital:"1193 MaintGrant", operating: "1193 Major Maintenance Grant Fund"})
-	fund_translate.push({capital:"1093 Clean Air", operating: "1093 Clean Air Protection Fund"})
-	fund_translate.push({capital:"1194 F&G Nonded", operating: "1194 Fish and Game Nondedicated Receipts"})
-	fund_translate.push({capital:"1170 SmBusEDRLF", operating: "1170 Small Business Economic Development Revolving Loan Fund"})
-	fund_translate.push({capital:"1179 PFC ", operating: "1179 Passenger Facility Charges"})
-	fund_translate.push({capital:"1126 Cont Reimb", operating: "1126 Contract Services Reimbursement - FY88"})
-	fund_translate.push({capital:"1185 ElectionFd", operating: "1185 Election Fund (HAVA)"})
-	fund_translate.push({capital:"1022 Corp Rcpts", operating: "1022 State Corporation Receipts"})
-	fund_translate.push({capital:"1077 Gifts/Grnt", operating: "1077 Gifts/Grants/Bequests"})
-	fund_translate.push({capital:"1149 TAPL Fund", operating: "1149 Trans-Alaska Pipeline Liability Fund"})
-	fund_translate.push({capital:"1163 COPs", operating: "1163 Certificates of Participation"})
-	fund_translate.push({capital:"1032 Fish Fund", operating: "1032 Fishermen's Fund"})
-	fund_translate.push({capital:"1177 ITB Endow", operating: "1177 International Trade and Business Endowment"})
-	fund_translate.push({capital:"1181 Vets Endow", operating: "1181 Alaska Veterans' Memorial Endowment Fund"})
-	fund_translate.push({capital:"1196 Master LOC", operating: "1196 Master Lease Line of Credit"})
-	fund_translate.push({capital:"1182 Ed Cn/Mnt", operating: "1182 Educational and Museum Facility Design/Const/MajorMaint Fund"})
-	fund_translate.push({capital:"1183 Trans Proj", operating: "1183 Transportation Project Fund"})
-	fund_translate.push({capital:"1029 P/E Retire", operating: "1029 Public Employees Retirement System Fund"})
-	fund_translate.push({capital:"1166 Vessel Com", operating: "1166 Commercial Passenger Vessel Environmental Compliance Fund"})
-	fund_translate.push({capital:"1169 PCE Endow", operating: "1169 PCE Endowment Fund"})
-	fund_translate.push({capital:"1173 Misc Earn", operating: "1173 Miscellaneous Earnings"})
-	fund_translate.push({capital:"1225 CQuota RLF", operating: "1225 Community Quota Entity Revolving Loan Fund"})
-	fund_translate.push({capital:"1178 tracking", operating: "1178 tracking code"})
-	fund_translate.push({capital:"1112 IntAptCons", operating: "1112 International Airports Construction Fund"})
-	fund_translate.push({capital:"1188 Fed Unrstr", operating: "1188 Federal Unrestricted Receipts"})
-	fund_translate.push({capital:"1187 Fed MH", operating: "1187 Federal Mental Health"})
-	fund_translate.push({capital:"1190 Adak Ops", operating: "1190 Adak Airport Operations "})
-	fund_translate.push({capital:"1191 DEED CIP", operating: "1191 DEED CIP Fund Equity Account"})
-	fund_translate.push({capital:"1041 PF Earn Rs", operating: "1041 Permanent Fund Earnings Reserve Account"})
-	fund_translate.push({capital:"1054 Empl Trng", operating: "1054 State Employment & Training Program"})
-	fund_translate.push({capital:"1198 F&GRevBond", operating: "1198 Alaska Fish and Game Revenue Bond Redemption Fund"})
-	fund_translate.push({capital:"1062 Power Proj", operating: "1062 Power Project Loan Fund"})
-	fund_translate.push({capital:"1065 Rural Elec", operating: "1065 Rural Electrification Revolving Loan Fund"})
-	fund_translate.push({capital:"1056 Elect Svc", operating: "1056 Electrical Service Extension Fund"})
-	fund_translate.push({capital:"1075 Clean Wtr", operating: "1075 Alaska Clean Water Loan Fund"})
-	fund_translate.push({capital:"1079 Storg Tank", operating: "1079 Underground Storage Tank Revolving Loan Fund"})
-	fund_translate.push({capital:"1083 Educ Facil", operating: "1083 Education Facilities Maint & Construction"})
-	fund_translate.push({capital:"1085 Rail InTie", operating: "1085 Railbelt Intertie Reserve Fund"})
-	fund_translate.push({capital:"1087 Muni Match", operating: "1087 Municipal Matching Grant Fund"})
-	fund_translate.push({capital:"1101 AERO Rcpts", operating: "1101 Alaska Aerospace Development Corporation Receipts"})
-	fund_translate.push({capital:"1212 Fed ARRA", operating: "1212 Federal Stimulus: ARRA 2009"})
-	fund_translate.push({capital:"1052 Oil/Haz Fd", operating: "1052 Oil/Hazardous Prevention/Response Fund"})
-	fund_translate.push({capital:"1117 VocRandSh", operating: "1117 Randolph Sheppard Small Business Fund"})
-	fund_translate.push({capital:"1168 Tob Ed/Ces", operating: "1168 Tobacco Use Education and Cessation Fund"})
-	fund_translate.push({capital:"1172 Bldg Safe", operating: "1172 Building Safety Account"})
-	fund_translate.push({capital:"1176 Sci/T End", operating: "1176 Science and Technology Endowment Fund"})
-	fund_translate.push({capital:"1011 Educ Trust", operating: "1011 Alaska Advance College Tuition Payment Fund"})
-	fund_translate.push({capital:"1018 EVOSS", operating: "1018 Exxon Valdez Oil Spill Settlement"})
-	fund_translate.push({capital:"1020 Grain Fund", operating: "1020 Grain Reserve Loan Fund"})
-	fund_translate.push({capital:"1133 CSSD Reimb", operating: "1133 CSSD Administrative Cost Reimbursement"})
-	fund_translate.push({capital:"1175 BLic&Corp", operating: "1175 Business License and Corporation Filing Fees and Taxes"})
-	fund_translate.push({capital:"1199 SFEntAcct", operating: "1199 Alaska Sport Fishing Enterprise Account"})
-	fund_translate.push({capital:"1219 Emrng Tech", operating: "1219 Emerging Energy Technology Fund"})
-	fund_translate.push({capital:"1116 DisRlFd", operating: "1116 Disaster Relief Fund"})
-	fund_translate.push({capital:"1140 AIDEA Div", operating: "1140 AIDEA Dividend"})
-	fund_translate.push({capital:"1066 Pub School", operating: "1066 Public School Trust Fund"})
-	fund_translate.push({capital:"1030 School Fnd", operating: "1030 School Fund (Cigarette Tax)"})
-	fund_translate.push({capital:"1189 Sr Care", operating: "1189 Senior Care Fund"})
-	fund_translate.push({capital:"1200 VehRntlTax", operating: "1200 Vehicle Rental Tax Receipts"})
-	fund_translate.push({capital:"1201 CFEC Rcpts", operating: "1201 Commercial Fisheries Entry Commission Receipts"})
-	fund_translate.push({capital:"1202 Anatomical", operating: "1202 Anatomical Gift Awareness Fund"})
-	fund_translate.push({capital:"1155 Timber Rcp", operating: "1155 Timber Sale Receipts"})
-	fund_translate.push({capital:"1207 Cr Shp Imp", operating: "1207 Regional Cruise Ship Impact Fund"})
-	fund_translate.push({capital:"1208 BF Brdg LF", operating: "1208 Bulk Fuel Bridge Loan Fund"})
-	fund_translate.push({capital:"1209 Capstone", operating: "1209 Alaska Capstone Avionics Revolving Loan Fund"})
-	fund_translate.push({capital:"1210 Renew Ener", operating: "1210 Renewable Energy Grant Fund"})
-	fund_translate.push({capital:"1206 CPV Tax", operating: "1206 Commercial Passenger Vessel Tax"})
-	fund_translate.push({capital:"9000 Unkn UGF", operating: "9000 Unknown UGF Fund Source"})
-	fund_translate.push({capital:"9001 Unknwn Fed", operating: "9001 Unknown Federal Fund Source"})
-	fund_translate.push({capital:"9002 Unknwn Oth", operating: "9002 Unknown Other Fund Source"})
-	fund_translate.push({capital:"1211 CSG Tax", operating: "1211 Cruise Ship Gambling Tax"})
-	fund_translate.push({capital:"1171 PFD Crim", operating: "1171 Restorative Justice"})
-	fund_translate.push({capital:"1216 Boat Rcpts", operating: "1216 Boat Registration Fees"})
-	fund_translate.push({capital:"1215 UCR Rcpts", operating: "1215 Uniform Commercial Registration fees"})
-	fund_translate.push({capital:"1214 WhitTunnel", operating: "1214 Whittier Tunnel Toll Receipts"})
-	fund_translate.push({capital:"1217 NGF Earn", operating: "1217 NGF Earnings"})
-	fund_translate.push({capital:"1009 Rev Bonds", operating: "1009 Revenue Bonds"})
-	fund_translate.push({capital:"1220 Crime VCF", operating: "1220 Crime Victim Compensation Fund"})
-	fund_translate.push({capital:"1258 CIF UGF", operating: "1258 UGF Deposits to the CIF"})
-	fund_translate.push({capital:"1008 G/O Bonds", operating: "1008 General Obligation Bonds"})
-	fund_translate.push({capital:"1221 Civil Legl", operating: "1221 Civil Legal Services Fund"})
-	fund_translate.push({capital:"1001 CBR Fund", operating: "1001 Constitutional Budget Reserve Fund"})
-	fund_translate.push({capital:"1223 CharterRLF", operating: "1223 Commercial Charter Fisheries RLF"})
-	fund_translate.push({capital:"1080 Schl Const", operating: "1080 School Construction Fund"})
-	fund_translate.push({capital:"1047 Title 20", operating: "1047 Title XX"})
-	fund_translate.push({capital:"1120 MotorFuel ", operating: "1120 Motor Fuel Tax Increase"})
-	fund_translate.push({capital:"1226 High Ed", operating: "1226 Alaska Higher Education Investment Fund"})
-	fund_translate.push({capital:"1227 MicroRLF", operating: "1227 Alaska Microloan Revolving Loan Fund"})
-	fund_translate.push({capital:"1111 FishFndInc", operating: "1111 Fishermans Fund Income"})
-	fund_translate.push({capital:"1134 F&G CFP", operating: "1134 Fish and Game Criminal Fines and Penalties"})
-	fund_translate.push({capital:"1213 AHCC Rcpts", operating: "1213 Alaska Housing Capital Corporation Receipts"})
-	fund_translate.push({capital:"1180 Alcohol Fd", operating: "1180 Alcohol & Other Drug Abuse Treatment & Prevention Fund"})
-	fund_translate.push({capital:"1228 UGFSequest", operating: "1228 UGF Associated with Sequestration"})
-	fund_translate.push({capital:"1234 LicPlates", operating: "1234 License Plates"})
-	fund_translate.push({capital:"1244 Rural Air", operating: "1244 Rural Airport Receipts"})
-	fund_translate.push({capital:"1245 R Apt I/A", operating: "1245 Rural Airport Receipts I/A"})
-	fund_translate.push({capital:"1239 AvFuel Tax", operating: "1239 Aviation Fuel Tax Revenue"})
-	fund_translate.push({capital:"1275 Reapprop", operating: "1275 Reappropriation - Temporary to Match Leg Fin"})
+	department_list := []
+	department_list.push({abs_name: "Governor"						, readable_name:  "Office of the Governor"                                      })
+	department_list.push({abs_name: "Administration"				, readable_name:  "Department of Administration"                                })
+	department_list.push({abs_name: "Law"							, readable_name:  "Department of Law"                                           })
+	department_list.push({abs_name: "Revenue"						, readable_name:  "Department of Revenue"                                       })
+	department_list.push({abs_name: "Educ & Early Devel"			, readable_name:  "Department of Education & Early Development"  				})
+	department_list.push({abs_name: "Health & Social Services"		, readable_name:  "Department of Health & Social Services"                      })
+	department_list.push({abs_name: "Health"          				, readable_name:  "Department of Health"										})
+	department_list.push({abs_name: "Family & Community Services"  	, readable_name:  "Department of Family & Community Services"					})
+	department_list.push({abs_name: "Labor & Workforce"				, readable_name:  "Department of Labor & Workforce Development"                 })
+	department_list.push({abs_name: "Commerce"						, readable_name:  "Department of Commerce, Community, and Economic Development" })
+	department_list.push({abs_name: "Military & Veterans Affairs"	, readable_name:  "Department of Military & Veterans Affairs"                   })
+	department_list.push({abs_name: "Natural Resources"				, readable_name:  "Department of Natural Resources"                             })
+	department_list.push({abs_name: "Fish & Game"					, readable_name:  "Department of Fish & Game"                                   })
+	department_list.push({abs_name: "Public Safety"					, readable_name:  "Department of Public Safety"                                 })
+	department_list.push({abs_name: "Environ Conservation"			, readable_name:  "Department of Environmental Conservation"                    })
+	department_list.push({abs_name: "Corrections"					, readable_name:  "Department of Corrections"                                   })
+	department_list.push({abs_name: "Transportation"				, readable_name:  "Department of Transportation & Public Facilities"            })
+	department_list.push({abs_name: "Branch-wide Appropriations"	, readable_name:  "Branch-wide Appropriations"           						})
+	department_list.push({abs_name: "Legislature"					, readable_name:  "Legislature"                                                 })
+	department_list.push({abs_name: "Debt Service"					, readable_name:  "Debt Service"                                                })
+	department_list.push({abs_name: "Judiciary"						, readable_name:  "Judiciary"                                                   })
+	department_list.push({abs_name: "University of Alaska"			, readable_name:  "University of Alaska"                                        })
+	department_list.push({abs_name: "Fund Capitalization"			, readable_name:  "Fund Capitalization"                                         })
+	department_list.push({abs_name: "State Retirement Payments"		, readable_name:  "State Retirement Payments"                                   })
+	department_list.push({abs_name: "Special Appropriations"		, readable_name:  "Special Appropriations"                                      })
+	department_list.push({abs_name: "Fund Transfers"				, readable_name:  "Fund Transfers"                                              })
+	department_list.push({abs_name: "Permanent Fund"				, readable_name:  "Permanent Fund Dividend"                                     })
+	
+	; Capital cleanup converts those names to these abs_names.... above
+	
+	for key, department_list_object in department_list
+	{
+		department_list_object.folder_name := StrReplace( StrReplace( Format( "{:L}", department_list_object.abs_name ), A_Space, "-"), "&", "and" )
+	}
 }
 InitializeColors()
 {
@@ -2182,7 +1893,6 @@ InitializeColors()
 			}
 		}
 	}
-
 	; LINK COLORS
 	link_color_list := []
 	
@@ -2190,193 +1900,609 @@ InitializeColors()
 	link_color_list.Push([])
 	
 	; SAME FOR ALL
-	link_color_list[i].push({link_label: "Expenditure"									, link_color: "rgba(160,0,0,0.2)"  			}) ;
-	link_color_list[i].push({link_label: "Permanent Part-Time"							, link_color: "rgba(0,0,96,0.2)"  			}) ;
-	link_color_list[i].push({link_label: "Permanent Full-Time"							, link_color: "rgba(0,0,96,0.2)"  			}) ;
-	link_color_list[i].push({link_label: "Non-Permanent"								, link_color: "rgba(0,0,96,0.2)"  			}) ;
+	link_color_list[i].push({link_label: "Expenditure"					, link_color: "rgba(160,0,0,0.2)"  			}) ;
+
+	link_color_list[i].push({link_label: "Permanent Part-Time"			, link_color: "rgba(0,0,96,0.2)"  			}) ;
+	link_color_list[i].push({link_label: "Permanent Full-Time"			, link_color: "rgba(0,0,96,0.2)"  			}) ;
+	link_color_list[i].push({link_label: "Non-Permanent"				, link_color: "rgba(0,0,96,0.2)"  			}) ;
 	
 	; OMB Colors 21 Holland
-	;link_color_list[i].push({link_label: "Designated General Funds"						, link_color: "rgba(237,125,49,0.2)"    	}) ;
-	;link_color_list[i].push({link_label: "Federal Funds"								, link_color: "rgba(255,192,0,0.2)"    		}) ;
-	;link_color_list[i].push({link_label: "Other Funds"								, link_color: "rgba(166,166,166,0.2)"    	}) ;
-	;link_color_list[i].push({link_label: "Unrestricted General Funds"					, link_color: "rgba(68,114,196,0.2)"    	}) ;
+	;link_color_list[i].push({link_label: "Designated General Funds"	, link_color: "rgba(237,125,49,0.2)"    	}) ;
+	;link_color_list[i].push({link_label: "Federal Funds"				, link_color: "rgba(255,192,0,0.2)"    		}) ;
+	;link_color_list[i].push({link_label: "Other Funds"					, link_color: "rgba(166,166,166,0.2)"    	}) ;
+	;link_color_list[i].push({link_label: "Unrestricted General Funds"	, link_color: "rgba(68,114,196,0.2)"    	}) ;
 	
 	; OMB Colors 22 Steinenger
-	;link_color_list[i].push({link_label: "Designated General Funds"						, link_color: "rgba(255,192,0,0.2)"    		}) ;
-	link_color_list[i].push({link_label: "Designated General Funds"						, link_color: "rgba(255,147,0,0.2)"    		}) ;
-	link_color_list[i].push({link_label: "Federal Funds"								, link_color: "rgba(63,120,167,0.2)"    	}) ;
-	;link_color_list[i].push({link_label: "Other Funds"								, link_color: "rgba(165,165,165,0.2)"    	}) ;
-	link_color_list[i].push({link_label: "Other Funds"								, link_color: "rgba(100,100,100,0.2)"    	}) ;
-	link_color_list[i].push({link_label: "Unrestricted General Funds"					, link_color: "rgba(0,32,96,0.2)"    		}) ;
+	;link_color_list[i].push({link_label: "Designated General Funds"	, link_color: "rgba(255,192,0,0.2)"    		}) ;
+	link_color_list[i].push({link_label: "Designated General Funds"		, link_color: "rgba(255,147,0,0.2)"    		}) ;
+	link_color_list[i].push({link_label: "Federal Funds"				, link_color: "rgba(63,120,167,0.2)"    	}) ;
+	;link_color_list[i].push({link_label: "Other Funds"					, link_color: "rgba(165,165,165,0.2)"    	}) ;
+	link_color_list[i].push({link_label: "Other Funds"					, link_color: "rgba(100,100,100,0.2)"    	}) ;
+	link_color_list[i].push({link_label: "Unrestricted General Funds"	, link_color: "rgba(0,32,96,0.2)"    		}) ;
 	
 }
-sankey_object_column_number(column_name)
+;=======================================================================|
+initialize_fund_translation()
 {
-    global sankey_object
-    for index, value in sankey_object.nodes.columns
-	{
-		if (value.column_name = column_name)
-			return index
-	}
-}
-
-sankey_object_node_id(column_name, node_name)
-{
-    global sankey_object
-    for index, value in sankey_object.nodes.columns[sankey_object_column_number(column_name)].rows
-    {
-        if (value.node_name = node_name)
-            return value.node_id
-    }
-    MsgBox('sankey_object_node_id: unable to provide a node id for "' node_name '" in "' column_name '"')
-	FileAppend(ObjectToString(sankey_object, "`t"), "Error_" a_now ".txt",)
-}
-sankey_object_column_rows(column_name)
-{
-    global sankey_object
-    for index, value in sankey_object.nodes.columns
-	{
-		if (value.column_name = column_name)
-			return value.rows
-	}
-}
-translate_fund_to_operating(cap_fund_search)
-{
-    global fund_translate
-	if cap_fund_search = ""
-		msgbox(A_ThisFunc 'search param cannot be blank')
-    for index, value in fund_translate
-	{
-		if (value.capital = cap_fund_search)
-			return value.operating
-	}
-	msgbox(A_ThisFunc ': could not translate fund, "' cap_fund_search '".')
-	return cap_fund_search
-}
-HasNodeId(needle, haystack) {
-	if !(IsObject(haystack)) || (haystack.Length = 0)
-		return false
-	for index, value in haystack
-		if (value = needle)
-			return true
-	return false
-}
-HasVal(needle, haystack) {
-	if !(IsObject(haystack)) || (haystack.Length = 0)
-		return false
-	for index, value in haystack
-		if (value = needle)
-			return true
-	return false
-}
-HasHyperLinkVal(needle, haystack) {
-	if !(IsObject(haystack)) || (haystack.Length = 0)
-		return false
-	for index, value in haystack
-		if (value.id = needle)
-			return true
-	return false
-}
-NodeRowNumber(needle, haystack) {
-	if !(IsObject(haystack)) || (haystack.Length = 0)
-		return false
-	for index, value in haystack
-		if (value.node_name = needle)
-			return index
-	return false
-}
-NodeID(needle, haystack) {
-	if !(IsObject(haystack)) || (haystack.Length = 0)
-		return false
-	for index, value in haystack
-		if (value.node_name = needle)
-			return value.node_id
-	return false
-}
-LinkColor(needle, haystack) {
-	if !(IsObject(haystack)) || (haystack.Length = 0)
-		return false
-	for index, value in haystack
-		if (value.link_label = needle)
-			return value.link_color
-	msgbox(A_ThisFunc ': no needle found: "' needle '"')
-	return "rgba(0,0,96,0.2)"
-}
-NodeColor(needle, haystack) {
-	global abs_department_name, this_plot_name
-	
-	if !(IsObject(haystack)) || (haystack.Length = 0)
-		return false
-	
-	if (instr(this_plot_name, "overview"))
-	{
-		for index, value in haystack
-		{
-			if (value.node_label = needle)
-				return value.node_color
-		}
-	}
-	
-	for index, value in haystack
-	{
-		if (HasProp(value, "node_department"))
-        {
-            if (value.node_label = needle AND value.node_department = abs_department_name)
-			    return value.node_color
-        }
-	}
-		
-	for index, value in haystack
-	{
-		if (value.node_label = needle)
-			return value.node_color
-	}
-		
-	if (instr(this_plot_name, "capital"))
-		return "rgb(160,0,0)"
-	
-	if needle != ""
-		msgbox(A_ThisFunc ': no needle found: "' needle '"')
-	
-	return "rgb(120,120,120)"
-}
-InitializeDepartments()
-{
-	;This is the order they will appear in the index.
+	; ideally funds are all recuced to codes in the data bast and labels are inferred seperately, for future...
 	global
-	department_list := []
-	department_list.push({abs_name: "Governor"						, readable_name:  "Office of the Governor"                                      })
-	department_list.push({abs_name: "Administration"				, readable_name:  "Department of Administration"                                })
-	department_list.push({abs_name: "Law"							, readable_name:  "Department of Law"                                           })
-	department_list.push({abs_name: "Revenue"						, readable_name:  "Department of Revenue"                                       })
-	department_list.push({abs_name: "Educ & Early Devel"			, readable_name:  "Department of Education & Early Development"  				})
-	department_list.push({abs_name: "Health & Social Services"		, readable_name:  "Department of Health & Social Services"                      })
-	department_list.push({abs_name: "Health"          				, readable_name:  "Department of Health"										})
-	department_list.push({abs_name: "Family & Community Services"  	, readable_name:  "Department of Family & Community Services"					})
-	department_list.push({abs_name: "Labor & Workforce"				, readable_name:  "Department of Labor & Workforce Development"                 })
-	department_list.push({abs_name: "Commerce"						, readable_name:  "Department of Commerce, Community, and Economic Development" })
-	department_list.push({abs_name: "Military & Veterans Affairs"	, readable_name:  "Department of Military & Veterans Affairs"                   })
-	department_list.push({abs_name: "Natural Resources"				, readable_name:  "Department of Natural Resources"                             })
-	department_list.push({abs_name: "Fish & Game"					, readable_name:  "Department of Fish & Game"                                   })
-	department_list.push({abs_name: "Public Safety"					, readable_name:  "Department of Public Safety"                                 })
-	department_list.push({abs_name: "Environ Conservation"			, readable_name:  "Department of Environmental Conservation"                    })
-	department_list.push({abs_name: "Corrections"					, readable_name:  "Department of Corrections"                                   })
-	department_list.push({abs_name: "Transportation"				, readable_name:  "Department of Transportation & Public Facilities"            })
-	department_list.push({abs_name: "Branch-wide Appropriations"	, readable_name:  "Branch-wide Appropriations"           						})
-	department_list.push({abs_name: "Legislature"					, readable_name:  "Legislature"                                                 })
-	department_list.push({abs_name: "Debt Service"					, readable_name:  "Debt Service"                                                })
-	department_list.push({abs_name: "Judiciary"						, readable_name:  "Judiciary"                                                   })
-	department_list.push({abs_name: "University of Alaska"			, readable_name:  "University of Alaska"                                        })
-	department_list.push({abs_name: "Fund Capitalization"			, readable_name:  "Fund Capitalization"                                         })
-	department_list.push({abs_name: "State Retirement Payments"		, readable_name:  "State Retirement Payments"                                   })
-	department_list.push({abs_name: "Special Appropriations"		, readable_name:  "Special Appropriations"                                      })
-	department_list.push({abs_name: "Fund Transfers"				, readable_name:  "Fund Transfers"                                              })
-	department_list.push({abs_name: "Permanent Fund"				, readable_name:  "Permanent Fund Dividend"                                     })
-	
-	; Capital cleanup converts those names to these abs_names.... above
-	
-	for key, department_list_object in department_list
-	{
-		department_list_object.folder_name := StrReplace( StrReplace( Format( "{:L}", department_list_object.abs_name ), A_Space, "-"), "&", "and" )
-	}
+	fund_translate := []
+
+	; omb cleanup 2024.06.18, this must be first. This is from excel file in /resources/omb fund codes/
+	fund_translate.push({capital:"1000", operating: "1000 Restricted General Fund"})
+	fund_translate.push({capital:"1001", operating: "1001 Constitutional Budget Reserve Fund"})
+	fund_translate.push({capital:"1002", operating: "1002 Federal Receipts"})
+	fund_translate.push({capital:"1003", operating: "1003 General Fund Match"})
+	fund_translate.push({capital:"1004", operating: "1004 Unrestricted General Fund Receipts"})
+	fund_translate.push({capital:"1005", operating: "1005 General Fund/Program Receipts"})
+	fund_translate.push({capital:"1006", operating: "1006 General Fund/Mental Health Trust"})
+	fund_translate.push({capital:"1007", operating: "1007 Interagency Receipts"})
+	fund_translate.push({capital:"1008", operating: "1008 General Obligation Bonds"})
+	fund_translate.push({capital:"1009", operating: "1009 Revenue Bonds"})
+	fund_translate.push({capital:"1010", operating: "1010 University of Alaska Interest Income"})
+	fund_translate.push({capital:"1011", operating: "1011 Alaska Advance College Tuition Payment Fund"})
+	fund_translate.push({capital:"1012", operating: "1012 Railbelt Energy Fund"})
+	fund_translate.push({capital:"1013", operating: "1013 Alcoholism and Drug Abuse Revolving Loan Fund"})
+	fund_translate.push({capital:"1014", operating: "1014 Donated Commodity/Handling Fee Account"})
+	fund_translate.push({capital:"1015", operating: "1015 U/A Dormitory/Food/Auxiliary Service"})
+	fund_translate.push({capital:"1016", operating: "1016 CSSD Federal Incentive Payments"})
+	fund_translate.push({capital:"1017", operating: "1017 Group Health and Life Benefits Fund"})
+	fund_translate.push({capital:"1018", operating: "1018 Exxon Valdez Oil Spill Trust--Civil"})
+	fund_translate.push({capital:"1019", operating: "1019 Reforestation Fund"})
+	fund_translate.push({capital:"1020", operating: "1020 Grain Reserve Loan Fund"})
+	fund_translate.push({capital:"1021", operating: "1021 Agricultural Revolving Loan Fund"})
+	fund_translate.push({capital:"1022", operating: "1022 State Corporation Receipts"})
+	fund_translate.push({capital:"1023", operating: "1023 FICA Administration Fund Account"})
+	fund_translate.push({capital:"1024", operating: "1024 Fish and Game Fund"})
+	fund_translate.push({capital:"1025", operating: "1025 Science & Technology Endowment Income"})
+	fund_translate.push({capital:"1026", operating: "1026 Highways Equipment Working Capital Fund"})
+	fund_translate.push({capital:"1027", operating: "1027 International Airports Revenue Fund"})
+	fund_translate.push({capital:"1028", operating: "1028 Pre-FY90 Program Receipts"})
+	fund_translate.push({capital:"1029", operating: "1029 Public Employees Retirement Trust Fund"})
+	fund_translate.push({capital:"1030", operating: "1030 School Fund"})
+	fund_translate.push({capital:"1031", operating: "1031 Second Injury Fund Reserve Account"})
+	fund_translate.push({capital:"1032", operating: "1032 Fishermen's Fund"})
+	fund_translate.push({capital:"1033", operating: "1033 Surplus Federal Property Revolving Fund"})
+	fund_translate.push({capital:"1034", operating: "1034 Teachers Retirement Trust Fund"})
+	fund_translate.push({capital:"1035", operating: "1035 Veterans Revolving Loan Fund"})
+	fund_translate.push({capital:"1036", operating: "1036 Commercial Fishing Loan Fund"})
+	fund_translate.push({capital:"1037", operating: "1037 General Fund / Mental Health"})
+	fund_translate.push({capital:"1038", operating: "1038 U/A Student Tuition/Fees/Services"})
+	fund_translate.push({capital:"1039", operating: "1039 Unallocated Indirect Cost Recovery"})
+	fund_translate.push({capital:"1040", operating: "1040 Real Estate Recovery Fund"})
+	fund_translate.push({capital:"1041", operating: "1041 Permanent Fund Earnings Reserve Account"})
+	fund_translate.push({capital:"1042", operating: "1042 Judicial Retirement System"})
+	fund_translate.push({capital:"1043", operating: "1043 Federal Impact Aid for K-12 Schools"})
+	fund_translate.push({capital:"1044", operating: "1044 Alaska Debt Retirement Fund"})
+	fund_translate.push({capital:"1045", operating: "1045 National Guard & Naval Militia Retirement System"})
+	fund_translate.push({capital:"1046", operating: "1046 Student Revolving Loan Fund"})
+	fund_translate.push({capital:"1047", operating: "1047 Title XX"})
+	fund_translate.push({capital:"1048", operating: "1048 University of Alaska Restricted Receipts"})
+	fund_translate.push({capital:"1049", operating: "1049 Training and Building Fund"})
+	fund_translate.push({capital:"1050", operating: "1050 Permanent Fund Dividend Fund"})
+	fund_translate.push({capital:"1051", operating: "1051 Rural Economic Development Initiative Fund"})
+	fund_translate.push({capital:"1052", operating: "1052 Oil/Hazardous Release Prevention & Response Fund"})
+	fund_translate.push({capital:"1053", operating: "1053 Investment Loss Trust Fund"})
+	fund_translate.push({capital:"1054", operating: "1054 Employment Assistance and Training Program Account"})
+	fund_translate.push({capital:"1055", operating: "1055 Interagency/Oil & Hazardous Waste"})
+	fund_translate.push({capital:"1056", operating: "1056 Electrical Service Extension Fund"})
+	fund_translate.push({capital:"1057", operating: "1057 Small Business Loan Fund"})
+	fund_translate.push({capital:"1058", operating: "1058 Tourism Revolving Loan Fund"})
+	fund_translate.push({capital:"1059", operating: "1059 Correctional Industries Fund"})
+	fund_translate.push({capital:"1060", operating: "1060 Other Funds (Pre-FY '84 Only)"})
+	fund_translate.push({capital:"1061", operating: "1061 Capital Improvement Project Receipts"})
+	fund_translate.push({capital:"1062", operating: "1062 Power Project Loan Fund"})
+	fund_translate.push({capital:"1063", operating: "1063 National Petroleum Reserve-Alaska Special Revenue Fund"})
+	fund_translate.push({capital:"1064", operating: "1064 Housing Assistance Loan Fund"})
+	fund_translate.push({capital:"1065", operating: "1065 Rural Electrification Revolving Loan Fund"})
+	fund_translate.push({capital:"1066", operating: "1066 Public School Trust Fund"})
+	fund_translate.push({capital:"1067", operating: "1067 Mining Revolving Loan Fund"})
+	fund_translate.push({capital:"1068", operating: "1068 Child Care Revolving Loan Fund"})
+	fund_translate.push({capital:"1069", operating: "1069 Historical District Revolving Loan Fund"})
+	fund_translate.push({capital:"1070", operating: "1070 Fisheries Enhancement Revolving Loan Fund"})
+	fund_translate.push({capital:"1071", operating: "1071 Alternative Energy Revolving Loan Fund"})
+	fund_translate.push({capital:"1072", operating: "1072 Residential Energy Conservation Loan Fund"})
+	fund_translate.push({capital:"1073", operating: "1073 Power Development Revolving Loan Fund"})
+	fund_translate.push({capital:"1074", operating: "1074 Bulk Fuel Revolving Loan Fund"})
+	fund_translate.push({capital:"1075", operating: "1075 Alaska Clean Water Fund"})
+	fund_translate.push({capital:"1076", operating: "1076 Alaska Marine Highway System Fund"})
+	fund_translate.push({capital:"1077", operating: "1077 Gifts/Grants/Bequests"})
+	fund_translate.push({capital:"1078", operating: "1078 Senior Housing Loan Fund"})
+	fund_translate.push({capital:"1079", operating: "1079 Underground Storage Tank Revolving Loan Fund"})
+	fund_translate.push({capital:"1080", operating: "1080 School Construction Fund"})
+	fund_translate.push({capital:"1081", operating: "1081 Information Services Fund"})
+	fund_translate.push({capital:"1082", operating: "1082 AMHS Vessel Replacement Fund"})
+	fund_translate.push({capital:"1083", operating: "1083 Education Facilities Maint & Construction"})
+	fund_translate.push({capital:"1084", operating: "1084 Alyeska Settlement Fund"})
+	fund_translate.push({capital:"1085", operating: "1085 Railbelt Intertie Reserve Fund"})
+	fund_translate.push({capital:"1086", operating: "1086 Southeast Energy Fund"})
+	fund_translate.push({capital:"1087", operating: "1087 Municipal Matching Grant Fund"})
+	fund_translate.push({capital:"1088", operating: "1088 Unincorporated Matching Grant Fund"})
+	fund_translate.push({capital:"1089", operating: "1089 Power Cost Equalization Fund"})
+	fund_translate.push({capital:"1090", operating: "1090 Four Dam Pool Transfer Fund"})
+	fund_translate.push({capital:"1091", operating: "1091 General Funds - Designated"})
+	fund_translate.push({capital:"1092", operating: "1092 Mental Health Trust Authority Authorized Receipts"})
+	fund_translate.push({capital:"1093", operating: "1093 Clean Air Protection Fund"})
+	fund_translate.push({capital:"1094", operating: "1094 Mental Health Trust Administration"})
+	fund_translate.push({capital:"1095", operating: "1095 Medical Facilities Authority Fund"})
+	fund_translate.push({capital:"1096", operating: "1096 Investment Loss Trust Fund (DO NOT USE)"})
+	fund_translate.push({capital:"1097", operating: "1097 Group Health and Life Benefits Fund (AS 39.30.095)"})
+	fund_translate.push({capital:"1098", operating: "1098 Children's Trust Earnings"})
+	fund_translate.push({capital:"1099", operating: "1099 Children's Trust Principal"})
+	fund_translate.push({capital:"1100", operating: "1100 Alaska Drinking Water Fund"})
+	fund_translate.push({capital:"1101", operating: "1101 Alaska Aerospace Corporation Fund"})
+	fund_translate.push({capital:"1102", operating: "1102 Alaska Industrial Development & Export Authority Receipts"})
+	fund_translate.push({capital:"1103", operating: "1103 Alaska Housing Finance Corporation Receipts"})
+	fund_translate.push({capital:"1104", operating: "1104 Alaska Municipal Bond Bank Receipts"})
+	fund_translate.push({capital:"1105", operating: "1105 Permanent Fund Corporation Gross Receipts"})
+	fund_translate.push({capital:"1106", operating: "1106 Alaska Student Loan Corporation Receipts"})
+	fund_translate.push({capital:"1107", operating: "1107 Alaska Energy Authority Corporate Receipts"})
+	fund_translate.push({capital:"1108", operating: "1108 Statutory Designated Program Receipts"})
+	fund_translate.push({capital:"1109", operating: "1109 Test Fisheries Receipts"})
+	fund_translate.push({capital:"1110", operating: "1110 Alaska Public Utility Commission"})
+	fund_translate.push({capital:"1111", operating: "1111 Fishermans Fund Income"})
+	fund_translate.push({capital:"1112", operating: "1112 International Airports Construction Fund"})
+	fund_translate.push({capital:"1113", operating: "1113 Alaska Housing Finance Corporation Statewide Bonds"})
+	fund_translate.push({capital:"1114", operating: "1114 Exxon Valdez Oil Spill Restoration Fund"})
+	fund_translate.push({capital:"1115", operating: "1115 International Trade and Business Endowment Income"})
+	fund_translate.push({capital:"1116", operating: "1116 Disaster Relief Fund"})
+	fund_translate.push({capital:"1117", operating: "1117 Randolph Sheppard Small Business Fund"})
+	fund_translate.push({capital:"1118", operating: "1118 Pioneers' Homes Receipts"})
+	fund_translate.push({capital:"1119", operating: "1119 Tobacco Settlement"})
+	fund_translate.push({capital:"1120", operating: "1120 Motor Fuel Tax Increase"})
+	fund_translate.push({capital:"1121", operating: "1121 Multiple Funds pre FY94"})
+	fund_translate.push({capital:"1122", operating: "1122 License/Permits/Certification Pre 89"})
+	fund_translate.push({capital:"1123", operating: "1123 Care and Treatment - FY88"})
+	fund_translate.push({capital:"1124", operating: "1124 Resource Assessment Receipts - FY88"})
+	fund_translate.push({capital:"1125", operating: "1125 APA Plant Maintenance & Operation - FY88"})
+	fund_translate.push({capital:"1126", operating: "1126 Contract Services Reimbursement - FY88"})
+	fund_translate.push({capital:"1127", operating: "1127 User Fees - FY88"})
+	fund_translate.push({capital:"1128", operating: "1128 Child Support Enforcement - FY88"})
+	fund_translate.push({capital:"1129", operating: "1129 Legal Settlement Receipts - FY88"})
+	fund_translate.push({capital:"1130", operating: "1130 Handicapped Vendor Facility Fund - FY88"})
+	fund_translate.push({capital:"1131", operating: "1131 Alaska Railroad Revenue Fund - FY85, FY86, FY87"})
+	fund_translate.push({capital:"1132", operating: "1132 Publications and Other Services - FY88"})
+	fund_translate.push({capital:"1133", operating: "1133 CSSD Administrative Cost Reimbursement"})
+	fund_translate.push({capital:"1134", operating: "1134 Fish and Game Criminal Fines and Penalties"})
+	fund_translate.push({capital:"1135", operating: "1135 Marine Highway Duplicated Expenditures"})
+	fund_translate.push({capital:"1136", operating: "1136 Inactive-SBS Inter Agency Receipts"})
+	fund_translate.push({capital:"1137", operating: "1137 Inactive-Deferred Compensation Inter Agency Receipts"})
+	fund_translate.push({capital:"1138", operating: "1138 Inactive-Health Inter-Agency Receipts"})
+	fund_translate.push({capital:"1139", operating: "1139 Alaska Housing Finance Corporation Dividend"})
+	fund_translate.push({capital:"1140", operating: "1140 Alaska Industrial Development and Export Authority Dividend"})
+	fund_translate.push({capital:"1141", operating: "1141 Regulatory Commission of Alaska Receipts"})
+	fund_translate.push({capital:"1142", operating: "1142 Retiree Health Ins Fund/Major Medical"})
+	fund_translate.push({capital:"1143", operating: "1143 Retiree Health Ins Fund/Long-Term Care Fund"})
+	fund_translate.push({capital:"1144", operating: "1144 Clean Water Fund Bond Receipts"})
+	fund_translate.push({capital:"1145", operating: "1145 Art in Public Places Fund"})
+	fund_translate.push({capital:"1146", operating: "1146 Inactive-Fee Supported Increase"})
+	fund_translate.push({capital:"1147", operating: "1147 Public Building Fund"})
+	fund_translate.push({capital:"1148", operating: "1148 Accelerated Alaska Transportation Projects Fund"})
+	fund_translate.push({capital:"1149", operating: "1149 Trans-Alaska Pipeline Liability Fund"})
+	fund_translate.push({capital:"1150", operating: "1150 Alaska Student Loan Corporatin Dividend"})
+	fund_translate.push({capital:"1151", operating: "1151 Technical Vocational Education Program Account"})
+	fund_translate.push({capital:"1152", operating: "1152 AK Fire Standards Council Receipts"})
+	fund_translate.push({capital:"1153", operating: "1153 State Land Disposal Income Fund"})
+	fund_translate.push({capital:"1154", operating: "1154 Shore Fisheries Development Lease Program"})
+	fund_translate.push({capital:"1155", operating: "1155 Timber Sale Receipts"})
+	fund_translate.push({capital:"1156", operating: "1156 Receipt Supported Services"})
+	fund_translate.push({capital:"1157", operating: "1157 Workers Safety and Compensation Administration Account"})
+	fund_translate.push({capital:"1158", operating: "1158 Inactive Don't Use Employee Pay"})
+	fund_translate.push({capital:"1159", operating: "1159 Drinking Water Fund Bond Receipts"})
+	fund_translate.push({capital:"1160", operating: "1160 Marine/Coastal Protection-Inactive"})
+	fund_translate.push({capital:"1161", operating: "1161 Renewable Resources Development Fund-Inactive"})
+	fund_translate.push({capital:"1162", operating: "1162 Alaska Oil & Gas Conservation Commission Receipts"})
+	fund_translate.push({capital:"1163", operating: "1163 Certificates of Participation"})
+	fund_translate.push({capital:"1164", operating: "1164 Rural Development Initiative Fund"})
+	fund_translate.push({capital:"1165", operating: "1165 CBR/Mental Health"})
+	fund_translate.push({capital:"1166", operating: "1166 Commercial Passenger Vessel Environmental Compliance Fund"})
+	fund_translate.push({capital:"1167", operating: "1167 Northern Tobacco Securitization Corporation Bonds"})
+	fund_translate.push({capital:"1168", operating: "1168 Tobacco Use Education and Cessation Fund"})
+	fund_translate.push({capital:"1169", operating: "1169 Power Cost Equalization Endowment Fund"})
+	fund_translate.push({capital:"1170", operating: "1170 Small Business Economic Development Revolving Loan Fund"})
+	fund_translate.push({capital:"1171", operating: "1171 Restorative Justice Account"})
+	fund_translate.push({capital:"1172", operating: "1172 Building Safety Account"})
+	fund_translate.push({capital:"1173", operating: "1173 GF Miscellaneous Earnings"})
+	fund_translate.push({capital:"1174", operating: "1174 University of Alaska Intra-Agency Transfers"})
+	fund_translate.push({capital:"1175", operating: "1175 Business License and Corporation Filing Fees and Taxes"})
+	fund_translate.push({capital:"1176", operating: "1176 Science and Technology Endowment Fund"})
+	fund_translate.push({capital:"1177", operating: "1177 International Trade and Business Endowment"})
+	fund_translate.push({capital:"1178", operating: "1178 temporary code"})
+	fund_translate.push({capital:"1179", operating: "1179 Passenger Facility Charges"})
+	fund_translate.push({capital:"1180", operating: "1180 Alcohol and Other Drug Abuse Treatment & Prevention Fund"})
+	fund_translate.push({capital:"1181", operating: "1181 Alaska Veterans' Memorial Endowment Fund"})
+	fund_translate.push({capital:"1182", operating: "1182 Educational and Museum Facility Design/Const/MajorMaint Fund"})
+	fund_translate.push({capital:"1183", operating: "1183 Transportation Project Fund"})
+	fund_translate.push({capital:"1184", operating: "1184 General Obligation Bond Debt Service Fund"})
+	fund_translate.push({capital:"1185", operating: "1185 Election Fund (HAVA)"})
+	fund_translate.push({capital:"1186", operating: "1186 Alaska Student Loan Corporation Bond Proceeds"})
+	fund_translate.push({capital:"1187", operating: "1187 Federal Mental Health"})
+	fund_translate.push({capital:"1188", operating: "1188 Federal Unrestricted Receipts"})
+	fund_translate.push({capital:"1189", operating: "1189 Senior Care Fund"})
+	fund_translate.push({capital:"1190", operating: "1190 Adak Airport Operations"})
+	fund_translate.push({capital:"1191", operating: "1191 DEED CIP Fund Equity Account"})
+	fund_translate.push({capital:"1192", operating: "1192 Mine Reclamation Trust Fund"})
+	fund_translate.push({capital:"1193", operating: "1193 Major Maintenance Grant Fund"})
+	fund_translate.push({capital:"1194", operating: "1194 Fish and Game Nondedicated Receipts"})
+	fund_translate.push({capital:"1195", operating: "1195 Snow Machine Registration Receipts"})
+	fund_translate.push({capital:"1196", operating: "1196 Master Lease Line of Credit"})
+	fund_translate.push({capital:"1197", operating: "1197 Alaska Capital Income Fund"})
+	fund_translate.push({capital:"1198", operating: "1198 Alaska Fish and Game Revenue Bond Redemption Fund"})
+	fund_translate.push({capital:"1199", operating: "1199 Alaska Sport Fishing Enterprise Account"})
+	fund_translate.push({capital:"1200", operating: "1200 Vehicle Rental Tax Receipts"})
+	fund_translate.push({capital:"1201", operating: "1201 Commercial Fisheries Entry Commission Receipts"})
+	fund_translate.push({capital:"1202", operating: "1202 Anatomical Gift Awareness Fund"})
+	fund_translate.push({capital:"1203", operating: "1203 Workers' Compensation Benefits Guarantee Fund"})
+	fund_translate.push({capital:"1205", operating: "1205 Berth Fees for the Ocean Ranger Program"})
+	fund_translate.push({capital:"1206", operating: "1206 Commercial Vessel Passenger Excise Tax"})
+	fund_translate.push({capital:"1207", operating: "1207 Regional Cruise Ship Impact Fund"})
+	fund_translate.push({capital:"1208", operating: "1208 Bulk Fuel Bridge Loan Fund"})
+	fund_translate.push({capital:"1209", operating: "1209 Alaska Capstone Avionics Revolving Loan Fund"})
+	fund_translate.push({capital:"1210", operating: "1210 Renewable Energy Grant Fund"})
+	fund_translate.push({capital:"1211", operating: "1211 Cruise Ship Gambling Tax"})
+	fund_translate.push({capital:"1212", operating: "1212 Federal Stimulus: ARRA 2009"})
+	fund_translate.push({capital:"1213", operating: "1213 Alaska Housing Capital Corporation Receipts"})
+	fund_translate.push({capital:"1214", operating: "1214 Whittier Tunnel Toll Receipts"})
+	fund_translate.push({capital:"1215", operating: "1215 Unified Carrier Registration Receipts"})
+	fund_translate.push({capital:"1216", operating: "1216 Boat Registration Fees"})
+	fund_translate.push({capital:"1217", operating: "1217 Non-GF Miscellaneous Earnings"})
+	fund_translate.push({capital:"1218", operating: "1218 AS 37.05.146(c) codes that are not GFPR"})
+	fund_translate.push({capital:"1219", operating: "1219 Emerging Energy Technology Fund"})
+	fund_translate.push({capital:"1220", operating: "1220 Crime Victim Compensation Fund"})
+	fund_translate.push({capital:"1221", operating: "1221 Civil Legal Services Fund"})
+	fund_translate.push({capital:"1222", operating: "1222 REAA and Small Municipal School District School Fund"})
+	fund_translate.push({capital:"1223", operating: "1223 Commercial Charter Fisheries RLF"})
+	fund_translate.push({capital:"1224", operating: "1224 Mariculture Revolving Loan Fund"})
+	fund_translate.push({capital:"1225", operating: "1225 Community Quota Entity Revolving Loan Fund"})
+	fund_translate.push({capital:"1226", operating: "1226 Alaska Higher Education Investment Fund"})
+	fund_translate.push({capital:"1227", operating: "1227 Alaska Microloan Revolving Loan Fund"})
+	fund_translate.push({capital:"1228", operating: "1228 UGF Associated with Sequestration"})
+	fund_translate.push({capital:"1229", operating: "1229 In-State Natural Gas Pipeline Fund"})
+	fund_translate.push({capital:"1230", operating: "1230 Alaska Clean Water Administrative Fund"})
+	fund_translate.push({capital:"1231", operating: "1231 Alaska Drinking Water Administrative Fund"})
+	fund_translate.push({capital:"1232", operating: "1232 In-State Natural Gas Pipeline Fund--Interagency"})
+	fund_translate.push({capital:"1233", operating: "1233 Municipal Bond Bank Bonds"})
+	fund_translate.push({capital:"1234", operating: "1234 Special License Plates Receipts"})
+	fund_translate.push({capital:"1235", operating: "1235 Alaska Liquefied Natural Gas Project Fund"})
+	fund_translate.push({capital:"1236", operating: "1236 Alaska Liquefied Natural Gas Project Fund I/A"})
+	fund_translate.push({capital:"1237", operating: "1237 Voc Rehab Small Business Enterprise Revolving Fund"})
+	fund_translate.push({capital:"1238", operating: "1238 Vaccine Assessment Account"})
+	fund_translate.push({capital:"1239", operating: "1239 Aviation Fuel Tax Account"})
+	fund_translate.push({capital:"1241", operating: "1241 General Fund / Liquified Natural Gas"})
+	fund_translate.push({capital:"1243", operating: "1243 Statutory Budget Reserve Fund"})
+	fund_translate.push({capital:"1244", operating: "1244 Rural Airport Receipts"})
+	fund_translate.push({capital:"1245", operating: "1245 Rural Airport Receipts I/A"})
+	fund_translate.push({capital:"1246", operating: "1246 Recidivism Reduction Fund"})
+	fund_translate.push({capital:"1247", operating: "1247 Medicaid Monetary Recoveries"})
+	fund_translate.push({capital:"1248", operating: "1248 Alaska Comprehensive Health Insurance Fund"})
+	fund_translate.push({capital:"1249", operating: "1249 Motor Fuel Tax Receipts"})
+	fund_translate.push({capital:"1250", operating: "1250 Maintenance and Capital Fund"})
+	fund_translate.push({capital:"1251", operating: "1251 Non-UGF (Fiscal Notes)"})
+	fund_translate.push({capital:"1252", operating: "1252 Designated General Fund Temp Code"})
+	fund_translate.push({capital:"1253", operating: "1253 Bonds subject to appropriation"})
+	fund_translate.push({capital:"1254", operating: "1254 Marijuana Education and Treatment Fund"})
+	fund_translate.push({capital:"1255", operating: "1255 Reappropriations"})
+	fund_translate.push({capital:"1256", operating: "1256 Education Endowment Fund"})
+	fund_translate.push({capital:"1257", operating: "1257 Dividend Raffle Fund"})
+	fund_translate.push({capital:"1258", operating: "1258 UGF Deposits to the CIF"})
+	fund_translate.push({capital:"1261", operating: "1261 Shared Taxes"})
+	fund_translate.push({capital:"1262", operating: "1262 Non-mandatory Royalty Deposits to the Permanent Fund"})
+	fund_translate.push({capital:"1264", operating: "1264 MET Alt"})
+	fund_translate.push({capital:"1265", operating: "1265 COVID-19 Federal"})
+	fund_translate.push({capital:"1266", operating: "1266 COVID UGF"})
+	fund_translate.push({capital:"1267", operating: "1267 FTA Coronavirus Response and Relief Appropriations Act"})
+	fund_translate.push({capital:"1268", operating: "1268 Mental Health Trust Reserve"})
+	fund_translate.push({capital:"1269", operating: "1269 Coronavirus State and Local Fiscal Recovery Fund"})
+	fund_translate.push({capital:"1270", operating: "1270 Federal Highway Administration CRRSAA Funding"})
+	fund_translate.push({capital:"1271", operating: "1271 ARPA Revenue Replacement"})
+	fund_translate.push({capital:"1272", operating: "1272 Revenue Designated for Fund Transfers"})
+	fund_translate.push({capital:"1273", operating: "1273 Abandoned Motor Vehicle Fund"})
+	fund_translate.push({capital:"1274", operating: "1274 Other Temp"})
+	fund_translate.push({capital:"1275", operating: "1275 Reappropriation - Temporary to Match Leg Fin"})
+	fund_translate.push({capital:"1999", operating: "1999 Other Fund Source"})
+	fund_translate.push({capital:"2000", operating: "2000 Bond Proceeds"})
+	fund_translate.push({capital:"2001", operating: "2001 Bond Proceeds Mental Health"})
+	fund_translate.push({capital:"9000", operating: "9000 Unknown UGF Fund Source"})
+	fund_translate.push({capital:"9001", operating: "9001 Unknown Federal Fund Source"})
+	fund_translate.push({capital:"9002", operating: "9002 Unknown Other Fund Source"})
+	fund_translate.push({capital:"9003", operating: "9003 Unknown DGF Fund Source"})
+	fund_translate.push({capital:"9999", operating: "9999 No specific fund source"})
+
+}
+;=======================================================================|
+Initialize_Categories()
+{
+	global
+	dgf_fund_codes := "
+	(
+		|1000|
+		|1005|
+		|1010|
+		|1015|
+		|1020|
+		|1021|
+		|1025|
+		|1028|
+		|1030|
+		|1031|
+		|1032|
+		|1035|
+		|1036|
+		|1038|
+		|1039|
+		|1040|
+		|1048|
+		|1049|
+		|1051|
+		|1052|
+		|1054|
+		|1056|
+		|1057|
+		|1058|
+		|1059|
+		|1062|
+		|1064|
+		|1065|
+		|1067|
+		|1068|
+		|1069|
+		|1070|
+		|1071|
+		|1072|
+		|1073|
+		|1074|
+		|1076|
+		|1078|
+		|1079|
+		|1080|
+		|1082|
+		|1083|
+		|1085|
+		|1086|
+		|1087|
+		|1088|
+		|1089|
+		|1090|
+		|1098|
+		|1099|
+		|1109|
+		|1110|
+		|1111|
+		|1115|
+		|1118|
+		|1122|
+		|1123|
+		|1124|
+		|1125|
+		|1127|
+		|1128|
+		|1131|
+		|1132|
+		|1134|
+		|1135|
+		|1141|
+		|1146|
+		|1151|
+		|1153|
+		|1154|
+		|1155|
+		|1156|
+		|1157|
+		|1161|
+		|1162|
+		|1164|
+		|1168|
+		|1169|
+		|1170|
+		|1172|
+		|1175|
+		|1176|
+		|1180|
+		|1184|
+		|1189|
+		|1191|
+		|1193|
+		|1194|
+		|1195|
+		|1197|
+		|1200|
+		|1201|
+		|1202|
+		|1203|
+		|1208|
+		|1209|
+		|1210|
+		|1216|
+		|1218|
+		|1221|
+		|1223|
+		|1224|
+		|1225|
+		|1226|
+		|1227|
+		|1234|
+		|1237|
+		|1246|
+		|1247|
+		|1248|
+		|1249|
+		|1252|
+		|1254|
+		|1261|
+		|1262|
+		|1264|
+		|1268|
+		|1272|
+		|1273|
+		|9003|
+	)"
+	federal_fund_codes := "
+	(
+		|1002|
+		|1013|
+		|1014|
+		|1016|
+		|1033|
+		|1043|
+		|1047|
+		|1063|
+		|1130|
+		|1133|
+		|1149|
+		|1160|
+		|1187|
+		|1188|
+		|1190|
+		|1212|
+		|1265|
+		|1267|
+		|1269|
+		|1270|
+		|9001|
+	)"
+	other_fund_codes := "
+	(
+		|-1|
+		|-2|
+		|1006|
+		|1007|
+		|1008|
+		|1009|
+		|1011|
+		|1017|
+		|1018|
+		|1019|
+		|1022|
+		|1023|
+		|1024|
+		|1026|
+		|1027|
+		|1029|
+		|1034|
+		|1042|
+		|1044|
+		|1045|
+		|1046|
+		|1050|
+		|1055|
+		|1060|
+		|1061|
+		|1066|
+		|1075|
+		|1077|
+		|1081|
+		|1084|
+		|1091|
+		|1092|
+		|1093|
+		|1094|
+		|1095|
+		|1097|
+		|1100|
+		|1101|
+		|1102|
+		|1103|
+		|1104|
+		|1105|
+		|1106|
+		|1107|
+		|1108|
+		|1112|
+		|1113|
+		|1114|
+		|1116|
+		|1117|
+		|1121|
+		|1126|
+		|1136|
+		|1137|
+		|1138|
+		|1142|
+		|1143|
+		|1144|
+		|1145|
+		|1147|
+		|1148|
+		|1152|
+		|1158|
+		|1159|
+		|1163|
+		|1165|
+		|1166|
+		|1167|
+		|1171|
+		|1174|
+		|1177|
+		|1179|
+		|1181|
+		|1182|
+		|1183|
+		|1185|
+		|1186|
+		|1192|
+		|1196|
+		|1198|
+		|1199|
+		|1205|
+		|1206|
+		|1207|
+		|1214|
+		|1215|
+		|1217|
+		|1219|
+		|1220|
+		|1222|
+		|1229|
+		|1230|
+		|1231|
+		|1232|
+		|1233|
+		|1235|
+		|1236|
+		|1238|
+		|1239|
+		|1244|
+		|1245|
+		|1251|
+		|1253|
+		|1255|
+		|1256|
+		|1257|
+		|1274|
+		|1275|
+		|1999|
+		|2000|
+		|2001|
+		|9002|
+		|9999|
+	)"
+	ugf_fund_codes := "
+	(
+		|1001|
+		|1003|
+		|1004|
+		|1012|
+		|1037|
+		|1041|
+		|1053|
+		|1096|
+		|1119|
+		|1120|
+		|1129|
+		|1139|
+		|1140|
+		|1150|
+		|1173|
+		|1178|
+		|1211|
+		|1213|
+		|1228|
+		|1241|
+		|1243|
+		|1250|
+		|1258|
+		|1266|
+		|1271|
+		|9000|
+	)"
 }

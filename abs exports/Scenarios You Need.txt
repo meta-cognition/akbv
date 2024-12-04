@@ -1,10 +1,2 @@
 Export Component Detail (1512)
-
-Export Project Summary (UGF/DGF/Other/Fed) (1328)
 Export Project Information (Appropriations with Allocations) (272)
-
-
-
-F-Y2024 GOV PROPOSED = 19867, 5006
-FY2023 GOV = 18673
-

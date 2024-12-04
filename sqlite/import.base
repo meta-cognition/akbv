@@ -24,7 +24,7 @@ INSERT INTO "BUDGETS" (
 						'%operating_scenario_1512%',
 						1512,
 						'operating',
-						'%budget_name%',
+						'%op_budget_name%',
 						'%date_created%'
 					);
 INSERT INTO "BUDGETS" (
@@ -40,7 +40,7 @@ INSERT INTO "BUDGETS" (
 						'%capital_scenario_272%',
 						272,
 						'capital',
-						'%budget_name%',
+						'%cap_budget_name%',
 						'%date_created%'
 					);
 					
@@ -99,15 +99,19 @@ UPDATE "%date_created%_%operating_scenario_1512%_1512" SET REPORT_LINE = 'Capita
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET REPORT_LINE = 'Line 7600' WHERE REPORT_LINE = 'Line 76000';
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET REPORT_LINE = 'Grants, Benefits' WHERE REPORT_LINE = 'Line 77000';
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET REPORT_LINE = 'Miscellaneous' WHERE REPORT_LINE = 'Line 78000';
+
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET REPORT_LINE = 'Permanent Part-Time' WHERE REPORT_LINE = 'PPT';
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET REPORT_LINE = 'Permanent Full-Time' WHERE REPORT_LINE = 'PFT';
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET REPORT_LINE = 'Non-Permanent' WHERE REPORT_LINE = 'NP';
+
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET FUND_GROUP = 'Designated General Funds' WHERE FUND_GROUP = 'DGF';
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET FUND_GROUP = 'Unrestricted General Funds' WHERE FUND_GROUP = 'UGF';
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET FUND_GROUP = 'Other Funds' WHERE FUND_GROUP = 'Other';
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET FUND_GROUP = 'Federal Funds' WHERE FUND_GROUP = 'Fed';
+
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET DEPT_NAME = 'Military & Veterans Affairs' WHERE DEPT_NAME = 'Military & Veterans'' Affairs';
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET DEPT_NAME = 'Fish & Game' WHERE DEPT_NAME = 'Fish and Game';
+
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET RDU_NAME = 'Highways, Aviation and Facilities' WHERE RDU_NAME = 'Highways, Aviation and Faciliti';
 UPDATE "%date_created%_%operating_scenario_1512%_1512" SET RDU_NAME = 'Design, Engineering and Construction' WHERE RDU_NAME = 'Design, Engineering and Constru';
 
@@ -124,6 +128,7 @@ UPDATE "%date_created%_%capital_scenario_272%_272" SET "dept_name" = 'Military &
 UPDATE "%date_created%_%capital_scenario_272%_272" SET "dept_name" = 'Natural Resources' WHERE "dept_name" = 'Department of Natural Resources';
 UPDATE "%date_created%_%capital_scenario_272%_272" SET "dept_name" = 'Revenue' WHERE "dept_name" = 'Department of Revenue';
 UPDATE "%date_created%_%capital_scenario_272%_272" SET "dept_name" = 'Transportation' WHERE "dept_name" = 'Department of Transportation/Public Facilities';
+UPDATE "%date_created%_%capital_scenario_272%_272" SET "dept_name" = 'Transportation' WHERE "dept_name" = 'Department of Transportation and Public Facilities';
 UPDATE "%date_created%_%capital_scenario_272%_272" SET "dept_name" = 'Public Safety' WHERE "dept_name" = 'Department of Public Safety';
 UPDATE "%date_created%_%capital_scenario_272%_272" SET "dept_name" = 'Fish & Game' WHERE "dept_name" = 'Department of Fish and Game';
 UPDATE "%date_created%_%capital_scenario_272%_272" SET "dept_name" = 'Corrections' WHERE "dept_name" = 'Department of Corrections';
