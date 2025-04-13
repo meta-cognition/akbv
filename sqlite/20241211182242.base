@@ -1,0 +1,138 @@
+-- this file imports data and creates tables.
+.mode tabs
+.open "budget.db" 
+
+CREATE TABLE IF NOT EXISTS "BUDGETS" (
+	DATECREATED TEXT,
+	ALIAS       TEXT,
+	TYPE        TEXT,
+	REPORT      TEXT,
+	SCENARIO    TEXT,
+	FISCALYEAR  TEXT
+);
+
+INSERT INTO "BUDGETS" (
+						FISCALYEAR,
+						SCENARIO,
+						REPORT,
+						TYPE,
+						ALIAS,
+						DATECREATED
+					)
+					VALUES (
+						2026,
+						'21873',
+						1512,
+						'operating',
+						'TEST',
+						'20241211182242'
+					);
+INSERT INTO "BUDGETS" (
+						FISCALYEAR,
+						SCENARIO,
+						REPORT,
+						TYPE,
+						ALIAS,
+						DATECREATED
+					)
+					VALUES (
+						2026,
+						'5469',
+						272,
+						'capital',
+						'FY2026 Governor',
+						'20241211182242'
+					);
+					
+					
+
+
+CREATE TABLE IF NOT EXISTS "20241211182242_21873_1512" (
+	REPORT_SORT          TEXT,
+	DEPT_NUM             TEXT,
+	DEPT_SORT            TEXT,
+	DEPT_NAME            TEXT,
+	RDU_NUM              TEXT,
+	RDU_SORT             TEXT,
+	RDU_NAME             TEXT,
+	COMP_NUM             TEXT,
+	COMP_SORT            TEXT,
+	COMP_NAME            TEXT,
+	REPORT_LINE          TEXT,
+	LINE_TYPE            TEXT,
+	FUND_CODE            TEXT,
+	FUND_GROUP           TEXT,
+	DUPLICATED_INDICATOR TEXT,
+	SCEN1_AMOUNT         NUMERIC,
+	SCEN2_AMOUNT         NUMERIC,
+	SCEN3_AMOUNT         NUMERIC,
+	SCEN4_AMOUNT         NUMERIC,
+	SCEN5_AMOUNT         NUMERIC,
+	SCEN6_AMOUNT         NUMERIC,
+	SCEN7_AMOUNT         NUMERIC,
+	SCEN8_AMOUNT         NUMERIC,
+	SCEN9_AMOUNT         NUMERIC,
+	SCEN10_AMOUNT        NUMERIC,
+	scenario_webfolder1  TEXT,
+	scenario_webfolder2  TEXT,
+	scenario_webfolder3  TEXT,
+	scenario_webfolder4  TEXT,
+	scenario_webfolder5  TEXT,
+	scenario_webfolder6  TEXT,
+	scenario_webfolder7  TEXT,
+	scenario_webfolder8  TEXT,
+	scenario_webfolder9  TEXT,
+	scenario_webfolder10 TEXT
+);
+
+-- DO IMPORTS
+.import --skip 2 'C:\Users\dompa\OneDrive\Documents\GitHub\akbv\abs exports\FY2025\FY2025 Authorized - scenario 21873 - report 1512.txt' "20241211182242_21873_1512"
+.import 'C:\Users\dompa\OneDrive\Documents\GitHub\akbv\abs exports\FY2026\Governor\Copy of 272 EXPORT DOTPF FY26 Capital.txt' "20241211182242_5469_272"
+
+-- CLEAN OPERATING
+
+UPDATE "20241211182242_21873_1512" SET REPORT_LINE = 'Personal Services' WHERE REPORT_LINE = 'Line 71000';
+UPDATE "20241211182242_21873_1512" SET REPORT_LINE = 'Travel' WHERE REPORT_LINE = 'Line 72000';
+UPDATE "20241211182242_21873_1512" SET REPORT_LINE = 'Contractual Services' WHERE REPORT_LINE = 'Line 73000';
+UPDATE "20241211182242_21873_1512" SET REPORT_LINE = 'Commodities' WHERE REPORT_LINE = 'Line 74000';
+UPDATE "20241211182242_21873_1512" SET REPORT_LINE = 'Capital Outlay' WHERE REPORT_LINE = 'Line 75000';
+UPDATE "20241211182242_21873_1512" SET REPORT_LINE = 'Line 7600' WHERE REPORT_LINE = 'Line 76000';
+UPDATE "20241211182242_21873_1512" SET REPORT_LINE = 'Grants, Benefits' WHERE REPORT_LINE = 'Line 77000';
+UPDATE "20241211182242_21873_1512" SET REPORT_LINE = 'Miscellaneous' WHERE REPORT_LINE = 'Line 78000';
+
+UPDATE "20241211182242_21873_1512" SET REPORT_LINE = 'Permanent Part-Time' WHERE REPORT_LINE = 'PPT';
+UPDATE "20241211182242_21873_1512" SET REPORT_LINE = 'Permanent Full-Time' WHERE REPORT_LINE = 'PFT';
+UPDATE "20241211182242_21873_1512" SET REPORT_LINE = 'Non-Permanent' WHERE REPORT_LINE = 'NP';
+
+UPDATE "20241211182242_21873_1512" SET FUND_GROUP = 'Designated General Funds' WHERE FUND_GROUP = 'DGF';
+UPDATE "20241211182242_21873_1512" SET FUND_GROUP = 'Unrestricted General Funds' WHERE FUND_GROUP = 'UGF';
+UPDATE "20241211182242_21873_1512" SET FUND_GROUP = 'Other Funds' WHERE FUND_GROUP = 'Other';
+UPDATE "20241211182242_21873_1512" SET FUND_GROUP = 'Federal Funds' WHERE FUND_GROUP = 'Fed';
+
+UPDATE "20241211182242_21873_1512" SET DEPT_NAME = 'Military & Veterans Affairs' WHERE DEPT_NAME = 'Military & Veterans'' Affairs';
+UPDATE "20241211182242_21873_1512" SET DEPT_NAME = 'Fish & Game' WHERE DEPT_NAME = 'Fish and Game';
+
+UPDATE "20241211182242_21873_1512" SET RDU_NAME = 'Highways, Aviation and Facilities' WHERE RDU_NAME = 'Highways, Aviation and Faciliti';
+UPDATE "20241211182242_21873_1512" SET RDU_NAME = 'Design, Engineering and Construction' WHERE RDU_NAME = 'Design, Engineering and Constru';
+
+-- CLEAN CAPITAL
+
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Administration' WHERE "dept_name" = 'Department of Administration';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Commerce' WHERE "dept_name" = 'Department of Commerce, Community, and Economic Development';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Environ Conservation' WHERE "dept_name" = 'Department of Environmental Conservation';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Governor' WHERE "dept_name" = 'Office of the Governor';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Health' WHERE "dept_name" = 'Department of Health';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Family & Community Services' WHERE "dept_name" = 'Department of Family and Community Services';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Labor & Workforce' WHERE "dept_name" = 'Department of Labor and Workforce Development';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Military & Veterans Affairs' WHERE "dept_name" = 'Department of Military and Veterans'' Affairs';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Natural Resources' WHERE "dept_name" = 'Department of Natural Resources';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Revenue' WHERE "dept_name" = 'Department of Revenue';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Transportation' WHERE "dept_name" = 'Department of Transportation/Public Facilities';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Transportation' WHERE "dept_name" = 'Department of Transportation and Public Facilities';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Public Safety' WHERE "dept_name" = 'Department of Public Safety';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Fish & Game' WHERE "dept_name" = 'Department of Fish and Game';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Corrections' WHERE "dept_name" = 'Department of Corrections';
+UPDATE "20241211182242_5469_272" SET "dept_name" = 'Educ & Early Devel' WHERE "dept_name" = 'Department of Education and Early Development';
+
+.quit
+
